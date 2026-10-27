@@ -1,0 +1,43 @@
+Siri voices (iOS 14.5)
+Company: Apple
+Category: TTS Voices
+Released: April 2021 (iOS 14.5)
+
+Overview:
+iOS 14.5 added two American English voices. The four US voices are labeled Voice 1 to Voice 4, and Siri no longer has a default voice: users choose one at setup.
+
+Specs:
+Maker: Apple
+First released: April 2021 (iOS 14.5)
+Synthesis type: Apple Neural TTS built from recorded voice talent
+Platforms: iOS 14.5 and later
+Default on or shipped with: None; chosen at setup
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: Siri deep-learning voices (iOS 11) (Apple, 2017 (iOS 11))
+Successors: Siri Voice 5 (Quinn) (Apple, February 2022 (iOS 15.4 beta))
+
+Ports:
+Not applicable (software)
+
+Operating System:
+iOS 14.5 and later
+Operating system history: Siri voices
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://arstechnica.com/gadgets/2021/04/apple-releases-ios-14-5-the-biggest-update-since-ios-14-first-launched/
+Source 2: https://9to5mac.com/2021/03/31/hands-on-ios-14-5-beta-6-changes-features-siri-battery-recalibration-tool-video/
+Source 3: https://www.macworld.com/article/331864/ios-14-5-features-airtags-siri-unlock-with-apple-watch-how-to-install.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

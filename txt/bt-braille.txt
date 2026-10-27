@@ -1,0 +1,42 @@
+BT Braille
+Company: Blazie Technologies
+Category: Notetakers
+Released: Demonstrated March 2026
+
+Overview:
+A braille-display companion to the BT Speak, demonstrated in March 2026. Specifications are not yet documented.
+
+Specs:
+Released: Demonstrated March 2026
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: BT Speak / BT Speak Pro (Blazie Technologies, 2024 to present)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://blazietech.com
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

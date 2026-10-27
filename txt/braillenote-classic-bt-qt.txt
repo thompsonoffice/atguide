@@ -1,0 +1,58 @@
+BrailleNote Classic (BT/QT)
+Company: Pulse Data International
+Category: Notetakers
+Released: April 2000 (shipping from June 2000)
+
+Overview:
+The first BrailleNote, a Windows CE-based notetaker running KeySoft, made by Pulse Data.
+
+Specs:
+Released: April 2000 (shipping from June 2000)
+Processor: MIPS R4000 at 100 MHz
+Memory (RAM): 4 MB, expandable to 16 MB (flash for OS and data, plus RAM)
+Storage: Not documented
+Operating system: Windows CE 2.12, later up to CE.NET 4.2, running KeySoft
+Default speech synthesizer: Keynote Gold (Pulse Data synthesizer)
+Battery: Rechargeable NiMH
+Display or braille cells: 18 or 32 cells with touch cursors
+Price at launch: BrailleNote 18: $3,395; BrailleNote 32: $4,995 (2000)
+Voices: Keynote Gold
+
+Physical Description:
+9.5 x 5 x 1 in. The 32-cell model weighs 2 lb 9 oz. Gray case with green keys; the 18- and 32-cell models share one case, and an 18-cell unit can be upgraded to 32 cells.
+
+Features:
+KeySoft suite: KeyWord, KeyPlan, KeyList, KeyMail
+Braille (BT) or QWERTY (QT) keyboard
+Touch cursors above each cell
+Four thumb keys
+Internal soft modem
+Speaker about 2 inches across
+Can work as a braille display and synthesizer with Window-Eyes
+ActiveSync with a PC
+English only at launch
+
+History:
+Released in April 2000 and shipping by June 2000 (AccessWorld review). It competed with the Braille Lite 2000 (18 cells, $3,395) and Braille Lite 40 2000 ($5,495). Sendero GPS launched on it in 2001. KeySoft 7.5 was its last software release; KeySoft 8.0 did not support it.
+Predecessors: Keynote talking word processor (Pulse Data International, 1986)
+Successors: BrailleNote PK (Pulse Data International, Announced July 2004); BrailleNote mPower BT (HumanWare, June 2005)
+
+Ports:
+PCMCIA slot, serial, parallel, modem, infrared, earphone jack, AC adapter
+
+Operating System:
+Windows CE 2.12, later up to CE.NET 4.2, running KeySoft
+Operating system history: KeySoft
+Operating system history: Windows CE / Windows Mobile (on notetakers and PDAs)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/BrailleNote
+Source 2: http://www.nfbnet.org/pipermail/nfbwatlknfbnet.org/2009-January/000811.html
+Source 3: http://nfbnet.org/pipermail/nabs-lnfbnet.org/2014-March/033135.html
+Source 4: https://afb.org/aw/1/6/16145
+Source 5: http://leb.net/blinux/list-archive/blinux-list/2000/msg00513.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

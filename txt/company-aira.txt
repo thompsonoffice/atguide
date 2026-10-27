@@ -1,0 +1,18 @@
+Aira
+Type: Company profile
+Founded: 2015
+Products listed: 1
+
+History:
+Founded by Suman Kanuganti and Yuja Chang. It offers live visual interpreting, first through smart glasses and then the Horizon glasses (2018).
+
+Products:
+Aira Horizon glasses (Vision Wearables, 2018)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://aira.io
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

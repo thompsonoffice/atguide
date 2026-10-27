@@ -1,0 +1,22 @@
+NuEyes
+Type: Company profile
+Founded: January 2016
+Products listed: 3
+
+History:
+You wrote this as New Eyes; the company is NuEyes. It makes head-worn low-vision magnifiers: the NuEyes Easy (2016, $5,995) and the Pro, Pro 3 and Pro 4 (up to 12x). It won a CES 2016 award. A veteran-owned company in Orange County, California.
+
+Products:
+NuEyes Easy (Vision Wearables, 2016)
+NuEyes Pro 3 (Vision Wearables, Announced December 15, 2020)
+NuEyes Pro (Pro, Pro 3, Pro 4) (Vision Wearables, Not documented)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://www.nueyes.com
+Source 2: https://www.nueyes.com/nueyes-technologies-joins-vr-ar-association
+Source 3: https://www.nueyes.com/nueyes-announces-new-pro-3-augmented-reality-smart-glass-solution
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

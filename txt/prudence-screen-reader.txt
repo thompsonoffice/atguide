@@ -1,0 +1,38 @@
+Prudence Screen Reader
+Company: Prudence Interactive
+Category: Screen Readers
+Released: Not documented (on Google Play)
+
+Overview:
+An Android screen reader with gestures, OCR, voice input and translation in over 40 languages.
+
+Specs:
+Developer: Prudence Interactive
+Release years: Not documented (on Google Play)
+Runs on: Android
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Android
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://play.google.com/store/apps/details?id=com.prudence.reader&hl=enUS
+Source 2: https://www.audiblegame.com/prudence-screen-reader
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,48 @@
+BrailleNote Touch
+Company: HumanWare
+Category: Notetakers
+Released: 2016
+
+Overview:
+The first Google-certified braille tablet with Play Store access, running KeySoft on Android.
+
+Specs:
+Released: 2016
+Processor: TI OMAP4460 dual-core Cortex-A9 at 1.2 GHz
+Memory (RAM): 2 GB
+Storage: 32 GB internal SD (spec page); SD card up to 32 GB
+Operating system: Android 4.4 with KeySoft
+Default speech synthesizer: Not documented
+Battery: 5,100 mAh, user-replaceable
+Display or braille cells: 18 or 32 cells
+Price at launch: Not documented
+
+Physical Description:
+24.4 x 16.2 x 2.06 cm, 900 g (2 lb).
+
+Features:
+7-inch 1024x600 touchscreen
+8 MP camera
+KNFB Reader included
+GPS, accelerometer, gyroscope, compass
+
+History:
+Not documented
+Predecessors: BrailleNote Apex BT32 (HumanWare, November 2009)
+Successors: BrailleNote Touch Plus (HumanWare, 2019)
+
+Ports:
+USB 2.0 host and client, HDMI output, headphone and mic jacks, Wi-Fi b/g/n, Bluetooth 4.0
+
+Operating System:
+Android 4.4 with KeySoft
+Operating system history: KeySoft
+Operating system history: Android (on blindness devices)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.humanware.com/microsite/bntouch/specs.php
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

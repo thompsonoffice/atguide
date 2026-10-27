@@ -1,0 +1,39 @@
+Microsoft Mark
+Company: Microsoft
+Category: TTS Voices
+Released: Windows 10 / 11 (year not documented)
+
+Overview:
+An additional US English male voice listed for Narrator in Windows 10 and 11.
+
+Specs:
+Maker: Microsoft
+First released: Windows 10 / 11 (year not documented)
+Synthesis type: Not documented
+Platforms: Windows 10 and 11
+Default on or shipped with: Not documented
+Price: Not documented
+Shipped with or used by: Microsoft Narrator
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows 10 and 11
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://support.microsoft.com/en-us/accessibility/windows/narrator/appendix-a-supported-languages-and-voices
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

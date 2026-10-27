@@ -1,0 +1,43 @@
+MacinTalk (original)
+Company: Apple
+Category: TTS Voices
+Released: 1984 (MacinTalk 1.1 May 1985)
+
+Overview:
+The Macintosh's original speech engine. The Mac used it to introduce itself in 1984 ('Hello. I'm Macintosh.').
+
+Specs:
+Maker: Apple
+First released: 1984 (MacinTalk 1.1 May 1985)
+Synthesis type: Rule-based, phonetic
+Platforms: Mac OS 1 to 6
+Default on or shipped with: Original Macintosh (1984)
+Price: Not documented
+Shipped with or used by: outSPOKEN for Macintosh
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Written by Joseph Katz and Mark Barton, who later founded SoftVoice. It had two voices. Apple released MacinTalk 1.1 to developers in May 1985; the Macintosh Repository lists version 1.0.2 dated April 15, 1985, running on Mac OS 1 through 6. Apple notes the original 1984 voice is no longer available.
+Successors: MacinTalk 2 (Apple, 1992 to 1994 (v1.2)); MacinTalk Pro (Apple, September 1993 (v1.0); v1.2 February 1994); MacinTalk 3 (Apple, 1994 to 1995 (v1.4 in 1995); standard until Mac OS X)
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Mac OS 1 to 6
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.wap.org/journal/lionspeak/
+Source 2: https://preserve.mactech.com/articles/mactech/Vol.01/01.12/Talking/index.html
+Source 3: https://macintoshrepository.org/2590-macintalk
+Source 4: https://github.com/tgeczy/outspoken-nvda
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

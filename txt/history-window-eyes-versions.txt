@@ -1,0 +1,84 @@
+Window-Eyes versions
+Company: GW Micro
+Category: Operating system or software version history
+Versions listed: 15
+
+Overview:
+Window-Eyes release history from GW Micro's archived version history.
+
+Version History:
+
+Version 1: 1.0
+Released: October 16, 1995
+Notes: First release.
+
+Version 2: 2.0
+Released: July 5, 1997
+Notes: Listed at $75 in GW Micro's history.
+
+Version 3: 3.0
+Released: January 11, 1999
+Notes: Not documented
+
+Version 4: 4.0
+Released: October 16, 2000
+Notes: Listed at $100.
+
+Version 5: 4.5
+Released: September 16, 2003
+Notes: Not documented
+
+Version 6: 5.0
+Released: January 19, 2005
+Notes: Not documented
+
+Version 7: 6.0
+Released: December 4, 2006
+Notes: Listed at $150.
+
+Version 8: 7.0
+Released: September 15, 2008
+Notes: Standard scripting added; listed at $175.
+
+Version 9: 7.5
+Released: March 16, 2011
+Notes: Not documented
+
+Version 10: 8.0
+Released: December 5, 2012
+Notes: Listed at $175.
+
+Version 11: Window-Eyes for Office
+Released: 2014
+Notes: Free for Microsoft Office users, after GW Micro merged with Ai Squared in 2014.
+
+Version 12: 9.0
+Released: January 12, 2015
+Notes: Owners of 9.0 or later were later offered a free JAWS 18 migration.
+
+Version 13: 9.4
+Released: March 8, 2016
+Notes: Supports Windows Vista, Server 2008, 7, 8 and 10.
+
+Version 14: 9.5.3
+Released: September 14, 2016
+Notes: Last version in GW Micro's history.
+
+Version 15: End of sales
+Released: By July 2017
+Notes: No longer sold or updated; still worked on Windows 7, 8.1 and 10.
+
+Devices and Software That Ran It:
+Window-Eyes (GW Micro, October 16, 1995 (1.0) to 9.5.3 (September 14, 2016))
+
+System Requirements:
+9.4: Windows Vista, Server 2008, 7, 8 or 10
+Last documented: Windows 7, 8.1 or 10
+
+Sources:
+Source 1: https://afb.org/aw/3/1/14962
+Source 2: https://afb.org/aw/18/6/15200
+Source 3: https://web.archive.org/web/2016/http://www.gwmicro.com/Window-Eyes/VersionHistory/
+Source 4: https://en.wikipedia.org/wiki/Window-Eyes
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

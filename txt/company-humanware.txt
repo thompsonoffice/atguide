@@ -1,0 +1,42 @@
+HumanWare
+Type: Company profile
+Founded: 2005 (as HumanWare Group)
+Products listed: 23
+
+History:
+Originally the US distributor for Pulse Data. Pulse Data bought it in 2001, and the 2005 merger with VisuAide created the HumanWare Group (Longueuil, Quebec, and Christchurch). Product lines: BrailleNote, Victor Reader, Brailliant, explorē and Connect magnifiers, the DeafBlind Communicator and, with APH, the Mantis, Chameleon and Monarch.
+
+Products:
+Brailliant 20 / 40 (Braille Displays, 2004)
+BrailleNote mPower BT (Notetakers, June 2005)
+BrailleNote mPower QT (Notetakers, 2005)
+VoiceNote mPower BT / QT (VoiceNotes, 2005)
+Victor Reader Stream (1st generation) (Book Readers, 2007 to 2014)
+ClassMate Reader (Book Readers, About 2008)
+DeafBlind Communicator (DBC) (Other, December 2008)
+Trekker Breeze (Other, 2008)
+BrailleNote Apex BT32 (Notetakers, November 2009)
+BrailleNote Apex BT18 (Notetakers, May 2010)
+VoiceNote Apex BT / QT (VoiceNotes, July 2010)
+Prodigi (Magnifiers, Announced 2013)
+Victor Reader Stream (2nd generation) (Book Readers, 2014)
+BrailleNote Touch (Notetakers, 2016)
+Connect 12 (Magnifiers, 2nd generation 2017; current tablet on Android 12)
+explorē 8 (Magnifiers, Announced August 2017)
+Victor Reader Trek (Book Readers, 2017)
+BrailleNote Touch Plus (Notetakers, 2019)
+Brailliant BI 40X (Braille Displays, Shipping since mid-February 2021)
+Victor Reader Stream (3rd generation) (Book Readers, 2023 to present)
+BrailleNote Evolve (Notetakers, Announced November 2025, launched 2026)
+HumanWare Companion (software) (Other, Current version 4.2.9)
+SmartView Graduate (Magnifiers, Not documented)
+
+Operating System and Software Histories:
+KeySoft
+Victor Reader Stream firmware
+
+Sources:
+Source 1: https://afb.org/aw/6/6/14572
+Source 2: https://store.humanware.com
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

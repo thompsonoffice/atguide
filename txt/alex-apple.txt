@@ -1,0 +1,42 @@
+Alex (Apple)
+Company: Apple
+Category: TTS Voices
+Released: Mac OS X 10.5 Leopard (October 2007) onward
+
+Overview:
+Apple's natural-sounding male voice with breath and pause modeling, beloved by VoiceOver users for fast listening.
+
+Specs:
+Maker: Apple
+First released: Mac OS X 10.5 Leopard (October 2007) onward
+Synthesis type: Not documented
+Platforms: Mac OS X 10.5 and later
+Default on or shipped with: Mac OS X system voice (Lion); VoiceOver on Mac
+Price: Not documented
+Shipped with or used by: Mac OS X Speech Synthesis (MacinTalk in OS X); VoiceOver (macOS)
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Introduced in Leopard as part of its updated accessibility features. Engadget compared it favorably with AT&T Natural Voices and Cepstral. It became the default system voice (Lion).
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Mac OS X 10.5 and later
+Operating system history: VoiceOver versions
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.engadget.com/2007-10-26-24-hours-of-leopard-alex-the-new-voice-of-mac-os-x.html
+Source 2: https://www.macworld.com/article/185797/voicemac.html
+Source 3: https://www.wap.org/journal/lionspeak/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

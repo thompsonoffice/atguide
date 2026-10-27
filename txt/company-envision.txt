@@ -1,0 +1,19 @@
+Envision
+Type: Company profile
+Founded: 2017 (secondary source)
+Products listed: 1
+
+History:
+A Dutch maker of the Envision app and the Envision Glasses, built on Google Glass Enterprise Edition 2 and launched in November 2020.
+
+Products:
+Envision Glasses (Vision Wearables, November 2020)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://support.letsenvision.com
+Source 2: https://economy.ac/wiki/company/envision
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

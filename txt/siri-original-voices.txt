@@ -1,0 +1,40 @@
+Siri original voices
+Company: Apple
+Category: TTS Voices
+Released: October 14, 2011 (iPhone 4S)
+
+Overview:
+Siri's first voices: Susan Bennett for US English (recorded in July 2005), Jon Briggs for UK English and Karen Jacobsen for Australian English.
+
+Specs:
+Maker: Apple
+First released: October 14, 2011 (iPhone 4S)
+Synthesis type: Not documented
+Platforms: iOS 5 and later (iPhone 4S)
+Default on or shipped with: Siri
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+A male voice option arrived in June 2013.
+Successors: Siri deep-learning voices (iOS 11) (Apple, 2017 (iOS 11))
+
+Ports:
+Not applicable (software)
+
+Operating System:
+iOS 5 and later (iPhone 4S)
+Operating system history: Siri voices
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/Siri
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

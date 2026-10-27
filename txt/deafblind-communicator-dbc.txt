@@ -1,0 +1,44 @@
+DeafBlind Communicator (DBC)
+Company: HumanWare
+Category: Other
+Released: December 2008
+
+Overview:
+A BrailleNote with special DB software plus a Bluetooth-linked DBC Companion phone, for face-to-face, TTY and text-message communication.
+
+Specs:
+Released: December 2008
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Windows CE with KeySoft (BrailleNote base)
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 18 or 32 cells
+Price at launch: $6,195 (18-cell) or $7,995 (32-cell)
+
+Physical Description:
+Not documented
+
+Features:
+Face-to-face mode with the Companion phone
+TTY with answering machine over a landline
+SMS and IM with a SIM card
+
+History:
+HumanWare began shipping it in December 2008, filling the gap left when the TeleBraille went out of production in 1993.
+
+Ports:
+Bluetooth link to the Companion phone; landline TTY connection
+
+Operating System:
+Windows CE with KeySoft (BrailleNote base)
+Operating system history: KeySoft
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: http://www.nfbnet.org/pipermail/nfbcsnfbnet.org/2008-December/000128.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

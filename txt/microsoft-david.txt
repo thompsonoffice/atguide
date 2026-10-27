@@ -1,0 +1,41 @@
+Microsoft David
+Company: Microsoft
+Category: TTS Voices
+Released: Windows 8 (2012) to present
+
+Overview:
+A US English male voice.
+
+Specs:
+Maker: Microsoft
+First released: Windows 8 (2012) to present
+Synthesis type: Not documented
+Platforms: Windows 8, 8.1, 10 and 11
+Default on or shipped with: Windows 8 and later (US English)
+Price: Not documented
+Shipped with or used by: Microsoft Narrator
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Introduced with Windows 8. It remains in Windows 10 and 11 and is listed as a Narrator voice.
+Predecessors: Microsoft Anna (Microsoft, Windows Vista (2007) and Windows 7)
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows 8, 8.1, 10 and 11
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://github.com/MicrosoftDocs/winrt-api/blob/docs/windows.media.speechsynthesis/voiceinformation.md
+Source 2: https://support.microsoft.com/en-us/accessibility/windows/narrator/appendix-a-supported-languages-and-voices
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,48 @@
+Victor Reader Stream (1st generation)
+Company: HumanWare
+Category: Book Readers
+Released: 2007 to 2014
+
+Overview:
+A handheld DAISY, MP3 and text player that became a standard portable for blind readers.
+
+Specs:
+Released: 2007 to 2014
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Nuance Vocalizer
+Battery: About 15 hours of playback
+Display or braille cells: Not documented
+Price at launch: Not documented
+Voices: Nuance Vocalizer / RealSpeak (engine)
+
+Physical Description:
+117 x 66 x 22 mm, 180 g.
+
+Features:
+DAISY and NLS books
+Text-to-speech for text files
+Voice recorder
+
+History:
+Firmware version 3 was shown at CSUN 2009.
+Predecessors: Victor Reader Classic (VisuAide, About 2002)
+Successors: Victor Reader Stream (2nd generation) (HumanWare, 2014)
+
+Ports:
+SD/SDHC, USB 2.0, headphone jack
+
+Operating System:
+Not documented
+Operating system history: Victor Reader Stream firmware
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.humanware.com/microsite/stream/index.html
+Source 2: http://nfbnet.org/pipermail/nfbcsnfbnet.org/2009-March/000628.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

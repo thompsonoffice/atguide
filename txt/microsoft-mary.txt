@@ -1,0 +1,38 @@
+Microsoft Mary
+Company: Microsoft
+Category: TTS Voices
+Released: Windows 2000 / XP era
+
+Overview:
+An optional female voice, downloadable for Windows 2000 and XP.
+
+Specs:
+Maker: Microsoft
+First released: Windows 2000 / XP era
+Synthesis type: Not documented
+Platforms: Windows (SAPI 4 and 5)
+Default on or shipped with: None (optional download)
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Distributed the same way as Microsoft Mike.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows (SAPI 4 and 5)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/Microsofttext-to-speechvoices
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

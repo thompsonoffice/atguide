@@ -1,0 +1,42 @@
+Narrator versions
+Company: Microsoft
+Category: Operating system or software version history
+Versions listed: 5
+
+Overview:
+Milestones in Microsoft Narrator.
+
+Version History:
+
+Version 1: Windows 2000
+Released: February 17, 2000
+Notes: Narrator debuts, speaking with Microsoft Sam.
+
+Version 2: Windows Vista / 7
+Released: 2007 / 2009
+Notes: Default voice Microsoft Anna.
+
+Version 3: Windows 8
+Released: 2012
+Notes: Voices David, Zira and Hazel.
+
+Version 4: Windows 10 Creators Update
+Released: 2017
+Notes: Toggle changed to Ctrl+Windows+Enter; significant enhancements.
+
+Version 5: Braille support
+Released: 2017
+Notes: Narrator braille.
+
+Devices and Software That Ran It:
+Microsoft Narrator (Microsoft, February 17, 2000 to present)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://abilitynet.org.uk/news-blogs/microsoft-narrator-turns-21-we-celebrate-coming-age
+Source 2: https://afb.org/aw/18/6/15200
+Source 3: https://en.wikipedia.org/wiki/Microsofttext-to-speechvoices
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

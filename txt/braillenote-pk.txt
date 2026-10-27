@@ -1,0 +1,47 @@
+BrailleNote PK
+Company: Pulse Data International
+Category: Notetakers
+Released: Announced July 2004
+
+Overview:
+A compact 18-cell BrailleNote based on BAUM's Pronto hardware.
+
+Specs:
+Released: Announced July 2004
+Processor: ARM (model not documented)
+Memory (RAM): 40 MB
+Storage: 16 MB flash
+Operating system: Windows CE with KeySoft
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 18 cells
+Price at launch: $4,995 (2005)
+
+Physical Description:
+About 7 x 4 x 2 in, about 1 lb.
+
+Features:
+Bluetooth
+CompactFlash (Wi-Fi through a CF card)
+Joystick navigation
+
+History:
+Not documented
+Predecessors: BrailleNote Classic (BT/QT) (Pulse Data International, April 2000 (shipping from June 2000))
+
+Ports:
+USB, Bluetooth, CompactFlash, serial; no modem, infrared or parallel port
+
+Operating System:
+Windows CE with KeySoft
+Operating system history: KeySoft
+Operating system history: Windows CE / Windows Mobile (on notetakers and PDAs)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/BrailleNote
+Source 2: https://afb.org/aw/6/1/14662
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

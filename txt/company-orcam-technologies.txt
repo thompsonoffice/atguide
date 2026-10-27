@@ -1,0 +1,21 @@
+OrCam Technologies
+Type: Company profile
+Founded: 2010 (Amnon Shashua and Ziv Aviram)
+Products listed: 3
+
+History:
+An Israeli maker of the MyEye wearable readers: MyEye 1 (2015), MyEye 2 (2017) and MyEye 3 Pro (2024).
+
+Products:
+OrCam MyEye (1st generation) (Vision Wearables, 2015)
+OrCam MyEye 2 (Vision Wearables, 2017)
+OrCam MyEye 3 Pro (Vision Wearables, 2024)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://www.orcam.com
+Source 2: https://en.wikipedia.org/wiki/OrCamdevice
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

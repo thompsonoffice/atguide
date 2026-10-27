@@ -1,0 +1,41 @@
+VoiceOver (macOS)
+Company: Apple
+Category: Screen Readers
+Released: Mac OS X 10.4 Tiger (2005) to present
+
+Overview:
+Apple's built-in Mac screen reader.
+
+Specs:
+Developer: Apple
+Release years: Mac OS X 10.4 Tiger (2005) to present
+Runs on: Mac OS X 10.4 and later
+Default speech: Not documented
+Price: Not documented
+Voices: Alex (Apple)
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+A preview called 'Spoken Interface Preview' appeared for Mac OS X 10.3 Panther. VoiceOver shipped in 10.4 Tiger in 2005, and the Alex voice arrived with 10.5 Leopard in 2007. Mac OS X 10.7 Lion added downloadable Nuance RealSpeak voices.
+Predecessors: outSPOKEN for Macintosh (Berkeley Systems, 1989)
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Mac OS X 10.4 and later
+Operating system history: VoiceOver versions
+
+System Requirements:
+Included with Mac OS X 10.4 and later
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/VoiceOver
+Source 2: https://www.engadget.com/2007-10-26-24-hours-of-leopard-alex-the-new-voice-of-mac-os-x.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

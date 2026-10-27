@@ -1,0 +1,26 @@
+American Printing House for the Blind (APH)
+Type: Company profile
+Founded: 1858
+Products listed: 8
+
+History:
+A Louisville, Kentucky nonprofit that publishes accessible materials and products. Its electronics include the Book Port, the Braille+ Mobile Manager (with LevelStar), the Refreshabraille 18 and the Orbit Reader 20. With HumanWare it makes the Mantis Q40, the Chameleon 20 and the Monarch.
+
+Products:
+Book Port (Book Readers, May 2003)
+APH Braille+ Mobile Manager (PDAs, May 2007 to 2012)
+Refreshabraille 18 (Braille Displays, 2010)
+Braille Plus 18 (PDAs, 2012 to February 2015 (discontinued))
+Chameleon 20 (Braille Displays, 2020)
+Mantis Q40 (Braille Displays, Shipping 2020)
+Monarch (Braille Displays, 2024)
+Book Port Plus (Book Readers, Not documented)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://www.aph.org
+Source 2: https://sites.aph.org/news/may-2007/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

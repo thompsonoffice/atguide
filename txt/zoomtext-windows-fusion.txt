@@ -1,0 +1,46 @@
+ZoomText (Windows) / Fusion
+Company: Freedom Scientific
+Category: Screen Readers
+Released: 1991 to present
+
+Overview:
+A screen magnifier with screen reading. Fusion bundles ZoomText with JAWS.
+
+Specs:
+Developer: Freedom Scientific
+Release years: 1991 to present
+Runs on: Windows 10 and 11 (64-bit); ARM64 on Windows 11
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+The Windows version arrived in 1991. ZoomText 10.1 got update 10.11.8 for the Windows 10 Creators Update (2017). Version 2025 (2025.2502.63) added ARM64. Versions 2025 or later are required for Windows 11 25H2.
+Predecessors: ZoomText for DOS (Ai Squared, 1988)
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows 10 and 11 (64-bit); ARM64 on Windows 11
+Operating system history: ZoomText versions
+
+System Requirements:
+64-bit Windows 11, 10 or Server 2016 to 2025; ARM64 on Windows 11 (ZoomText 2025.2502.63 or later)
+2 GHz i7 dual-core recommended
+16 GB RAM recommended
+DirectX 11 graphics
+2 GB disk; SSD recommended
+5-point multitouch display for touch support; USB 2.0 for ZoomText Camera
+
+Sources:
+Source 1: https://support.freedomscientific.com/content/documents/manuals/ZoomText/ZoomTextUserGuideEnglishUS.pdf
+Source 2: https://support.freedomscientific.com/downloads/arm64
+Source 3: https://afb.org/aw/18/6/15200
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

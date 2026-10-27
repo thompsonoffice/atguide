@@ -1,0 +1,41 @@
+Merlin elite Pro
+Company: Enhanced Vision
+Category: Magnifiers
+Released: Not documented
+
+Overview:
+Enhanced Vision's desktop magnifier.
+
+Specs:
+Released: Not documented
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 24-inch, up to 70x
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://vispero.com
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

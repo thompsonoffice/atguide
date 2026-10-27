@@ -1,0 +1,20 @@
+GW Micro
+Type: Company profile
+Founded: February 15, 1990
+Products listed: 2
+
+History:
+Founded in Fort Wayne, Indiana by Doug Geoffray and Dan Weirich. Products: the Vocal-Eyes DOS screen reader (1990), the Sounding Board speech card and Window-Eyes (1.0 in October 1995). It was the US distributor of HIMS BrailleSense products from about 2006 to late 2010. Merged with Ai Squared in May 2014. Window-Eyes development ended in 2017 under VFO.
+
+Products:
+Vocal-Eyes (Screen Readers, 1990)
+Window-Eyes (Screen Readers, October 16, 1995 (1.0) to 9.5.3 (September 14, 2016))
+
+Operating System and Software Histories:
+Window-Eyes versions
+
+Sources:
+Source 1: https://afb.org/aw/3/1/14962
+Source 2: https://afb.org/aw/18/6/15200
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

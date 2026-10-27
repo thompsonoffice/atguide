@@ -1,0 +1,40 @@
+System Access
+Company: Serotek (now Pneuma Solutions)
+Category: Screen Readers
+Released: December 2005
+
+Overview:
+Serotek's low-cost Windows screen reader, which grew out of FreedomBox. It supported Internet Explorer (including DHTML, Ajax and Flash), Outlook, Office, Skype and Adobe Reader.
+
+Specs:
+Developer: Serotek (now Pneuma Solutions)
+Release years: December 2005
+Runs on: Windows
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows
+Operating system history: System Access milestones
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://pneumasolutions.com/about/
+Source 2: https://afb.org/aw/7/3/14499
+Source 3: https://en.wikipedia.org/wiki/Listofscreenreaders
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

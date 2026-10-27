@@ -1,0 +1,26 @@
+Eloquent Technology, Inc. (ETI)
+Type: Company profile
+Founded: 1983
+Products listed: 9
+
+History:
+Founded in Ithaca, New York by Dr. Susan R. Hertz, who also taught linguistics at Cornell. It built the ETI-Eloquence formant synthesizer on her Delta system and was sold to SpeechWorks in January 2001.
+
+Products:
+ETI-Eloquence (engine) (TTS Voices, 1990s to present)
+Eloquence Bobby (TTS Voices, Not documented)
+Eloquence Glen (TTS Voices, Not documented)
+Eloquence Grandma (TTS Voices, Not documented)
+Eloquence Grandpa (TTS Voices, Not documented)
+Eloquence Reed (TTS Voices, Not documented)
+Eloquence Rocko (TTS Voices, Not documented)
+Eloquence Sandy (TTS Voices, Not documented)
+Eloquence Shelley (TTS Voices, Not documented)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://www.synfonicaspeech.com/about
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

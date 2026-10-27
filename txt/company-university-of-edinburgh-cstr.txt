@@ -1,0 +1,18 @@
+University of Edinburgh CSTR
+Type: Company profile
+Founded: 1980s
+Products listed: 1
+
+History:
+The Centre for Speech Technology Research built the Festival toolkit (first version 1996) and HTS. Spin-offs include Rhetorical Systems and CereProc.
+
+Products:
+Festival (TTS Voices, 1996 to present)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://ppls.ed.ac.uk/linguistics-and-english-language/research/impact/speech-synthesis-technology
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

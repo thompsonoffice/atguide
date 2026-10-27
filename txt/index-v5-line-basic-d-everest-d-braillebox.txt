@@ -1,0 +1,43 @@
+Index V5 line (Basic-D, Everest-D, BrailleBox)
+Company: Index Braille
+Category: Embossers
+Released: 2016 to present
+
+Overview:
+The current line, with Wi-Fi, Bluetooth, faster embossing, remote support and printing directly from a USB stick.
+
+Specs:
+Released: 2016 to present
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: Index V4 platform (Index Braille, 2011)
+
+Ports:
+Wi-Fi, Bluetooth, USB memory stick, network
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://indexbraille.com/about-us/
+Source 2: https://www.braillecast.com/podcast/e020/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

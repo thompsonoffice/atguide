@@ -1,0 +1,89 @@
+TalkBack and Android screen-reader milestones
+Company: Google
+Category: Operating system or software version history
+Versions listed: 16
+
+Overview:
+TalkBack and Android screen-reader milestones, from Google's 2009 announcement and Wikipedia's release table.
+
+Version History:
+
+Version 1: TalkBack, SoundBack and KickBack
+Released: October 20, 2009
+Notes: Released for Android 1.6 Donut's new accessibility API; trackball navigation; might need an Android Market install.
+
+Version 2: Android 4.0
+Released: October 2011
+Notes: TalkBack added to the system.
+
+Version 3: Android 4.1
+Released: 2012
+Notes: Single-finger gestures.
+
+Version 4: BrailleBack
+Released: 2012
+Notes: Braille display support.
+
+Version 5: 5.2
+Released: April 2017
+Notes: Verbosity settings; Select to Speak.
+
+Version 6: 6.1
+Released: Early 2018
+Notes: Language switching.
+
+Version 7: 6.2
+Released: June 2018
+Notes: Renamed Android Accessibility Suite.
+
+Version 8: 7.2
+Released: November 2018
+Notes: Not documented
+
+Version 9: 7.3
+Released: March 2019
+Notes: Screen search.
+
+Version 10: 8.2
+Released: April 2020
+Notes: Braille keyboard.
+
+Version 11: Android 11 / One UI 3.0
+Released: 2020
+Notes: Multi-finger gestures on Pixel and Samsung; Samsung Voice Assistant discontinued in favor of Samsung TalkBack.
+
+Version 12: 9.1
+Released: February 2021
+Notes: Multi-finger gestures and a new menu.
+
+Version 13: 12.1
+Released: September 2021
+Notes: Image text captions.
+
+Version 14: Android 12
+Released: 2021
+Notes: Multi-finger gestures on more devices.
+
+Version 15: Android 13
+Released: 2022
+Notes: Built-in braille display support in TalkBack.
+
+Version 16: 17.1
+Released: September 17, 2026
+Notes: Requires Android 9 or later.
+
+Devices and Software That Ran It:
+TalkBack (Google, October 2009 (Android 1.6 Donut) to present)
+Samsung Voice Assistant (Samsung, Until One UI 3.0 / Android 11 (start year not documented))
+
+System Requirements:
+TalkBack 17.1: Android 9 or later
+2009: Android 1.6
+
+Sources:
+Source 1: https://accessibleandroid.com/a-decade-with-android-highlighting-observations-and-shifts/
+Source 2: https://accessibleandroid.com/opinion-why-samsung-google-talkback-separation-is-nothing-but-a-headache/
+Source 3: https://opensource.googleblog.com/2009/10/talkback-open-source-screenreader-for.html
+Source 4: https://en.wikipedia.org/wiki/TalkBack
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,20 @@
+Optelec
+Type: Company profile
+Founded: 1975
+Products listed: 3
+
+History:
+A Dutch low-vision company founded by Frans Tieman. Products: ClearView desktop magnifiers, Compact handhelds and the Traveller HD. It merged with Freedom Scientific into VFO in 2015.
+
+Products:
+Optelec Compact+ (Magnifiers, 2007)
+Optelec ClearView C (Magnifiers, 2014)
+Optelec Traveller HD (Magnifiers, 2015)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/FreedomScientific
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

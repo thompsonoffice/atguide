@@ -1,0 +1,39 @@
+Votrax SC-01 phoneme voice
+Company: Votrax
+Category: TTS Voices
+Released: 1980s
+
+Overview:
+The phoneme-based voice of Votrax products and the voice of the first-generation Kurzweil Reading Machine.
+
+Specs:
+Maker: Votrax
+First released: 1980s
+Synthesis type: Phoneme-based (formant-style hardware)
+Platforms: Votrax hardware
+Default on or shipped with: Type 'N Talk, Personal Speech System, Kurzweil Reading Machine (1st generation)
+Price: Not documented
+Shipped with or used by: Votrax Type 'N Talk; Votrax Personal Speech System; Kurzweil Reading Machine
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Votrax (founded 1971, a Federal Screw Works division) produced phoneme synthesizers. The SC-01 chip was used in the Type 'N Talk (1980).
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Votrax hardware
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/Votrax
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

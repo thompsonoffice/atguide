@@ -1,0 +1,47 @@
+Book Port
+Company: American Printing House for the Blind (APH)
+Category: Book Readers
+Released: May 2003
+
+Overview:
+APH's handheld DAISY and text reader with 18 keys, running on 2 AA batteries.
+
+Specs:
+Released: May 2003
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: DoubleTalk
+Battery: 2 AA batteries
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+4 x 2.25 x 1 in, 6 oz with batteries. An 18-key keypad: a telephone keypad with a nib on 5, plus keys A to F. Headphone jack and USB port on top, card slot on the right, battery compartment and belt clip on the back.
+
+Features:
+DAISY, text, Word, HTML, BRF and MP3
+DoubleTalk synthesizer
+Voice memo recorder
+Remembers the reading position
+
+History:
+Debuted in May 2003. Firmware 1.2 shipped in September 2004 (APH revision history).
+Successors: Book Port Plus (American Printing House for the Blind (APH), Not documented)
+
+Ports:
+USB, headphone jack, flash memory card slot
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/4/4/14825
+Source 2: https://www.afb.org/aw/5/4/14712
+Source 3: https://tech.aph.org/bpnew.htm
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

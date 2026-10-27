@@ -1,0 +1,42 @@
+Mobile Speak
+Company: Code Factory
+Category: Screen Readers
+Released: 2004 (Symbian); 2005 (Pocket PC); 2006 (Smartphone)
+
+Overview:
+The first screen reader to support both Symbian and Windows Mobile. It handled calls, SMS, email, web browsing and more.
+
+Specs:
+Developer: Code Factory
+Release years: 2004 (Symbian); 2005 (Pocket PC); 2006 (Smartphone)
+Runs on: Symbian S60, Windows Mobile
+Default speech: Fonix DECtalk (among others)
+Price: Not documented
+Voices: DECtalk Perfect Paul
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Launched for Symbian in 20 countries in 2004. Code Factory called the 2005 Pocket PC version the first touch-based screen reader, and Smartphone support followed in 2006. AFB tested version 2.8 in 2006 and Mobile Speak Smartphone 1.2. It used Fonix DECtalk. It became obsolete as Symbian ended.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Symbian S60, Windows Mobile
+Operating system history: Mobile Speak versions
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://codefactoryglobal.com/company/
+Source 2: https://codefactory.es/descargas/family4/ms58userguidesymbian.html
+Source 3: https://afb.org/aw/8/1/14407
+Source 4: https://afb.org/aw/8/4/14343
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

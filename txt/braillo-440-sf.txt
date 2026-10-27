@@ -1,0 +1,42 @@
+Braillo 440 SF
+Company: Braillo
+Category: Embossers
+Released: Not documented
+
+Overview:
+Braillo calls it the first fully automated braille book production system. It followed the 400 S, 400 SR and 440 SW.
+
+Specs:
+Released: Not documented
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+After American Thermoform's 2016 acquisition, the S2 line (300 S2 to 650 SF2) raised speeds by about 50 percent.
+Predecessors: Braillo 270 (Braillo, January 1980)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://braillo.com/about-us/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

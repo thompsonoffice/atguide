@@ -1,0 +1,44 @@
+Siri voices
+Company: Apple
+Category: Operating system or software version history
+Versions listed: 5
+
+Overview:
+Siri voice changes since 2011.
+
+Version History:
+
+Version 1: Original voices
+Released: October 14, 2011
+Notes: Susan Bennett (US), Jon Briggs (UK), Karen Jacobsen (Australia).
+
+Version 2: Male voice option
+Released: June 2013
+Notes: Not documented
+
+Version 3: iOS 11
+Released: 2017
+Notes: Deep-learning voices.
+
+Version 4: iOS 14.5
+Released: April 2021
+Notes: Two new American English voices; no default voice.
+
+Version 5: iOS 15.4 beta
+Released: February 2022
+Notes: Gender-neutral voice (Quinn).
+
+Devices and Software That Ran It:
+Siri original voices (Apple, October 14, 2011 (iPhone 4S))
+Siri deep-learning voices (iOS 11) (Apple, 2017 (iOS 11))
+Siri voices (iOS 14.5) (Apple, April 2021 (iOS 14.5))
+Siri Voice 5 (Quinn) (Apple, February 2022 (iOS 15.4 beta))
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/Siri
+Source 2: https://arstechnica.com/gadgets/2021/04/apple-releases-ios-14-5-the-biggest-update-since-ios-14-first-launched/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,85 @@
+KeySoft
+Company: HumanWare
+Category: Operating system or software version history
+Versions listed: 11
+
+Overview:
+The BrailleNote software suite (word processor, book reader, email, web, planner) from Pulse Data and HumanWare. It ran on Windows CE from 2000, moved to Android on the BrailleNote Touch (2016), and to Windows 11 on the BrailleNote Evolve (2026). KeySoft applications also run on the Monarch.
+
+Version History:
+
+Version 1: 6.2
+Released: 2005
+Notes: Shipping version on the BrailleNote mPower at launch.
+
+Version 2: 7.5
+Released: By 2008
+Notes: Last release for BrailleNote and VoiceNote Classic. Build 29 (May 2008) added 802.11g Wi-Fi card support (Ambicom WL54G, USR5421), fixed appointment scheduling, fixed USB and CD-ROM devices being identified as printers, and fixed spell-check word retention.
+
+Version 3: 8.0
+Released: Announced January 2009; released July 2009
+Notes: For mPower and PK only, not Classic. Added real-time communication features, a richer book-reading experience and a 90-day Sendero GPS trial. Required one SMA count; free for units bought after January 1, 2009. mPower releases stopped at 8.1.
+
+Version 4: 9.1
+Released: Not documented
+Notes: For the Apex. Enhanced tables and formatting support.
+
+Version 5: 9.3
+Released: Previewed March 31, 2012
+Notes: For the Apex. Bluetooth file transfer, opening Word 2007/2010 and OpenOffice documents, saving to online services such as Google Docs, and third-party development tools with a BrailleNote simulator.
+
+Version 6: 9.4.1
+Released: 2014
+Notes: For the Apex. Added KeyMaps, a free virtual navigation and map-exploration tool.
+
+Version 7: KeySoft for Android
+Released: 2016
+Notes: On BrailleNote Touch (Android 4.4).
+
+Version 8: Touch Plus (Android 8.1)
+Released: February 2019
+Notes: BrailleNote Touch Plus ships with Android 8.1.
+
+Version 9: KeySoft Lite
+Released: February 2021
+Notes: On the Brailliant BI 20X and BI 40X displays.
+
+Version 10: Touch Plus update
+Released: September 2025
+Notes: KeyMath renamed KeyGraph; KeyRecorder added (user reports). Still Android 8.1.
+
+Version 11: KeySoft on Windows 11
+Released: 2026
+Notes: On BrailleNote Evolve, alongside a customized NVDA.
+
+Devices and Software That Ran It:
+BrailleNote Classic (BT/QT) (Pulse Data International, April 2000 (shipping from June 2000))
+BrailleNote PK (Pulse Data International, Announced July 2004)
+BrailleNote mPower BT (HumanWare, June 2005)
+BrailleNote mPower QT (HumanWare, 2005)
+VoiceNote BT / QT (Classic) (Pulse Data International, Introduced at Closing the Gap 2000; replaced in 2005)
+VoiceNote mPower BT / QT (HumanWare, 2005)
+VoiceNote Apex BT / QT (HumanWare, July 2010)
+BrailleNote Apex BT32 (HumanWare, November 2009)
+BrailleNote Apex BT18 (HumanWare, May 2010)
+BrailleNote Touch (HumanWare, 2016)
+BrailleNote Touch Plus (HumanWare, 2019)
+BrailleNote Evolve (HumanWare, Announced November 2025, launched 2026)
+DeafBlind Communicator (DBC) (HumanWare, December 2008)
+Monarch (American Printing House for the Blind (APH), 2024)
+Brailliant BI 40X (HumanWare, Shipping since mid-February 2021)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: http://therangerstation.blogspot.com/2008/05/press-release-humanware-releases.html
+Source 2: http://www.nfbnet.org/pipermail/nfbwatlknfbnet.org/2009-January/000811.html
+Source 3: http://www.nfbnet.org/pipermail/nfbcsnfbnet.org/2009-July/001125.html
+Source 4: https://www.mail-archive.com/braillenote@list.humanware.com/msg78489.html
+Source 5: http://nfbnet.org/pipermail/nabs-lnfbnet.org/2014-March/033135.html
+Source 6: https://www.perkins.org/resource/braillenote-touch-plus-update/
+Source 7: http://kentucky-acb.org/pipermail/scholarship-commkentucky-acb.org/attachments/20210506/d8ae4b7e/attachment-0003.pdf
+Source 8: https://www.applevis.com/forum/assistive-technology/braille-note-touch-plus-finally-get-update-after-three-whole-years-what
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

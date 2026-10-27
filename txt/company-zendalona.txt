@@ -1,0 +1,18 @@
+Zendalona
+Type: Company profile
+Founded: Not documented
+Products listed: 1
+
+History:
+A community project that develops Accessible-Coconut, an Ubuntu MATE-based distribution for blind users.
+
+Products:
+Accessible-Coconut (Accessible Linux, Releases through 22.04.04 (ISO July 2025) and 24.04.01)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://github.com/zendalona/accessible-coconut
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

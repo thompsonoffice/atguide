@@ -1,0 +1,20 @@
+Artic Technologies
+Type: Company profile
+Founded: 1984
+Products listed: 3
+
+History:
+A US maker of the SynPhonix speech cards (1985 and 1987), the TransPort synthesizer and the Business Vision DOS screen reader.
+
+Products:
+SynPhonix 200 (Speech Synthesizers, 1985)
+SynPhonix 215 (Speech Synthesizers, 1987)
+Artic TransPort (Speech Synthesizers, Not documented)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

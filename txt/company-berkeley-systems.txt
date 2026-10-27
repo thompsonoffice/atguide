@@ -1,0 +1,19 @@
+Berkeley Systems
+Type: Company profile
+Founded: Not documented
+Products listed: 2
+
+History:
+Maker of outSPOKEN, among the first GUI screen readers: Macintosh in 1989, Windows 3.1 in 1994.
+
+Products:
+outSPOKEN for Macintosh (Screen Readers, 1989)
+outSPOKEN for Windows (Screen Readers, 1994)
+
+Operating System and Software Histories:
+outSPOKEN versions
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/OutSPOKEN
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,44 @@
+BT Speak / BT Speak Pro
+Company: Blazie Technologies
+Category: Notetakers
+Released: 2024 to present
+
+Overview:
+Deane Blazie's modern speech-only braille-keyboard notetaker, built on a Raspberry Pi compute module.
+
+Specs:
+Released: 2024 to present
+Processor: Raspberry Pi CM4, Broadcom BCM2711 at 1.5 GHz (Pro)
+Memory (RAM): 8 GB (Pro)
+Storage: 32 GB (Pro)
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: 8,200 mAh, about 10 hours
+Display or braille cells: Not documented
+Price at launch: $795 (BT Speak), $1,195 (Pro)
+
+Physical Description:
+Pro: 6.1 x 2.8 x 0.75 in, 240.9 g, 9-key Perkins-style keyboard.
+
+Features:
+Perkins-style braille keyboard
+Speech output
+Wi-Fi and Bluetooth 5.0
+
+History:
+Blazie Technologies released it in 2024 as a spiritual successor to the Braille 'n Speak.
+Predecessors: Braille 'n Speak (original) (Blazie Engineering, 1987 to 1990s)
+
+Ports:
+USB-C, mini-HDMI, Wi-Fi, Bluetooth 5.0
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://blazietech.com/btspeak-hardware
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

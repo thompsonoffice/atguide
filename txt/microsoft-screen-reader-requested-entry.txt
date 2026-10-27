@@ -1,0 +1,38 @@
+Microsoft Screen Reader (requested entry)
+Company: Microsoft
+Category: Screen Readers
+Released: Not documented
+
+Overview:
+You asked for this as Narrator's Windows 2000-era predecessor, but no source found during research documents a separate Microsoft product by this name. Narrator itself first shipped in Windows 2000.
+
+Specs:
+Developer: Microsoft
+Release years: Not documented
+Runs on: Not documented
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Not documented
+Successors: Microsoft Narrator (Microsoft, February 17, 2000 to present)
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://abilitynet.org.uk/news-blogs/microsoft-narrator-turns-21-we-celebrate-coming-age
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

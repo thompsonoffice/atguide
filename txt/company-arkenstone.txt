@@ -1,0 +1,18 @@
+Arkenstone
+Type: Company profile
+Founded: 1989
+Products listed: 1
+
+History:
+Founded in 1989 by Jim Fruchterman to build affordable reading machines, including OpenBook. Its reading-machine line merged into Freedom Scientific in 2000.
+
+Products:
+OpenBook (Other, Not documented)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/FreedomScientific
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

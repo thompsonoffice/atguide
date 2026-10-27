@@ -1,0 +1,43 @@
+Trekker Breeze
+Company: HumanWare
+Category: Other
+Released: 2008
+
+Overview:
+A handheld, all-in-one talking GPS.
+
+Specs:
+Released: 2008
+Processor: SiRF III GPS
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: About 8 hours
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+129 x 60 x 29 mm, 200 g.
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: Trekker (VisuAide, 2003)
+Successors: Victor Reader Trek (HumanWare, 2017)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/6/6/14572
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

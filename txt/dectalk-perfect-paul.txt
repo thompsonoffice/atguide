@@ -1,0 +1,41 @@
+DECtalk Perfect Paul
+Company: Digital Equipment Corporation (DEC)
+Category: TTS Voices
+Released: 1984 to present (via DECtalk software)
+
+Overview:
+The standard male DECtalk voice and the factory default.
+
+Specs:
+Maker: Digital Equipment Corporation (DEC)
+First released: 1984 to present (via DECtalk software)
+Synthesis type: Formant (Klatt synthesis by rule)
+Platforms: DECtalk hardware (DTC01, Express), DECtalk Software for Windows NT and others
+Default on or shipped with: DECtalk DTC01 (factory default)
+Price: Not documented
+Shipped with or used by: DECtalk DTC01; Mobile Speak; Emacspeak
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Created from Dennis Klatt's MITalk/Klattalk formant synthesis-by-rule research and commercialized by DEC in 1984. Voices are selected with [:np]. DECtalk passed to Fonix, and Fonix DECtalk was used by Code Factory's Mobile Speak.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+DECtalk hardware (DTC01, Express), DECtalk Software for Windows NT and others
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/DECtalk
+Source 2: https://dectalk.nu/Artists/Jayson%20Smith/Text/sample.txt
+Source 3: https://afb.org/aw/8/1/14407
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

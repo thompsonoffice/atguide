@@ -1,0 +1,38 @@
+Vocal-Eyes
+Company: GW Micro
+Category: Screen Readers
+Released: 1990
+
+Overview:
+GW Micro's DOS screen reader, finished and released shortly after the company's founding.
+
+Specs:
+Developer: GW Micro
+Release years: 1990
+Runs on: MS-DOS
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Not documented
+Successors: Window-Eyes (GW Micro, October 16, 1995 (1.0) to 9.5.3 (September 14, 2016))
+
+Ports:
+Not applicable (software)
+
+Operating System:
+MS-DOS
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/3/1/14962
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

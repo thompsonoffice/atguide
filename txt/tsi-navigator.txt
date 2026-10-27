@@ -1,0 +1,42 @@
+TSI Navigator
+Company: Telesensory Systems (TSI)
+Category: Braille Displays
+Released: 1989
+
+Overview:
+Braille displays for PCs. In 1996 BRLTTY developers reverse-engineered its protocol in one day to write the third BRLTTY driver.
+
+Specs:
+Released: 1989
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 20, 40 or 80 cells
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/6/4/14611
+Source 2: https://brltty.app/pipermail/brltty/2015-December/013007.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

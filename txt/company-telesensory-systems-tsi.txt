@@ -1,0 +1,24 @@
+Telesensory Systems (TSI)
+Type: Company profile
+Founded: 1970
+Products listed: 7
+
+History:
+Founded in Mountain View, California. It made the Optacon (1971), the Speech+ talking calculator (1976), the VersaBraille (1979) and the Navigator braille displays (1989). It bought Apollo (1984) and Visualtek (1989) and closed in March 2005.
+
+Products:
+Optacon (Other, 1971 to 1996)
+Speech+ talking calculator (Other, 1976)
+VersaBraille (Notetakers, December 1979)
+Optacon II (Other, 1985)
+VersaBraille II+ (Notetakers, 1987)
+TSI Navigator (Braille Displays, 1989)
+Soft Vert (Screen Readers, Not documented)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/6/4/14611
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

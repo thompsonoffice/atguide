@@ -1,0 +1,25 @@
+Pulse Data International
+Type: Company profile
+Founded: 1988
+Products listed: 7
+
+History:
+Roots in the Wormald Sensory Aids Division led by Russell Smith: the Viewscan video magnifier (1980), the Viewscan Text System (1983) and the Keynote talking word processor (1986). Pulse Data was formed in Christchurch, New Zealand by a management buyout in 1988. It built the BrailleNote (2000) and Keynote Gold synthesizer, bought its US distributor HumanWare in 2001, and merged with VisuAide in January 2005 to form the HumanWare Group.
+
+Products:
+Viewscan (Magnifiers, 1980)
+Viewscan Text System (Magnifiers, 1983)
+Keynote talking word processor (Notetakers, 1986)
+BrailleNote Classic (BT/QT) (Notetakers, April 2000 (shipping from June 2000))
+VoiceNote BT / QT (Classic) (VoiceNotes, Introduced at Closing the Gap 2000; replaced in 2005)
+Keynote Gold (Speech Synthesizers, In production by 2001)
+BrailleNote PK (Notetakers, Announced July 2004)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/6/6/14572
+Source 2: https://en.wikipedia.org/wiki/BrailleNote
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,41 @@
+Siri deep-learning voices (iOS 11)
+Company: Apple
+Category: TTS Voices
+Released: 2017 (iOS 11)
+
+Overview:
+iOS 11 gave Siri new voices produced with deep learning.
+
+Specs:
+Maker: Apple
+First released: 2017 (iOS 11)
+Synthesis type: Deep learning
+Platforms: iOS 11 and later
+Default on or shipped with: Siri
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: Siri original voices (Apple, October 14, 2011 (iPhone 4S))
+Successors: Siri voices (iOS 14.5) (Apple, April 2021 (iOS 14.5))
+
+Ports:
+Not applicable (software)
+
+Operating System:
+iOS 11 and later
+Operating system history: Siri voices
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/Siri
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

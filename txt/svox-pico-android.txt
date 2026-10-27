@@ -1,0 +1,40 @@
+SVOX Pico (Android)
+Company: SVOX
+Category: TTS Voices
+Released: September 2009 (Android 1.6 Donut)
+
+Overview:
+The SVOX Pico engine, Android's first built-in text-to-speech.
+
+Specs:
+Maker: SVOX
+First released: September 2009 (Android 1.6 Donut)
+Synthesis type: Not documented
+Platforms: Android 1.6 and later
+Default on or shipped with: Android's built-in engine from 1.6
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Shipped with Android 1.6 Donut and spoke US and UK English, French, German, Italian and Spanish.
+Successors: Google Text-to-Speech (Speech Services by Google) (Google, October 2013 on Google Play (reported November 6, 2013))
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Android 1.6 and later
+Operating system history: Google speech engines on Android
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://android-developers.googleblog.com/2009/09/introduction-to-text-to-speech-in.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

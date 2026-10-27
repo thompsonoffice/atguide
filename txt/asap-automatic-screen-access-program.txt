@@ -1,0 +1,38 @@
+ASAP (Automatic Screen Access Program)
+Company: MicroTalk
+Category: Screen Readers
+Released: DOS era; latest found version January 2002
+
+Overview:
+MicroTalk's DOS screen reader. A Windows counterpart, ASAW, also existed.
+
+Specs:
+Developer: MicroTalk
+Release years: DOS era; latest found version January 2002
+Runs on: MS-DOS
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not applicable (software)
+
+Operating System:
+MS-DOS
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://allinaccess.com/happ/
+Source 2: https://en.wikipedia.org/wiki/Listofscreenreaders
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

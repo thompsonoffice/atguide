@@ -1,0 +1,44 @@
+BrailleNote mPower QT
+Company: HumanWare
+Category: Notetakers
+Released: 2005
+
+Overview:
+The QWERTY-keyboard version of the mPower, with the same internals.
+
+Specs:
+Released: 2005
+Processor: Intel XScale 416 MHz
+Memory (RAM): Not documented
+Storage: 128 MB flash
+Operating system: Windows CE with KeySoft
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: BrailleNote Classic (BT/QT) (Pulse Data International, April 2000 (shipping from June 2000))
+Successors: BrailleNote Apex BT32 (HumanWare, November 2009)
+
+Ports:
+Not documented
+
+Operating System:
+Windows CE with KeySoft
+Operating system history: KeySoft
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/7/1/14531
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

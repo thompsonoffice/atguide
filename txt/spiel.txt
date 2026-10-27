@@ -1,0 +1,38 @@
+Spiel
+Company: Nolan Darilek
+Category: Screen Readers
+Released: 2010 to about 2013
+
+Overview:
+An open-source, scriptable, English-only Android screen reader.
+
+Specs:
+Developer: Nolan Darilek
+Release years: 2010 to about 2013
+Runs on: Android (early versions)
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Released on the Android Market in 2010 and updated through 2013. It no longer works on current Android.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Android (early versions)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://accessibleandroid.com/history-of-android-8-a-brief-overview-of-spiel-screen-reader/
+Source 2: https://blindbargains.com/bargains.php?m=5654
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

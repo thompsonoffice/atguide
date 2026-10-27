@@ -1,0 +1,44 @@
+BrailleSense OnHand
+Company: HIMS / Selvas BLV
+Category: BrailleSense
+Released: 2010
+
+Overview:
+A compact 18-cell BrailleSense. GW Micro showed a prototype at the 2010 conventions.
+
+Specs:
+Released: 2010
+Processor: Intel PXA270
+Memory (RAM): 128 MB
+Storage: 4 GB flash
+Operating system: Windows CE 5.0
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 18 cells
+Price at launch: Not documented
+
+Physical Description:
+4 x 7 x 1.5 in.
+
+Features:
+Not documented
+
+History:
+Not documented
+Successors: BrailleSense U2 Mini (HIMS / Selvas BLV, 2013)
+
+Ports:
+WLAN b/g, Bluetooth, USB OTG, SD
+
+Operating System:
+Windows CE 5.0
+Operating system history: Windows CE / Windows Mobile (on notetakers and PDAs)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/11/4/16038
+Source 2: https://www.himsintl.com/en/company/prdhistory.php
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

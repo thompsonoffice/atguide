@@ -1,0 +1,20 @@
+Blazie Technologies
+Type: Company profile
+Founded: Not documented
+Products listed: 2
+
+History:
+A newer company from Deane Blazie. It released the BT Speak ($795) and BT Speak Pro ($1,195) in 2024 and demonstrated a BT Braille in March 2026.
+
+Products:
+BT Speak / BT Speak Pro (Notetakers, 2024 to present)
+BT Braille (Notetakers, Demonstrated March 2026)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://blazietech.com/btspeak-hardware
+Source 2: https://blazietech.com
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

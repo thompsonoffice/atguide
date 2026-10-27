@@ -1,0 +1,46 @@
+Victor Reader Stream firmware
+Company: HumanWare
+Category: Operating system or software version history
+Versions listed: 5
+
+Overview:
+Firmware for HumanWare's Stream players. Stream 3 updates install over Wi-Fi or from an SD card.
+
+Version History:
+
+Version 1: Stream (1st generation) version 3
+Released: 2009
+Notes: Shown at CSUN 2009.
+
+Version 2: Stream 3 v1.4
+Released: October 2024
+Notes: User guide revision.
+
+Version 3: Stream 3 v1.5
+Released: June 11, 2025
+Notes: Rename notes on the device, bookmark alerts restored, Bookshare API 2.0, switching between text and audio in dual-format books, moving all podcasts to SD, and many bug fixes.
+
+Version 4: Stream 3 v1.6
+Released: February 2026
+Notes: Experimental eBraille support (back-translated and read aloud).
+
+Version 5: Stream 3 v1.7
+Released: September 23, 2026
+Notes: eSpeak NG alongside Acapela (up to 4 voices), NLS BARD 2, skippable DAISY 2 elements, larger text files, looping and play-all highlight bookmarks, bookshelf search, and Bluetooth device battery reporting.
+
+Devices and Software That Ran It:
+Victor Reader Stream (1st generation) (HumanWare, 2007 to 2014)
+Victor Reader Stream (2nd generation) (HumanWare, 2014)
+Victor Reader Stream (3rd generation) (HumanWare, 2023 to present)
+Victor Reader Trek (HumanWare, 2017)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: http://nfbnet.org/pipermail/nfbcsnfbnet.org/2009-March/000628.html
+Source 2: https://www.humanware.com/news/stream-3-evolves/
+Source 3: https://www.braillists.org/uncategorised/the-victor-reader-stream-3-now-supports-ebraille/
+Source 4: https://milled.com/humanware-uk/stream-3-version-1-7-new-voices-new-languages-Kt8Q3AENeTWOm1mU
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

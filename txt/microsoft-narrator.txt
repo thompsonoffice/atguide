@@ -1,0 +1,41 @@
+Microsoft Narrator
+Company: Microsoft
+Category: Screen Readers
+Released: February 17, 2000 to present
+
+Overview:
+The screen reader built into Windows.
+
+Specs:
+Developer: Microsoft
+Release years: February 17, 2000 to present
+Runs on: Windows 2000 and later
+Default speech: Not documented
+Price: Not documented
+Voices: Microsoft Sam; Microsoft David; Microsoft Zira; Microsoft Mark; Microsoft Hazel
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Debuted in Windows 2000, speaking with Microsoft Sam. It gained braille support in 2017, and the Windows 10 Creators Update changed its toggle to Ctrl+Windows+Enter. Windows 10 and 11 voices include David, Zira, Mark and Hazel.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows 2000 and later
+Operating system history: Narrator versions
+
+System Requirements:
+Included with Windows 2000 and later; no separate requirements documented
+
+Sources:
+Source 1: https://abilitynet.org.uk/news-blogs/microsoft-narrator-turns-21-we-celebrate-coming-age
+Source 2: https://afb.org/aw/18/6/15200
+Source 3: https://support.microsoft.com/en-us/accessibility/windows/narrator/appendix-a-supported-languages-and-voices
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

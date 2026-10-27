@@ -1,0 +1,19 @@
+IBM
+Type: Company profile
+Founded: 1911
+Products listed: 2
+
+History:
+IBM researcher Jim Thatcher created IBM Screen Reader for DOS in 1986. Screen Reader/2 for OS/2 followed around 1992.
+
+Products:
+IBM Screen Reader (DOS) (Screen Readers, 1986)
+IBM Screen Reader/2 (Screen Readers, About 1992)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://www.sigaccess.org/wp-content/uploads/2012/05/jimthatcher.pdf
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

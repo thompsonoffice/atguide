@@ -1,0 +1,38 @@
+Oralux
+Company: Linux accessibility community
+Category: Accessible Linux
+Released: July 3, 2003 (0.03)
+
+Overview:
+A Knoppix-based live CD with an audio desktop for blind users.
+
+Specs:
+Developer: Linux accessibility community
+Release years: July 3, 2003 (0.03)
+Runs on: Knoppix (Debian) live CD
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Knoppix (Debian) live CD
+Operating system history: Linux (on blindness devices)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://lwn.net/Articles/39195/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

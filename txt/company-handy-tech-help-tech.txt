@@ -1,0 +1,21 @@
+Handy Tech / Help Tech
+Type: Company profile
+Founded: 1994
+Products listed: 4
+
+History:
+Founded by Sigi Kipke in Germany and renamed Help Tech in 2017. Products: Braille Wave (1999), Braille Star (2002), Active Braille (2011) and Active Star (2015).
+
+Products:
+Handy Tech Braille Wave (Braille Displays, 1999)
+Handy Tech Braille Star (Braille Displays, 2002)
+Handy Tech Active Braille (Braille Displays, 2011)
+Handy Tech Active Star (Braille Displays, 2015)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

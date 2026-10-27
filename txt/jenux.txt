@@ -1,0 +1,39 @@
+Jenux
+Company: Linux accessibility community
+Category: Accessible Linux
+Released: Not documented (active in 2023 and 2026)
+
+Overview:
+An Arch Linux-based distribution for blind users that speaks during installation and boot, with Orca on MATE and Fenrir.
+
+Specs:
+Developer: Linux accessibility community
+Release years: Not documented (active in 2023 and 2026)
+Runs on: Arch Linux base, MATE desktop
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Developed by Daniel Nash. A dual ISO (Jenux-2023.01.17) was discussed on the Blinux list in January 2023. ISO, Docker and Crostini builds were updated at jenux.dev in October 2026.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Arch Linux base, MATE desktop
+Operating system history: Linux (on blindness devices)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://jenux.dev/
+Source 2: https://www.mail-archive.com/blinux-list@redhat.com/msg08419.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

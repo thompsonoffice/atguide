@@ -1,0 +1,53 @@
+BrailleSense (Classic)
+Company: HIMS / Selvas BLV
+Category: BrailleSense
+Released: 2004
+
+Overview:
+The first BrailleSense (the renamed Braille Hansone), a 32-cell notetaker running Windows CE.NET.
+
+Specs:
+Released: 2004
+Processor: Intel PXA255
+Memory (RAM): 64 MB
+Storage: 64 MB flash
+Operating system: Windows CE.NET
+Default speech synthesizer: Onboard speech engine (name not documented)
+Battery: Detachable lithium-ion
+Display or braille cells: 32 cells with 32 routing buttons; LCD
+Price at launch: $4,950 (January 2005)
+
+Physical Description:
+9 x 5 x 1.5 in, 2.7 lb. Eight-key braille keyboard (dot 7 is Backspace, dot 8 is Enter) with F1 to F4. The front edge has microphone and headphone jacks and Previous, Record, Stop, Play and Next buttons.
+
+Features:
+32-cell display with 32 routing buttons
+LCD screen
+Two stereo speakers
+Voice recorder and DAISY player controls on the front edge
+Up to seven open applications
+Detachable lithium-ion battery
+HBL braille document format; no spell checker at review time
+
+History:
+GW Micro distributed it in the US. AccessWorld (January 2005) found it lighter than the BrailleNote and PAC Mate.
+Predecessors: Braille Hansone (HIMS / Selvas BLV, 2002)
+Successors: BrailleSense Plus (HIMS / Selvas BLV, 2008); BrailleSense LX (HIMS / Selvas BLV, 2008)
+
+Ports:
+2 CompactFlash slots, infrared, 2 USB, LAN, parallel, VGA video out, serial, microphone and headphone jacks
+
+Operating System:
+Windows CE.NET
+Operating system history: Windows CE / Windows Mobile (on notetakers and PDAs)
+Operating system history: HIMS BrailleSense software
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.himsintl.com/en/company/prdhistory.php
+Source 2: https://afb.org/aw/6/1/14662
+Source 3: https://www.acb.org/brief-look-braille-sense
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

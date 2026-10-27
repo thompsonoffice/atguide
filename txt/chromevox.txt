@@ -1,0 +1,37 @@
+ChromeVox
+Company: Google
+Category: Screen Readers
+Released: May 2011 (developer beta) to present
+
+Overview:
+The built-in screen reader for Chrome OS, originally built as a Chrome extension using only web technologies.
+
+Specs:
+Developer: Google
+Release years: May 2011 (developer beta) to present
+Runs on: Chrome OS (also as a Chrome extension)
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Unveiled at Google I/O 2011 by T. V. Raman's team as an early developer beta. It used experimental TTS and accessibility extension APIs and exposed an API for web developers.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Chrome OS (also as a Chrome extension)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://blog.chromium.org/2011/05/chromevox-built-in-spoken-feedback-for.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

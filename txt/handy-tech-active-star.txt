@@ -1,0 +1,42 @@
+Handy Tech Active Star
+Company: Handy Tech / Help Tech
+Category: Braille Displays
+Released: 2015
+
+Overview:
+A 40-cell display with a shelf for a tablet or phone.
+
+Specs:
+Released: 2015
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: Handy Tech Braille Star (Handy Tech / Help Tech, 2002)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

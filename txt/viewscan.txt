@@ -1,0 +1,42 @@
+Viewscan
+Company: Pulse Data International
+Category: Magnifiers
+Released: 1980
+
+Overview:
+A portable video magnifier from Wormald Sensory Aids, the group that became Pulse Data.
+
+Specs:
+Released: 1980
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+Successors: Viewscan Text System (Pulse Data International, 1983)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/6/6/14572
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,40 @@
+Pipe Organ (Apple)
+Company: Apple
+Category: TTS Voices
+Released: MacinTalk 3 (1994) to Mac OS X
+
+Overview:
+A singing organ novelty voice, age 500.
+
+Specs:
+Maker: Apple
+First released: MacinTalk 3 (1994) to Mac OS X
+Synthesis type: MacinTalk 3
+Platforms: System 7 to Mac OS X
+Default on or shipped with: Not documented
+Price: Not documented
+Shipped with or used by: MacinTalk 3
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Added in 1994 and still among Lion's US novelty voices.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+System 7 to Mac OS X
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://discmaster.textfiles.com/view/21387/Macformat17.cdr/Shareware%20City/Sound/Talking%20Eggs%201.0/Talking%20Eggs%20ReadMe
+Source 2: https://www.wap.org/journal/lionspeak/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

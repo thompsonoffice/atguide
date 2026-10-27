@@ -1,0 +1,41 @@
+Mac OS X Speech Synthesis (MacinTalk in OS X)
+Company: Apple
+Category: TTS Voices
+Released: Mac OS X (2001) onward
+
+Overview:
+The system speech in Mac OS X. It carried the classic MacinTalk voices forward, added Alex in 10.5 Leopard (2007), and added downloadable multilingual voices in 10.7 Lion (2011).
+
+Specs:
+Maker: Apple
+First released: Mac OS X (2001) onward
+Synthesis type: Mixed (classic voices plus newer concatenative voices)
+Platforms: Mac OS X / macOS
+Default on or shipped with: Alex (Lion system voice)
+Price: Not documented
+Voices: Alex (Apple); Samantha (Apple); Karen (Apple, Australian English); Moira (Apple, Irish English); Fiona (Apple, Scottish English); Tessa (Apple, South African English); Serena (Apple, UK English); Vicki (Apple)
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Snow Leopard and Lion each showed six default voices, including Alex, Victoria, Bruce and Kathy. Lion added free downloadable English voices with Australian (Karen), Indian (Sangeeta), Irish (Moira), Scottish (Fiona), South African (Tessa), UK (Emily, Serena) and US (Jill, Samantha) accents.
+Predecessors: MacinTalk 3 (Apple, 1994 to 1995 (v1.4 in 1995); standard until Mac OS X)
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Mac OS X / macOS
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.wap.org/journal/lionspeak/
+Source 2: https://www.macworld.com/article/216121/how-to-change-the-mac-s-system-voice.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

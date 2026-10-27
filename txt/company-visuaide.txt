@@ -1,0 +1,20 @@
+VisuAide
+Type: Company profile
+Founded: Not documented
+Products listed: 3
+
+History:
+A Canadian maker of the Victor Reader DAISY players (Victor Reader Classic, about 2002) and the Trekker GPS (2003). Merged with Pulse Data in January 2005 to form HumanWare.
+
+Products:
+Victor Reader Classic (Book Readers, About 2002)
+Trekker (Other, 2003)
+VisuAide Maestro (PDAs, 2004 (reported July 1, 2004))
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/6/6/14572
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

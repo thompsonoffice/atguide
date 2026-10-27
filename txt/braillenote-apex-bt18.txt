@@ -1,0 +1,45 @@
+BrailleNote Apex BT18
+Company: HumanWare
+Category: Notetakers
+Released: May 2010
+
+Overview:
+An 18-cell Apex, launched for the BrailleNote's 10th anniversary. HumanWare called it the tenth notetaker in the line.
+
+Specs:
+Released: May 2010
+Processor: Freescale i.MX31
+Memory (RAM): 256 MB SDRAM
+Storage: 8 GB
+Operating system: Windows CE 6 with KeySoft
+Default speech synthesizer: Not documented
+Battery: Rechargeable, user-replaceable lithium-ion
+Display or braille cells: 18 cells
+Price at launch: Not documented
+
+Physical Description:
+2 cm (0.78 in) thick, 734 g (1.8 lb). Another listing gives 0.78 x 9.61 x 5.63 in and 1.6 lb.
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: BrailleNote mPower BT (HumanWare, June 2005)
+
+Ports:
+Four high-speed USB 2.0 ports (3 host, 1 client), Ethernet, Wi-Fi, Bluetooth 2.1, SDHC
+
+Operating System:
+Windows CE 6 with KeySoft
+Operating system history: KeySoft
+Operating system history: Windows CE / Windows Mobile (on notetakers and PDAs)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: http://www.nfbnet.org/pipermail/nfbcsnfbnet.org/2010-May/002031.html
+Source 2: https://veterans.networkofcare.org/philadelphia-pa/AssistiveDevices/ProductDetail?productId=114282
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

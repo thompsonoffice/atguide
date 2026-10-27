@@ -1,0 +1,42 @@
+Optacon II
+Company: Telesensory Systems (TSI)
+Category: Other
+Released: 1985
+
+Overview:
+A second-generation Optacon developed with Canon.
+
+Specs:
+Released: 1985
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 100 pixels
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: Optacon (Telesensory Systems (TSI), 1971 to 1996)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/Optacon
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

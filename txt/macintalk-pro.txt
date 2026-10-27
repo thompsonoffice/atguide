@@ -1,0 +1,42 @@
+MacinTalk Pro
+Company: Apple
+Category: TTS Voices
+Released: September 1993 (v1.0); v1.2 February 1994
+
+Overview:
+Apple's high-quality engine, with the voices Agnes, Bruce and Victoria in High Quality and Small versions.
+
+Specs:
+Maker: Apple
+First released: September 1993 (v1.0); v1.2 February 1994
+Synthesis type: Concatenative
+Platforms: System 7 on 68020/68040 and PowerPC Macs; about 1.5 MB of memory
+Default on or shipped with: Not documented
+Price: Not documented
+Voices: Agnes (Apple); Bruce (Apple); Victoria (Apple)
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Required a 68020 or better (later surveys say 68040) and System 7. Described as the first concatenative Macintosh voices. A Mexican Spanish edition (Carlos and Catalina) was given away with PlainTalk 1.5 in 1996.
+Predecessors: MacinTalk (original) (Apple, 1984 (MacinTalk 1.1 May 1985))
+
+Ports:
+Not applicable (software)
+
+Operating System:
+System 7 on 68020/68040 and PowerPC Macs; about 1.5 MB of memory
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.cs.cmu.edu/Groups/AI/util/pubs/faqs/speech/mac.txt
+Source 2: https://github.com/tgeczy/outspoken-nvda
+Source 3: https://macintoshrepository.org/2590-macintalk
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

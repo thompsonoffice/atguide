@@ -1,0 +1,18 @@
+Carnegie Mellon University
+Type: Company profile
+Founded: 1900
+Products listed: 1
+
+History:
+Alan W Black's group built Flite (Festival-lite), a small-footprint synthesizer, in 2001.
+
+Products:
+Flite (TTS Voices, 2001)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://www.cs.cmu.edu/~awb/papers/ISCA01/flite/node1.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

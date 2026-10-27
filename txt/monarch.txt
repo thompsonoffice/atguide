@@ -1,0 +1,45 @@
+Monarch
+Company: American Printing House for the Blind (APH)
+Category: Braille Displays
+Released: 2024
+
+Overview:
+An APH/HumanWare dynamic tactile device with 10 lines of 32 cells for braille and graphics, using Dot cells. Named one of TIME's Best Inventions of 2025.
+
+Specs:
+Released: 2024
+Processor: Quad-core 64-bit Cortex-A55 at 2.0 GHz
+Memory (RAM): 4 GB LPDDR4
+Storage: 128 GB
+Operating system: Android with KeySoft
+Default speech synthesizer: Not documented
+Battery: 8 hours expected; reported as exceeding that
+Display or braille cells: 3,840 pins (10 lines x 32 cells)
+Price at launch: Not documented
+
+Physical Description:
+403.5 x 266.5 x 35.5 mm (15.89 x 10.49 x 1.40 in), 2.1 kg (4.65 lb).
+
+Features:
+Touch sensing (Neonode IR sensor)
+Over 250 braille tables
+KeySoft applications
+
+History:
+Not documented
+
+Ports:
+USB-C 3.0, USB-A 3.0, HDMI 2.0, Wi-Fi 802.11ac, Bluetooth 5.1, audio jack
+
+Operating System:
+Android with KeySoft
+Operating system history: KeySoft
+Operating system history: Android (on blindness devices)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.humanware.com/wp-content/uploads/Monarch-Technical-Specification-Document.pdf
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

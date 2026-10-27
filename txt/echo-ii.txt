@@ -1,0 +1,41 @@
+Echo II
+Company: Street Electronics
+Category: Speech Synthesizers
+Released: 1982
+
+Overview:
+A speech card for the Apple II, widely used with talking software.
+
+Specs:
+Released: 1982
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: TI TMS5220 with Textalker software
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

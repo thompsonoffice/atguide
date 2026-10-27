@@ -1,0 +1,43 @@
+eSight 4
+Company: eSight
+Category: Vision Wearables
+Released: 2020
+
+Overview:
+The fourth eSight, with swappable batteries.
+
+Specs:
+Released: 2020
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Swappable, about 3 hours each
+Display or braille cells: 1280x960, 37.5 degrees; 18 MP camera
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: eSight 3 (eSight, February 2017)
+Successors: eSight Go (eSight, 2024)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://esighteyewear.com
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

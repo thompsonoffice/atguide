@@ -1,0 +1,69 @@
+HIMS BrailleSense software
+Company: HIMS / Selvas BLV
+Category: Operating system or software version history
+Versions listed: 9
+
+Overview:
+HIMS's notetaker software. It ran on Windows CE through the U2 generation and on Android from the Polaris (2017).
+
+Version History:
+
+Version 1: Braille Hansone
+Released: 2002
+Notes: HIMS's first notetaker.
+
+Version 2: BrailleSense (Windows CE.NET)
+Released: 2004
+Notes: Up to seven open applications; HBL braille documents; no spell checker at review time (January 2005).
+
+Version 3: U2 firmware 9.0
+Released: Final U2 release
+Notes: Device status checking, improved file management, PDF conversion, email, DAISY and YouTube tools, VNC viewing and a startup wizard.
+
+Version 4: Polaris (Android 5.1.1)
+Released: 2017
+Notes: First Android BrailleSense.
+
+Version 5: Polaris firmware 3.4
+Released: April 2020
+Notes: Google Drive access from the File Manager.
+
+Version 6: BrailleSense 6 firmware 2.0
+Released: December 2023
+Notes: Upgraded Android 10 to Android 12.
+
+Version 7: BrailleSense 6 firmware 2.1 and 2.5
+Released: Not documented
+Notes: Release notes not documented in the sources found.
+
+Version 8: BrailleSense 6 firmware 3.0
+Released: Not documented
+Notes: Redesigned menu, new browser, Braille Practice, Word Processor formatting and stability improvements.
+
+Version 9: BrailleSense 7 (Android 15)
+Released: 2026
+Notes: Adds Gemini AI.
+
+Devices and Software That Ran It:
+BrailleSense U2 (Perkins-keyboard edition) (HIMS / Selvas BLV, July 2012)
+BrailleSense U2 QWERTY (QT) (HIMS / Selvas BLV, 2012)
+BrailleSense U2 Mini (HIMS / Selvas BLV, 2013)
+BrailleSense Polaris (HIMS / Selvas BLV, 2017)
+BrailleSense Polaris Mini (HIMS / Selvas BLV, 2018)
+BrailleSense 6 (HIMS / Selvas BLV, 2021)
+BrailleSense 6 Mini (HIMS / Selvas BLV, 2022)
+BrailleSense 7 (HIMS / Selvas BLV, 2026)
+Braille Hansone (HIMS / Selvas BLV, 2002)
+BrailleSense (Classic) (HIMS / Selvas BLV, 2004)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://sastltd.zohodesk.eu/portal/en/kb/articles/firmware-version-9-0-release-notes
+Source 2: https://sastltd.zohodesk.eu/portal/en/kb/articles/braillesense-6-upgrade-android-from-10-0-to-12-0
+Source 3: https://sastltd.zohodesk.eu/portal/en/kb/articles/braillesense-6-firmware-3-0-releas-information
+Source 4: https://afb.org/aw/6/1/14662
+Source 5: https://www.perkins.org/resource/braillesense-polaris-april-2020-firmware-upgrade/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

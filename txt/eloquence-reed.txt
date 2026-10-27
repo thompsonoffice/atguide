@@ -1,0 +1,39 @@
+Eloquence Reed
+Company: Eloquent Technology, Inc. (ETI)
+Category: TTS Voices
+Released: Not documented
+
+Overview:
+The first of Eloquence's eight classic voice presets (voice 0) and the familiar default male voice.
+
+Specs:
+Maker: Eloquent Technology, Inc. (ETI)
+First released: Not documented
+Synthesis type: Formant
+Platforms: Wherever Eloquence runs
+Default on or shipped with: Not documented in cited sources
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Part of the ETI-Eloquence voice set. Code Factory's Android version still lists it.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Wherever Eloquence runs
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://github.com/Mudb0y/eloquence
+Source 2: https://play.google.com/store/apps/details?hl=enUS&id=com.codefactoryglobal.eloquencetts
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

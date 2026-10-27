@@ -1,0 +1,27 @@
+Index Braille
+Type: Company profile
+Founded: 1982
+Products listed: 9
+
+History:
+It began as a 1979 university project to build a braille typewriter with a copy function. Björn Löfstedt and Torvald Lundqvist founded it in Luleå, Sweden as Polar Print Production, and the first embossers were built in Björn's garage in 1984. Product platforms followed in 1992 (Everest), 1995 (V2), 1998 (4X4 Pro), 2002 to 2004 (V3), 2005 (4Waves Pro), 2011 (V4) and 2016 (V5).
+
+Products:
+Index Computer Braille Printer (Index 3.7) (Embossers, 1984)
+Index Everest-D (V1) (Embossers, 1992)
+Index Basic and Everest (V2 platform) (Embossers, 1995)
+Index 4X4 Pro (Embossers, 1998)
+Index V3 platform (Embossers, 2002 to 2004)
+Index 4Waves Pro (Embossers, 2005)
+Index V4 platform (Embossers, 2011)
+Index V5 line (Basic-D, Everest-D, BrailleBox) (Embossers, 2016 to present)
+Index Blue Bar (Embossers, Late 1980s)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://indexbraille.com/about-us/
+Source 2: https://www.braillecast.com/podcast/e020/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

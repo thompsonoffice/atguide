@@ -1,0 +1,45 @@
+Brailliant BI 40X
+Company: HumanWare
+Category: Braille Displays
+Released: Shipping since mid-February 2021
+
+Overview:
+A 40-cell HumanWare display from the Brailliant BI X series, with the KeySoft Lite notetaker apps.
+
+Specs:
+Released: Shipping since mid-February 2021
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: 2,500 mAh, about 20 hours
+Display or braille cells: 40 cells
+Price at launch: Not documented
+
+Physical Description:
+690 g.
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: Brailliant 20 / 40 (HumanWare, 2004)
+
+Ports:
+USB-C, Bluetooth 5 (5 Bluetooth plus 1 USB connections)
+
+Operating System:
+Not documented
+Operating system history: KeySoft
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://store.humanware.com
+Source 2: https://www.braillecast.com/podcast/e026/
+Source 3: http://kentucky-acb.org/pipermail/scholarship-commkentucky-acb.org/attachments/20210506/d8ae4b7e/attachment-0003.pdf
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

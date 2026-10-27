@@ -1,0 +1,44 @@
+BrailleSense Plus
+Company: HIMS / Selvas BLV
+Category: BrailleSense
+Released: 2008
+
+Overview:
+A 32-cell BrailleSense with an LCD and 8 GB of flash.
+
+Specs:
+Released: 2008
+Processor: Intel PXA270
+Memory (RAM): 128 MB
+Storage: 8 GB flash
+Operating system: Windows CE 5.0
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 32 cells plus LCD
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: BrailleSense (Classic) (HIMS / Selvas BLV, 2004)
+Successors: BrailleSense U2 (Perkins-keyboard edition) (HIMS / Selvas BLV, July 2012)
+
+Ports:
+Ethernet, CompactFlash, USB host
+
+Operating System:
+Windows CE 5.0
+Operating system history: Windows CE / Windows Mobile (on notetakers and PDAs)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.himsintl.com/en/company/prdhistory.php
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,44 @@
+LevelStar Icon Mobile Manager
+Company: LevelStar
+Category: PDAs
+Released: December 2006
+
+Overview:
+A screenless, pocket-sized Linux PDA built with the Internet at its core: news stand, RSS, podcasts, email and books.
+
+Specs:
+Released: December 2006
+Processor: Intel XScale PXA270 at 520 MHz
+Memory (RAM): 64 MB
+Storage: 30 GB hard drive (later 40 GB) plus 256 MB flash
+Operating system: Linux 2.6.18
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: $1,395
+
+Physical Description:
+Not documented
+
+Features:
+Detachable braille or QWERTY keyboard dock
+Bookshare integration
+
+History:
+Announced in September 2006 at $1,395 (keyboard docking station $395), it reached market that December.
+
+Ports:
+USB, Wi-Fi 802.11b, Bluetooth 1.1
+
+Operating System:
+Linux 2.6.18
+Operating system history: Linux (on blindness devices)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: http://visually-impaired.blogspot.com/2006/09/pda-for-visually-impaired.html
+Source 2: https://linuxdevices.org/device-profile-levelstar-icon-pda-for-visually-impaired-users/index.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

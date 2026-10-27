@@ -1,0 +1,42 @@
+Focus 40 Blue (5th generation)
+Company: Freedom Scientific
+Category: Braille Displays
+Released: 2019
+
+Overview:
+Freedom Scientific's current 40-cell Bluetooth display.
+
+Specs:
+Released: 2019
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: About 20 hours
+Display or braille cells: 40 cells
+Price at launch: Not documented
+
+Physical Description:
+368 x 78 x 19 mm, 565 g.
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: Focus 44 / 70 / 84 (Freedom Scientific, 2004)
+
+Ports:
+USB-C, Bluetooth 4.1 (5 Bluetooth plus 1 USB connections), microSD up to 32 GB
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.freedomscientific.com
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

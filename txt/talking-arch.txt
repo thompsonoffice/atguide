@@ -1,0 +1,39 @@
+Talking Arch
+Company: Linux accessibility community
+Category: Accessible Linux
+Released: Not documented (last release reported in 2017)
+
+Overview:
+A speech- and braille-enabled Arch Linux live image with no graphical installer.
+
+Specs:
+Developer: Linux accessibility community
+Release years: Not documented (last release reported in 2017)
+Runs on: Arch Linux
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Arch Linux
+Operating system history: Linux (on blindness devices)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://opensource.com/life/15/8/accessibility-linux-blind-disabled
+Source 2: https://unix.stackexchange.com/questions/542098
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

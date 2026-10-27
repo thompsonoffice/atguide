@@ -1,0 +1,38 @@
+Gnopernicus
+Company: GNOME Project
+Category: Screen Readers
+Released: Until GNOME 2.16
+
+Overview:
+An earlier GNOME screen reader and magnifier developed by BAUM Engineering, using AT-SPI.
+
+Specs:
+Developer: GNOME Project
+Release years: Until GNOME 2.16
+Runs on: Unix-like (GNOME)
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Bundled with GNOME until Orca replaced it in GNOME 2.16.
+Successors: Orca (GNOME Project, 2006 to present)
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Unix-like (GNOME)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/Listofscreenreaders
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

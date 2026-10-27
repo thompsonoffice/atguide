@@ -1,0 +1,42 @@
+Braillo 270
+Company: Braillo
+Category: Embossers
+Released: January 1980
+
+Overview:
+The world's first double-sided (interpoint) braille embosser, developed with SINTEF.
+
+Specs:
+Released: January 1980
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+The first unit went to Norway's Tambartun School for the Blind and ran until the school closed in 2013. It evolved into the Braillo 400 S.
+Successors: Braillo 200 (Braillo, 1986); Braillo 440 SF (Braillo, Not documented)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://braillo.com/about-us/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

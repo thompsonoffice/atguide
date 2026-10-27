@@ -1,0 +1,39 @@
+Tessa (Apple, South African English)
+Company: Apple
+Category: TTS Voices
+Released: Mac OS X Lion (2011)
+
+Overview:
+A South African English female voice, downloadable in Lion.
+
+Specs:
+Maker: Apple
+First released: Mac OS X Lion (2011)
+Synthesis type: Not documented
+Platforms: Mac OS X 10.7 and later
+Default on or shipped with: Not documented
+Price: Not documented
+Shipped with or used by: Mac OS X Speech Synthesis (MacinTalk in OS X)
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Part of Lion's new downloadable voices.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Mac OS X 10.7 and later
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.wap.org/journal/lionspeak/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

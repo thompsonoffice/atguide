@@ -1,0 +1,63 @@
+VoiceOver versions
+Company: Apple
+Category: Operating system or software version history
+Versions listed: 10
+
+Overview:
+Milestones in Apple's VoiceOver.
+
+Version History:
+
+Version 1: Spoken Interface Preview
+Released: 2003 to 2004
+Notes: Preview for Mac OS X 10.3 Panther.
+
+Version 2: Mac OS X 10.4 Tiger
+Released: 2005
+Notes: VoiceOver introduced.
+
+Version 3: Mac OS X 10.5 Leopard
+Released: 2007
+Notes: Alex voice.
+
+Version 4: iPod shuffle
+Released: 2009
+Notes: VoiceOver announces songs.
+
+Version 5: iPhone 3GS / iOS 3
+Released: 2009
+Notes: VoiceOver on iOS.
+
+Version 6: iOS 4
+Released: 2010
+Notes: Braille display support.
+
+Version 7: iPod nano
+Released: September 2010
+Notes: VoiceOver on iPod nano.
+
+Version 8: Mac OS X 10.7 Lion
+Released: 2011
+Notes: Downloadable Nuance RealSpeak voices in many languages.
+
+Version 9: iOS 8
+Released: 2014
+Notes: Braille Screen Input.
+
+Version 10: 2025 releases
+Released: 2025
+Notes: Braille Access.
+
+Devices and Software That Ran It:
+VoiceOver (macOS) (Apple, Mac OS X 10.4 Tiger (2005) to present)
+VoiceOver (iOS / iPadOS) (Apple, iPhone 3GS (2009) to present)
+Alex (Apple) (Apple, Mac OS X 10.5 Leopard (October 2007) onward)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/VoiceOver
+Source 2: https://www.engadget.com/2007-10-26-24-hours-of-leopard-alex-the-new-voice-of-mac-os-x.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

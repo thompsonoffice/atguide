@@ -1,0 +1,39 @@
+Speakup
+Company: Linux accessibility community
+Category: Screen Readers
+Released: October 29, 1998 to present
+
+Overview:
+A Linux kernel-level console screen reader.
+
+Specs:
+Developer: Linux accessibility community
+Release years: October 29, 1998 to present
+Runs on: Linux (kernel)
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Kirk Reiser announced the first alpha (v0.01) on October 29, 1998 as kernel patches for development kernels 2.1.123 and 2.1.125, supporting only the DoubleTalk synthesizer. Andy Berdan, John Covici, and Brian and David Borowski contributed. Its 2004 FAQ says it works with kernels 2.6.18 or later; Speakup 2.0 covered 2.4 and early 2.6 kernels.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Linux (kernel)
+
+System Requirements:
+1998 alpha: Linux kernels 2.1.123 or 2.1.125 and a DoubleTalk synthesizer
+Later: kernel 2.6.18 or later (2.0 for 2.4 and early 2.6 kernels)
+
+Sources:
+Source 1: https://lkml.iu.edu/9810.3/0735.html
+Source 2: http://www.linux-speakup.org/faq.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

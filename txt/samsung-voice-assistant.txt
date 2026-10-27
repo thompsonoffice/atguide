@@ -1,0 +1,40 @@
+Samsung Voice Assistant
+Company: Samsung
+Category: Screen Readers
+Released: Until One UI 3.0 / Android 11 (start year not documented)
+
+Overview:
+Samsung's own Galaxy screen reader. It supported multi-finger gestures well before Google's TalkBack did.
+
+Specs:
+Developer: Samsung
+Release years: Until One UI 3.0 / Android 11 (start year not documented)
+Runs on: Samsung Android (TouchWiz / One UI)
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+It coexisted with TalkBack for years. Samsung discontinued it with One UI 3.0 (Android 11), when an agreement made Samsung's TalkBack build the only built-in reader. That build launched with bugs and initially lacked a braille keyboard.
+Successors: TalkBack (Google, October 2009 (Android 1.6 Donut) to present)
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Samsung Android (TouchWiz / One UI)
+Operating system history: TalkBack and Android screen-reader milestones
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://accessibleandroid.com/opinion-why-samsung-google-talkback-separation-is-nothing-but-a-headache/
+Source 2: https://accessibleandroid.com/a-decade-with-android-highlighting-observations-and-shifts/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

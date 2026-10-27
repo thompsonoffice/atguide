@@ -1,0 +1,41 @@
+Nuance Vocalizer / RealSpeak (engine)
+Company: Nuance Communications
+Category: TTS Voices
+Released: 2000s to present (first release not documented)
+
+Overview:
+Nuance's concatenative TTS family. Voices include Tom, Samantha, Daniel and Karen, according to a fan-maintained list that should be treated as a weak source.
+
+Specs:
+Maker: Nuance Communications
+First released: 2000s to present (first release not documented)
+Synthesis type: Concatenative (unit selection)
+Platforms: Windows, embedded devices, mobile
+Default on or shipped with: Victor Reader Stream (1st generation), ClassMate Reader; included with JAWS (Vocalizer Expressive)
+Price: Not documented
+Shipped with or used by: ClassMate Reader; Victor Reader Stream (1st generation); JAWS for Windows
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Nuance assembled its speech portfolio through acquisitions, including Rhetorical (2004) and SVOX (2011). Vocalizer was the TTS in the 1st-generation Victor Reader Stream and the ClassMate Reader. JAWS 2026 includes Vocalizer Expressive voices.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows, embedded devices, mobile
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: http://truegryc.blogspot.com/2011/06/nuance-corporate-acquisition-history.html
+Source 2: https://jctnpedia.fandom.com/wiki/Text-to-SpeechDownloadablesList
+Source 3: https://www.avh.asso.fr/implantations/certam/evaluations-de-produits/jaws-version-2026
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

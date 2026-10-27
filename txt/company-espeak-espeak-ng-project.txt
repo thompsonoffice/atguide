@@ -1,0 +1,19 @@
+eSpeak / eSpeak NG project
+Type: Company profile
+Founded: 1995
+Products listed: 2
+
+History:
+Jonathan Duddington wrote 'speak' for Acorn RISC OS starting in 1995 and rewrote it as eSpeak in 2007. Reece H. Dunn maintained a fork from 2010, which officially became eSpeak NG in late 2015.
+
+Products:
+eSpeak (TTS Voices, 2007 (origins 1995))
+eSpeak NG (TTS Voices, Late 2015 to present)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://github.com/espeak-ng/espeak-ng
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

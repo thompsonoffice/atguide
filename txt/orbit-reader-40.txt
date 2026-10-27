@@ -1,0 +1,44 @@
+Orbit Reader 40
+Company: Orbit Research
+Category: Braille Displays
+Released: Announced March 11, 2020 (CSUN)
+
+Overview:
+A 40-cell Orbit Reader that Orbit Research called the world's most affordable 40-cell display.
+
+Specs:
+Released: Announced March 11, 2020 (CSUN)
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 40 cells
+Price at launch: Not documented
+
+Physical Description:
+750 g.
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: Orbit Reader 20 (Orbit Research, Announced March 2016, shipped 2017)
+Successors: Orbit Reader Q40 (Orbit Research, 2025)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.orbitresearch.com
+Source 2: https://www.orbitresearch.com/orbit-research-introduces-the-worlds-most-affordable-40-cell-braille-display/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

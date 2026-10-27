@@ -1,0 +1,39 @@
+Microsoft Hazel
+Company: Microsoft
+Category: TTS Voices
+Released: Windows 8 to present
+
+Overview:
+A UK English female voice.
+
+Specs:
+Maker: Microsoft
+First released: Windows 8 to present
+Synthesis type: Not documented
+Platforms: Windows 8 and later
+Default on or shipped with: Windows 8 and later (UK English)
+Price: Not documented
+Shipped with or used by: Microsoft Narrator
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Introduced with Windows 8 and still a Narrator voice.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows 8 and later
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://github.com/MicrosoftDocs/winrt-api/blob/docs/windows.media.speechsynthesis/voiceinformation.md
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

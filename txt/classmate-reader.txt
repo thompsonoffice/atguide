@@ -1,0 +1,45 @@
+ClassMate Reader
+Company: HumanWare
+Category: Book Readers
+Released: About 2008
+
+Overview:
+A portable reader for people with reading difficulties. It highlights text on a color screen while reading it aloud.
+
+Specs:
+Released: About 2008
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Nuance Vocalizer
+Battery: Lithium-ion 3.7 V, 2 Ah; 7 hours of DAISY playback
+Display or braille cells: 2 x 3 inch color LCD touchscreen
+Price at launch: Not documented
+Voices: Nuance Vocalizer / RealSpeak (engine)
+
+Physical Description:
+157 x 91 x 30 mm (6.2 x 3.6 x 1.2 in), 250 g (8.8 oz) with battery.
+
+Features:
+Plays DAISY, NISO Z39.86, NIMAS, Bookshare, text, WAV and MP3
+Text and voice notes, highlighting, dictionary
+Color touchscreen with stylus
+
+History:
+Not documented
+
+Ports:
+USB 2.0 (PC connection and USB drives), SD card, 3.5 mm headphone jack, built-in microphone and speaker
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://manualzz.com/doc/29275645/humanware-classmate-user-manual
+Source 2: https://www.specialedtechcenter.org/setc/docs/E-readercomparison.pdf
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

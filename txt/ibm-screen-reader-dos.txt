@@ -1,0 +1,39 @@
+IBM Screen Reader (DOS)
+Company: IBM
+Category: Screen Readers
+Released: 1986
+
+Overview:
+Created by IBM researcher Jim Thatcher. Often cited as the first screen reader for DOS.
+
+Specs:
+Developer: IBM
+Release years: 1986
+Runs on: PC DOS
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Followed by IBM Screen Reader/2 for OS/2.
+Successors: IBM Screen Reader/2 (IBM, About 1992)
+
+Ports:
+Not applicable (software)
+
+Operating System:
+PC DOS
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.sigaccess.org/wp-content/uploads/2012/05/jimthatcher.pdf
+Source 2: https://ashton.codes/dai11y-19-01-2021/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

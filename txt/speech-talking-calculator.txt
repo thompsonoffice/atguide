@@ -1,0 +1,41 @@
+Speech+ talking calculator
+Company: Telesensory Systems (TSI)
+Category: Other
+Released: 1976
+
+Overview:
+A talking calculator with a 24-word vocabulary.
+
+Specs:
+Released: 1976
+Processor: TMC1007 calculator chip and S14001A speech chip
+Memory (RAM): Not documented
+Storage: 4 KB ROM
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: $395
+
+Physical Description:
+180 x 115 x 35 mm; 4 AA batteries.
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.vintagecalculators.com/html/speech-.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

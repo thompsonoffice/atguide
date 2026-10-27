@@ -1,0 +1,42 @@
+VersaBraille II+
+Company: Telesensory Systems (TSI)
+Category: Notetakers
+Released: 1987
+
+Overview:
+A floppy-disk VersaBraille.
+
+Specs:
+Released: 1987
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: 640 KB floppy disk
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+5.2 kg.
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: VersaBraille (Telesensory Systems (TSI), December 1979)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/6/4/14611
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

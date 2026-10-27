@@ -1,0 +1,44 @@
+BrailleSense 6 Mini
+Company: HIMS / Selvas BLV
+Category: BrailleSense
+Released: 2022
+
+Overview:
+A compact BrailleSense 6.
+
+Specs:
+Released: 2022
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Android
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: BrailleSense Polaris Mini (HIMS / Selvas BLV, 2018)
+
+Ports:
+Not documented
+
+Operating System:
+Android
+Operating system history: HIMS BrailleSense software
+Operating system history: Android (on blindness devices)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.himsintl.com/en/company/prdhistory.php
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

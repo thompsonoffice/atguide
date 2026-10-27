@@ -1,0 +1,38 @@
+Cepstral David and Diane
+Company: Cepstral
+Category: TTS Voices
+Released: Available by 2007
+
+Overview:
+Commercial voices sold for $30 each, which Macworld recommended in 2007.
+
+Specs:
+Maker: Cepstral
+First released: Available by 2007
+Synthesis type: Not documented
+Platforms: Mac OS X, Windows, Linux
+Default on or shipped with: Not documented
+Price: $30 each
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Mac OS X, Windows, Linux
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.macworld.com/article/185797/voicemac.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,42 @@
+VersaBraille
+Company: Telesensory Systems (TSI)
+Category: Notetakers
+Released: December 1979
+
+Overview:
+A paperless-braille device that stored braille on C-60 cassettes, an ancestor of modern notetakers.
+
+Specs:
+Released: December 1979
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: C-60 audio cassette
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 20 cells
+Price at launch: Not documented
+
+Physical Description:
+4.625 x 13.5 x 9.75 in.
+
+Features:
+Not documented
+
+History:
+Not documented
+Successors: VersaBraille II+ (Telesensory Systems (TSI), 1987)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/6/4/14611
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

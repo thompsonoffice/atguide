@@ -1,0 +1,41 @@
+ALVA Satellite 544
+Company: ALVA BV
+Category: Braille Displays
+Released: Not documented
+
+Overview:
+A 44-cell ALVA Satellite display.
+
+Specs:
+Released: Not documented
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 44 cells
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

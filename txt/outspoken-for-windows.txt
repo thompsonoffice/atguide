@@ -1,0 +1,39 @@
+outSPOKEN for Windows
+Company: Berkeley Systems
+Category: Screen Readers
+Released: 1994
+
+Overview:
+Berkeley Systems' Windows 3.1 screen reader, considered one of the first truly effective Windows screen readers.
+
+Specs:
+Developer: Berkeley Systems
+Release years: 1994
+Runs on: Windows 3.1
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Developed primarily by Ben Drees and Peter Korn, with interface design by Marc Sutton and Joshua Miele.
+Predecessors: outSPOKEN for Macintosh (Berkeley Systems, 1989)
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows 3.1
+Operating system history: outSPOKEN versions
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/OutSPOKEN
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

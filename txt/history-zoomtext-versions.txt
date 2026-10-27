@@ -1,0 +1,43 @@
+ZoomText versions
+Company: Freedom Scientific
+Category: Operating system or software version history
+Versions listed: 5
+
+Overview:
+ZoomText milestones.
+
+Version History:
+
+Version 1: ZoomText for DOS
+Released: 1988
+Notes: First version.
+
+Version 2: ZoomText for Windows
+Released: 1991
+Notes: First Windows version.
+
+Version 3: 10.1 (update 10.11.8)
+Released: May 2017
+Notes: Support for the Windows 10 Creators Update.
+
+Version 4: 2025 (2025.2502.63)
+Released: 2025
+Notes: ARM64 support on Windows 11; required for Windows 11 25H2.
+
+Version 5: 2026
+Released: 2025 to 2026
+Notes: Current; 64-bit Windows 10 and 11.
+
+Devices and Software That Ran It:
+ZoomText for DOS (Ai Squared, 1988)
+ZoomText (Windows) / Fusion (Freedom Scientific, 1991 to present)
+
+System Requirements:
+Current: 64-bit Windows 10 or 11, 16 GB RAM recommended, DirectX 11, 2 GB disk
+
+Sources:
+Source 1: https://afb.org/aw/18/6/15200
+Source 2: https://support.freedomscientific.com/downloads/arm64
+Source 3: https://support.freedomscientific.com/content/documents/manuals/ZoomText/ZoomTextUserGuideEnglishUS.pdf
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

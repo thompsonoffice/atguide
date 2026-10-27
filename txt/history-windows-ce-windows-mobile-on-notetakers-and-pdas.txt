@@ -1,0 +1,73 @@
+Windows CE / Windows Mobile (on notetakers and PDAs)
+Company: Microsoft
+Category: Operating system or software version history
+Versions listed: 8
+
+Overview:
+Microsoft's embedded operating system, used under most notetakers from 2000 to the mid-2010s.
+
+Version History:
+
+Version 1: CE 2.12 to CE.NET 4.2
+Released: 2000 onward
+Notes: BrailleNote Classic.
+
+Version 2: CE.NET 4.1
+Released: 2003
+Notes: ALVA MPO 5500.
+
+Version 3: CE.NET 4.2 / Pocket PC 2003
+Released: 2003
+Notes: PAC Mate BX400/QX400.
+
+Version 4: CE.NET
+Released: 2004
+Notes: BrailleSense (Classic).
+
+Version 5: CE.NET 5.0
+Released: 2007
+Notes: VoiceSense.
+
+Version 6: CE 5.0
+Released: 2008 to 2012
+Notes: BrailleSense Plus, OnHand, Braille EDGE.
+
+Version 7: Windows Mobile 6
+Released: 2007
+Notes: PAC Mate Omni.
+
+Version 8: CE 6
+Released: 2009 onward
+Notes: BrailleNote Apex, BrailleSense U2 and U2 QWERTY, QBraille XL.
+
+Devices and Software That Ran It:
+BrailleNote Classic (BT/QT) (Pulse Data International, April 2000 (shipping from June 2000))
+ALVA MPO 5500 (ALVA BV, 2003)
+PAC Mate BX400 / QX400 (Freedom Scientific, 2002 (AccessWorld); some sources say 2003)
+BrailleSense (Classic) (HIMS / Selvas BLV, 2004)
+VoiceSense (HIMS / Selvas BLV, 2007)
+VoiceSense QWERTY (HIMS / Selvas BLV, 2010)
+BrailleSense Plus (HIMS / Selvas BLV, 2008)
+BrailleSense OnHand (HIMS / Selvas BLV, 2010)
+Braille EDGE 40 (HIMS / Selvas BLV, 2012)
+PAC Mate Omni (Freedom Scientific, Fall 2007)
+BrailleNote Apex BT32 (HumanWare, November 2009)
+BrailleNote Apex BT18 (HumanWare, May 2010)
+VoiceNote Apex BT / QT (HumanWare, July 2010)
+BrailleSense U2 (Perkins-keyboard edition) (HIMS / Selvas BLV, July 2012)
+BrailleSense U2 QWERTY (QT) (HIMS / Selvas BLV, 2012)
+QBraille XL (HIMS / Selvas BLV, 2018)
+BAUM Pronto! 18 V3 (BAUM Retec, 2014)
+BrailleNote PK (Pulse Data International, Announced July 2004)
+BrailleNote mPower BT (HumanWare, June 2005)
+VisuAide Maestro (VisuAide, 2004 (reported July 1, 2004))
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/BrailleNote
+Source 2: https://www.himsintl.com/en/company/prdhistory.php
+Source 3: http://www2.freedomscientific.com/fsproducts/PACmatebx400info.asp
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

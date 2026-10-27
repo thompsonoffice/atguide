@@ -1,0 +1,43 @@
+TalkBack
+Company: Google
+Category: Screen Readers
+Released: October 2009 (Android 1.6 Donut) to present
+
+Overview:
+Google's Android screen reader, part of Android Accessibility Suite.
+
+Specs:
+Developer: Google
+Release years: October 2009 (Android 1.6 Donut) to present
+Runs on: Android 9 or later (TalkBack 17.1)
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Announced on the Google Open Source Blog on October 20, 2009, with SoundBack and KickBack, when Android 1.6 Donut added an accessibility API. Written by T. V. Raman, Charles Chen and Svetoslav Ganov; early users navigated with the trackball and might need to install it from Android Market. Single-finger gestures came in Android 4.1. Version 6.2 (June 2018) became the Android Accessibility Suite. A braille keyboard came in 8.2 (2020), multi-finger gestures and a new menu in 9.1 (2021), and image captions in 12.1. Since Android 11, Samsung ships its own TalkBack build. Version 17.1 (September 17, 2026) needs Android 9 or later. Open source under Apache 2.0.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Android 9 or later (TalkBack 17.1)
+Operating system history: TalkBack and Android screen-reader milestones
+Operating system history: Google speech engines on Android
+
+System Requirements:
+TalkBack 17.1 (September 2026): Android 9 or later
+2009 release: Android 1.6 Donut
+
+Sources:
+Source 1: https://accessibleandroid.com/a-decade-with-android-highlighting-observations-and-shifts/
+Source 2: https://accessibleandroid.com/comparing-talkback-and-jieshuo-strengths-and-weaknesses-of-two-screen-readers/
+Source 3: https://opensource.googleblog.com/2009/10/talkback-open-source-screenreader-for.html
+Source 4: https://en.wikipedia.org/wiki/TalkBack
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

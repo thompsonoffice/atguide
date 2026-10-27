@@ -1,0 +1,37 @@
+Soft Vert
+Company: Telesensory Systems (TSI)
+Category: Screen Readers
+Released: Not documented
+
+Overview:
+Telesensory's DOS screen reader.
+
+Specs:
+Developer: Telesensory Systems (TSI)
+Release years: Not documented
+Runs on: MS-DOS
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not applicable (software)
+
+Operating System:
+MS-DOS
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/Listofscreenreaders
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

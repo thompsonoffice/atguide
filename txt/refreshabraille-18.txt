@@ -1,0 +1,41 @@
+Refreshabraille 18
+Company: American Printing House for the Blind (APH)
+Category: Braille Displays
+Released: 2010
+
+Overview:
+APH's 18-cell Bluetooth display.
+
+Specs:
+Released: 2010
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: 700 mAh
+Display or braille cells: 18 cells
+Price at launch: Not documented
+
+Physical Description:
+130 x 90 x 25 mm, 310 g.
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Bluetooth 1.2, mini-USB
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.aph.org
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

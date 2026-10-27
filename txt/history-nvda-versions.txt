@@ -1,0 +1,81 @@
+NVDA versions
+Company: NV Access
+Category: Operating system or software version history
+Versions listed: 13
+
+Overview:
+NVDA release history.
+
+Version History:
+
+Version 1: Development start
+Released: April 2006
+Notes: Python-based with SAPI speech; supported Windows 2000 onward; basic web browsing.
+
+Version 2: 0.5
+Released: 2007
+Notes: First release under the NVDA name.
+
+Version 3: 0.6.x
+Released: 2008 to 2009
+Notes: Enhanced web browsing, more applications, braille display output, more languages.
+
+Version 4: 2009 releases
+Released: 2009
+Notes: 64-bit Windows support.
+
+Version 5: 2011 releases
+Released: 2011
+Notes: Add-on restructuring; Windows 8 support.
+
+Version 6: 2012 releases
+Released: 2012
+Notes: Automatic updates, add-ons manager, touchscreen support.
+
+Version 7: 2013 releases
+Released: 2013
+Notes: PowerPoint support.
+
+Version 8: 2015 releases
+Released: 2015
+Notes: MathML through MathPlayer; Windows 10 and Edge.
+
+Version 9: 2019.3
+Released: February 10, 2020
+Notes: Moved to Python 3 and rewrote the speech system.
+
+Version 10: 2024.1
+Released: 2024
+Notes: Minimum Windows 8.1; dropped Windows 7 and 8; built with Python 3.11.
+
+Version 11: 2026.1
+Released: 2026
+Notes: Minimum Windows 10 (1507); dropped Windows 8.1, Windows 10 on ARM and 32-bit Windows; 64-bit SAPI5 voices.
+
+Version 12: 2026.2
+Released: August 31, 2026
+Notes: Requires 64-bit Windows 10 or 11.
+
+Version 13: 2026.3
+Released: October 26, 2026
+Notes: Current release; Windows 11 ARM64 supported.
+
+Devices and Software That Ran It:
+NVDA (NonVisual Desktop Access) (NV Access, 2006 (version 0.5 in 2007) to present)
+BrailleNote Evolve (HumanWare, Announced November 2025, launched 2026)
+
+System Requirements:
+2006: Windows 2000 or later
+2024.1: Windows 8.1 or later
+2026.1 and later: 64-bit Windows 10 or 11
+2026: 64-bit Windows 10 (22H2) or 11, or Server 2016 to 2025; 500 MB storage; 4 GB RAM recommended
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/NonVisualDesktopAccess
+Source 2: https://download.nvaccess.org/documentation/en/userGuide.html
+Source 3: https://www.nvaccess.org/post/nvda-2019-3-released/
+Source 4: https://download.nvaccess.org/releases/2024.1/documentation/changes.html
+Source 5: https://download.nvaccess.org/releases/2026.1/documentation/en/changes.html
+Source 6: https://www.nvaccess.org/post/nvda-2026-3/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,42 @@
+Index Computer Braille Printer (Index 3.7)
+Company: Index Braille
+Category: Embossers
+Released: 1984
+
+Overview:
+Index's first small batch of embossers, built in Björn Löfstedt's garage and named after the firmware version.
+
+Specs:
+Released: 1984
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+Successors: Index Blue Bar (Index Braille, Late 1980s)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.braillecast.com/podcast/e020/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

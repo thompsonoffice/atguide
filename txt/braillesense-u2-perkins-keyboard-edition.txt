@@ -1,0 +1,49 @@
+BrailleSense U2 (Perkins-keyboard edition)
+Company: HIMS / Selvas BLV
+Category: BrailleSense
+Released: July 2012
+
+Overview:
+The flagship Windows CE BrailleSense, with an 8-dot Perkins-style keyboard. French distributors sold it as the BrailleSense U2 Perkins.
+
+Specs:
+Released: July 2012
+Processor: 1 GHz mobile processor
+Memory (RAM): Not documented
+Storage: 32 GB flash
+Operating system: Windows CE 6.0
+Default speech synthesizer: Eloquence
+Battery: Removable lithium, about 17 hours
+Display or braille cells: 32 cells plus LCD
+Price at launch: 6,890 euros (France)
+Voices: ETI-Eloquence (engine)
+
+Physical Description:
+25 x 13 x 3.9 cm, 924 g.
+
+Features:
+GPS and compass (GPS navigation optional)
+DAISY, EPUB, MP3 recorder, FM radio, YouTube
+Screen-reader terminal for Windows, Mac, Linux, iOS and Android
+
+History:
+Its final firmware, 9.0, added device status checks, better file management, PDF conversion, VNC viewing and a startup wizard.
+Predecessors: BrailleSense Plus (HIMS / Selvas BLV, 2008)
+Successors: BrailleSense Polaris (HIMS / Selvas BLV, 2017)
+
+Ports:
+4 USB OTG ports, SD slot, Wi-Fi b/g/n, Bluetooth, Ethernet, audio in and out
+
+Operating System:
+Windows CE 6.0
+Operating system history: Windows CE / Windows Mobile (on notetakers and PDAs)
+Operating system history: HIMS BrailleSense software
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: http://insidevision.fr/pdf/FicheProduitBrailleBlocNotesBrailleSenseU2Perkins01.pdf
+Source 2: https://sastltd.zohodesk.eu/portal/en/kb/articles/firmware-version-9-0-release-notes
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

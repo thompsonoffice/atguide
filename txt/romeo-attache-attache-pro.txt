@@ -1,0 +1,42 @@
+Romeo Attaché / Attaché Pro
+Company: Enabling Technologies (formerly Triformation Systems)
+Category: Embossers
+Released: 2004
+
+Overview:
+A compact embosser at 15 characters per second. The Pro adds single-sheet tractor feeding and speech.
+
+Specs:
+Released: 2004
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.freelists.org/post/duxuser/DBT-105,19
+Source 2: https://www.yumpu.com/en/document/view/38152810/romeo-attache-romeo-attache-pro-enabling-technologies
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

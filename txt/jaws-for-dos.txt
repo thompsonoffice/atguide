@@ -1,0 +1,40 @@
+JAWS for DOS
+Company: Henter-Joyce
+Category: Screen Readers
+Released: 1989
+
+Overview:
+Henter-Joyce's first JAWS (Job Access With Speech), for MS-DOS.
+
+Specs:
+Developer: Henter-Joyce
+Release years: 1989
+Runs on: MS-DOS
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Not documented
+Successors: JAWS for Windows (Freedom Scientific, January 1995 (1.0) to present (2026))
+
+Ports:
+Not applicable (software)
+
+Operating System:
+MS-DOS
+Operating system history: JAWS versions
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/FreedomScientific
+Source 2: https://ashton.codes/dai11y-19-01-2021/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

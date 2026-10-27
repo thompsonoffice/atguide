@@ -1,0 +1,46 @@
+Linux (on blindness devices)
+Company: Linux accessibility community
+Category: Operating system or software version history
+Versions listed: 4
+
+Overview:
+Linux-based devices and accessible distributions.
+
+Version History:
+
+Version 1: Linux (StrongARM)
+Released: 2001
+Notes: Papenmeier ELBA.
+
+Version 2: Linux 2.6.18
+Released: 2006 to 2007
+Notes: LevelStar Icon and APH Braille+.
+
+Version 3: Arch Linux base
+Released: 2020s
+Notes: Jenux.
+
+Version 4: Ubuntu MATE 22.04 / 24.04
+Released: 2020s
+Notes: Accessible-Coconut.
+
+Devices and Software That Ran It:
+Papenmeier ELBA (F.H. Papenmeier, 2001)
+LevelStar Icon Mobile Manager (LevelStar, December 2006)
+APH Braille+ Mobile Manager (American Printing House for the Blind (APH), May 2007 to 2012)
+Jenux (Linux accessibility community, Not documented (active in 2023 and 2026))
+Accessible-Coconut (Zendalona, Releases through 22.04.04 (ISO July 2025) and 24.04.01)
+Vinux (Linux accessibility community, 2008 to January 18, 2017 (discontinued))
+Sonar GNU/Linux (Linux accessibility community, By 2015 (exact year not documented))
+Talking Arch (Linux accessibility community, Not documented (last release reported in 2017))
+Oralux (Linux accessibility community, July 3, 2003 (0.03))
+ADRIANE (Knoppix) (Linux accessibility community, Since KNOPPIX 5.3 (ADRIANE 1.7 in KNOPPIX 7.4.1))
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://linuxdevices.org/device-profile-levelstar-icon-pda-for-visually-impaired-users/index.html
+Source 2: https://github.com/zendalona/accessible-coconut
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

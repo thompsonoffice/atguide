@@ -1,0 +1,39 @@
+Albert (Apple)
+Company: Apple
+Category: TTS Voices
+Released: MacinTalk 3 (1994)
+
+Overview:
+A croaky novelty voice, age 30. Phrase: 'I have a frog in my throat. No, I mean a real frog!'
+
+Specs:
+Maker: Apple
+First released: MacinTalk 3 (1994)
+Synthesis type: MacinTalk 3
+Platforms: System 7 and later
+Default on or shipped with: Not documented
+Price: Not documented
+Shipped with or used by: MacinTalk 3
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Added in the 1994 MacinTalk voice set.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+System 7 and later
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://discmaster.textfiles.com/view/21387/Macformat17.cdr/Shareware%20City/Sound/Talking%20Eggs%201.0/Talking%20Eggs%20ReadMe
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

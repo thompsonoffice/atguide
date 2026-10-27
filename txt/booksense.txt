@@ -1,0 +1,42 @@
+BookSense
+Company: HIMS / Selvas BLV
+Category: Book Readers
+Released: 2009
+
+Overview:
+A pocket DAISY and MP3 player from HIMS.
+
+Specs:
+Released: 2009
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+47 x 108 x 18.5 mm, 115 g.
+
+Features:
+Not documented
+
+History:
+Not documented
+Successors: BookSense XT (HIMS / Selvas BLV, 2009); BookSense DS (HIMS / Selvas BLV, 2010)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.himsintl.com/en/company/prdhistory.php
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

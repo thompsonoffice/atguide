@@ -1,0 +1,39 @@
+AT&T Natural Voices (Crystal, Mike)
+Company: AT&T Labs (Natural Voices)
+Category: TTS Voices
+Released: Not documented
+
+Overview:
+AT&T Labs voices. In 2007 Engadget treated them as a high-end benchmark when comparing Apple's Alex.
+
+Specs:
+Maker: AT&T Labs (Natural Voices)
+First released: Not documented
+Synthesis type: Concatenative
+Platforms: Windows (SAPI)
+Default on or shipped with: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows (SAPI)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://jctnpedia.fandom.com/wiki/Text-to-SpeechDownloadablesList
+Source 2: https://www.engadget.com/2007-10-26-24-hours-of-leopard-alex-the-new-voice-of-mac-os-x.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

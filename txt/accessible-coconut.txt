@@ -1,0 +1,45 @@
+Accessible-Coconut
+Company: Zendalona
+Category: Accessible Linux
+Released: Releases through 22.04.04 (ISO July 2025) and 24.04.01
+
+Overview:
+A community GNU/Linux distribution based on Ubuntu MATE, fully accessible without vision.
+
+Specs:
+Developer: Zendalona
+Release years: Releases through 22.04.04 (ISO July 2025) and 24.04.01
+Runs on: Ubuntu MATE base (22.04 and 24.04 series)
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Screen reader with speech and braille
+Print reading with a scanner
+Six-key braille input
+Typing tutor, math tutor, accessible chess
+DAISY player and ebook speaker
+Console (TTY) screen reader
+Screen magnification
+
+History:
+Not documented
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Ubuntu MATE base (22.04 and 24.04 series)
+Operating system history: Linux (on blindness devices)
+
+System Requirements:
+64-bit (amd64) PC; ISO about 3.7 GB (22.04.04)
+
+Sources:
+Source 1: https://github.com/zendalona/accessible-coconut
+Source 2: https://sourceforge.net/projects/accessible-coconut/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

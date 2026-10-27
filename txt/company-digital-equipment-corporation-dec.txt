@@ -1,0 +1,28 @@
+Digital Equipment Corporation (DEC)
+Type: Company profile
+Founded: Not documented
+Products listed: 10
+
+History:
+Commercialized Dennis Klatt's MITalk/Klattalk research as DECtalk in 1984. The DECtalk intellectual property later passed to Fonix.
+
+Products:
+DECtalk Beautiful Betty (TTS Voices, 1984)
+DECtalk Doctor Dennis (TTS Voices, 1984)
+DECtalk DTC01 (Speech Synthesizers, 1984)
+DECtalk Frail Frank (TTS Voices, 1984)
+DECtalk Huge Harry (TTS Voices, 1984)
+DECtalk Kit the Kid (TTS Voices, 1984)
+DECtalk Perfect Paul (TTS Voices, 1984 to present (via DECtalk software))
+DECtalk Rough Rita (TTS Voices, 1984)
+DECtalk Uppity Ursula (TTS Voices, 1984)
+DECtalk Whispering Wendy (TTS Voices, 1984)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/DECtalk
+Source 2: https://tcscasa.org/klatts-history-of-speech-synthesis/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

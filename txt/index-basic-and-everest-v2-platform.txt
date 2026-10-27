@@ -1,0 +1,44 @@
+Index Basic and Everest (V2 platform)
+Company: Index Braille
+Category: Embossers
+Released: 1995
+
+Overview:
+The second Index platform. A user in Chandigarh reports using a Basic-D since 1997.
+
+Specs:
+Released: 1995
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: Index Everest-D (V1) (Index Braille, 1992)
+Successors: Index V3 platform (Index Braille, 2002 to 2004)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.braillecast.com/podcast/e020/
+Source 2: https://indexbraille.com/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

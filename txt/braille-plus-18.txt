@@ -1,0 +1,48 @@
+Braille Plus 18
+Company: American Printing House for the Blind (APH)
+Category: PDAs
+Released: 2012 to February 2015 (discontinued)
+
+Overview:
+APH's Android device with an 18-cell, 8-dot braille display, billed as the world's first Android smartphone designed for blind students and professionals.
+
+Specs:
+Released: 2012 to February 2015 (discontinued)
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Android
+Default speech synthesizer: Not documented
+Battery: 4 to 6 hours to charge; about a full day of use
+Display or braille cells: 18 cells, 8-dot
+Price at launch: $3,599 (2012)
+
+Physical Description:
+Under 6.5 x 4.1 in and just over 1 in thick.
+
+Features:
+18-cell 8-dot braille display
+5 MP camera
+GPS, Wi-Fi and 3G
+
+History:
+The FCC honored it for innovation in communications technology in 2014. APH discontinued it in February 2015.
+Predecessors: APH Braille+ Mobile Manager (American Printing House for the Blind (APH), May 2007 to 2012)
+
+Ports:
+SD card, USB
+
+Operating System:
+Android
+Operating system history: Android (on blindness devices)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://tech.aph.org/plusdoc.htm
+Source 2: http://nfbnet.org/pipermail/nfbmi-talknfbnet.org/2012-October/008078.html
+Source 3: https://thedotexperience.pastperfectonline.com/Webobject/B4C197A5-6F06-4D35-BDA9-045150994936
+Source 4: https://sites.aph.org/pr/20140611-fcc-honors-american-printing-house-for-the-blinds-braille-plus-18-for-innovation-in-communications-technology/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

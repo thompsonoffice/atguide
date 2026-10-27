@@ -1,0 +1,46 @@
+BrailleSense Polaris
+Company: HIMS / Selvas BLV
+Category: BrailleSense
+Released: 2017
+
+Overview:
+The first Android-based BrailleSense.
+
+Specs:
+Released: 2017
+Processor: Samsung Exynos 7420
+Memory (RAM): 3 GB
+Storage: 64 GB
+Operating system: Android 5.1.1
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 32 cells
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Firmware 3.4 (April 2020) added Google Drive access from the File Manager.
+Predecessors: BrailleSense U2 (Perkins-keyboard edition) (HIMS / Selvas BLV, July 2012)
+Successors: BrailleSense 6 (HIMS / Selvas BLV, 2021)
+
+Ports:
+Not documented
+
+Operating System:
+Android 5.1.1
+Operating system history: HIMS BrailleSense software
+Operating system history: Android (on blindness devices)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.himsintl.com/en/company/prdhistory.php
+Source 2: https://www.perkins.org/resource/braillesense-polaris-april-2020-firmware-upgrade/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

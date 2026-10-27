@@ -1,0 +1,38 @@
+Microsoft Mike
+Company: Microsoft
+Category: TTS Voices
+Released: Windows 2000 / XP era
+
+Overview:
+An optional male voice, downloadable for Windows 2000 and XP.
+
+Specs:
+Maker: Microsoft
+First released: Windows 2000 / XP era
+Synthesis type: Not documented
+Platforms: Windows (SAPI 4 and 5)
+Default on or shipped with: None (optional download)
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+SAPI 5 versions were distributed as a Merge Module and installed by apps such as Microsoft Reader. It does not work on Windows 7 without third-party software.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows (SAPI 4 and 5)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/Microsofttext-to-speechvoices
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

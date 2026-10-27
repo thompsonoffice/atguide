@@ -1,0 +1,29 @@
+outSPOKEN versions
+Company: Berkeley Systems
+Category: Operating system or software version history
+Versions listed: 2
+
+Overview:
+outSPOKEN milestones.
+
+Version History:
+
+Version 1: outSPOKEN for Macintosh
+Released: 1989
+Notes: Off-screen model; mouse pointer used as a review cursor.
+
+Version 2: outSPOKEN for Windows
+Released: 1994
+Notes: For Windows 3.1.
+
+Devices and Software That Ran It:
+outSPOKEN for Macintosh (Berkeley Systems, 1989)
+outSPOKEN for Windows (Berkeley Systems, 1994)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/OutSPOKEN
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

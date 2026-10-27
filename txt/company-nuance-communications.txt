@@ -1,0 +1,24 @@
+Nuance Communications
+Type: Company profile
+Founded: Not documented
+Products listed: 5
+
+History:
+Through acquisitions, including SpeechWorks (which bought Eloquent Technology in January 2001), Rhetorical (2004) and SVOX (2011), it owned the Eloquence, RealSpeak and Vocalizer speech engines. It also made the TALKS and ZOOMS software for Symbian phones.
+
+Products:
+Nuance Daniel (TTS Voices, By 2016 (updated in Vocalizer Expressive 2.2))
+Nuance Samantha (TTS Voices, By 2016 (updated in Vocalizer Expressive 2.2))
+Nuance TALKS (and ZOOMS) (Screen Readers, By 2004 to about 2013)
+Nuance Tom (TTS Voices, By 2016 (updated in Vocalizer Expressive 2.2))
+Nuance Vocalizer / RealSpeak (engine) (TTS Voices, 2000s to present (first release not documented))
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://www.synfonicaspeech.com/about
+Source 2: http://truegryc.blogspot.com/2011/06/nuance-corporate-acquisition-history.html
+Source 3: https://afb.org/aw/8/1/14407
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

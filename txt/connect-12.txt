@@ -1,0 +1,43 @@
+Connect 12
+Company: HumanWare
+Category: Magnifiers
+Released: 2nd generation 2017; current tablet on Android 12
+
+Overview:
+A 12-inch Android magnifier tablet with a folding stand, OCR in 58 languages and TTS in 20.
+
+Specs:
+Released: 2nd generation 2017; current tablet on Android 12
+Processor: Quad-core
+Memory (RAM): Not documented
+Storage: 32 GB eMMC
+Operating system: Android 12
+Default speech synthesizer: Not documented
+Battery: 7+ hours (tablet), 4.5 hours with stand light
+Display or braille cells: 11.6-inch 1920x1080; live 1x to 40x; 13 MP camera
+Price at launch: Not documented
+
+Physical Description:
+Folded 240 x 400 x 29 mm, 1,940 g. Tablet alone 301 x 186 x 10 mm, 840 g.
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: Prodigi (HumanWare, Announced 2013)
+
+Ports:
+USB-C, 3.5 mm jack, Wi-Fi a/b/g/n/ac, Bluetooth 5.0, GPS, microSD up to 64 GB
+
+Operating System:
+Android 12
+Operating system history: Android (on blindness devices)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://store.humanware.com/int/connect-12-smart-portable-hd-magnifier.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

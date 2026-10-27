@@ -1,0 +1,30 @@
+Microsoft
+Type: Company profile
+Founded: 1975
+Products listed: 11
+
+History:
+Narrator shipped with Windows 2000 on February 17, 2000. Default voices: Microsoft Sam (Windows 2000 and XP), Anna (Vista and 7), and David, Zira and Hazel (Windows 8). Narrator gained braille support in 2017.
+
+Products:
+Microsoft Mary (TTS Voices, Windows 2000 / XP era)
+Microsoft Mike (TTS Voices, Windows 2000 / XP era)
+Microsoft Narrator (Screen Readers, February 17, 2000 to present)
+Microsoft Sam (TTS Voices, 2000 (Windows 2000) to Windows XP)
+Microsoft Anna (TTS Voices, Windows Vista (2007) and Windows 7)
+Microsoft David (TTS Voices, Windows 8 (2012) to present)
+Microsoft Hazel (TTS Voices, Windows 8 to present)
+Microsoft Zira (TTS Voices, Windows 8 to present)
+Microsoft George (TTS Voices, Windows 10 / 11 (year not documented))
+Microsoft Mark (TTS Voices, Windows 10 / 11 (year not documented))
+Microsoft Screen Reader (requested entry) (Screen Readers, Not documented)
+
+Operating System and Software Histories:
+Windows CE / Windows Mobile (on notetakers and PDAs)
+Narrator versions
+
+Sources:
+Source 1: https://abilitynet.org.uk/news-blogs/microsoft-narrator-turns-21-we-celebrate-coming-age
+Source 2: https://en.wikipedia.org/wiki/Microsofttext-to-speechvoices
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,33 @@
+Freedom Scientific
+Type: Company profile
+Founded: 2000
+Products listed: 15
+
+History:
+Formed in 2000 from Henter-Joyce (JAWS), Arkenstone's reading-machine line (OpenBook) and Blazie Engineering (Braille 'n Speak). Makes JAWS, the Focus braille displays, PAC Mate and the TOPAZ and RUBY magnifiers. In late 2015 Vector Capital merged it with Optelec to form VFO, which was renamed Vispero in 2018. Freedom Scientific remains a Vispero brand.
+
+Products:
+ZoomText (Windows) / Fusion (Screen Readers, 1991 to present)
+PowerBraille 40 (Braille Displays, 1994 (TSI introduced the PowerBraille line))
+PowerBraille 80 (Braille Displays, 1994 (TSI introduced the PowerBraille line))
+JAWS for Windows (Screen Readers, January 1995 (1.0) to present (2026))
+Braille Lite M20 / M40 (Notetakers, 2002)
+PAC Mate BX400 / QX400 (PDAs, 2002 (AccessWorld); some sources say 2003)
+Focus 44 / 70 / 84 (Braille Displays, 2004)
+TOPAZ (Magnifiers, December 2005)
+SARA scanning and reading appliance (Other, 2006)
+PAC Mate Omni (PDAs, Fall 2007)
+RUBY (Magnifiers, June/July 2009)
+RUBY HD (Magnifiers, January 2014)
+TOPAZ OCR (Magnifiers, December 15, 2017)
+Focus 40 Blue (5th generation) (Braille Displays, 2019)
+Focus 14 Blue (5th generation) (Braille Displays, 5th generation (year not documented))
+
+Operating System and Software Histories:
+JAWS versions
+ZoomText versions
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/FreedomScientific
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

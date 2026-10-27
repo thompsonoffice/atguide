@@ -1,0 +1,42 @@
+MacinTalk 2
+Company: Apple
+Category: TTS Voices
+Released: 1992 to 1994 (v1.2)
+
+Overview:
+A moderate-quality engine for low-end Macs (minimum a Mac Plus running System 6.0.7). Its ten voices were Ben, Boris, Brenda, Mariel, Marvin, Mr. Hughes, Otis, RoboVox, Votron and Xero.
+
+Specs:
+Maker: Apple
+First released: 1992 to 1994 (v1.2)
+Synthesis type: Concatenative (per a 1990s product survey)
+Platforms: System 6 and 7; about 150 KB of memory
+Default on or shipped with: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Shipped with Speech Manager 1.2.1. It was almost immediately made obsolete by MacinTalk 3.
+Predecessors: MacinTalk (original) (Apple, 1984 (MacinTalk 1.1 May 1985))
+Successors: MacinTalk 3 (Apple, 1994 to 1995 (v1.4 in 1995); standard until Mac OS X)
+
+Ports:
+Not applicable (software)
+
+Operating System:
+System 6 and 7; about 150 KB of memory
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.cs.cmu.edu/Groups/AI/util/pubs/faqs/speech/mac.txt
+Source 2: https://github.com/tgeczy/outspoken-nvda
+Source 3: http://piisami.net/dippa/appb.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

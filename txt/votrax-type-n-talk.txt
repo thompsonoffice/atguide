@@ -1,0 +1,42 @@
+Votrax Type 'N Talk
+Company: Votrax
+Category: Speech Synthesizers
+Released: 1980
+
+Overview:
+A stand-alone text-to-speech box built on the SC-01A phoneme chip.
+
+Specs:
+Released: 1980
+Processor: Motorola MC6802
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Votrax SC-01A
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+Voices: Votrax SC-01 phoneme voice
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Serial
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/Votrax
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,35 @@
+Braille 'n Speak firmware
+Company: Blazie Engineering
+Category: Operating system or software version history
+Versions listed: 2
+
+Overview:
+The built-in software of Blazie's notetakers. Version-by-version history was not found in the sources researched.
+
+Version History:
+
+Version 1: Original
+Released: 1987
+Notes: Notetaking, calculator and clock in 200K nonvolatile memory.
+
+Version 2: Braille 'n Speak 2000
+Released: 1990s
+Notes: Ran from 2 MB flash with 768 KB RAM.
+
+Devices and Software That Ran It:
+Braille 'n Speak (original) (Blazie Engineering, 1987 to 1990s)
+Braille 'n Speak Classic (Blazie Engineering, Name later given to the original line)
+Braille 'n Speak 2000 (Blazie Engineering, 1997)
+Type 'n Speak (Blazie Engineering, Not documented)
+Braille Lite 18 (Blazie Engineering, Summer 1993)
+Braille Lite 40 (Blazie Engineering, After 1993 (year not documented))
+Braille Lite M20 / M40 (Freedom Scientific, 2002)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.duxburysystems.org/downloads/library/news/new62.htm
+Source 2: https://www.freedomscientific.com
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

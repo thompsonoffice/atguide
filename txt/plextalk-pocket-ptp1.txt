@@ -1,0 +1,41 @@
+Plextalk Pocket PTP1
+Company: Shinano Kenshi (Plextalk)
+Category: Book Readers
+Released: Not documented
+
+Overview:
+A pocket DAISY player and recorder.
+
+Specs:
+Released: Not documented
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+55 x 112 x 16 mm, 110 g.
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.plextalk.com
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

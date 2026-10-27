@@ -1,0 +1,39 @@
+DECtalk Whispering Wendy
+Company: Digital Equipment Corporation (DEC)
+Category: TTS Voices
+Released: 1984
+
+Overview:
+The whispery female DECtalk voice, selected with [:nw].
+
+Specs:
+Maker: Digital Equipment Corporation (DEC)
+First released: 1984
+Synthesis type: Formant
+Platforms: DECtalk
+Default on or shipped with: Not documented
+Price: Not documented
+Shipped with or used by: DECtalk DTC01
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+One of DECtalk's nine built-in voices.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+DECtalk
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://dectalk.nu/Artists/Jayson%20Smith/Text/sample.txt
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

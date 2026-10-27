@@ -1,0 +1,47 @@
+PAC Mate BX400 / QX400
+Company: Freedom Scientific
+Category: PDAs
+Released: 2002 (AccessWorld); some sources say 2003
+
+Overview:
+An accessible Pocket PC running JAWS for Pocket PC, with a braille (BX) or QWERTY (QX) keyboard and optional 20- or 40-cell braille.
+
+Specs:
+Released: 2002 (AccessWorld); some sources say 2003
+Processor: Intel XScale 400 MHz
+Memory (RAM): 64 MB
+Storage: 32 MB flash
+Operating system: Windows CE.NET 4.2 / Pocket PC 2003
+Default speech synthesizer: Eloquence
+Battery: 4,320 mAh
+Display or braille cells: Not documented
+Price at launch: BX/QX400 $2,395; 420 (20 cells) $3,795; 440 (40 cells) $5,595
+Voices: ETI-Eloquence (engine)
+
+Physical Description:
+Not documented
+
+Features:
+JAWS for Pocket PC
+Two CompactFlash Type II slots
+
+History:
+AccessWorld (2005) says the PAC Mate was first released in 2002. The braille display detaches: a 40-cell BX weighs about 4 lb, and under 2 lb without the display. Its software included FS Edit.
+Successors: PAC Mate Omni (Freedom Scientific, Fall 2007)
+
+Ports:
+USB OTG (mini-USB), IrDA, 2 CF Type II slots, headphone and microphone jacks
+
+Operating System:
+Windows CE.NET 4.2 / Pocket PC 2003
+Operating system history: Windows CE / Windows Mobile (on notetakers and PDAs)
+Operating system history: JAWS versions
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: http://www2.freedomscientific.com/fsproducts/PACmatebx400info.asp
+Source 2: https://www.afb.org/aw/6/3/14628
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

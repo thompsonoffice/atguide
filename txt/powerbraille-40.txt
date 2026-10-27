@@ -1,0 +1,42 @@
+PowerBraille 40
+Company: Freedom Scientific
+Category: Braille Displays
+Released: 1994 (TSI introduced the PowerBraille line)
+
+Overview:
+A 40-cell desktop display.
+
+Specs:
+Released: 1994 (TSI introduced the PowerBraille line)
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 40 cells
+Price at launch: Not documented
+
+Physical Description:
+14 x 13 x 1.5 in, 5 lb.
+
+Features:
+Not documented
+
+History:
+Telesensory introduced the PowerBraille line in 1994. Blazie Engineering bought TSI's blindness division in about 1998 and kept selling PowerBraille displays, including an unusual 65-cell model; the line later passed to Freedom Scientific.
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.freedomscientific.com
+Source 2: https://sites.aph.org/museum-virtual-exhibit/vex2/B9113F0E-60F5-4EC7-87DC-908226712520.htm
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

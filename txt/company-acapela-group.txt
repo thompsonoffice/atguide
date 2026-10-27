@@ -1,0 +1,19 @@
+Acapela Group
+Type: Company profile
+Founded: 2003 (merger of Babel Technologies, Elan Speech and Infovox)
+Products listed: 1
+
+History:
+A European TTS company. Its voices are the default in the Victor Reader Stream 2 and 3 and the Victor Reader Trek.
+
+Products:
+Acapela voices (TTS Voices, Not documented)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://www.humanware.com/microsite/stream/index.html
+Source 2: https://www.acapela-group.com/voiceai-people-behind-technology-at-acapela-group/company-timeline/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

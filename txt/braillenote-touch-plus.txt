@@ -1,0 +1,48 @@
+BrailleNote Touch Plus
+Company: HumanWare
+Category: Notetakers
+Released: 2019
+
+Overview:
+An updated Touch with a much faster processor and newer Android.
+
+Specs:
+Released: 2019
+Processor: Qualcomm Snapdragon 820, quad-core Kryo 2.2 GHz
+Memory (RAM): 4 GB LPDDR4
+Storage: 64 GB flash
+Operating system: Android 8.1 Oreo with KeySoft
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 18 or 32 cells
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+21 MP camera
+TalkBack-based accessibility
+
+History:
+It launched in February 2019 with Android 8.1. A September 2025 update (after about three years without one) renamed KeyMath to KeyGraph and added KeyRecorder, according to user reports; the device stayed on Android 8.1.
+Predecessors: BrailleNote Touch (HumanWare, 2016)
+Successors: BrailleNote Evolve (HumanWare, Announced November 2025, launched 2026)
+
+Ports:
+USB-C (USB 3.0 speed), HDMI with audio, Wi-Fi a/b/g/n/ac 2x2, Bluetooth 4.2
+
+Operating System:
+Android 8.1 Oreo with KeySoft
+Operating system history: KeySoft
+Operating system history: Android (on blindness devices)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.humanware.com/wp-content/uploads/2024/10/BrailleNote-Touch-Plus-Frequently-Asked-Questions.html
+Source 2: https://www.perkins.org/resource/braillenote-touch-plus-update/
+Source 3: https://www.applevis.com/forum/assistive-technology/braille-note-touch-plus-finally-get-update-after-three-whole-years-what
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

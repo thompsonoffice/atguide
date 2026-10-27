@@ -1,0 +1,42 @@
+Keynote talking word processor
+Company: Pulse Data International
+Category: Notetakers
+Released: 1986
+
+Overview:
+A portable talking word processor from the Wormald Sensory Aids team, Pulse Data's predecessor.
+
+Specs:
+Released: 1986
+Processor: Epson HX-20 platform
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Built on the Epson HX-20 portable computer with Keyword software, under Russell Smith.
+Successors: BrailleNote Classic (BT/QT) (Pulse Data International, April 2000 (shipping from June 2000))
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/6/6/14572
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

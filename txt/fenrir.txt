@@ -1,0 +1,42 @@
+Fenrir
+Company: Linux accessibility community
+Category: Screen Readers
+Released: Repository July 2016; 1.0 released February 7, 2017
+
+Overview:
+A modern, modular user-space console screen reader written in Python 3.
+
+Specs:
+Developer: Linux accessibility community
+Release years: Repository July 2016; 1.0 released February 7, 2017
+Runs on: Linux (vcsa, evdev and pty drivers); macOS, BSD and Windows through the pty driver
+Default speech: espeak or espeak-ng via the generic driver (default); Speech Dispatcher
+Price: Not documented
+Voices: eSpeak NG
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+The GitHub project (chrys87/fenrir) was created in July 2016, and version 1.0 was announced on February 7, 2017. Development later moved to a new home. It runs on Linux and, through its pty driver, on macOS, BSD and Windows.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Linux (vcsa, evdev and pty drivers); macOS, BSD and Windows through the pty driver
+
+System Requirements:
+Python 3.3 or later
+Linux evdev input: python-evdev 0.6.3 or later, pyudev, uinput kernel module
+vcsa screen driver: python-dbus and read access to /dev/vcsa
+Speech: espeak or espeak-ng, or Speech Dispatcher with python-speechd
+
+Sources:
+Source 1: https://github.com/chrys87/fenrir
+Source 2: https://lists.gnome.org/archives/orca-list/2017-February/msg00079.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

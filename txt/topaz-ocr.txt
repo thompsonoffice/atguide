@@ -1,0 +1,42 @@
+TOPAZ OCR
+Company: Freedom Scientific
+Category: Magnifiers
+Released: December 15, 2017
+
+Overview:
+A TOPAZ with OCR and speech.
+
+Specs:
+Released: December 15, 2017
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 24-inch screen, 1.9x to 67x
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: TOPAZ (Freedom Scientific, December 2005)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://vispero.com
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

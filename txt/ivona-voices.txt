@@ -1,0 +1,39 @@
+IVONA voices
+Company: IVONA Software
+Category: TTS Voices
+Released: Acquired by Amazon January 2013
+
+Overview:
+IVONA's TTS powered Kindle Fire accessibility features.
+
+Specs:
+Maker: IVONA Software
+First released: Acquired by Amazon January 2013
+Synthesis type: Not documented
+Platforms: Kindle Fire and others
+Default on or shipped with: Kindle Fire text-to-speech
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Amazon announced the acquisition of IVONA Software on January 24, 2013.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Kindle Fire and others
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://press.aboutamazon.com/2013/1/amazon-com-announces-acquisition-of-ivona-software
+Source 2: https://www.theverge.com/2013/1/24/3911056/amazon-acquires-kindle-fire-text-to-speech-provider-but-this-isnt
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

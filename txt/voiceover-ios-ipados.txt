@@ -1,0 +1,38 @@
+VoiceOver (iOS / iPadOS)
+Company: Apple
+Category: Screen Readers
+Released: iPhone 3GS (2009) to present
+
+Overview:
+The gesture-based touchscreen screen reader that made the iPhone accessible to blind users.
+
+Specs:
+Developer: Apple
+Release years: iPhone 3GS (2009) to present
+Runs on: iOS 3 and later
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Arrived with the iPhone 3GS in 2009, then the 3rd-generation iPod touch, and the iPad from its launch. Later added braille display support (iOS 4, 2010), Braille Screen Input (iOS 8, 2014) and Braille Access (2025).
+
+Ports:
+Not applicable (software)
+
+Operating System:
+iOS 3 and later
+Operating system history: VoiceOver versions
+
+System Requirements:
+iPhone 3GS or later (first supported hardware)
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/VoiceOver
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

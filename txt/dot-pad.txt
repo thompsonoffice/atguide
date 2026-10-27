@@ -1,0 +1,41 @@
+Dot Pad
+Company: Dot Inc.
+Category: Braille Displays
+Released: 2021
+
+Overview:
+A tactile graphics display.
+
+Specs:
+Released: 2021
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: 10,000 mAh
+Display or braille cells: 2,400 pins
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.dotincorp.com
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

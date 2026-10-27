@@ -1,0 +1,41 @@
+SARA scanning and reading appliance
+Company: Freedom Scientific
+Category: Other
+Released: 2006
+
+Overview:
+A stand-alone scanner and reader.
+
+Specs:
+Released: 2006
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: 60 GB hard drive
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+20 x 12 x 3.5 in, 18 lb.
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.freedomscientific.com
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

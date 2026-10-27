@@ -1,0 +1,39 @@
+Nuance Daniel
+Company: Nuance Communications
+Category: TTS Voices
+Released: By 2016 (updated in Vocalizer Expressive 2.2)
+
+Overview:
+A UK English male Vocalizer voice.
+
+Specs:
+Maker: Nuance Communications
+First released: By 2016 (updated in Vocalizer Expressive 2.2)
+Synthesis type: Not documented
+Platforms: Nuance Vocalizer (enterprise and Expressive); JAWS 18 and later
+Default on or shipped with: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+A British English male Nuance Vocalizer voice. Freedom Scientific's JAWS 18 notes describe Samantha, Tom, Daniel and Karen as familiar voices updated for Vocalizer Expressive 2.2, and Nuance's Vocalizer documentation lists Daniel. The first release date is not documented.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Nuance Vocalizer (enterprise and Expressive); JAWS 18 and later
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://docs.nuance.com/nuance-vocalizer-for-enterprise/voc-dev/lang.html
+Source 2: https://saomaicenter.org/en/blog/whats-new-jaws-180
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

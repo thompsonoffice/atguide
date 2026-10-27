@@ -1,0 +1,19 @@
+IVONA Software
+Type: Company profile
+Founded: 2001 (Łukasz Osowski and Michał Kaszczuk, Gdańsk)
+Products listed: 1
+
+History:
+A Polish TTS company whose voices powered Kindle Fire accessibility features. Amazon acquired it on January 24, 2013.
+
+Products:
+IVONA voices (TTS Voices, Acquired by Amazon January 2013)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://press.aboutamazon.com/2013/1/amazon-com-announces-acquisition-of-ivona-software
+Source 2: https://technews.tmcnet.com/ivr/topics/ivr/articles/324494-amazon-ivona-kindle-perhaps-mute-no-more.htm
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

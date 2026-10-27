@@ -1,0 +1,20 @@
+Votrax
+Type: Company profile
+Founded: 1971
+Products listed: 3
+
+History:
+A Federal Screw Works division that made the Votrax phoneme synthesizers, the SC-01 chip, the Type 'N Talk (1980) and the Personal Speech System (1982). A Votrax synthesizer voiced the first Kurzweil Reading Machine.
+
+Products:
+Votrax SC-01 phoneme voice (TTS Voices, 1980s)
+Votrax Type 'N Talk (Speech Synthesizers, 1980)
+Votrax Personal Speech System (Speech Synthesizers, 1982)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/Votrax
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

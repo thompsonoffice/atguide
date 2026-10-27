@@ -1,0 +1,44 @@
+Kurzweil Reading Machine
+Company: Kurzweil Computer Products
+Category: Other
+Released: Unveiled January 13, 1976
+
+Overview:
+The first print-to-speech reading machine for the blind.
+
+Specs:
+Released: Unveiled January 13, 1976
+Processor: Not documented
+Memory (RAM): 64 KB
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Votrax (first generation)
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: $30,000 to $50,000
+Voices: Votrax SC-01 phoneme voice
+
+Physical Description:
+Processing unit 21 x 21.75 x 31.25 in.
+
+Features:
+Not documented
+
+History:
+Not documented
+Successors: K-NFB Reader (K-NFB Reading Technology, 2005)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.computerhistory.org/collections/catalog/X236.83
+Source 2: https://en.wikipedia.org/wiki/Votrax
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

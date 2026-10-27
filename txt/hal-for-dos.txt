@@ -1,0 +1,38 @@
+Hal for DOS
+Company: Dolphin Computer Access
+Category: Screen Readers
+Released: DOS era (year not documented)
+
+Overview:
+Dolphin's original Hal screen reader for DOS.
+
+Specs:
+Developer: Dolphin Computer Access
+Release years: DOS era (year not documented)
+Runs on: MS-DOS
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Not documented
+Successors: Hal for Windows (Dolphin Computer Access, By 1997 (Hal 1.04 for Windows 95))
+
+Ports:
+Not applicable (software)
+
+Operating System:
+MS-DOS
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/Listofscreenreaders
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

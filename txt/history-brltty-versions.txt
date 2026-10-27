@@ -1,0 +1,41 @@
+BRLTTY versions
+Company: Linux accessibility community
+Category: Operating system or software version history
+Versions listed: 5
+
+Overview:
+BRLTTY milestones.
+
+Version History:
+
+Version 1: 0.22 beta
+Released: December 1995
+Notes: First announced release.
+
+Version 2: 1.0
+Released: July 26, 1996
+Notes: Drivers for CombiBraille, ALVA and TSI Navigator.
+
+Version 3: 1.0.1
+Released: September 1996
+Notes: Initial speech support.
+
+Version 4: 1.9.0
+Released: 1998
+Notes: Nicolas Pitre becomes maintainer.
+
+Version 5: 2001 onward
+Released: 2001
+Notes: Dave Mielke becomes maintainer.
+
+Devices and Software That Ran It:
+BRLTTY (Linux accessibility community, 1995 (0.22 beta) to present)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://brltty.app/pipermail/brltty/2015-December/013007.html
+Source 2: https://www.ibiblio.org/pub/historic-linux/ftp-archives/sunsite.unc.edu/Sep-29-1996/system/Access/brltty-1.0.2.README
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

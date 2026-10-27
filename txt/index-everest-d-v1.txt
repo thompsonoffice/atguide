@@ -1,0 +1,44 @@
+Index Everest-D (V1)
+Company: Index Braille
+Category: Embossers
+Released: 1992
+
+Overview:
+A cut-sheet embosser that Index describes as the first double-sided small printer.
+
+Specs:
+Released: 1992
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: Index Blue Bar (Index Braille, Late 1980s)
+Successors: Index Basic and Everest (V2 platform) (Index Braille, 1995)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://indexbraille.com/about-us/
+Source 2: https://www.braillecast.com/podcast/e020/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,18 @@
+Code Factory
+Type: Company profile
+Founded: Not documented (first products 1999)
+Products listed: 1
+
+History:
+A Spanish company. It released games for blind players from 1999, Mobile Accessibility for Symbian in 2003, Mobile Speak for Symbian in 2004, Mobile Speak for Windows Mobile Pocket PCs in 2005 and for smartphones in 2006. Nokia partnered with it in 2007. It now sells the Eloquence TTS app for Android.
+
+Products:
+Mobile Speak (Screen Readers, 2004 (Symbian); 2005 (Pocket PC); 2006 (Smartphone))
+
+Operating System and Software Histories:
+Mobile Speak versions
+
+Sources:
+Source 1: https://codefactoryglobal.com/company/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

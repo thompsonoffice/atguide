@@ -1,0 +1,38 @@
+Blindows
+Company: BAUM Retec
+Category: Screen Readers
+Released: Not documented
+
+Overview:
+A Windows screen reader from Audiodata, later BAUM Retec, replaced by COBRA.
+
+Specs:
+Developer: BAUM Retec
+Release years: Not documented
+Runs on: Windows
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Not documented
+Successors: COBRA (BAUM Retec, Not documented)
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/Listofscreenreaders
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

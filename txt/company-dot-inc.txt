@@ -1,0 +1,19 @@
+Dot Inc.
+Type: Company profile
+Founded: 2015
+Products listed: 2
+
+History:
+A Korean company that makes the Dot Watch (2017), a braille smartwatch, and the Dot Pad (2021), a tactile graphics display. Its cells are used in the APH/HumanWare Monarch.
+
+Products:
+Dot Watch (Braille Displays, 2017)
+Dot Pad (Braille Displays, 2021)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://www.dotincorp.com
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

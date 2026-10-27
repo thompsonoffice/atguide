@@ -1,0 +1,42 @@
+Votrax Personal Speech System
+Company: Votrax
+Category: Speech Synthesizers
+Released: 1982
+
+Overview:
+A Z80-based external speech synthesizer.
+
+Specs:
+Released: 1982
+Processor: Zilog Z80
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+Voices: Votrax SC-01 phoneme voice
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/Votrax
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

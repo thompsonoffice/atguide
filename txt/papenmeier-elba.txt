@@ -1,0 +1,42 @@
+Papenmeier ELBA
+Company: F.H. Papenmeier
+Category: Notetakers
+Released: 2001
+
+Overview:
+An early Linux-based braille notetaker.
+
+Specs:
+Released: 2001
+Processor: StrongARM
+Memory (RAM): 32 MB
+Storage: 16 MB flash
+Operating system: Linux
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Linux
+Operating system history: Linux (on blindness devices)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

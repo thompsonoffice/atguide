@@ -1,0 +1,20 @@
+NeoSpeech
+Type: Company profile
+Founded: February 2002, as Voiceware's US subsidiary in San Jose
+Products listed: 1
+
+History:
+A TTS vendor whose US English voices included Paul, Julie and Kate. It later moved its hosting to Amazon. Its Kate voice was released in September 2001 and Paul in May 2002. Voiceware and NeoSpeech joined the ReadSpeaker brand in 2019.
+
+Products:
+NeoSpeech Kate, Paul and Julie (TTS Voices, Not documented)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://www.speechtechmag.com/Articles/News/News-Feature/NeoSpeech-Turns-TTS-Over-to-Amazon-Hosting--89128.aspx
+Source 2: https://en.wikipedia.org/wiki/NeoSpeech
+Source 3: https://www.prnewswire.com/news-releases/now-gathering-voiceware-neospeech-voicetext-and-rspeak-under-a-unified-umbrella-brand-readspeaker-consolidates-its-position-as-a-leading-text-to-speech-player-300803505.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

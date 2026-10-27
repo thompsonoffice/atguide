@@ -1,0 +1,18 @@
+Ai Squared
+Type: Company profile
+Founded: Not documented
+Products listed: 1
+
+History:
+Maker of ZoomText, which appeared for DOS in 1988 and Windows in 1991. Merged with GW Micro in 2014 and joined VFO in June 2016. ZoomText is now sold by Freedom Scientific.
+
+Products:
+ZoomText for DOS (Screen Readers, 1988)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/18/6/15200
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

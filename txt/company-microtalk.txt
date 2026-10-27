@@ -1,0 +1,18 @@
+MicroTalk
+Type: Company profile
+Founded: Not documented
+Products listed: 1
+
+History:
+Maker of the ASAP (DOS) and ASAW (Windows) screen readers. The latest ASAP version found is from January 2002.
+
+Products:
+ASAP (Automatic Screen Access Program) (Screen Readers, DOS era; latest found version January 2002)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://allinaccess.com/happ/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

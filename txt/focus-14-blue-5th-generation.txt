@@ -1,0 +1,41 @@
+Focus 14 Blue (5th generation)
+Company: Freedom Scientific
+Category: Braille Displays
+Released: 5th generation (year not documented)
+
+Overview:
+A pocket 14-cell Focus.
+
+Specs:
+Released: 5th generation (year not documented)
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 14 cells
+Price at launch: Not documented
+
+Physical Description:
+195 x 78 x 19 mm, 283 g.
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.freedomscientific.com
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

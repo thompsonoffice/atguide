@@ -1,0 +1,42 @@
+eSpeak NG
+Company: eSpeak / eSpeak NG project
+Category: TTS Voices
+Released: Late 2015 to present
+
+Overview:
+The maintained fork of eSpeak, supporting over 100 languages. It can use Klatt synthesis or MBROLA voices.
+
+Specs:
+Maker: eSpeak / eSpeak NG project
+First released: Late 2015 to present
+Synthesis type: Formant (optionally Klatt or MBROLA)
+Platforms: Linux, Windows, Android and others
+Default on or shipped with: Fenrir generic speech driver; optional on Victor Reader Stream 3
+Price: Not documented
+Shipped with or used by: Victor Reader Stream (3rd generation); Fenrir
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Forked officially in late 2015 from Reece H. Dunn's GitHub maintenance branch (from 2010). In August 2024, version 1.52-dev supported 137 languages. HumanWare added it to the Stream 3 in firmware 1.7 (September 2026). Fenrir's default generic speech driver calls espeak or espeak-ng.
+Predecessors: eSpeak (eSpeak / eSpeak NG project, 2007 (origins 1995))
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Linux, Windows, Android and others
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://github.com/espeak-ng/espeak-ng
+Source 2: https://praat.org/manual/eSpeak.html
+Source 3: https://github.com/chrys87/fenrir
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

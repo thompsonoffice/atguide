@@ -1,0 +1,39 @@
+eSpeak
+Company: eSpeak / eSpeak NG project
+Category: TTS Voices
+Released: 2007 (origins 1995)
+
+Overview:
+A compact multilingual formant synthesizer, clear at high speeds.
+
+Specs:
+Maker: eSpeak / eSpeak NG project
+First released: 2007 (origins 1995)
+Synthesis type: Formant
+Platforms: Linux, Windows and others
+Default on or shipped with: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Jonathan Duddington started 'speak' for Acorn RISC OS in 1995 and rewrote it as eSpeak in 2007 with more languages. Development passed to eSpeak NG in 2015.
+Successors: eSpeak NG (eSpeak / eSpeak NG project, Late 2015 to present)
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Linux, Windows and others
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://github.com/espeak-ng/espeak-ng
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

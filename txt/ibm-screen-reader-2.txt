@@ -1,0 +1,38 @@
+IBM Screen Reader/2
+Company: IBM
+Category: Screen Readers
+Released: About 1992
+
+Overview:
+IBM's screen reader for OS/2 (and Windows under OS/2).
+
+Specs:
+Developer: IBM
+Release years: About 1992
+Runs on: OS/2
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: IBM Screen Reader (DOS) (IBM, 1986)
+
+Ports:
+Not applicable (software)
+
+Operating System:
+OS/2
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://sharktastica.co.uk/resources/docs/txt/IBM292-363SR21992IBM.txt
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

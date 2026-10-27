@@ -1,0 +1,42 @@
+Perkins Brailler
+Company: Perkins School for the Blind / Perkins Products
+Category: Embossers
+Released: 1951 to present
+
+Overview:
+A manual braillewriter (not an electronic embosser) designed by David Abraham. It is the classic tool for writing braille.
+
+Specs:
+Released: 1951 to present
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+Successors: SMART Brailler (Perkins School for the Blind / Perkins Products, 2012)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.perkins.org
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

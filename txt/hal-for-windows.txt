@@ -1,0 +1,40 @@
+Hal for Windows
+Company: Dolphin Computer Access
+Category: Screen Readers
+Released: By 1997 (Hal 1.04 for Windows 95)
+
+Overview:
+Dolphin's Windows screen reader, later superseded by Supernova and Dolphin ScreenReader.
+
+Specs:
+Developer: Dolphin Computer Access
+Release years: By 1997 (Hal 1.04 for Windows 95)
+Runs on: Windows 95 to XP
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Dolphin's 1997 schedule included Hal 1.04 for Windows 95. Later versions supported Windows 95, 98, ME, 2000, NT and XP.
+Predecessors: Hal for DOS (Dolphin Computer Access, DOS era (year not documented))
+Successors: Dolphin Supernova (Dolphin Computer Access, Version 8.01 in 2007 (earlier versions not documented))
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows 95 to XP
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://nfbcal.org/nfb-rd/1332.html
+Source 2: https://afb.org/aw/7/1/14545
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

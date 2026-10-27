@@ -1,0 +1,42 @@
+explorē 8
+Company: HumanWare
+Category: Magnifiers
+Released: Announced August 2017
+
+Overview:
+An 8-inch handheld HD magnifier with a touchscreen and physical buttons, and two cameras: one for close viewing and one for distance.
+
+Specs:
+Released: Announced August 2017
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: 4.5 to 7 hours
+Display or braille cells: 8-inch 1280x800, 2x to 30x, two 21 MP cameras
+Price at launch: $1,099 (2017)
+
+Physical Description:
+580 g.
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://store.humanware.com
+Source 2: https://afb.org/aw/18/9/15172
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

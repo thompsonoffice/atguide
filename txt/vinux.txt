@@ -1,0 +1,42 @@
+Vinux
+Company: Linux accessibility community
+Category: Accessible Linux
+Released: 2008 to January 18, 2017 (discontinued)
+
+Overview:
+An Ubuntu remaster for blind and visually impaired users by Tony Sales of RNC Hereford. It began as Vibuntu and was renamed Vinux in January 2009.
+
+Specs:
+Developer: Linux accessibility community
+Release years: 2008 to January 18, 2017 (discontinued)
+Runs on: Ubuntu-based
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Orca screen reader
+Speakup console speech
+Compiz magnifier
+USB braille display support
+
+History:
+Releases include 1.4 (March 2009), 1.5 (May 2009), 2.0 (September 2009), 3.0 (listed on DistroWatch on June 1, 2010) and 5.1 (January 18, 2017), the last.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Ubuntu-based
+Operating system history: Linux (on blindness devices)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/Vinux
+Source 2: https://lists.gnome.org/archives/gnome-accessibility-list/2009-March/msg00052.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,29 @@
+Linux accessibility community
+Type: Company profile
+Founded: Not documented
+Products listed: 10
+
+History:
+Independent open-source projects: Speakup (Kirk Reiser, 1998), BRLTTY (Nikhil Nair and James Bowden, 1995), Emacspeak (T. V. Raman, 1994), Fenrir (2016–2017) and the Jenux distribution (Daniel Nash).
+
+Products:
+Emacspeak (Screen Readers, October 1994 (open source April 1995) to present)
+BRLTTY (Screen Readers, 1995 (0.22 beta) to present)
+Speakup (Screen Readers, October 29, 1998 to present)
+Oralux (Accessible Linux, July 3, 2003 (0.03))
+Vinux (Accessible Linux, 2008 to January 18, 2017 (discontinued))
+Fenrir (Screen Readers, Repository July 2016; 1.0 released February 7, 2017)
+ADRIANE (Knoppix) (Accessible Linux, Since KNOPPIX 5.3 (ADRIANE 1.7 in KNOPPIX 7.4.1))
+Jenux (Accessible Linux, Not documented (active in 2023 and 2026))
+Sonar GNU/Linux (Accessible Linux, By 2015 (exact year not documented))
+Talking Arch (Accessible Linux, Not documented (last release reported in 2017))
+
+Operating System and Software Histories:
+Linux (on blindness devices)
+BRLTTY versions
+
+Sources:
+Source 1: https://lkml.iu.edu/9810.3/0735.html
+Source 2: https://brltty.app/pipermail/brltty/2015-December/013007.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

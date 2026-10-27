@@ -1,0 +1,42 @@
+DoubleTalk LT
+Company: RC Systems
+Category: Speech Synthesizers
+Released: About 1991 (APH Museum)
+
+Overview:
+An external serial DoubleTalk.
+
+Specs:
+Released: About 1991 (APH Museum)
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: RC8650 chipset
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+RS-232
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 2: https://aphmuseum.org/record/doubletalk-lt-speech-synthesizer/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

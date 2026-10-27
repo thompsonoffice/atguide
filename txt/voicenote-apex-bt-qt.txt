@@ -1,0 +1,44 @@
+VoiceNote Apex BT / QT
+Company: HumanWare
+Category: VoiceNotes
+Released: July 2010
+
+Overview:
+The voice-only Apex, introduced the Friday before the 2010 NFB convention. It is physically identical to the Apex, and HumanWare said a braille display could be added later.
+
+Specs:
+Released: July 2010
+Processor: Freescale i.MX31
+Memory (RAM): 256 MB
+Storage: 8 GB
+Operating system: Windows CE 6 with KeySoft
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: VoiceNote mPower BT / QT (HumanWare, 2005)
+
+Ports:
+Not documented
+
+Operating System:
+Windows CE 6 with KeySoft
+Operating system history: KeySoft
+Operating system history: Windows CE / Windows Mobile (on notetakers and PDAs)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/11/4/16038
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

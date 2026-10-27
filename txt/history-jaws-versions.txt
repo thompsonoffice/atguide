@@ -1,0 +1,147 @@
+JAWS versions
+Company: Freedom Scientific
+Category: Operating system or software version history
+Versions listed: 28
+
+Overview:
+JAWS release history and Windows support by version. Freedom Scientific releases a new major version around the end of October each year.
+
+Version History:
+
+Version 1: JAWS for DOS
+Released: 1989
+Notes: First JAWS, from Henter-Joyce (founded 1985).
+
+Version 2: JFW 1.0
+Released: January 1995
+Notes: First Windows version; Windows 3.1 and Windows for Workgroups 3.11.
+
+Version 3: 2.0
+Released: About 1996
+Notes: Windows 95 support.
+
+Version 4: 4.0
+Released: September 14, 2001
+Notes: Not documented
+
+Version 5: 4.5
+Released: August 30, 2002
+Notes: Quick navigation keys for web pages.
+
+Version 6: JAWS for Pocket PC
+Released: 2002 to 2003
+Notes: On PAC Mate.
+
+Version 7: 5.0
+Released: October 9, 2003
+Notes: Not documented
+
+Version 8: 6.0
+Released: March 3, 2005
+Notes: Internet licensing.
+
+Version 9: 7.0
+Released: October 14, 2005
+Notes: Runs from a thumb drive; Firefox support; dropped Windows 95.
+
+Version 10: 7.1
+Released: June 21, 2006
+Notes: Automatic updates; DOM-based web engine.
+
+Version 11: 8.0
+Released: November 17, 2006
+Notes: RealSpeak Solo voices; Windows Vista; dropped Windows 98 and ME.
+
+Version 12: 9.0
+Released: November 19, 2007
+Notes: Not documented
+
+Version 13: 10.0
+Released: November 3, 2008
+Notes: JAWS Tandem remote support.
+
+Version 14: 11.0
+Released: October 23, 2009
+Notes: Research It; shipped on DVD.
+
+Version 15: 12.0
+Released: October 21, 2010
+Notes: Settings Center, virtual ribbon, ARIA improvements.
+
+Version 16: 13.0
+Released: October 24, 2011
+Notes: Built-in OCR.
+
+Version 17: 14.0
+Released: October 22, 2012
+Notes: Windows 8 support; Flexible Web.
+
+Version 18: JAWS 15
+Released: Not documented
+Notes: Last version for Windows XP.
+
+Version 19: JAWS 17
+Released: Not documented
+Notes: Last version for Windows Vista.
+
+Version 20: JAWS 18
+Released: 2017
+Notes: Free migration target for Window-Eyes 9 owners; Vocalizer Expressive 2.2 voices.
+
+Version 21: JAWS 2018
+Released: October 2017
+Notes: Year-based naming begins.
+
+Version 22: Picture Smart
+Released: 2019
+Notes: Image description feature introduced.
+
+Version 23: JAWS 2021
+Released: 2020
+Notes: Last version for Windows 7.
+
+Version 24: JAWS 2022
+Released: 2021
+Notes: Minimum version for Windows 11 at its release.
+
+Version 25: JAWS 2023
+Released: 2022
+Notes: Dropped 32-bit systems; first with ARM64 (Windows 11) support.
+
+Version 26: JAWS 2024 March update
+Released: March 2024
+Notes: Picture Smart AI.
+
+Version 27: JAWS 2025
+Released: October 2024
+Notes: FSCompanion AI assistant; minimum for Windows 11 25H2.
+
+Version 28: JAWS 2026 (2026.2609.84)
+Released: September 2026 update
+Notes: AI page explorer, AI graphic labeling on by default, Java Swing improvements, braille text-attribute indicators, EPUB improvements. Eloquence and Vocalizer Expressive included.
+
+Devices and Software That Ran It:
+JAWS for DOS (Henter-Joyce, 1989)
+JAWS for Windows (Freedom Scientific, January 1995 (1.0) to present (2026))
+PAC Mate BX400 / QX400 (Freedom Scientific, 2002 (AccessWorld); some sources say 2003)
+PAC Mate Omni (Freedom Scientific, Fall 2007)
+
+System Requirements:
+Current: Windows 11, 10 or Server 2025, 2022, 2019 or 2016; x64, plus ARM64 on Windows 11
+2.0 GHz i5 dual-core; 16 GB RAM recommended; 2 GB disk, SSD recommended; DirectX 9 graphics (WDDM 1.0), 1024x768; sound card
+Windows 7: JAWS 2021 or earlier
+Windows Vista: JAWS 17 or earlier
+Windows XP: JAWS 15 or earlier
+JFW 1.0: Windows 3.1 or Windows for Workgroups 3.11
+
+Sources:
+Source 1: https://support.freedomscientific.com/Downloads/JAWS/jaws-system-requirements
+Source 2: https://sastltd.zohodesk.eu/portal/en/kb/articles/jaws-zoomtext-fusion-and-windows-11-0
+Source 3: https://www.avh.asso.fr/implantations/certam/evaluations-de-produits/jaws-version-2026
+Source 4: https://support.freedomscientific.com/Downloads/jaws
+Source 5: https://www.liquisearch.com/jawsscreenreader/releasehistory
+Source 6: https://en.wikipedia.org/wiki/JAWS(screenreader)
+Source 7: https://blog.freedomscientific.com/2024-year-end-review/
+Source 8: https://support.freedomscientific.com/Downloads/JAWS/JAWS-System-Requirements
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

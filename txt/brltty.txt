@@ -1,0 +1,39 @@
+BRLTTY
+Company: Linux accessibility community
+Category: Screen Readers
+Released: 1995 (0.22 beta) to present
+
+Overview:
+A background service that gives braille-display access to the Linux text console.
+
+Specs:
+Developer: Linux accessibility community
+Release years: 1995 (0.22 beta) to present
+Runs on: Linux / Unix
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Started in 1995 by Cambridge students Nikhil Nair and James Bowden; Nair wanted to use his CombiBraille. Version 0.22 beta was announced in December 1995 and 1.0 in July 1996. Speech support came in 1.0.1. Nicolas Pitre took over in 1998 (1.9.0), and Dave Mielke from 2001.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Linux / Unix
+Operating system history: BRLTTY versions
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://brltty.app/pipermail/brltty/2015-December/013007.html
+Source 2: https://www.ibiblio.org/pub/historic-linux/ftp-archives/sunsite.unc.edu/Sep-29-1996/system/Access/brltty-1.0.2.README
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

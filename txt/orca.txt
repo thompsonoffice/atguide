@@ -1,0 +1,39 @@
+Orca
+Company: GNOME Project
+Category: Screen Readers
+Released: 2006 to present
+
+Overview:
+The GNOME desktop screen reader, with speech, braille and magnification.
+
+Specs:
+Developer: GNOME Project
+Release years: 2006 to present
+Runs on: Linux / Unix with GNOME (AT-SPI)
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Released in 2006 by Sun Microsystems. It replaced Gnopernicus in GNOME 2.16.
+Predecessors: Gnopernicus (GNOME Project, Until GNOME 2.16)
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Linux / Unix with GNOME (AT-SPI)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://ashton.codes/dai11y-19-01-2021/
+Source 2: https://en.wikipedia.org/wiki/Listofscreenreaders
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

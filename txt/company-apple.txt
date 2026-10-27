@@ -1,0 +1,60 @@
+Apple
+Type: Company profile
+Founded: 1976
+Products listed: 41
+
+History:
+Accessibility milestones: MacinTalk speech (1984), VoiceOver on Mac OS X 10.4 (2005) and on the iPhone 3GS (2009), braille display support in iOS 4 (2010), Braille Screen Input in iOS 8 (2014) and Braille Access (2025).
+
+Products:
+MacinTalk (original) (TTS Voices, 1984 (MacinTalk 1.1 May 1985))
+MacinTalk 2 (TTS Voices, 1992 to 1994 (v1.2))
+Agnes (Apple) (TTS Voices, MacinTalk Pro (1993/1994) to Mac OS X)
+Bruce (Apple) (TTS Voices, MacinTalk Pro (1993/1994) to Mac OS X)
+MacinTalk Pro (TTS Voices, September 1993 (v1.0); v1.2 February 1994)
+Victoria (Apple) (TTS Voices, MacinTalk Pro (1993/1994) to Mac OS X)
+Albert (Apple) (TTS Voices, MacinTalk 3 (1994))
+Bad News (Apple) (TTS Voices, MacinTalk 3 (1994))
+Bahh (Apple) (TTS Voices, MacinTalk 3 (1994))
+Bells (Apple) (TTS Voices, MacinTalk 3 (1994))
+Boing (Apple) (TTS Voices, MacinTalk 3 (1994))
+Bubbles (Apple) (TTS Voices, MacinTalk 3 (1994))
+Cellos (Apple) (TTS Voices, MacinTalk 3 (1994))
+Deranged (Apple) (TTS Voices, MacinTalk 3 (1994))
+Fred (Apple) (TTS Voices, MacinTalk 3 (1994) to Mac OS X)
+Good News (Apple) (TTS Voices, MacinTalk 3 (1994))
+Hysterical (Apple) (TTS Voices, MacinTalk 3 (1994))
+Junior (Apple) (TTS Voices, MacinTalk 3 (1994))
+Kathy (Apple) (TTS Voices, MacinTalk 3 (1994) to Mac OS X)
+MacinTalk 3 (TTS Voices, 1994 to 1995 (v1.4 in 1995); standard until Mac OS X)
+Pipe Organ (Apple) (TTS Voices, MacinTalk 3 (1994) to Mac OS X)
+Princess (Apple) (TTS Voices, MacinTalk 3 (1994))
+Ralph (Apple) (TTS Voices, MacinTalk 3 (1994))
+Trinoids (Apple) (TTS Voices, MacinTalk 3 (1994))
+Whisper (Apple) (TTS Voices, MacinTalk 3 (1994))
+Zarvox (Apple) (TTS Voices, MacinTalk 3 (1994) to Mac OS X)
+Mac OS X Speech Synthesis (MacinTalk in OS X) (TTS Voices, Mac OS X (2001) onward)
+VoiceOver (macOS) (Screen Readers, Mac OS X 10.4 Tiger (2005) to present)
+Alex (Apple) (TTS Voices, Mac OS X 10.5 Leopard (October 2007) onward)
+VoiceOver (iOS / iPadOS) (Screen Readers, iPhone 3GS (2009) to present)
+Fiona (Apple, Scottish English) (TTS Voices, Mac OS X Lion (2011))
+Karen (Apple, Australian English) (TTS Voices, Mac OS X Lion (2011))
+Moira (Apple, Irish English) (TTS Voices, Mac OS X Lion (2011))
+Samantha (Apple) (TTS Voices, Mac OS X 10.7 Lion (2011) onward)
+Serena (Apple, UK English) (TTS Voices, Mac OS X Lion (2011))
+Siri original voices (TTS Voices, October 14, 2011 (iPhone 4S))
+Tessa (Apple, South African English) (TTS Voices, Mac OS X Lion (2011))
+Siri deep-learning voices (iOS 11) (TTS Voices, 2017 (iOS 11))
+Siri voices (iOS 14.5) (TTS Voices, April 2021 (iOS 14.5))
+Siri Voice 5 (Quinn) (TTS Voices, February 2022 (iOS 15.4 beta))
+Vicki (Apple) (TTS Voices, Mac OS X (first version not documented))
+
+Operating System and Software Histories:
+VoiceOver versions
+Siri voices
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/VoiceOver
+Source 2: https://www.wap.org/journal/lionspeak/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

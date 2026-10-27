@@ -1,0 +1,41 @@
+Dot Watch
+Company: Dot Inc.
+Category: Braille Displays
+Released: 2017
+
+Overview:
+A braille smartwatch with 4 refreshable cells.
+
+Specs:
+Released: 2017
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 4 cells
+Price at launch: Not documented
+
+Physical Description:
+27 g.
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Bluetooth LE 4.2
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.dotincorp.com
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

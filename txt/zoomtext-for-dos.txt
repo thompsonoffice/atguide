@@ -1,0 +1,39 @@
+ZoomText for DOS
+Company: Ai Squared
+Category: Screen Readers
+Released: 1988
+
+Overview:
+Ai Squared's original DOS screen magnifier.
+
+Specs:
+Developer: Ai Squared
+Release years: 1988
+Runs on: MS-DOS
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Not documented
+Successors: ZoomText (Windows) / Fusion (Freedom Scientific, 1991 to present)
+
+Ports:
+Not applicable (software)
+
+Operating System:
+MS-DOS
+Operating system history: ZoomText versions
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/18/6/15200
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

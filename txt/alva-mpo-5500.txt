@@ -1,0 +1,42 @@
+ALVA MPO 5500
+Company: ALVA BV
+Category: PDAs
+Released: 2003
+
+Overview:
+A braille PDA with a built-in GSM phone.
+
+Specs:
+Released: 2003
+Processor: Intel PXA255
+Memory (RAM): 64 MB
+Storage: 64 MB flash
+Operating system: Windows CE.NET 4.1
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 20 cells
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Windows CE.NET 4.1
+Operating system history: Windows CE / Windows Mobile (on notetakers and PDAs)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

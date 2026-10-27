@@ -1,0 +1,47 @@
+BrailleNote mPower BT
+Company: HumanWare
+Category: Notetakers
+Released: June 2005
+
+Overview:
+The second-generation full-size BrailleNote, with braille keyboard.
+
+Specs:
+Released: June 2005
+Processor: Intel XScale 416 MHz
+Memory (RAM): Not documented
+Storage: 128 MB flash (DiskOnChip)
+Operating system: Windows CE with KeySoft 6.2 at launch
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 18 or 32 cells
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+SD, CompactFlash and PCMCIA slots
+Bluetooth
+
+History:
+Launched alongside the VoiceNote mPower. It ran KeySoft 6.2 at launch; KeySoft 7.5 Build 29 (May 2008) added 802.11g Wi-Fi card support, and KeySoft 8.0 followed in 2009.
+Predecessors: BrailleNote Classic (BT/QT) (Pulse Data International, April 2000 (shipping from June 2000))
+Successors: BrailleNote Apex BT32 (HumanWare, November 2009)
+
+Ports:
+2 USB host ports plus mini-USB client; SD, CF and PCMCIA slots; Bluetooth
+
+Operating System:
+Windows CE with KeySoft 6.2 at launch
+Operating system history: KeySoft
+Operating system history: Windows CE / Windows Mobile (on notetakers and PDAs)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/7/1/14531
+Source 2: http://therangerstation.blogspot.com/2008/05/press-release-humanware-releases.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

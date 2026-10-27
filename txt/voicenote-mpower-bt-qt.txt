@@ -1,0 +1,44 @@
+VoiceNote mPower BT / QT
+Company: HumanWare
+Category: VoiceNotes
+Released: 2005
+
+Overview:
+The speech-only version of the BrailleNote mPower.
+
+Specs:
+Released: 2005
+Processor: Intel XScale 416 MHz
+Memory (RAM): Not documented
+Storage: 128 MB flash
+Operating system: Windows CE with KeySoft
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: VoiceNote BT / QT (Classic) (Pulse Data International, Introduced at Closing the Gap 2000; replaced in 2005)
+Successors: VoiceNote Apex BT / QT (HumanWare, July 2010)
+
+Ports:
+Not documented
+
+Operating System:
+Windows CE with KeySoft
+Operating system history: KeySoft
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/7/1/14531
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,38 @@
+Dolphin Orpheus
+Company: Dolphin Computer Access
+Category: TTS Voices
+Released: Not documented
+
+Overview:
+Dolphin's software speech synthesizer, used with its screen readers. Details are not documented in the sources found.
+
+Specs:
+Maker: Dolphin Computer Access
+First released: Not documented
+Synthesis type: Not documented
+Platforms: Windows
+Default on or shipped with: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/Listofscreenreaders
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

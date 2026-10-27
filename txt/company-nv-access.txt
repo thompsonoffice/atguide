@@ -1,0 +1,18 @@
+NV Access
+Type: Company profile
+Founded: 2007
+Products listed: 1
+
+History:
+An Australian nonprofit founded by Michael Curran and James Teh, who met at a music camp for blind children. It develops the free NVDA screen reader.
+
+Products:
+NVDA (NonVisual Desktop Access) (Screen Readers, 2006 (version 0.5 in 2007) to present)
+
+Operating System and Software Histories:
+NVDA versions
+
+Sources:
+Source 1: https://www.nvaccess.org/about-nv-access/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

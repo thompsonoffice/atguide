@@ -1,0 +1,39 @@
+Nuance TALKS (and ZOOMS)
+Company: Nuance Communications
+Category: Screen Readers
+Released: By 2004 to about 2013
+
+Overview:
+A screen reader for Symbian Series 60 and Series 80 phones, mostly Nokia, using Eloquence speech.
+
+Specs:
+Developer: Nuance Communications
+Release years: By 2004 to about 2013
+Runs on: Symbian S60 3rd/5th Edition, Symbian^3, Series 80
+Default speech: Eloquence
+Price: Not documented
+Voices: ETI-Eloquence (engine)
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+AFB tested TALKS and ZOOMS Premium Edition 3.0 in October 2006. It ran on about 20 Series 60 phones and about 5 Series 80 phones. It became obsolete when Symbian was discontinued in 2013.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Symbian S60 3rd/5th Edition, Symbian^3, Series 80
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/8/1/14407
+Source 2: https://en.wikipedia.org/wiki/Listofscreenreaders
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

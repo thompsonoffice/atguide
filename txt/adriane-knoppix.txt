@@ -1,0 +1,42 @@
+ADRIANE (Knoppix)
+Company: Linux accessibility community
+Category: Accessible Linux
+Released: Since KNOPPIX 5.3 (ADRIANE 1.7 in KNOPPIX 7.4.1)
+
+Overview:
+Klaus Knopper's talking desktop with optional braille, started by typing 'adriane' at the KNOPPIX boot prompt.
+
+Specs:
+Developer: Linux accessibility community
+Release years: Since KNOPPIX 5.3 (ADRIANE 1.7 in KNOPPIX 7.4.1)
+Runs on: KNOPPIX (Debian-based)
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+SBL braille and screen reader
+speech-dispatcher with eSpeak
+Orca and Compiz in graphics mode
+GPLv2
+
+History:
+Not documented
+
+Ports:
+Not applicable (software)
+
+Operating System:
+KNOPPIX (Debian-based)
+Operating system history: Linux (on blindness devices)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.knopper.net/knoppix-adriane/index-en.html
+Source 2: https://knopper.net/knoppix/knoppix741-en.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

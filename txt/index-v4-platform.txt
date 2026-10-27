@@ -1,0 +1,43 @@
+Index V4 platform
+Company: Index Braille
+Category: Embossers
+Released: 2011
+
+Overview:
+Added built-in braille translation and high-speed cut-sheet production.
+
+Specs:
+Released: 2011
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: Index V3 platform (Index Braille, 2002 to 2004)
+Successors: Index V5 line (Basic-D, Everest-D, BrailleBox) (Index Braille, 2016 to present)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.braillecast.com/podcast/e020/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

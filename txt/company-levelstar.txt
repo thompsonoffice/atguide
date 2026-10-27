@@ -1,0 +1,19 @@
+LevelStar
+Type: Company profile
+Founded: About 2004
+Products listed: 1
+
+History:
+Founded by brothers Marc and Matt Mulcahy; Marc is blind and previously worked at Sun Microsystems on a Linux desktop. Its Linux-based Icon PDA reached market in December 2006, and APH sold a variant as the Braille+.
+
+Products:
+LevelStar Icon Mobile Manager (PDAs, December 2006)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: http://visually-impaired.blogspot.com/2006/09/pda-for-visually-impaired.html
+Source 2: https://linuxdevices.org/device-profile-levelstar-icon-pda-for-visually-impaired-users/index.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

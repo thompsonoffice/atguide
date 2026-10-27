@@ -1,0 +1,42 @@
+QBraille XL
+Company: HIMS / Selvas BLV
+Category: Braille Displays
+Released: 2018
+
+Overview:
+A 40-cell display with a QWERTY-style layout and notepad.
+
+Specs:
+Released: 2018
+Processor: Not documented
+Memory (RAM): 256 MB
+Storage: Not documented
+Operating system: Windows CE 6
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 40 cells
+Price at launch: Not documented
+
+Physical Description:
+1.8 lb.
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Bluetooth 2.1, USB
+
+Operating System:
+Windows CE 6
+Operating system history: Windows CE / Windows Mobile (on notetakers and PDAs)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.himsintl.com/en/company/prdhistory.php
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

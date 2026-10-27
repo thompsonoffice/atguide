@@ -1,0 +1,48 @@
+BrailleNote Apex BT32
+Company: HumanWare
+Category: Notetakers
+Released: November 2009
+
+Overview:
+A thinner, lighter BrailleNote running Windows CE 6.
+
+Specs:
+Released: November 2009
+Processor: Freescale i.MX31 at 532 MHz
+Memory (RAM): 256 MB SDRAM
+Storage: 8 GB flash
+Operating system: Windows CE 6 with KeySoft
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 32 cells
+Price at launch: About $5,500
+
+Physical Description:
+Not documented
+
+Features:
+Wi-Fi
+Removable battery
+VGA output
+
+History:
+Released in November 2009. It received KeySoft 9.x updates, including 9.3 (2012) and 9.4.1 (2014, with KeyMaps).
+Predecessors: BrailleNote mPower BT (HumanWare, June 2005)
+Successors: BrailleNote Touch (HumanWare, 2016)
+
+Ports:
+3 USB host ports plus 1 client, VGA, Ethernet, Wi-Fi, Bluetooth 2.1
+
+Operating System:
+Windows CE 6 with KeySoft
+Operating system history: KeySoft
+Operating system history: Windows CE / Windows Mobile (on notetakers and PDAs)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/BrailleNote
+Source 2: https://nfb.org/images/nfb/publications/bm/bm12/bm120604.htm
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

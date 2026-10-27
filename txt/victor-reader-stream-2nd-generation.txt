@@ -1,0 +1,46 @@
+Victor Reader Stream (2nd generation)
+Company: HumanWare
+Category: Book Readers
+Released: 2014
+
+Overview:
+A smaller Stream with Wi-Fi for online services.
+
+Specs:
+Released: 2014
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Acapela (two voices)
+Battery: Up to 15 hours with headphones
+Display or braille cells: Not documented
+Price at launch: Not documented
+Voices: Acapela voices
+
+Physical Description:
+114 x 62 x 18 mm, 110 g (3.9 oz) with battery.
+
+Features:
+Wi-Fi b/g/n
+Reads BRF, TXT, HTML, XML, DOCX and EPUB
+
+History:
+Not documented
+Predecessors: Victor Reader Stream (1st generation) (HumanWare, 2007 to 2014)
+Successors: Victor Reader Stream (3rd generation) (HumanWare, 2023 to present); Victor Reader Trek (HumanWare, 2017)
+
+Ports:
+Wi-Fi, USB, SD card, headphone jack
+
+Operating System:
+Not documented
+Operating system history: Victor Reader Stream firmware
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.devineexpress.com/products/ls-s-victor-reader-stream-2nd-generation-114-x-62-x-18mm
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

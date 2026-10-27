@@ -1,0 +1,18 @@
+Eyedaptic
+Type: Company profile
+Founded: Not documented
+Products listed: 1
+
+History:
+Maker of the augmented-reality low-vision glasses EYE1 through EYE6 (2019 to 2024).
+
+Products:
+Eyedaptic EYE series (EYE1 to EYE6) (Vision Wearables, EYE1 2019, EYE2 2020, EYE3 June 2021, EYE4 2021, EYE5 October 2022, EYE6 August 2024)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://eyedaptic.com
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

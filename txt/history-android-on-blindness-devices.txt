@@ -1,0 +1,59 @@
+Android (on blindness devices)
+Company: Google
+Category: Operating system or software version history
+Versions listed: 7
+
+Overview:
+Google's mobile OS, used by braille notetakers and magnifiers from 2016.
+
+Version History:
+
+Version 1: Android 4.4
+Released: 2016
+Notes: BrailleNote Touch.
+
+Version 2: Android 5.1.1
+Released: 2017
+Notes: BrailleSense Polaris.
+
+Version 3: Android 8.1
+Released: 2019
+Notes: BrailleNote Touch Plus.
+
+Version 4: Android 10 (later 12)
+Released: 2021
+Notes: BrailleSense 6.
+
+Version 5: Android 12
+Released: 2024
+Notes: Braille eMotion; current Connect 12 tablet.
+
+Version 6: Android (version not documented)
+Released: 2024
+Notes: Monarch.
+
+Version 7: Android 15
+Released: 2026
+Notes: BrailleSense 7.
+
+Devices and Software That Ran It:
+BrailleNote Touch (HumanWare, 2016)
+BrailleSense Polaris (HIMS / Selvas BLV, 2017)
+BrailleSense Polaris Mini (HIMS / Selvas BLV, 2018)
+BrailleNote Touch Plus (HumanWare, 2019)
+BrailleSense 6 (HIMS / Selvas BLV, 2021)
+BrailleSense 6 Mini (HIMS / Selvas BLV, 2022)
+Braille eMotion (HIMS / Selvas BLV, 2024)
+Connect 12 (HumanWare, 2nd generation 2017; current tablet on Android 12)
+Monarch (American Printing House for the Blind (APH), 2024)
+BrailleSense 7 (HIMS / Selvas BLV, 2026)
+Braille Plus 18 (American Printing House for the Blind (APH), 2012 to February 2015 (discontinued))
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.humanware.com/microsite/bntouch/specs.php
+Source 2: https://www.himsintl.com/en/company/prdhistory.php
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

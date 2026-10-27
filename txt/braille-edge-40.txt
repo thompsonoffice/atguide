@@ -1,0 +1,42 @@
+Braille EDGE 40
+Company: HIMS / Selvas BLV
+Category: Braille Displays
+Released: 2012
+
+Overview:
+A 40-cell braille display with notetaking functions.
+
+Specs:
+Released: 2012
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Windows CE 5
+Default speech synthesizer: Not documented
+Battery: About 20 hours
+Display or braille cells: 40 cells
+Price at launch: Not documented
+
+Physical Description:
+About 2 lb.
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Windows CE 5
+Operating system history: Windows CE / Windows Mobile (on notetakers and PDAs)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.himsintl.com/en/company/prdhistory.php
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

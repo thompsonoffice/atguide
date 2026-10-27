@@ -1,0 +1,45 @@
+VoiceNote BT / QT (Classic)
+Company: Pulse Data International
+Category: VoiceNotes
+Released: Introduced at Closing the Gap 2000; replaced in 2005
+
+Overview:
+A speech-only BrailleNote with no braille display, with a braille (BT) or QWERTY (QT) keyboard.
+
+Specs:
+Released: Introduced at Closing the Gap 2000; replaced in 2005
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Windows CE with KeySoft
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Replaced by the VoiceNote mPower in 2005. KeySoft 7.5 was the last release for Classic VoiceNotes.
+Successors: VoiceNote mPower BT / QT (HumanWare, 2005)
+
+Ports:
+Not documented
+
+Operating System:
+Windows CE with KeySoft
+Operating system history: KeySoft
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/7/1/14531
+Source 2: http://www.nfbnet.org/pipermail/nfbwatlknfbnet.org/2009-January/000811.html
+Source 3: https://afb.org/aw/1/6/16145
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

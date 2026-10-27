@@ -1,0 +1,19 @@
+National Library Service for the Blind and Print Disabled (NLS)
+Type: Company profile
+Founded: 1931
+Products listed: 2
+
+History:
+The Library of Congress talking-book program. It issued the cartridge-based DS1/DA1 digital talking-book players in 2009 and an NLS eReader braille display in 2020.
+
+Products:
+NLS DS1 / DA1 digital talking-book player (Book Readers, 2009)
+NLS eReader (Braille Displays, 2020)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://www.loc.gov/nls/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

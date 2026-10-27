@@ -1,0 +1,44 @@
+eSight 3
+Company: eSight
+Category: Vision Wearables
+Released: February 2017
+
+Overview:
+A lighter headset with a high-resolution autofocus camera.
+
+Specs:
+Released: February 2017
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Integrated lithium-ion, about 6 hours
+Display or braille cells: Dual 1024x768 OLED, 37.5 degree diagonal field of view; 21.5 MP autofocus camera; up to 24x
+Price at launch: Not documented
+
+Physical Description:
+104 g.
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: eSight 2 (eSight, May 2015)
+Successors: eSight 4 (eSight, 2020)
+
+Ports:
+HDMI, USB, Bluetooth, Wi-Fi, SD
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://esighteyewear.com/wp-content/uploads/2020/03/Customer-Facing-eSight-3-Specifications-Sheet-4.pdf
+Source 2: https://www.theverge.com/circuitbreaker/2017/2/16/14637804/esight-3-augmented-reality-headset-legally-blind-see
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

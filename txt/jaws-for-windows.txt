@@ -1,0 +1,51 @@
+JAWS for Windows
+Company: Freedom Scientific
+Category: Screen Readers
+Released: January 1995 (1.0) to present (2026)
+
+Overview:
+The most widely deployed commercial Windows screen reader, with scripting, braille support and speech from Eloquence and Vocalizer Expressive.
+
+Specs:
+Developer: Freedom Scientific
+Release years: January 1995 (1.0) to present (2026)
+Runs on: Windows 10 and 11 (64-bit), Windows Server 2016 to 2025; ARM64 on Windows 11
+Default speech: Eloquence and Vocalizer Expressive
+Price: 1,900 euros (home) or 2,940 euros (professional), France 2026
+Voices: ETI-Eloquence (engine); Nuance Vocalizer / RealSpeak (engine)
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Five cursors (PC, JAWS, invisible, touch)
+Scripting with built-in compiler
+OCR, DAISY reader, MathML
+Braille displays
+
+History:
+Version 1.0 shipped in January 1995 from Henter-Joyce, and Freedom Scientific has developed it since 2000. JAWS 2026 (2026.2609.84, September 2026) adds an AI page explorer, AI graphic labeling and FSCompanion. See OS History for the version-by-version list. JAWS stands for Job Access With Speech. Henter-Joyce was founded in 1985 with $180,000 from Bill Joyce.
+Predecessors: JAWS for DOS (Henter-Joyce, 1989)
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows 10 and 11 (64-bit), Windows Server 2016 to 2025; ARM64 on Windows 11
+Operating system history: JAWS versions
+
+System Requirements:
+64-bit Windows 11, 10 or Server 2016 to 2025; ARM64 on Windows 11 (JAWS 2023 or later)
+2.0 GHz i5 dual-core or faster recommended
+16 GB RAM or more recommended
+2 GB disk plus voices; SSD recommended
+DirectX 9 graphics with WDDM 1.0 driver, 1024x768
+Windows-compatible sound card
+
+Sources:
+Source 1: https://support.freedomscientific.com/Downloads/JAWS/jaws-system-requirements
+Source 2: https://support.freedomscientific.com/Downloads/jaws
+Source 3: https://www.avh.asso.fr/implantations/certam/evaluations-de-produits/jaws-version-2026
+Source 4: https://en.wikipedia.org/wiki/JAWS(screenreader)
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

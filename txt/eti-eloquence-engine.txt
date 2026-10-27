@@ -1,0 +1,42 @@
+ETI-Eloquence (engine)
+Company: Eloquent Technology, Inc. (ETI)
+Category: TTS Voices
+Released: 1990s to present
+
+Overview:
+A rule-based formant synthesizer known for clarity at high speech rates. It has long shipped with JAWS and many notetakers.
+
+Specs:
+Maker: Eloquent Technology, Inc. (ETI)
+First released: 1990s to present
+Synthesis type: Formant (rule-based, Delta system)
+Platforms: Windows, Solaris, SunOS, SGI and RS/6000 (1990s); Windows CE notetakers; Symbian (TALKS); Android (Code Factory)
+Default on or shipped with: PAC Mate, BrailleSense U2, Nuance TALKS; included with JAWS
+Price: Not documented
+Shipped with or used by: BrailleSense U2 (Perkins-keyboard edition); PAC Mate BX400 / QX400; PAC Mate Omni; JAWS for Windows; Nuance TALKS (and ZOOMS)
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Developed at Eloquent Technology (founded 1983 by Susan R. Hertz) using the Delta rule system and a Klatt-style formant synthesizer. Extended from General American English to nine more languages in the late 1990s. Sold to SpeechWorks in January 2001, which later became part of Nuance. Code Factory sells an Android port (Android 7 or later, 10 languages, 8 voices). JAWS 2026 includes Eloquence and Vocalizer Expressive.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows, Solaris, SunOS, SGI and RS/6000 (1990s); Windows CE notetakers; Symbian (TALKS); Android (Code Factory)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.synfonicaspeech.com/about
+Source 2: http://mi.eng.cam.ac.uk/comp.speech/Section5/Synth/eloquence.html
+Source 3: https://play.google.com/store/apps/details?hl=enUS&id=com.codefactoryglobal.eloquencetts
+Source 4: https://www.avh.asso.fr/implantations/certam/evaluations-de-produits/jaws-version-2026
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

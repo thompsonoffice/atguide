@@ -1,0 +1,19 @@
+VFO / Vispero
+Type: Company profile
+Founded: 2015
+Products listed: 0
+
+History:
+Formed in late 2015 when Vector Capital merged Freedom Scientific and Optelec. Ai Squared joined in June 2016, The Paciello Group in 2017 and Enhanced Vision in January 2018. Renamed Vispero on September 24, 2018.
+
+Products:
+Not documented
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/FreedomScientific
+Source 2: https://vispero.com
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

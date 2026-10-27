@@ -1,0 +1,42 @@
+OrCam MyEye (1st generation)
+Company: OrCam Technologies
+Category: Vision Wearables
+Released: 2015
+
+Overview:
+A glasses-mounted camera wired to a base unit that reads text aloud.
+
+Specs:
+Released: 2015
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+Successors: OrCam MyEye 2 (OrCam Technologies, 2017)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.orcam.com
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

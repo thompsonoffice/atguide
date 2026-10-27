@@ -1,0 +1,38 @@
+Sonar GNU/Linux
+Company: Linux accessibility community
+Category: Accessible Linux
+Released: By 2015 (exact year not documented)
+
+Overview:
+A Manjaro-based accessible distribution offered in three editions.
+
+Specs:
+Developer: Linux accessibility community
+Release years: By 2015 (exact year not documented)
+Runs on: Manjaro-based
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Manjaro-based
+Operating system history: Linux (on blindness devices)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://opensource.com/life/15/8/accessibility-linux-blind-disabled
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

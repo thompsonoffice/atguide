@@ -1,0 +1,43 @@
+VoiceSense QWERTY
+Company: HIMS / Selvas BLV
+Category: VoiceSense
+Released: 2010
+
+Overview:
+A QWERTY VoiceSense, announced at CSUN 2010 for $1,995.
+
+Specs:
+Released: 2010
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: 4 GB
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: $1,995
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: VoiceSense (HIMS / Selvas BLV, 2007)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+Operating system history: Windows CE / Windows Mobile (on notetakers and PDAs)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/11/4/16038
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

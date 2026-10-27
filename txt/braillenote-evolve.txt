@@ -1,0 +1,45 @@
+BrailleNote Evolve
+Company: HumanWare
+Category: Notetakers
+Released: Announced November 2025, launched 2026
+
+Overview:
+A braille-first Windows 11 notetaker running KeySoft alongside a customized NVDA.
+
+Specs:
+Released: Announced November 2025, launched 2026
+Processor: Intel Core Ultra 5
+Memory (RAM): 32 GB
+Storage: 512 GB SSD
+Operating system: Windows 11 Pro with KeySoft and NVDA
+Default speech synthesizer: Not documented
+Battery: About 5 hours
+Display or braille cells: 20 or 32 cells
+Price at launch: $6,199 (32-cell)
+
+Physical Description:
+32-cell model 990 g (2.18 lb); the case adds 1.4 kg.
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: BrailleNote Touch Plus (HumanWare, 2019)
+
+Ports:
+Thunderbolt, HDMI, NFC, Wi-Fi 6, Bluetooth 5
+
+Operating System:
+Windows 11 Pro with KeySoft and NVDA
+Operating system history: KeySoft
+Operating system history: NVDA versions
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://store.humanware.com/hus/braillenote-evolve-32.html
+Source 2: https://www.humanware.com/braillenote-evolve/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

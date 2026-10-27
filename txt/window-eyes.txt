@@ -1,0 +1,42 @@
+Window-Eyes
+Company: GW Micro
+Category: Screen Readers
+Released: October 16, 1995 (1.0) to 9.5.3 (September 14, 2016)
+
+Overview:
+GW Micro's Windows screen reader. It was also offered free to Microsoft Office users through a Microsoft and GW Micro program.
+
+Specs:
+Developer: GW Micro
+Release years: October 16, 1995 (1.0) to 9.5.3 (September 14, 2016)
+Runs on: Windows
+Default speech: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Version 1.0 came out in October 1995. After the 2014 merger with Ai Squared and the 2016 move to VFO, development stopped in 2017. Registered owners of 9.0 or later got a free migration to JAWS 18, and Window-Eyes kept working on Windows 7, 8.1 and 10 without updates.
+Predecessors: Vocal-Eyes (GW Micro, 1990)
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows
+Operating system history: Window-Eyes versions
+
+System Requirements:
+Window-Eyes 9.4: Windows Vista, Server 2008, 7, 8 or 10
+
+Sources:
+Source 1: https://afb.org/aw/3/1/14962
+Source 2: https://afb.org/aw/18/6/15200
+Source 3: https://web.archive.org/web/2016/http://www.gwmicro.com/Window-Eyes/VersionHistory/
+Source 4: https://en.wikipedia.org/wiki/Window-Eyes
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

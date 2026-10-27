@@ -1,0 +1,23 @@
+Google
+Type: Company profile
+Founded: 1998
+Products listed: 4
+
+History:
+Makes TalkBack for Android (about 2009), BrailleBack (2012), built-in TalkBack braille in Android 13 (2022) and ChromeVox for Chrome OS (2011).
+
+Products:
+TalkBack (Screen Readers, October 2009 (Android 1.6 Donut) to present)
+ChromeVox (Screen Readers, May 2011 (developer beta) to present)
+Google Text-to-Speech (Speech Services by Google) (TTS Voices, October 2013 on Google Play (reported November 6, 2013))
+WaveNet voices (Google) (TTS Voices, October 4, 2017 (Google Assistant))
+
+Operating System and Software Histories:
+Android (on blindness devices)
+TalkBack and Android screen-reader milestones
+Google speech engines on Android
+
+Sources:
+Source 1: https://blog.chromium.org/2011/05/chromevox-built-in-spoken-feedback-for.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

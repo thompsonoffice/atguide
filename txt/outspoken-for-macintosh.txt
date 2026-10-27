@@ -1,0 +1,40 @@
+outSPOKEN for Macintosh
+Company: Berkeley Systems
+Category: Screen Readers
+Released: 1989
+
+Overview:
+One of the first commercial GUI screen readers. It introduced an off-screen model and used the mouse pointer as a review cursor.
+
+Specs:
+Developer: Berkeley Systems
+Release years: 1989
+Runs on: Classic Mac OS
+Default speech: Not documented
+Price: Not documented
+Voices: MacinTalk (original)
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Written by Wes Boyd and Bruce Berkhalter. It was the only Mac screen reader ever available before VoiceOver.
+Successors: outSPOKEN for Windows (Berkeley Systems, 1994); VoiceOver (macOS) (Apple, Mac OS X 10.4 Tiger (2005) to present)
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Classic Mac OS
+Operating system history: outSPOKEN versions
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/OutSPOKEN
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,39 @@
+S.A.M. (Software Automatic Mouth)
+Company: Don't Ask Software
+Category: TTS Voices
+Released: 1982 (reviewed in Antic, October 1982)
+
+Overview:
+One of the first commercial all-software speech synthesizers, written by Mark Barton. It needed no extra hardware on the Atari and cost $59.95 for the Atari version.
+
+Specs:
+Maker: Don't Ask Software
+First released: 1982 (reviewed in Antic, October 1982)
+Synthesis type: All-software phoneme synthesis; RECITER rule-based text-to-phoneme
+Platforms: Apple II, Lisa, Atari 8-bit, Commodore 64
+Default on or shipped with: Not documented
+Price: $59.95 (Atari version)
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+The Apple II version came with an expansion card holding an 8-bit DAC; the Atari version used the POKEY chip; the Commodore 64 used the SID chip's 4-bit volume DAC and blanked the screen while speaking (a 'light' mode kept it on but made the voice gravelly). Input could be plain text, converted by the RECITER rules, or about 50 ASCII phoneme codes such as IY, AE and NX with stress digits 1 to 8. S.A.M. was the basis of the original MacinTalk.
+Successors: MacinTalk (original) (Apple, 1984 (MacinTalk 1.1 May 1985))
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Apple II, Lisa, Atari 8-bit, Commodore 64
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/SoftwareAutomaticMouth
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

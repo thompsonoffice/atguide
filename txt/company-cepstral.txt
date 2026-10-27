@@ -1,0 +1,18 @@
+Cepstral
+Type: Company profile
+Founded: Not documented
+Products listed: 1
+
+History:
+A US TTS company. In 2007 Macworld called its David and Diane voices ($30 each) the finest available for the Mac.
+
+Products:
+Cepstral David and Diane (TTS Voices, Available by 2007)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://www.macworld.com/article/185797/voicemac.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

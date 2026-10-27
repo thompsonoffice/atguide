@@ -1,0 +1,20 @@
+Braillo
+Type: Company profile
+Founded: 1980
+Products listed: 3
+
+History:
+A Norwegian company. In January 1980, working with SINTEF, it introduced the Braillo 270, the first double-sided (interpoint) embosser. American Thermoform acquired it in 2016.
+
+Products:
+Braillo 270 (Embossers, January 1980)
+Braillo 200 (Embossers, 1986)
+Braillo 440 SF (Embossers, Not documented)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://braillo.com/about-us/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

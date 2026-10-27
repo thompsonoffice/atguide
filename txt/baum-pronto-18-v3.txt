@@ -1,0 +1,42 @@
+BAUM Pronto! 18 V3
+Company: BAUM Retec
+Category: Notetakers
+Released: 2014
+
+Overview:
+BAUM's compact Windows CE notetaker. Earlier Pronto hardware was the basis for the BrailleNote PK.
+
+Specs:
+Released: 2014
+Processor: 520 MHz
+Memory (RAM): Not documented
+Storage: 1 GB
+Operating system: Windows CE
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 18 cells
+Price at launch: Not documented
+
+Physical Description:
+498 g.
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Windows CE
+Operating system history: Windows CE / Windows Mobile (on notetakers and PDAs)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/BrailleNote
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

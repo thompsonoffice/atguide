@@ -1,0 +1,43 @@
+NVDA (NonVisual Desktop Access)
+Company: NV Access
+Category: Screen Readers
+Released: 2006 (version 0.5 in 2007) to present
+
+Overview:
+A free, open-source Windows screen reader written in Python and C++, available in 62 languages.
+
+Specs:
+Developer: NV Access
+Release years: 2006 (version 0.5 in 2007) to present
+Runs on: Windows 10 (22H2 or later) and 11, 64-bit; Server 2016 to 2025
+Default speech: Not documented in cited sources (SAPI originally)
+Price: Free
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Michael Curran began it in April 2006, motivated by the cost of commercial screen readers, and named it NVDA late that year. Version 0.5 came in 2007, and the 0.6 releases (2008 to 2009) added better web browsing, braille output and more languages. NV Access was founded in 2007. NVDA releases about four times a year; 2026.2 came out on August 31, 2026 and 2026.3 is current.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows 10 (22H2 or later) and 11, 64-bit; Server 2016 to 2025
+Operating system history: NVDA versions
+
+System Requirements:
+Minimum: 64-bit Windows 10 or 11, or Windows Server 2016, 2019, 2022 or 2025
+Windows 11 AMD64 and ARM64 supported (including Copilot+ PCs); ARM64 Windows 10 not supported
+At least 500 MB storage
+Recommended: at least 4 GB RAM
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/NonVisualDesktopAccess
+Source 2: https://download.nvaccess.org/documentation/en/userGuide.html
+Source 3: https://www.nvaccess.org/about-nv-access/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,40 @@
+Microsoft Anna
+Company: Microsoft
+Category: TTS Voices
+Released: Windows Vista (2007) and Windows 7
+
+Overview:
+A SAPI 5-only female voice designed to sound more natural than Sam. It was the default English voice in Vista and Windows 7.
+
+Specs:
+Maker: Microsoft
+First released: Windows Vista (2007) and Windows 7
+Synthesis type: Not documented
+Platforms: Windows Vista and 7 (SAPI 5.3)
+Default on or shipped with: Windows Vista and Windows 7
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Microsoft Streets & Trips 2006 and later installed it on Windows XP. Vista and 7 shipped no male voice.
+Predecessors: Microsoft Sam (Microsoft, 2000 (Windows 2000) to Windows XP)
+Successors: Microsoft David (Microsoft, Windows 8 (2012) to present); Microsoft Zira (Microsoft, Windows 8 to present)
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows Vista and 7 (SAPI 5.3)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/Microsofttext-to-speechvoices
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

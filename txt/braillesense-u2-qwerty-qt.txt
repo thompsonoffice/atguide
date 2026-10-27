@@ -1,0 +1,44 @@
+BrailleSense U2 QWERTY (QT)
+Company: HIMS / Selvas BLV
+Category: BrailleSense
+Released: 2012
+
+Overview:
+The QWERTY-keyboard U2.
+
+Specs:
+Released: 2012
+Processor: 1 GHz
+Memory (RAM): 256 MB
+Storage: 32 GB flash
+Operating system: Windows CE 6.0
+Default speech synthesizer: Not documented
+Battery: Detachable lithium-ion, about 17 hours
+Display or braille cells: 32 cells
+Price at launch: Not documented
+
+Physical Description:
+250 x 160 x 20 mm, 838 g (1.84 lb).
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: BrailleSense Plus (HIMS / Selvas BLV, 2008)
+
+Ports:
+Not documented
+
+Operating System:
+Windows CE 6.0
+Operating system history: Windows CE / Windows Mobile (on notetakers and PDAs)
+Operating system history: HIMS BrailleSense software
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://selvasblv.com/brochure/braille/HIMS-Braille-Sense-U2-and-U2-QWERTY-Data-Sheet.pdf
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

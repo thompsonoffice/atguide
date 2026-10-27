@@ -1,0 +1,46 @@
+Mobile Speak versions
+Company: Code Factory
+Category: Operating system or software version history
+Versions listed: 6
+
+Overview:
+Code Factory's mobile screen reader milestones.
+
+Version History:
+
+Version 1: Mobile Accessibility for Symbian
+Released: 2003
+Notes: First affordable phone access solution.
+
+Version 2: Mobile Speak for Symbian
+Released: 2004
+Notes: Full screen reader, launched in 20 countries.
+
+Version 3: Mobile Speak Pocket
+Released: 2005
+Notes: Windows Mobile Pocket PCs; described as the first touch-based screen reader.
+
+Version 4: Mobile Speak Smartphone
+Released: 2006
+Notes: Windows Mobile Smartphones; AFB reviewed version 1.2.
+
+Version 5: Mobile Speak 2.8
+Released: 2006
+Notes: Version AFB tested; uses Fonix DECtalk.
+
+Version 6: Mobile Speak 3.0
+Released: 2006 to 2007
+Notes: Bundled Mobile Magnifier.
+
+Devices and Software That Ran It:
+Mobile Speak (Code Factory, 2004 (Symbian); 2005 (Pocket PC); 2006 (Smartphone))
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://codefactoryglobal.com/company/
+Source 2: https://afb.org/aw/8/1/14407
+Source 3: https://afb.org/aw/8/4/14343
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

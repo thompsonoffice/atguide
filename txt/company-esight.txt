@@ -1,0 +1,23 @@
+eSight
+Type: Company profile
+Founded: 2006
+Products listed: 5
+
+History:
+Founded by Conrad Lewis to build electronic glasses for people with low vision. Models: eSight 1 (2013), eSight 2 (2015), eSight 3 (2017), eSight 4 (2020) and eSight Go (2024). Gentex announced its acquisition in January 2024.
+
+Products:
+eSight (1st generation) (Vision Wearables, 2013)
+eSight 2 (Vision Wearables, May 2015)
+eSight 3 (Vision Wearables, February 2017)
+eSight 4 (Vision Wearables, 2020)
+eSight Go (Vision Wearables, 2024)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://en.wikipedia.org/wiki/ESight
+Source 2: https://esighteyewear.com
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

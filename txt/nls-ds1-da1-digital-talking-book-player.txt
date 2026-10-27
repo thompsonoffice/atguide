@@ -1,0 +1,41 @@
+NLS DS1 / DA1 digital talking-book player
+Company: National Library Service for the Blind and Print Disabled (NLS)
+Category: Book Readers
+Released: 2009
+
+Overview:
+The free cartridge-based player issued by the Library of Congress talking-book program.
+
+Specs:
+Released: 2009
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+6.2 x 8.8 x 1.7 in, 2.52 lb.
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Book cartridge slot, USB, headphone jack
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.loc.gov/nls/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

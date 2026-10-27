@@ -1,0 +1,42 @@
+SynPhonix 200
+Company: Artic Technologies
+Category: Speech Synthesizers
+Released: 1985
+
+Overview:
+An Artic Technologies PC speech card.
+
+Specs:
+Released: 1985
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+Successors: SynPhonix 215 (Artic Technologies, 1987)
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,46 @@
+HumanWare Companion (software)
+Company: HumanWare
+Category: Other
+Released: Current version 4.2.9
+
+Overview:
+Free Windows software for HumanWare's Victor Reader Stream and Stratus players. It copies DAISY and NISO books, music, podcasts, text files and zipped books into the right SD-card folders, removes files, builds playlists, labels SD cards and checks for player updates.
+
+Specs:
+Released: Current version 4.2.9
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Windows
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Book and music transfer to the right SD-card folders
+Playlists
+SD-card labeling
+Player update checks
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Windows
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.humanware.com/support/humanwarecompanion/
+Source 2: https://www.humanware.com/en-usa/support/victorreaderstream2/victorreaderstream2faq
+Source 3: https://www.humanware.com/support-training/victor-reader-stream-3-faq/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

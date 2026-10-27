@@ -1,0 +1,41 @@
+Eyedaptic EYE series (EYE1 to EYE6)
+Company: Eyedaptic
+Category: Vision Wearables
+Released: EYE1 2019, EYE2 2020, EYE3 June 2021, EYE4 2021, EYE5 October 2022, EYE6 August 2024
+
+Overview:
+Augmented-reality low-vision glasses. The EYE6 has 1080p displays and weighs 3 oz.
+
+Specs:
+Released: EYE1 2019, EYE2 2020, EYE3 June 2021, EYE4 2021, EYE5 October 2022, EYE6 August 2024
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://eyedaptic.com
+
+From ATGuide, https://thompsonoffice.github.io/atguide/
