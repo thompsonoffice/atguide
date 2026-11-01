@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Maestro is an ordinary pocket PC (an HP iPAQ in AccessWorld's 2005 review) fitted with a tactile keypad that covers its touch screen. It is a flat, silver rectangle about 4.5 by 2.7 by 0.5 inches, weighing about 4.7 ounces. The keypad overlay is also silver, with black and yellow buttons, and is held on by a cloth strap that wraps around the back of the PDA.
+All the buttons are on the front. Hold it upright with the narrow ends at top and bottom. Near the top edge, in the center, the PDA's On button sits inside a raised U-shaped line; it is the only button at that end that is on the PDA itself. Just below is the upper part of the keypad: 12 round buttons laid out like a phone keypad for typing, plus 6 more keys including Backspace and two Validate keys, which confirm each character you type.
+A finger-width gap separates the typing keys from the navigation section below. On the left is a vertical row of four function keys, F1 to F4. Next to them is a round four-way arrow control with an Enter button in its center. Home, Page Up, Page Down and End are to the right of the arrows, and Tab and Shift-Tab sit below the down arrow, between F4 and End.
+At the bottom end, on the PDA's own surface, are five more keys. From left to right they are Escape, Control, Record, Shift, and System Bar/Off; Record sits inside a square navigation surround. On the bottom edge, directly below Record, is the USB connector for the charger and the cradle, with the infrared port to its left. The top-left edge has the headphone jack and the memory card slot, and on the upper left side is an unlabeled button that had no function.
+A separate cradle, about 3.1 by 2.25 by 5 inches and 6.1 ounces, connects to a computer by USB for ActiveSync file transfer and charges the Maestro while it sits in it. The box included a Getting Started guide in print and braille and a tactile diagram of the keypad with braille labels.
+
 Features:
 Tactile keypad overlay on the touchscreen
 Text-to-speech
@@ -29,7 +36,7 @@ Bluetooth and Wi-Fi
 Optional braille keyboard
 
 History:
-Not documented
+AccessWorld reviewed the Maestro in July 2005 on an HP iPAQ, noting that VisuAide was about to switch to the Dell Axim X50. It priced the Maestro at $1,195, or $1,895 as the Trekker Pro (Trekker GPS plus Maestro). Speech came from Eloquence, and text could be entered in computer braille or by phone-style multi-tap.
 
 Ports:
 Bluetooth, Wi-Fi

@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 About 12 to 14 lb; 14.75 x 9.5 x 5 in (1994 NFB evaluation). Paper up to 8.5 in wide, tractor feed.
 
+Detailed Description:
+The Braille Blazer is a small portable braille embosser. It weighs 12 pounds and measures 13.5 inches wide, 8 inches deep and 5 inches high. With its lid closed it is a plain rectangular box with a carrying handle on the back.
+The lid is white, the ridged sides are dark gray, and the front and back are brushed aluminum. On top, three gray function keys sit on the right side of the lid, and a paper-advance rocker switch is on the left side. All the controls are labeled in braille. The three keys are close together and take firm pressure; pressing combinations of them runs the spoken setup menus.
+The lid lifts all the way up and stays open, exposing the whole paper path. You open the hinged paper guides on each side, slide continuous fan-fold paper under the rod-shaped platen, set the sprocket holes over the pins, and cover the top-of-form detector opening, which is easy to find by touch. It takes tractor-feed paper or plastic labels up to 8.5 inches wide, and it wastes one sheet each time you load.
+The back panel has a parallel port, a serial port, an earphone jack and a voltage selector. A built-in speech synthesizer speaks all of its menus. The Blazer came with an AC power cord and a parallel cable, and a black padded carrying case with a shoulder strap cost $60 extra.
+AccessWorld found its printing loud and harsh. It embosses 6- or 8-dot braille and graphics, and can emboss sideways. Its setup prompts can also be embossed for deafblind users, but they end up partly tucked under the curve of the platen bar, which makes them awkward to read.
+
 Features:
 Not documented
 
 History:
-Invented by Deane Blazie and Tim Cranmer. Later sold by Freedom Scientific.
+Invented by Deane Blazie and Tim Cranmer. Later sold by Freedom Scientific. AccessWorld reviewed the Braille Blazer in November 2002 as one of two portable embossers under $3,000, alongside the Porta-Thiel. It found the Blazer slow and loud but easy to load. Its built-in speech synthesizer spoke the menus and could double as a speech synthesizer for the computer, and the menus could also be embossed for deafblind users.
 
 Ports:
 Serial and parallel ports, earphone jack.
