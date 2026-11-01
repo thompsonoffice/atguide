@@ -1,13 +1,13 @@
 OpenBook
 Company: Arkenstone
 Category: Other
-Released: An Arkenstone product. Arkenstone merged with Henter-Joyce and Blazie Engineering in 2000 to form Freedom Scientific, which continued OpenBook (Wikipedia). The first release year was not found.
+Released: 1989 (Arkenstone; AccessWorld)
 
 Overview:
 Arkenstone's PC scanning and reading software, later sold by Freedom Scientific.
 
 Specs:
-Released: An Arkenstone product. Arkenstone merged with Henter-Joyce and Blazie Engineering in 2000 to form Freedom Scientific, which continued OpenBook (Wikipedia). The first release year was not found.
+Released: 1989 (Arkenstone; AccessWorld)
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Jim Fruchterman founded Arkenstone in February 1989. AccessWorld reports that it introduced OPENBook reading software that year and sold about 35,000 systems over the next decade. A complete system, with computer, scanner and software, cost under $5,000, at a time when an earlier reading system had cost an end user $50,000. Arkenstone also sold OpenBook as a dedicated reading machine: a PC in a special case with an HP scanner and a large keypad designed to pass a 'knuckle test' for seniors. As OCR moved off coprocessor cards and into software, Fruchterman says OpenBook became the first talking Windows application for blind people, ahead of the screen readers. After Freedom Scientific acquired Arkenstone's holdings in 2000, the NFB's Braille Monitor compared An Open Book Ruby Edition with the Kurzweil 1000. It reviewed the public beta of version 5.0, which Freedom Scientific released that fall.
 
 Ports:
 Not documented
@@ -39,5 +39,8 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/FreedomScientific
+Source 2: https://afb.org/aw/2/6/15000
+Source 3: https://afb.org/blindness-and-low-vision/using-technology/interviews-technology-pioneers/jim-fruchterman/part-3-4
+Source 4: https://nfb.org/images/nfb/publications/bm/bm01/bm0102/bm010210.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

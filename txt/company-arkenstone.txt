@@ -7,7 +7,7 @@ History:
 Founded in 1989 by Jim Fruchterman to build affordable reading machines, including OpenBook. Its reading-machine line merged into Freedom Scientific in 2000.
 
 Products:
-OpenBook (Other, An Arkenstone product. Arkenstone merged with Henter-Joyce and Blazie Engineering in 2000 to form Freedom Scientific, which continued OpenBook (Wikipedia). The first release year was not found.)
+OpenBook (Other, 1989 (Arkenstone; AccessWorld))
 
 Operating System and Software Histories:
 Not documented
