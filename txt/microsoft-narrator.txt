@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Debuted in Windows 2000, speaking with Microsoft Sam. It gained braille support in 2017, and the Windows 10 Creators Update changed its toggle to Ctrl+Windows+Enter. Windows 10 and 11 voices include David, Zira, Mark and Hazel.
+Debuted in Windows 2000, speaking with Microsoft Sam. It gained braille support in 2017, and the Windows 10 Creators Update changed its toggle to Ctrl+Windows+Enter. Windows 10 and 11 voices include David, Zira, Mark and Hazel. Narrator was developed by Professor Paul Blenkhorn in 2000. It made Windows 2000 the first Microsoft operating system with some access for blind people built in, so a blind person could use any such computer right away. The Windows 2000 version used SAPI 4 and could use other SAPI 4 voices. The Windows XP version used SAPI 5 but only the default voice, Microsoft Sam. Vista and 7 moved it to SAPI 5.3 and the Anna voice. Windows 10 offered it in many languages with voices including David, Zira and Mark. Windows 11 redesigned it and added natural voices. Windows Phone had a simpler version.
 
 Ports:
 Not applicable (software)
@@ -37,5 +37,6 @@ Sources:
 Source 1: https://abilitynet.org.uk/news-blogs/microsoft-narrator-turns-21-we-celebrate-coming-age
 Source 2: https://afb.org/aw/18/6/15200
 Source 3: https://support.microsoft.com/en-us/accessibility/windows/narrator/appendix-a-supported-languages-and-voices
+Source 4: https://en.wikipedia.org/wiki/Narrator(Windows)
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

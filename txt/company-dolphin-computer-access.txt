@@ -9,8 +9,8 @@ A UK maker of the Hal screen reader (DOS, then Windows), Supernova, Pocket Hal a
 Products:
 Hal for Windows (Screen Readers, By 1997 (Hal 1.04 for Windows 95))
 Dolphin Orpheus (TTS Voices, Version 1.01 released June 30, 1998)
-Dolphin Supernova (Screen Readers, 1998 to present)
-Pocket Hal / Smart Hal (Screen Readers, Pocket Hal: November 2005; Smart Hal by 2007)
+Dolphin Supernova (Screen Readers, Launched 1998)
+Pocket Hal / Smart Hal (Screen Readers, Late 2005 (final beta October 2005))
 Dolphin Apollo (Speech Synthesizers, A hardware speech synthesizer from Dolphin's DOS-era range, alongside Hal for DOS. No release year was found in Wikipedia's list of screen readers or on Dolphin's site.)
 Hal for DOS (Screen Readers, DOS era. Wikipedia lists Hal for both DOS and Windows; the Windows version was later superseded by SuperNova and Dolphin ScreenReader. The DOS release year was not found.)
 

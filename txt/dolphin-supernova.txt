@@ -1,14 +1,14 @@
 Dolphin Supernova
 Company: Dolphin Computer Access
 Category: Screen Readers
-Released: 1998 to present
+Released: Launched 1998
 
 Overview:
 Dolphin's combined magnifier and screen reader. Version 8.01 for Windows Vista was reported in 2007.
 
 Specs:
 Developer: Dolphin Computer Access
-Release years: 1998 to present
+Release years: Launched 1998
 Runs on: Windows
 Default speech: Not documented
 Price: Not documented
@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Dolphin launched SuperNova in 1998 as, in its words, the first fully integrated magnifier and screen reader, developed at its Worcester headquarters. SuperNova USB followed in 2005 as the first assistive technology to run portably from a USB thumb drive. The Dolphin Pen could carry SuperNova, Hal or Lunar from PC to PC, and was nominated for a British Chamber of Commerce innovation award in 2005. SuperNova remains one of Dolphin's flagship products.
 Predecessors: Hal for Windows (Dolphin Computer Access, By 1997 (Hal 1.04 for Windows 95))
 
 Ports:
@@ -36,5 +36,7 @@ Sources:
 Source 1: http://therangerstation.blogspot.com/2007/07/
 Source 2: https://en.wikipedia.org/wiki/Listofscreenreaders
 Source 3: https://www.prweb.com/releases/dolphincomputeraccesscelebratetheir30thanniversarylaunchinganaccessibleiosreadingappforblindlowvisiondyslexicreaders/prweb14405612.htm
+Source 4: https://www.freelists.org/post/access-uk/Fw-UKVISE-FW-Dolphin-News-October-2005,1
+Source 5: https://yourdolphin.com/news?id=563
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

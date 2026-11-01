@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Hal for DOS was one of the first products of Dolphin Computer Access, founded in 1986 in Worcester, UK and led by Noel Duffy. It was a software screen reader that spoke through a hardware synthesizer, Dolphin's Apollo. Dolphin says the pairing was sold in more than 30 languages and became an industry leader worldwide.
 Successors: Hal for Windows (Dolphin Computer Access, By 1997 (Hal 1.04 for Windows 95))
 
 Ports:
@@ -34,5 +34,8 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Listofscreenreaders
+Source 2: https://www.prweb.com/releases/dolphincomputeraccesscelebratetheir30thanniversarylaunchinganaccessibleiosreadingappforblindlowvisiondyslexicreaders/prweb14405612.htm
+Source 3: https://yourdolphin.com/About-Dolphin
+Source 4: https://yourdolphin.com/news?id=563
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Dolphin built the Apollo hardware speech synthesizer as the voice for its Hal for DOS screen reader. Dolphin says the combination was available in more than 30 languages.
 
 Ports:
 Not documented
@@ -39,5 +39,6 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Listofscreenreaders
+Source 2: https://www.prweb.com/releases/dolphincomputeraccesscelebratetheir30thanniversarylaunchinganaccessibleiosreadingappforblindlowvisiondyslexicreaders/prweb14405612.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
