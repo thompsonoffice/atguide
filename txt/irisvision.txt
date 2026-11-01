@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+IrisVision began as a low-cost low-vision aid built from a Samsung Galaxy phone mounted in a Samsung Gear VR headset. It retailed for $2,500 in the US, and Samsung's chief medical officer endorsed it. Its software remaps the camera image with algorithms for macular degeneration and retinitis pigmentosa, and adds zoom, contrast and reading modes. In 2023 AccessWorld reviewed the successor, IrisVision Inspire. Inspire moves a Galaxy S21 out of the headset onto a lanyard and connects it by cable, making the headset lighter, and adds voice commands, offline OCR, and Bubble, RP and Bioptic modes.
 
 Ports:
 Not documented
@@ -39,5 +39,7 @@ Not documented
 
 Sources:
 Source 1: https://irisvision.com
+Source 2: https://coolblindtech.com/irisvision-harnesses-the-power-of-samsung-galaxy-smartphone-with-a-samsung-gear-vr-headset/
+Source 3: https://afb.org/aw/february2023/irisvisions-new-addition-inspire
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -36,7 +36,7 @@ Reads BRF, TXT, HTML, XML, DOCX and EPUB
 
 History:
 AccessWorld says HumanWare released the updated Stream in February 2013, six years after the original. It is 4.5 by 2.4 by 0.7 inches and weighs 3.9 ounces. Compared with the original, it is smaller with more rounded corners, adds Wi-Fi and a Micro USB port, has a louder speaker, uses Acapela voices instead of Nuance Vocalizer, and includes the former Soft Pack features such as DOCX and EPUB support. The reviewer still preferred the classic Stream.
-Predecessors: Victor Reader Stream (1st generation) (HumanWare, 2007 to 2014)
+Predecessors: Victor Reader Stream (1st generation) (HumanWare, Announced July 2007 and shipping from early September 2007 (AccessWorld). The second-generation Stream replaced it in February 2013.)
 Successors: Victor Reader Stream (3rd generation) (HumanWare, 2023 to present); Victor Reader Trek (HumanWare, 2017)
 
 Ports:

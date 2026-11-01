@@ -4,7 +4,7 @@ Founded: Founding year not found (searched NFB timeline and archived Accent mate
 Products listed: 1
 
 History:
-Maker of the Accent SA serial speech synthesizer.
+Aicom Corporation made the Accent line of speech synthesizers: the external Accent SA, which connects over a serial port, and the full-length ISA Accent PC card. The Accent was established by fall 1992, when Artic made its TransPort synthesizer able to emulate it. Users remember the Accent PC as the fastest ISA speech board. In April 2005 a JAWS mailing-list user wrote that Aicom had closed and that he had bought its last stock of Accent SAs and Accent PC cards.
 
 Products:
 Accent SA (Speech Synthesizers, On the market by 1992)

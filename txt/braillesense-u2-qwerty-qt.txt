@@ -50,5 +50,6 @@ Not documented
 Sources:
 Source 1: https://selvasblv.com/brochure/braille/HIMS-Braille-Sense-U2-and-U2-QWERTY-Data-Sheet.pdf
 Source 2: https://www.ergoguys.com/bru2qwke.html
+Source 3: https://www.himsintl.com/en/company/prdhistory.php
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

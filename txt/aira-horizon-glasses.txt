@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Aira launched its remote sighted-agent service with Google Glass and Austrian-made camera glasses. Those glasses were tethered to an AT&T Mi-Fi hotspot and used the wearer's own phone, and their side-mounted camera gave agents about a 60-degree view. AccessWorld reviewed the Horizon glasses in June 2018. They look like sunglasses and plug directly into a dedicated Samsung phone, which serves as both the phone line and the hotspot and powers the glasses. Their camera sits above the nose and gives agents a 120-degree view. The phone carried Chloe, an early voice assistant. The reviewer called Aira the biggest game-changer for blind people since the talking and braille PC. Plans then started at $89 a month.
 
 Ports:
 Not documented
@@ -39,5 +39,7 @@ Not documented
 
 Sources:
 Source 1: https://aira.io
+Source 2: https://afb.org/aw/19/6/15088
+Source 3: https://www.afb.org/aw/18/9/15178
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
