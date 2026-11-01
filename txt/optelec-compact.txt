@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Compact+ is a handheld video magnifier about 5 inches long, 3 inches wide and 1.25 inches thick, and it weighs 10.6 ounces. Most of the top is a 4-inch LCD screen.
+Next to the screen is a single round control. Turning a lever on it changes the magnification between three levels, 5x, 7.5x and 10x, and the same control switches the viewing modes. A Snapshot feature freezes the picture so you can hold it closer or show it to someone, and you can magnify the frozen image too.
+Underneath, the camera is attached to the battery compartment, which slides along a track. Move it directly under the screen for reading, or slide it to the side to leave room for a pen when writing.
+A collapsible handgrip also folds out from the underside and snaps into place, so you can hold the unit like a traditional magnifying glass.
+It runs on a pack of two rechargeable AA batteries, which charge in the unit in about three hours and last about as long. Ordinary store-bought AA batteries also work. The box included a carrying case, a neck strap and a power supply. The manual is a spiral-bound, postcard-size booklet printed in 14-point type.
+
 Features:
 Not documented
 
 History:
-Not documented
+AccessWorld described the Compact+ in September 2007 as new to the market and a complete redesign of Optelec's earlier handheld Compact. It cost $795, the same as its rival, the Enhanced Vision Nemo. The reviewer found it smaller, lighter and easier to hold, with a single one-finger control, but with a dimmer, more glare-prone screen. Optelec said it was the only product in its class to run on rechargeable AA batteries.
 
 Ports:
 Not documented
@@ -39,5 +46,6 @@ Not documented
 
 Sources:
 Source 1: https://vispero.com
+Source 2: https://afb.org/aw/8/5/14311
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

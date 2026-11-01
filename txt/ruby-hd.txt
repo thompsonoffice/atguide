@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The RUBY HD is a pocket-sized handheld video magnifier, about 4.9 inches high, 2.9 inches wide and 1.4 inches deep, and weighing 8 ounces (227 grams). Most of the front is a 4.3-inch color LCD screen.
+Its controls are a few large buttons, each a different color so you can tell them apart. The green-and-yellow button turns it on and off. Two yellow buttons, plus and minus, zoom in and out; hold them for continuous zoom. Two blue buttons scroll up and down through the color modes, such as yellow text on blue. A red button freezes the image, and pressing it again returns to the live view.
+On the back is a fold-away handle that also holds the batteries. Unfold it to hold the RUBY HD like a magnifying glass over a can, pill bottle or price tag. Fold it flat to rest the unit directly on a newspaper, letter or receipt and slide it along.
+The guide's diagrams show the HD camera sensor and LED reading lights on the side facing the page, and the power connector, a battery status light and a USB port on the body. The USB port is for copying saved images to a computer.
+To change the batteries, unfold the handle fully and slide off the battery cover in the direction of its printed arrow. It takes four AAA batteries, either the included rechargeables or regular alkalines; a full charge takes about 2 hours.
+
 Features:
 Not documented
 
 History:
-Not documented
+Freedom Scientific's RUBY HD user guide (part 440648-001) describes a handheld magnifier with an autofocus HD camera and a 4.3-inch color screen. It zooms from 2x to 13x with its handle open, or 4x to 10x with the handle closed and the unit resting flat on a page. It offers 5 default and 15 extra color modes, stores about 80 images, and runs on four AAA batteries.
 Predecessors: RUBY (Freedom Scientific, June/July 2009)
 
 Ports:
@@ -40,5 +47,6 @@ Not documented
 
 Sources:
 Source 1: https://www.freedomscientific.com
+Source 2: https://support.freedomscientific.com/content/Documents/Manuals/RUBY/RUBY-HD-Users-Guide.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
