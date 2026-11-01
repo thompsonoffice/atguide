@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-Introduced with Windows 8 and still a Narrator voice in Windows 10 and 11.
+Introduced with Windows 8 and still a Narrator voice in Windows 10 and 11. Zira (U.S. female) arrived with David and Hazel in Windows 8. In Windows 10, Microsoft's mobile voices Mark and Zira, the same as on Windows Phone 8, 8.1 and Windows 10 Mobile, became available on the desktop. Windows 11 reclassed the Windows 10 voices as 'legacy voices' and added Azure 'natural voices' (Aria, Jenny and Guy) for Narrator starting with version 22H2.
 Predecessors: Microsoft Anna (Microsoft, Windows Vista (2007) and Windows 7)
 
 Ports:
@@ -37,5 +37,6 @@ Not documented
 Sources:
 Source 1: https://github.com/MicrosoftDocs/winrt-api/blob/docs/windows.media.speechsynthesis/voiceinformation.md
 Source 2: https://support.microsoft.com/en-us/windows/appendix-a-supported-languages-and-voices-4486e345-7730-53da-fcfe-55cc64300f01
+Source 3: https://en.wikipedia.org/wiki/Microsofttext-to-speechvoices
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

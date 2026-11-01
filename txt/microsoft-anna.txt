@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Microsoft Streets & Trips 2006 and later installed it on Windows XP. Vista and 7 shipped no male voice.
+Microsoft Streets & Trips 2006 and later installed it on Windows XP. Vista and 7 shipped no male voice. Anna became the default English voice in Windows Vista and Windows 7. She is a SAPI 5-only voice designed to sound more natural than Microsoft Sam, and Microsoft Streets & Trips 2006 and later installed her on Windows XP for spoken directions. No male voice shipped with Vista or 7. Windows 8 brought David, Zira and Hazel as more natural-sounding successors.
 Predecessors: Microsoft Sam (Microsoft, 2000 (Windows 2000) to Windows XP)
 Successors: Microsoft David (Microsoft, Windows 8 (2012) to present); Microsoft Zira (Microsoft, Windows 8 to present)
 

@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-Introduced with Windows 8. It remains in Windows 10 and 11 and is listed as a Narrator voice.
+Introduced with Windows 8. It remains in Windows 10 and 11 and is listed as a Narrator voice. David (U.S. male) was one of three new desktop voices in Windows 8, with Zira and Hazel, meant to sound more natural than Anna. Server versions were available through the Microsoft Speech Platform for older Windows. In Windows 11 the Windows 10 voices were reclassed as 'legacy voices', but David remained the default voice for the desktop.
 Predecessors: Microsoft Anna (Microsoft, Windows Vista (2007) and Windows 7)
 
 Ports:
@@ -38,5 +38,6 @@ Sources:
 Source 1: https://github.com/MicrosoftDocs/winrt-api/blob/docs/windows.media.speechsynthesis/voiceinformation.md
 Source 2: https://support.microsoft.com/en-us/accessibility/windows/narrator/appendix-a-supported-languages-and-voices
 Source 3: https://support.microsoft.com/en-us/windows/appendix-a-supported-languages-and-voices-4486e345-7730-53da-fcfe-55cc64300f01
+Source 4: https://en.wikipedia.org/wiki/Microsofttext-to-speechvoices
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
