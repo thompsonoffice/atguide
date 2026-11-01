@@ -5,7 +5,7 @@ const B=JSON.parse(cp.execFileSync(process.execPath,["--no-warnings","--experime
 for(const f of["research.js","research2.js"])require(path.resolve("data",f))(B);
 const SW=new Set(["TTS Voices","Screen Readers","Speech Synthesizers","Accessible Linux"]);
 const hw=B.DEV.filter(d=>!SW.has(d.cat)),sw=B.DEV.filter(d=>SW.has(d.cat));
-const APP=new Set(["aira","eyenote","cashreaderapp","looktelmr","openbook","knfbm","irisv"]);const nod=hw.filter(d=>!APP.has(d.id)&&!(d.desc&&d.desc.length>=5));
+const APP=new Set(["aira","eyenote","cashreaderapp","looktelmr","openbook","knfbm","irisv","hwcomp"]);const nod=hw.filter(d=>!APP.has(d.id)&&!(d.desc&&d.desc.length>=5));
 const sh=sw.filter(d=>(d.h||"").length<300);
 console.log("hw",hw.length,"nodesc",nod.length,nod.map(d=>d.id).join(" "));
 console.log("sw",sw.length,"short",sh.length,sh.map(d=>d.id+"("+(d.h||"").length+")").join(" "));

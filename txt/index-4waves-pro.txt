@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The 4Waves PRO is a floor-standing, high-volume production embosser for tractor-fed paper. It measures 169 by 70 by 114 cm and weighs 195 kg; the shipping weight is 264 kg, on a pallet. Index called it the first embosser built on a multi-printer design.
+Inside are four identical embossing modules working together, which give up to 1,000 pages per hour. Each module measures 58 by 23 by 19 cm and weighs 8.7 kg. A fifth service module comes with it. When a module needs maintenance, you swap in the spare in a few minutes without tools.
+The machine adapts automatically to running on three, two or one modules, so it keeps embossing while at least one module works. At power-on it confirms each module by speech: check module, one wave, two wave, three wave, four wave, ready.
+Like other Index embossers, it has a speech-equipped control panel with print-and-braille keys. Unlike the other V3 models, it has no 9-pin serial port; it connects by USB, network and parallel. It can restart a job at the point where it stopped after a paper jam.
+It embosses high-resolution tactile graphics anywhere in a document using the WinBraille editor. Its warranty was 2 years or 5,000,000 pages, compared with 200,000 for Index's smaller embossers.
+
 Features:
 Not documented
 
@@ -39,5 +46,7 @@ Not documented
 
 Sources:
 Source 1: https://www.braillecast.com/podcast/e020/
+Source 2: https://cecitech.com/en/?product=index-4-waves-pro-braille-printer
+Source 3: https://www.ceciaa.com/media/file/file/telecharger-le-manuel-d-utilisation-pour-les-imprimantes-braille-index-basic-d-v4-everest-v4-et-braillebox.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

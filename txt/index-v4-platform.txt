@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The V4 platform includes the Basic-D (tractor-fed), the Everest-D (cut sheets) and the BrailleBox, a production embosser with three embossing heads. According to the entry's history, the Basic-D V4 has a white case with a black lid. The Basic-D and Everest-D run from an external 48-volt switched-mode power supply.
+On the Basic-D, the control panel and lid are on top, with left and right tractors underneath. Optical sensors detect the paper edge and paper jams. A transport lock is stored in holders on the back plate. The Everest-D has a top sheet feeder with a lock, left and right margin guides with locking levers, card/sheet selectors and pick-up rollers, plus an adjustable front bottom profile and guides that set the angle of the ejected paper.
+The control panel has On, Off, Feed, Help and Menu keys, up, down and left arrows, OK, and number keys 1 and 10, plus a CHS key that switches between increasing and decreasing a value. Spoken feedback, in a local language or English, announces each function. Three LEDs show green for power OK, yellow for online and red for menu active.
+On the back of the Basic-D and Everest-D are the 48-volt power input and a reset button (hold 3 seconds for factory settings). There are also a service serial port, a serial port, a USB 2.0 port, a 100-megabit network port with an LED, and a headphone jack. Status LEDs between the USB and service ports show paper-edge and paper-movement sensing.
+The BrailleBox takes 90 to 250 volts directly and adds a paper tray, a braille output tray, a service door and LED indicators. It embosses A3, tabloid and similar sheets in newspaper format. The Basic-D takes fanfold paper 1 to 17 inches long and 4 to 13 inches wide, and the Everest-D takes cut sheets from 120 to 590 mm long. Index gives a 2-year parts warranty.
+
 Features:
 Not documented
 
@@ -44,5 +51,6 @@ Source 1: https://www.braillecast.com/podcast/e020/
 Source 2: https://sastltd.zohodesk.eu/portal/en/kb/articles/index-embosser-version-identification
 Source 3: https://www.medicalexpo.com/prod/index-braille/product-108385-1043623.html
 Source 4: http://www.itacconsulting.com/img/products/braille%20embrossers/pdfs/Index%20BrailleBox-presentation.pdf
+Source 5: https://www.edvisionservices.org/Manuals/Basic-DV4.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

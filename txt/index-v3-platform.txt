@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The V3 platform covered four Index embossers: the Basic-S (single-sided) and Basic-D (double-sided), which both use tractor-fed fanfold paper, the Everest, which uses cut sheets, and the 4X4 PRO. Index's 2005 manual calls the Basics the most portable embossers it made, light and compact enough to carry to a meeting. The Basic-D embosses interpoint braille twice as fast as the Basic-S.
+According to the UK service note in this entry's history, the cases are black with a red lid and yellow buttons. The control panel keys are labelled in both print and braille. Speech feedback announces each setting, so a blind user can run and configure the embosser without sighted help.
+The keys include On Line, Off Line, Form Feed, Help, Setup, Item, Value, Normal, Reformatted and Z-folding. Pressing two keys within half a second gives extra commands. For example, Help speaks the model, firmware version and active setup. Help with Value speaks the network IP address, and Help with On Line embosses a hammer test page.
+The Everest's sheet feeder holds 70 sheets of braille paper. You set the width by sliding and locking the guides, and a sensor measures the page length automatically. Index rated mis-feeds at under 5 per 1,000 sheets on good paper. The Everest embosses anything from copy paper to card stock.
+The connections are USB, 100-megabit TCP/IP networking with DHCP, a 9-pin serial port and an IEEE 1284 parallel port, with escape-sequence control under MS-DOS. Graphics can be embossed at 0.5 mm resolution using WinBraille 4. The warranty was 2 years or 200,000 pages, with replaceable embossing heads, boards and sheet feeders. Index sold an acoustic cabinet for the Basic (42 kg) and an acoustic hood for the Everest (19.3 kg).
+
 Features:
 Not documented
 
@@ -43,5 +50,7 @@ Sources:
 Source 1: https://www.braillecast.com/podcast/e020/
 Source 2: https://sastltd.zohodesk.eu/portal/en/kb/articles/index-embosser-version-identification
 Source 3: https://www.medicalexpo.com/prod/index-braille/product-108385-1043623.html
+Source 4: https://www.ceciaa.com/media/file/file/telecharger-le-manuel-d-utilisation-pour-les-imprimantes-braille-index-basic-d-v4-everest-v4-et-braillebox.pdf
+Source 5: https://www.insidevision.fr/supports/guide-demarrage-rapide-index.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

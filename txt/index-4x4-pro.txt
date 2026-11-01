@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The 4X4 PRO is Index's embosser for producing braille books and magazines. Index's 2005 manual calls it by far the best-selling embosser in its class, used for years by large braille production centres worldwide.
+Its special feature is saddle-stitch magazine format. It embosses double-sided on A3 sheets (420 by 297 mm) and handles the page ordering itself, so the output only needs folding and stapling. The default layout is 29 lines of 35 characters per page.
+It shares the Everest's cut-sheet feeder design, which takes ordinary heavy paper available locally rather than imported fanfold braille paper. The Z-folding key switches it to magazine format, and pressing Form Feed twice measures and sets the paper length.
+Like the other V3 embossers, it has a control panel with print-and-braille labelled keys and spoken feedback. The connections are USB, network, serial and parallel. It cannot emboss the graphical-letters information page that the other models can, and Index's IbPrint utility does not support tactile graphics on it.
+Index sold an Acoustic Cabinet 4X4 PRO (part 1262) to reduce noise. The cabinet itself measures 69 by 51 by 152 cm and weighs 43 kg. The size and weight of the embosser alone were not given in the manuals found.
+
 Features:
 Not documented
 
@@ -39,5 +46,7 @@ Not documented
 
 Sources:
 Source 1: https://www.braillecast.com/podcast/e020/
+Source 2: https://www.ceciaa.com/media/file/file/telecharger-le-manuel-d-utilisation-pour-les-imprimantes-braille-index-basic-d-v4-everest-v4-et-braillebox.pdf
+Source 3: https://www.insidevision.fr/supports/guide-demarrage-rapide-index.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
