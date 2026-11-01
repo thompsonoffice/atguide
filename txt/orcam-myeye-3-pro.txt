@@ -20,7 +20,14 @@ Price at launch: Not documented
 Used price today (eBay): Not documented
 
 Physical Description:
-Not documented
+76 x 21 x 14.9 mm (3 x 0.8 x 0.6 in); 22.5 g (0.79 oz); 13 MP camera; 320 mAh battery.
+
+Detailed Description:
+The OrCam MyEye 3 Pro is a single slim bar about the size of a finger: 3 inches long, about 0.8 inch high and 0.6 inch thick, weighing 22.5 grams (under an ounce). It clips magnetically to the side of a pair of glasses, with no cable or separate box. The camera, speaker, battery and controls are all inside the bar.
+The 13-megapixel camera is at the front end, facing forward, with built-in lights to illuminate text. A small built-in speaker reads aloud near your ear; OrCam Bluetooth earphones are an option for privacy.
+The outer long side carries a raised touch bar. Tap it to start or stop reading, double-tap to pause or resume (or, when idle, to open the setup menu), and swipe forward or back to change the volume or skip through text. Holding a finger on the bar while facing a person about 3 feet away teaches it a face; it can store up to 100. You can also point a finger at text, or say "Hey OrCam" followed by a command.
+The inner long side, against the glasses, has two magnets you can feel with a fingertip, and the power button next to them. Hold power for 2 seconds to turn it on; press it until you hear "Suspended, press again to shut down" to turn it off. It charges from a standard 5-volt phone charger through USB-C.
+In the box (from UK dealer VisionAid): the MyEye 3 Pro, a stand, a speaker, a neck lanyard, unisex glasses, three magnetic mounts, a USB power adapter and cable, and a case. Placed on the stand and connected by USB-C or Wi-Fi to a computer browser at cast.orcam.com, it works as a desktop magnifier with an AI assistant that answers questions about a scanned page.
 
 Features:
 Not documented
@@ -40,5 +47,7 @@ Not documented
 
 Sources:
 Source 1: https://www.orcam.com
+Source 2: https://img1.wsimg.com/blobby/go/b705e79c-b611-4aa3-af3a-dddf36dee121/downloads/590732a7-209c-4f42-82d3-7483b0858719/MyEye%203%20Instruction%20Brochure.pdf?ver=1762352115649
+Source 3: https://www.visionaid.co.uk/orcam-myeye-3-pro
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
