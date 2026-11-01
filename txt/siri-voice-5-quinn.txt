@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-It appeared as 'Voice 5' in the iOS 15.4 beta in February 2022. Apple said it was recorded by a member of the LGBTQ+ community. iOS 15.4 shipped March 14, 2022.
+It appeared as 'Voice 5' in the iOS 15.4 beta in February 2022. Apple said it was recorded by a member of the LGBTQ+ community. iOS 15.4 shipped March 14, 2022.  Siri launched with female voices in most countries; Apple added a male option in June 2013. For iOS 11, Apple recorded several hours of new speech to build deep-learning voices. Quinn, added in February 2022, was Apple's first gender-neutral Siri voice.
 Predecessors: Siri voices (iOS 14.5) (Apple, April 2021 (iOS 14.5))
 
 Ports:

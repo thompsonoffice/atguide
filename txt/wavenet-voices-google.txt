@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-The production version generated 24,000 samples a second at 16-bit, 1,000 times faster than the original research model. In listening tests the new US English voice scored a mean opinion score of 4.347, against 4.667 for human speech. Google had bought DeepMind in 2014.
+The production version generated 24,000 samples a second at 16-bit, 1,000 times faster than the original research model. In listening tests the new US English voice scored a mean opinion score of 4.347, against 4.667 for human speech. Google had bought DeepMind in 2014.  DeepMind, the London AI lab, first described WaveNet in a research paper in September 2016. Instead of joining recorded fragments of speech, it builds the audio waveform one sample at a time with a neural network trained on real speech. The original model, trained on English and Mandarin, produced 16,000 samples a second and could even reproduce breaths and lip smacks.
 Predecessors: Google Text-to-Speech (Speech Services by Google) (Google, October 2013 on Google Play (reported November 6, 2013))
 
 Ports:
@@ -37,5 +37,6 @@ Not documented
 Sources:
 Source 1: https://deepmind.google/blog/wavenet-launches-in-the-google-assistant/
 Source 2: https://www.androidpolice.com/2017/10/09/google-assistant-now-sounds-natural-thanks-deepminds-wavenet-technology/
+Source 3: https://en.wikipedia.org/wiki/WaveNet
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

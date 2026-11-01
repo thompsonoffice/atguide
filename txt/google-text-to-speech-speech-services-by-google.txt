@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Android Police noted the Play Store app could replace the weak default voices on phones such as the Galaxy Note 3. The app was later renamed Speech Services by Google (Speech Recognition and Synthesis), which passed 10 billion Play Store downloads in November 2021.
+Android Police noted the Play Store app could replace the weak default voices on phones such as the Galaxy Note 3. The app was later renamed Speech Services by Google (Speech Recognition and Synthesis), which passed 10 billion Play Store downloads in November 2021.  Wikipedia gives the first release as October 10, 2013. The app is now called Speech Recognition & Synthesis. It provides voices for Google Play Books, Google Translate, TalkBack and third-party apps, and users install voice data separately for each language. Support for older Android versions has been dropped in stages: Ice Cream Sandwich and Jelly Bean in 2017, KitKat in 2020, Android 5 in 2021, and Android 6 and 7 in 2023.
 Predecessors: SVOX Pico (Android) (SVOX, September 2009 (Android 1.6 Donut))
 
 Ports:
@@ -41,5 +41,6 @@ Source 3: https://www.theverge.com/2013/11/7/5077034/google-brings-android-text-
 Source 4: https://9to5google.com/2021/11/09/speech-services-by-google-reaches-10-billion-play-store-downloads/
 Source 5: https://deepmind.google/research/wavenet/
 Source 6: https://android-developers.googleblog.com/2024/03/introducing-new-text-to-speech-engine-wear-os.html
+Source 7: https://en.wikipedia.org/wiki/SpeechRecognition%26Synthesis
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
