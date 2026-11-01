@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Braillo 200 is a heavy production interpoint embosser that sits on a table. The NFB's 1994 evaluation called it half the price and half the speed of the floor-standing Braillo 400S, adding that the table had better be a strong one. Braillo's 1998 manual gives its weight as 145 kg and says it needs about 1.25 by 1.5 metres (4 by 5 feet) of space. The NFB measured it at 34.5 inches wide, 26 inches deep and 23 inches high, and listed its weight as 386 pounds.
+Fan-fold paper feeds from a box placed at the back, opposite the operating panel. It passes between two knobs and through a slit in the paper guide, then locks into the tractor feed at the front. A FINE ADJUST button lines the paper up with a notch for the chosen sheet length.
+A green switch marked ON and a red switch marked OFF power it, and a green lamp shows when it is on. A small visual display shows messages and three sheet counters: a total that cannot be reset, and Count 1 and Count 2. An audio alarm sounds when there is a problem, but the messages themselves appear only on the display.
+Push buttons on the panel include COUNT1/COUNT2, DUMP BUFFER, PRINT VALUES, SCROLL, RESET COUNT, TEST PRINT (which also restarts after paper runs out), RESET PRINTER, I/O, ASCII-TABLES and LAYOUT 1 to 4. Settings are chosen by holding a button and pressing SCROLL until the value you want appears.
+It embosses 6- or 8-dot braille, single- or double-sided, at 200 characters per second (about 600 pages an hour), with 10 to 42 characters per line on paper 140 to 330 mm wide and 4 to 14 inches long. It connects by parallel (Centronics) or RS-232 serial, both electrically isolated, and runs on single-phase 220 V. The NFB listed it at $37,995 in 1994.
+
 Features:
 Not documented
 
@@ -40,5 +47,8 @@ Not documented
 
 Sources:
 Source 1: https://braillo.com/about-us/
+Source 2: https://braillo.com/wp-content/uploads/2017/09/B200-Braille-Printer-Manual-1998.pdf
+Source 3: https://www.duxburysystems.org/downloads/library/history/00-nfb1994-tech-eval.pdf
+Source 4: https://braillo.com/wp-content/uploads/2026/04/Braillo-Products-Brochure-2026.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Braillo 270 was the world's first double-sided (interpoint) braille embosser. Braillo introduced it in January 1980 after developing it with SINTEF, a research institute in Trondheim, Norway.
+The first unit was installed at Norway's Tambartun School for the Blind in 1980 and stayed in service until the school closed in 2013.
+Duxbury's embosser definition for the Braillo 270 shows that it embossed interpoint braille at up to 42 cells per line, with line widths of 27 to 42 cells. Page lengths were whole inches from 4 to 14, plus 9.5, 10.5, 11.5, 12.5 and 13.5 inches. Settings were sent by escape codes, but there was no escape code to switch between single- and double-sided printing.
+The 270 evolved into the Braillo 400S. The NFB's 1994 evaluation describes the 400S as a floor-standing machine shaped like a squared-off refrigerator, with paper running from back to front and a 16-button panel. It is likely the 270 had a similar build, but no source consulted describes it directly.
+The Braillo 270's own size, weight, speed and controls were not found in Braillo's or the NFB's published material, or in Duxbury's documentation.
+
 Features:
 Not documented
 
@@ -40,5 +47,8 @@ Not documented
 
 Sources:
 Source 1: https://braillo.com/about-us/
+Source 2: https://braillo.com/wp-content/uploads/2026/04/Braillo-Products-Brochure-2026.pdf
+Source 3: https://duxburysystems.com/documentation/dbt14.1/Content/embossersandembossing/Embosserseltinfo/braillo270.htm
+Source 4: https://www.duxburysystems.org/downloads/library/history/00-nfb1994-tech-eval.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
