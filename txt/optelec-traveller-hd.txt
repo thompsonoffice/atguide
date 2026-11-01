@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Traveller HD is a portable video magnifier about the size of a large laptop. Optelec's data sheet gives it as 14.4 by 9.5 by 1.9 inches (36.5 by 24 by 4.9 cm) and 4.3 pounds (about 1.95 kg).
+Its 13.3-inch widescreen display sits on a base that rests on the page. Instead of moving the paper, you slide the screen across a line of text using its handles. Optelec calls this 'Slide & Read'.
+A 1080p high-definition camera underneath looks at the page. It magnifies smoothly from 2.4 to 30 times and offers a colour photo mode plus 16 high-contrast reading modes, up to four of which you can set as favourites.
+It runs from a rechargeable battery with no cables while you read, so you can use it at a table, in an armchair or in bed. Optelec's data sheet gives about 2 hours of use per charge and 4 hours to recharge; its product page gives 3 hours of use and 6 hours to charge.
+In the box are a protective bag, a power cord and adapter with four plug adapters for different countries, a screen-cleaning cloth and the instruction manual. The magnifier can store up to 1,000 captured images.
+
 Features:
 Not documented
 
 History:
-Not documented
+Optelec's original Traveller, made by its Dutch parent the Tieman Group, was a hinged portable CCTV. AccessWorld rated it 4 out of 5 in 2004: good for labels, single sheets and signatures, but hard to use on narrow books and for long writing. The Traveller HD replaced it with a 13.3-inch widescreen, a 1080p camera, stepless magnification from 2.4 to 30 times, and storage for up to 1,000 images. Optelec's 'Slide & Read' design lets you glide the screen along a line of text to read more fluently, which it says helps people who find it hard to keep a steady hand.
 
 Ports:
 Not documented
@@ -39,5 +46,8 @@ Not documented
 
 Sources:
 Source 1: https://vispero.com
+Source 2: https://us.optelec.com/products/optelec-traveller-hd/
+Source 3: https://us.optelec.com/download/files/Optelec+Traveller+HD+Data+sheet.pdf
+Source 4: https://afb.org/aw/5/4/14722
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

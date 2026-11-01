@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Folded 240 x 400 x 29 mm, 1,940 g. Tablet alone 301 x 186 x 10 mm, 840 g.
 
+Detailed Description:
+This description is of the first-generation Prodigi Connect 12 that AccessWorld reviewed in 2016. The tablet has a 12.2-inch screen, and the whole kit weighs under 2 pounds (about 0.9 kg). It packs into a standard laptop bag with a shoulder strap and handles.
+The folding reading stand has a base about 12 by 16 inches, with two hinged legs joined at the back. The tablet clamps screen-up onto a hinged platform that tilts. With the legs straight, the tablet sits 8 inches above the desk.
+The tablet's 8-megapixel camera with LED light looks down through an opening in the platform. It sits at the edge of the tablet nearest you, so you may need to slide your reading material or adjust the stand to bring the top of a page into view.
+In magnifier mode, a strip of large, bright on-screen buttons fills the bottom quarter of the screen for zoom, capture, light and settings. You can also pinch to zoom, or swipe vertically along the right edge to switch between positive and negative contrast.
+The optional Sony distance camera is small and round, about the size of an SLR lens. It clips onto the stand or a table with a flexible mount, swivels (it can even turn to face you), and has its own zoom rocker. The tablet has a microSD slot, Wi-Fi, Bluetooth and GPS, and HumanWare rated its battery at up to 12 hours.
+
 Features:
 Not documented
 
 History:
-Not documented
+HumanWare's Prodigi Connect 12 combined a 12.2-inch Samsung Galaxy Note Pro tablet with a folding reading stand and, for $300 more, a wireless Sony camera for distance viewing. AccessWorld reviewed it in May 2016. Unlike magnifiers that lock users out of Android, it gave full access to Android 5.0 and the Google Play Store. Alongside that it ran HumanWare's magnification and OCR apps, and apps for Bookshare, BARD, Dropbox and classroom smart boards. The reviewer called it a video magnifier for power users. The weakness was full-page scanning, which required turning the page sideways and was hard to use.
 Predecessors: Prodigi (HumanWare, Announced 2013)
 
 Ports:
@@ -41,5 +48,6 @@ Not documented
 
 Sources:
 Source 1: https://store.humanware.com/int/connect-12-smart-portable-hd-magnifier.html
+Source 2: https://afb.org/aw/17/5/15336
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

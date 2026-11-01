@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Prodigi Duo is a desktop video magnifier with a black and silver base and a removable handheld tablet. The base takes up about 21 inches (53 cm) of depth and 14 inches (36 cm) of width on the desk, so it may not fit on small desks or under an overhead hutch.
+A 20- or 24-inch LCD monitor sits on an arm above the base. The arm raises it through about 5 inches, from 17.5 to 22.5 inches above the desk, and the monitor also tilts forward and back and swivels from side to side. The monitor is not a touchscreen.
+The Prodigi tablet docks in the base, where two latches hold it; you push them apart to release it. It has a 5-inch touchscreen and Plus and Minus buttons on its side. The Minus button is above the Plus button, the reverse of most phones, which the reviewer found confusing. A small folding reading stand and a carrying case come with it.
+At the front centre of the base is a 3.5-inch touchpad for pinch zoom, panning and swipe gestures. The Read button is to its left, and the Plus and Minus magnification buttons are on the right side of the base. The reviewer suggested making these buttons larger and more raised so they are easier to find by touch. Two USB ports on the side of the base take a memory stick for software updates.
+Because the camera sees the whole page at once, no sliding X-Y reading table is needed. The tablet charges in the dock or with a USB cable. AccessWorld noted that the cable's plug had no high-contrast marking to show which way up it goes; HumanWare replied that it carries a tactile marker.
+
 Features:
 Not documented
 
 History:
-Not documented
+Prodigi is a line of electronic magnifiers that HumanWare built around a customized Android tablet. It came as the Prodigi Desktop, a fixed base with a 20- or 24-inch monitor, and the Prodigi Duo, which adds a removable 5-inch tablet that also works as a handheld magnifier. In December 2014 AccessWorld called the Duo one of the most sophisticated electronic magnifiers on the market. The reviewer praised its full-page OCR, which HumanWare calls Diamond Edge Text, its speech, and its pinch-to-zoom gestures. The handheld tablet was weaker: the image blurred whenever it moved. OCR took about 10 seconds a page and struggled with faint or decorative fonts. HumanWare replied that fixes were coming, including an accessible Wi-Fi setup screen.
 Successors: Connect 12 (HumanWare, 2nd generation 2017; current tablet on Android 12)
 
 Ports:
@@ -40,5 +47,6 @@ Not documented
 
 Sources:
 Source 1: https://store.humanware.com
+Source 2: https://afb.org/aw/15/12/15614
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
