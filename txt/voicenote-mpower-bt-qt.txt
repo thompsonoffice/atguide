@@ -16,11 +16,18 @@ Default speech synthesizer: Keynote Gold
 Battery: Not documented
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $1,995 plus $45 shipping (2005)
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The VoiceNote mPower is the speech-only member of HumanWare's BrailleNote mPower family, announced June 28, 2005. It has a braille (BT) or QWERTY (QT) keyboard and no braille display.
+AccessWorld says the mPower family is the same size as earlier BrailleNotes and VoiceNotes, with the same keyboard and thumb keys. The gray case gave way to a silver one, and the teal keys to forest green.
+Along the back panel are the power jack, phone line jack and serial port, a CompactFlash slot, an SD slot, two USB host ports and one USB client port. The PC Card slot stays on the right side. On the left are the earphone jack, power switch, an external-microphone jack and a recessed Record button, and there is also an internal microphone. The parallel port was dropped.
+Inside are 128 MB of flash storage, Bluetooth and an internal 56K modem. Headphones give good stereo sound, but the built-in speaker is the same modest one as before. AccessWorld noted shorter battery life than earlier units and no DAISY or Audible playback at launch.
+The VoiceNote mPower BT or QT cost $1,995 plus $45 shipping. Owners of older units could have their hardware moved into a new mPower case through HumanWare's 'transplant' option.
 
 Features:
 Not documented

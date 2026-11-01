@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 4 x 2.25 x 1 in, 6 oz with batteries. An 18-key keypad: a telephone keypad with a nib on 5, plus keys A to F. Headphone jack and USB port on top, card slot on the right, battery compartment and belt clip on the back.
 
+Detailed Description:
+The Book Port is the American Printing House for the Blind's first handheld e-book and audio reader, released in 2003. It reads text, HTML, BRF, Word, RTF and DAISY 2 and 3 books aloud with a DoubleTalk synthesizer, plays MP3 and WAV files and records voice memos.
+AccessWorld measured it at 4 × 2.25 × 1 inches and 6 ounces with batteries. APH's own manual gives 2.75 × 4.75 × 1 inches. The case is black and the keys are labeled in yellow for high contrast.
+The face holds 18 round keys, evenly spaced. The top 12 are a telephone keypad with a nib on 5. Below them are two rows of three, A, B, C and D, E, F, which set speed and volume and control recording.
+On the top edge are the headphone jack and USB port. The memory-card slot is on the right side, and the battery compartment (two AA batteries) and a belt clip are on the back. There is no power switch and no built-in speaker: press 2 to read, press it again to stop, and the unit turns itself off. You must use headphones or an external speaker.
+The number keys navigate. 1 and 3 move by sentence, 4 and 6 by paragraph, 7 and 9 by page, 8 gives file statistics and 0 switches to the settings keypad. APH later discontinued it. One reviewer still preferred it to the Victor Reader Stream for its braille-style text input and markup of Audible books.
+
 Features:
 DAISY, text, Word, HTML, BRF and MP3
 DoubleTalk synthesizer
@@ -45,5 +52,8 @@ Sources:
 Source 1: https://afb.org/aw/4/4/14825
 Source 2: https://www.afb.org/aw/5/4/14712
 Source 3: https://tech.aph.org/bpnew.htm
+Source 4: https://afb.org/aw/5/4/14711
+Source 5: https://tech.aph.org/bpdoc.htm
+Source 6: https://afb.org/aw/9/5/14232
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

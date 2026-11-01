@@ -13,7 +13,7 @@ Memory (RAM): 256 MB
 Storage: 8 GB
 Operating system: Windows CE 6 with KeySoft
 Default speech synthesizer: Eloquence or Keynote Gold
-Battery: Not documented
+Battery: User-replaceable lithium-ion
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
 Price at launch: Not documented
@@ -21,6 +21,13 @@ Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The VoiceNote Apex is the speech-only Apex, introduced in July 2010. It is physically the same as the BrailleNote Apex but has no braille display, with an eight-dot braille keyboard (BT) or a QWERTY keyboard (QT).
+A dealer spec sheet gives 612 g (1.35 lb) and 244 × 143 × 19 mm (9.61 × 5.63 × 0.78 in), a thinner case than the older VoiceNotes.
+It has stereo speakers, an omnidirectional internal microphone, a user-replaceable lithium-ion battery and jacks for an external speaker or headphones and a microphone. A real-time clock keeps time for 30 days on backup power.
+Ports include one SD/SDHC slot, a 10/100 Ethernet port, a USB 2.0 client port for ActiveSync and three USB 2.0 host ports. Wi-Fi (802.11b/g) and Bluetooth 2.1 are built in. A USB voice modem and a Bluetooth GPS receiver were optional.
+Inside are a Freescale i.MX31 processor, 256 MB of SDRAM and 8 GB of storage, running Windows CE 6 with KeySoft. A braille terminal mode lets it work with a computer's screen reader.
 
 Features:
 Not documented
@@ -43,5 +50,6 @@ Not documented
 Sources:
 Source 1: https://afb.org/aw/11/4/16038
 Source 2: https://www.mail-archive.com/braillenote@list.humanware.com/msg80955.html
+Source 3: https://editmicro.co.za/product/voicenote-apex-bt/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

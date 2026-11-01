@@ -13,7 +13,7 @@ Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
-Battery: Not documented
+Battery: Rechargeable lithium-polymer (AC or USB)
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
 Price at launch: Not documented
@@ -21,6 +21,13 @@ Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The Book Port Plus is APH's 2010 successor to the Book Port: a pocket DAISY player, text reader, MP3 player and recorder with Wi-Fi for internet radio, podcast downloads and wireless file transfer.
+A product listing gives 4.4 by 2.2 inches and 3.9 ounces, smaller and lighter than the original Book Port. It runs on a rechargeable lithium-polymer battery, charged by AC adapter or USB.
+In the normal position the speaker grille is farthest from you, and the telephone keypad, with a very pronounced dot on 5, is closest. Above the keypad are arrow keys, a Menu key, a Bookmark key, a Go To key, a Title key, a Play/Stop key and a Record key.
+The top edge holds the microphone and earphone jacks, the right edge the volume control and key lock, the bottom edge the AC jack and USB port, and the left edge the SD card slot (SDHC up to 32 GB). The battery door is at the bottom of the back. It has a built-in speaker and microphone.
+It plays NLS, RFB&D, Bookshare and Audible books (once the unit is authorized) and reads Word, text and HTML files with built-in text-to-speech. Earbuds, two USB cables and a carrying pouch came in the box.
 
 Features:
 Not documented
@@ -41,5 +48,7 @@ Not documented
 Sources:
 Source 1: https://www.aph.org
 Source 2: http://nfbnet.org/pipermail/dtb-talknfbnet.org/2010-March/000771.html
+Source 3: https://tech.aph.org/btdoc.htm
+Source 4: https://www.assistive-tech.net/products/116138
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

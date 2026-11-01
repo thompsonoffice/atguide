@@ -12,15 +12,22 @@ Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
-Default speech synthesizer: Not documented
+Default speech synthesizer: NeoSpeech Paul and Kate
 Battery: Not documented
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $349 (standard)
 Used price today (eBay): Not documented
 
 Physical Description:
 47 x 108 x 18.5 mm, 115 g.
+
+Detailed Description:
+The BookSense is HIMS's pocket book and audio player, sold in the US by GW Micro from 2009. It reads DAISY books (NLS, Bookshare, Audible), text and Word files, plays music and records. The standard model cost $349.
+AccessWorld compares it to a candy-bar cell phone, 4.25 × 1.85 × 0.73 inches and 4 ounces, the smallest of the players it tested. A lanyard attaches at the top center.
+The front, from the top: stereo speakers, a raised date-and-time button, a five-way control with nibs on the four arrows and a small square Menu button in the center, then a 3-by-4 phone keypad. The keypad has a nib on 5, and alternate keys are slightly concave or convex.
+On the right side are the Play/Pause button (hold it for power), a Record button and a key-lock switch. On the left side are the Mode button, volume up and down and the SD card slot. The top edge has the microphone and 3.5 mm headphone jacks, the bottom the AC jack and USB port, and the back the battery compartment.
+It reads with NeoSpeech Paul and Kate voices. A user report gives about 12 hours per charge and 2.5 hours to recharge. Holding the clock button turns on voice commands.
 
 Features:
 Not documented
@@ -40,5 +47,8 @@ Not documented
 
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
+Source 2: https://afb.org/aw/10/6/16088
+Source 3: https://www.nfbnet.org/pipermail/nfbcsnfbnet.org/2011-November/003628.html
+Source 4: https://www.loc.gov/nls/services-and-resources/equipment-for-nls-materials/commercial-players-compatible-with-nls-materials-and-additional-products/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

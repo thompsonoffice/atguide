@@ -13,14 +13,21 @@ Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Windows CE with KeySoft
 Default speech synthesizer: Keynote Gold Multimedia
-Battery: Not documented
+Battery: Rechargeable NiMH
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $2,295 (AccessWorld 2003)
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The VoiceNote is a BrailleNote without the braille display. Pulse Data and HumanWare introduced it at Closing the Gap 2000, with either an eight-dot braille keyboard (BT) or a QWERTY keyboard (QT). It runs the same Windows CE-based KeySoft suite as the BrailleNote, but output is speech only.
+AccessWorld measured it at 9.5 × 5 × 1 inches and 1 pound 10 ounces, the same footprint as the BrailleNote. The case is gray. On the BT model the nine keys (eight braille dots plus a space bar) are green and arranged on a gentle curve for comfort.
+Around the case are a PC Card slot, serial and parallel ports, a modem jack, an AC adapter jack, an earphone jack, a CompactFlash slot and an infrared port. Power comes from a rechargeable nickel-metal-hydride battery.
+User reports on the BrailleNote list say early BT keys were fairly noisy and clacky and later units were quieter. QT owners described their keyboards as very quiet.
+AccessWorld priced it at $2,295. Its strengths were the KeyWord word processor and KeyPlan calendar. You cannot install ordinary Windows programs on it, and AccessWorld found the e-mail and GPS (Atlas Speaks-based) features needed improvement.
 
 Features:
 Not documented
@@ -44,5 +51,7 @@ Source 1: https://afb.org/aw/7/1/14531
 Source 2: http://www.nfbnet.org/pipermail/nfbwatlknfbnet.org/2009-January/000811.html
 Source 3: https://afb.org/aw/1/6/16145
 Source 4: https://www.mail-archive.com/braillenote@list.pulsedata.com/msg23785.html
+Source 5: https://afb.org/aw/4/3/14847
+Source 6: https://www.mail-archive.com/braillenote@list.pulsedata.com/msg24873.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

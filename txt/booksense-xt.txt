@@ -16,11 +16,18 @@ Default speech synthesizer: Not documented
 Battery: Not documented
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $499
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The BookSense XT is physically identical to the standard BookSense but adds an FM radio, 4 GB of built-in memory and Bluetooth headset support. GW Micro priced it at $499.
+It is a candy-bar-shaped player, 4.25 × 1.85 × 0.73 inches and 4 ounces. Stereo speakers are at the top of the face, above a date-and-time button, a five-way control and a phone-style keypad with alternating raised and recessed keys.
+The right side has Play/Pause (also power), Record and a lock switch. The left side has the Mode button, which on the XT also switches to the FM radio, plus volume keys and an SD slot. Microphone and headphone jacks are on top, and power and USB on the bottom.
+AccessWorld tested an XT with software 1.1. It recommended the XT for anyone wanting a built-in FM radio, 4 GB of memory, Word document reading and the smallest size.
+Users report MP3 or WAV recording, a 12-hour battery and voice-command control of playback.
 
 Features:
 Not documented
@@ -40,5 +47,7 @@ Not documented
 
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
+Source 2: https://afb.org/aw/10/6/16088
+Source 3: https://www.nfbnet.org/pipermail/nfbcsnfbnet.org/2011-November/003628.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
