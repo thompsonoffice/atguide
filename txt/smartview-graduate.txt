@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-The UK dealer VisionAid lists the Graduate as discontinued; it was priced at £1,750 there with VAT relief. VisionAid described it as a laptop-connected magnifier for students and travelling professionals: it splits into three parts that fit in a computer bag, sets up in under a minute, and takes its power from the laptop through two USB 2.0 cables. VisionAid lists compatibility with Windows XP, Vista, 7 and 8. No dated launch announcement was found, so the introduction year remains unknown.  HumanWare's March 13, 2009 announcement for CSUN 2009 invited visitors to see 'our portable distance viewing camera, the SmartView Graduate': a stand with two USB connections to a laptop, suited to students and travelling professionals, and working well with ZoomText.
+HumanWare showed the SmartView Graduate at CSUN 2009. Its March 13, 2009 announcement invited visitors to see 'our portable distance viewing camera, the SmartView Graduate': a stand with two USB connections to a laptop, suited to students and travelling professionals, and working well with ZoomText. The UK dealer VisionAid lists it as discontinued, priced at £1,750 with VAT relief. VisionAid says it splits into three parts that fit in a computer bag, sets up in under a minute, takes its power from the laptop through two USB 2.0 cables, and works with Windows XP, Vista, 7 and 8.
 
 Ports:
 Not documented
