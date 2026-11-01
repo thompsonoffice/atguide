@@ -23,13 +23,20 @@ Voices: Nuance Vocalizer / RealSpeak (engine)
 Physical Description:
 157 x 91 x 30 mm (6.2 x 3.6 x 1.2 in), 250 g (8.8 oz) with battery.
 
+Detailed Description:
+The ClassMate Reader is a handheld reader about the size of a portable game console. It measures 157 × 91 × 30 mm (6.2 × 3.6 × 1.2 in) and weighs 250 g (8.8 oz) with its battery. The front is mostly a colour LCD touchscreen, operated with a stylus that stores in the right edge.
+Down the left side of the screen, from top to bottom, are Escape, Study Tools, Home, Dictionary and Record, with the microphone above Study Tools. On the right are a four-way arrow pad with Enter in the centre, a Go To Page/Heading button and a Play button, with the speaker above the Up arrow. Holding Home for two seconds turns on Key Describer mode, which announces each button as you press it.
+On the left edge, from back to front, are the headphone jack, a Volume/Speed up-and-down rocker and a Volume/Speed toggle button. On the right edge are the Power button near the top corner, an SD card slot in the centre and the built-in stylus.
+The top edge has a mini-USB port on the left, used for computer transfers and for USB memory sticks and book cartridges, and the power input jack on the right. The back holds a battery door, secured with a screw, with a retractable stand around it.
+It uses a 3.7 V, 2 Ah lithium-ion battery that gives about 7 hours of DAISY playback over headphones and takes 4 to 5 hours to charge. It reads SD and SDHC cards up to 8 GB, records voice notes, and came with earbuds, a carrying pouch and two USB cables.
+
 Features:
 Plays DAISY, NISO Z39.86, NIMAS, Bookshare, text, WAV and MP3
 Text and voice notes, highlighting, dictionary
 Color touchscreen with stylus
 
 History:
-Not documented
+HumanWare introduced the ClassMate Reader as a revolutionary device for people with reading difficulties. It was a handheld reader for students and adults that played the audio of textbooks while highlighting the text on screen, to help with comprehension, reading speed and vocabulary. Revision 9 of its user guide is dated February 2, 2009. It played DAISY, NISO Z39.86 and NIMAS books, Bookshare.org text, Audible books, podcasts and music. Its built-in dictionary was based on the 2004 Oxford American Minidictionary, and it read text aloud with Nuance Vocalizer. Recording for the Blind & Dyslexic sold a $20 authorization key that unlocked its protected books.
 
 Ports:
 USB 2.0 (PC connection and USB drives), SD card, 3.5 mm headphone jack, built-in microphone and speaker

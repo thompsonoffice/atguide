@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Under 6.5 x 4.1 in and just over 1 in thick.
 
+Detailed Description:
+The APH Braille Plus 18 is an Android smartphone and notetaker built for braille users, which APH called the world's first Android smartphone for blind students and professionals. It measures under 6.5 by 4.1 inches and is just over an inch high.
+Along the front of the top face are Shift, a wide Space bar and Control; Shift and Control double as dots 7 and 8. Behind them are 18 eight-dot braille cells, each with a cursor-routing bar. An oval Key Lock slide switch sits to the left of the cells, and green power and red charging lights to the right. Six braille keys sit further back in an ergonomic arc, with a cursor pad (four arrows and Select) between dots 1 and 4.
+Long vertical Menu (left) and Home (right) bars flank the cursor pad. Beside Menu are Back and S1, which dials a number. Beside Home are Search and S2: press S2 to read everything, or hold it for braille and speech settings. There are microphones on both sides of the face and a phone speaker on the right.
+The front edge has stereo speakers at each end, buttons that scroll the braille display back and forward, a central joystick that moves accessibility focus, and SIM and SD card slots. The left edge has the Power button about an inch from the front, a recessed Reset button, a full-size USB host port and a micro-USB On-The-Go port for charging and connecting to a computer.
+The right edge has a long volume bar, a Camera button that opens the Look text-recognition app, a Record button, an earphone and video-out jack, and a jack reserved for future use. The camera lens and flash sit in the middle of the base. A full charge takes four to six hours.
+
 Features:
 18-cell 8-dot braille display
 5 MP camera
