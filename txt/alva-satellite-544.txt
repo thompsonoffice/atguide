@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The ALVA 544 Satellite Traveller is a 44-cell refreshable braille display. The cells run along the front of a flat surface, and behind them is space to rest a keyboard or laptop; two keyboard supports and a carrying bag come in the box.
+Above each braille cell are two small buttons: a Touch Cursor in the lower row and a Double Touch Cursor in the upper row. These route the cursor, click the mouse or give information about that cell. Three status cells, plus a blank separator, can be placed at the left or right end or turned off.
+On each side, just below the cells, is a six-key Satellite keypad: four keys in a circle with two larger keys beside them. By default the right keypad gives Windows commands (Back Tab, Forward Tab and the Left, Up, Down and Right pads), and the left keypad gives screen-reader functions (Back Ear, Forward Ear and the West, North, South and East pads). The two can be swapped.
+Along the front are six keys: a round Home key on the left, rectangular Left, Up, Down and Right keys, and a round Cursor key on the right. Pressing Back Ear, South Pad and Forward Ear together opens a built-in braille menu for volume, sleep time, dot firmness (1 to 5), status cells and seven saved setting sets.
+At the back, partly covered by an overhanging edge with tactile markings underneath, are (from left to right) the on/off switch, a 9-pin serial port, a USB port and the power-adapter socket. It runs from USB power when connected directly to a PC. Over serial it needs the adapter, because it has no battery. It can be connected to two computers at once, one by USB and one by serial.
+
 Features:
 Not documented
 
 History:
-Not documented
+Optelec's user manual calls the ALVA 544 Satellite Traveller a fifth-generation braille display. It could run on USB power or an external adapter, had both serial and USB ports and Touch Cursor and Double Touch Cursor buttons, and came in a new thin, light housing. The manual targets Windows 98, 2000 and XP, as well as MS-DOS. One of its front-key layouts copies the classic ABT3 and Delphi arrangement, and it can emulate the PROG key for compatibility with ALVA's DOS software, linking it to the earlier ALVA Braille Terminals. The display followed an 'Open Standard' approach so that it would work with most screen readers.
 
 Ports:
 Not documented
@@ -40,5 +47,6 @@ Not documented
 Sources:
 Source 1: https://inbox.the-brannons.com/blinux/Pine.LNX.4.53.0305072200490.8303@wright.online.de/T/
 Source 2: https://portale.siva.it/en-GB/databases/products/detail/id-15433
+Source 3: https://manualzz.com/doc/25948963/optelec-satellite-traveller-544-braille-display-user-manual
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

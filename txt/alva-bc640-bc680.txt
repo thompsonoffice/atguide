@@ -1,13 +1,13 @@
 ALVA BC640 / BC680
 Company: ALVA BV
 Category: Braille Displays
-Released: About 2010
+Released: By 2007 (Optelec's BC640/BC680 user manual is copyright 2007; a user blog reviewed the BC640 in April 2010)
 
 Overview:
 Later ALVA 40- and 80-cell displays.
 
 Specs:
-Released: About 2010
+Released: By 2007 (Optelec's BC640/BC680 user manual is copyright 2007; a user blog reviewed the BC640 in April 2010)
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The ALVA BC640 is a compact 40-cell braille display. The cells sit at the back of its flat top, with a cursor-routing key in front of each cell. The 80-cell BC680 shares the same design.
+On each side of the braille line are two eTouch keys for panning and screen-reader functions. The top keys are marked with two vertical lines and the bottom keys with one horizontal line.
+In the middle, in front of the routing keys, is the Smartpad of nine keys: two rectangular keys on the left, a five-way navigation key (Left, Up, Down, Right and a dot-marked Middle), and two rectangular keys on the right. Along the front edge are five thumb keys: four large ones for left, right, up and down, and a smaller middle one that returns to the cursor.
+The power switch is a rectangular push button on the right side, and it beeps when switched on. The left side holds, from front to back, the power socket, a mini-USB port and a feature connector. A connector at the back attaches the Braille Audio Feature Pack.
+The Feature Pack clips on in front and adds an eight-key braille keyboard with a space bar, Ctrl, Windows, Enter and Alt keys, stereo speakers, headphone and microphone jacks, and a volume and mute control. The display connects by USB or Bluetooth (a Class 1 USB dongle was included) and runs on an internal battery when not powered over USB.
+
 Features:
 Not documented
 
 History:
-Not documented
+Optelec's user manual, copyright 2007, introduces the ALVA Braille Controller 6 series as the first series of wireless braille controllers to combine classic braille display access with advanced functions. The series offered Bluetooth and USB in an ultra-compact design for computers, PDAs and smartphones. There were two models: the 40-cell BC640, which could take an optional Braille Audio Feature Pack with a braille keyboard and stereo speakers, and the 80-cell BC680, with a USB keyboard connection. Battery life was about 15 hours for the BC640, 40 hours with the Feature Pack, and 10 hours for the BC680.
 
 Ports:
 Not documented
@@ -39,5 +46,6 @@ Not documented
 
 Sources:
 Source 1: https://imreverhoeven.wordpress.com/2010/04/02/alva-bc640-braille-displaynotetaker/
+Source 2: https://chaic.co.il/wp-content/uploads/2020/10/OptelecALVABC640680UserManuaENGV12.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

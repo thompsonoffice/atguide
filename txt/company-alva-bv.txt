@@ -10,7 +10,7 @@ Products:
 ALVA ABT-3 series (Braille Displays, By 1994 (reviewed in the NFB's 1994 Braille Technology Evaluation; exact release year not found))
 ALVA MPO 5500 (PDAs, 2003)
 ALVA Satellite 544 (Braille Displays, By 2003 (in use May 2003))
-ALVA BC640 / BC680 (Braille Displays, About 2010)
+ALVA BC640 / BC680 (Braille Displays, By 2007 (Optelec's BC640/BC680 user manual is copyright 2007; a user blog reviewed the BC640 in April 2010))
 
 Operating System and Software Histories:
 Not documented
