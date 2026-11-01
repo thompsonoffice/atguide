@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Released on the Android Market in 2010 and updated through 2013. It no longer works on current Android.
+Released on the Android Market in 2010 and updated through 2013. It no longer works on current Android.  Blind American developer Nolan Darilek started Spiel in 2009, soon after Android 1.6 Donut added screen reader and text-to-speech support, and released it on the Android Market in November 2010. He described it as a flexible, scriptable screen reader. Android at the time didn't allow touch-screen exploration, so Spiel worked best on phones with physical keyboards. It was English-only and supported Android up to 2.3 Gingerbread; volunteers later adapted it for Android 4.0 and 4.2.
 
 Ports:
 Not applicable (software)

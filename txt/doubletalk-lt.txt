@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-The LT plugs into a serial port on almost any PC or laptop and runs on a 9-volt battery or an AC adapter.
+The LT plugs into a serial port on almost any PC or laptop and runs on a 9-volt battery or an AC adapter.  RC Systems says it is built on the RC8650 chipset and is fully self-contained, with a built-in speaker, headphone jack, volume control and serial interface. It needs no drivers: you send it text the way you would send text to a printer. RC Systems called it the synthesizer of choice for thousands of blind PC users. It has since been retired and is no longer sold.
 
 Ports:
 RS-232

@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Developed by Weiliang Li. It gained an international following after English translation, but is not on the Play Store. New features appear first in Chinese, and volunteer translators follow.
+Developed by Weiliang Li. It gained an international following after English translation, but is not on the Play Store. New features appear first in Chinese, and volunteer translators follow.  Accessible Android notes that Jieshuo was formerly known in English as Commentary or TalkMan. Ömer Yeşiltaş translated Jieshuo into Turkish after switching to Android in 2019.
 
 Ports:
 Not applicable (software)

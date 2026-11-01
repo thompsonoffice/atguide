@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Street Electronics' Echo II is a slot card for the Apple II built on Texas Instruments' TMS5200/5220 LPC speech chip. Its Textalker software turned text into speech and its Speakeasy program worked with phonemes, with adjustable pitch and volume.
+Street Electronics' Echo II is a slot card for the Apple II built on Texas Instruments' TMS5200/5220 LPC speech chip. Its Textalker software turned text into speech and its Speakeasy program worked with phonemes, with adjustable pitch and volume.  The 1982 manual, written by Mike and Fern Kory for Street Electronics of Carpinteria, California, includes a section on features specifically for blind users, and an appendix on using the Echo with an Apple-Cat modem to answer the telephone. Raised Dot Computing transcribed the manual into grade 2 braille with its Braille-Edit system.
 
 Ports:
 Not documented
