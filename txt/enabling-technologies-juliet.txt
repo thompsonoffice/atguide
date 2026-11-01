@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Juliet is a desktop braille embosser (APH Museum example, 1992). It is a rectangular box of ivory-enameled steel with a hinged lid, and has dark gray plastic handles set into its sides for lifting. The maker's ETC logo and the words "Enabling Technologies Company Juliet Brailler" are printed in blue on top.
+Lifting the lid exposes the embossing head and its moving carriage, the tractor-feed wheels that grip the sprocket holes of fan-fold paper, and a 16-key keypad for setting it up.
+Paper feeds in through a slot on the front and comes out through a slot on the back.
+Below the back output slot, set into the case, are the parallel and serial ports, the power cord socket, and an on/off rocker switch.
+The donated set included a black three-prong power cord, a parallel cable, and a print-and-braille manual in a blue binder with a 3.5-inch floppy disk inside the front cover. It used continuous fan-fold braille paper with tractor holes along the edges.
+
 Features:
 Not documented
 
 History:
-Not documented
+Enabling Technologies, founded as Triformation Systems in the early 1970s, made the Juliet in Stuart, Florida. The APH Museum's 1992 example came from a programmer at Miles Laboratories (later Bayer). He said it gave much higher-quality braille than the LED-120 it replaced.
 Successors: Juliet 120 (Enabling Technologies (formerly Triformation Systems), 1992 (Juliet embosser museum record))
 
 Ports:

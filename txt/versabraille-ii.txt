@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+The APH Museum describes the VersaBraille II+ (about 1987) as an update of Telesensory's 1979 VersaBraille. The original stored data on cassette tape; the II+ added an internal 3.5-inch floppy drive and a joystick. Early testers Howard and David Goldstein liked its disk drive, parallel printing, Duxbury compatibility and menus, but found its proprietary operating system clumsy and its keyboard hard on the wrists.
 Predecessors: VersaBraille (Telesensory Systems (TSI), December 1979)
 
 Ports:

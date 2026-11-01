@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 6.2 x 8.8 x 1.7 in, 2.52 lb.
 
+Detailed Description:
+The NLS digital talking-book player (the museum example is a 2010 standard model) is a boxy, dark charcoal-gray plastic machine with rounded edges. It is about 6 inches wide, 9 inches deep and 2 inches high, and stands on four rubber feet. The battery compartment is underneath.
+The front edge has a white-lined slot where you push in the book cartridge. Just below the slot is a white plastic carrying handle that pulls out from the front.
+On top is a round speaker grille. To its left is a pair of arrow buttons for Tone, and to its right a pair for Speed. Below the speaker is a raised line, and below that the main buttons, each a different color and shape for touch: a red Power button, a white crescent-moon Sleep button, a rectangular green Play/Stop button between white arrow-shaped Rewind and Fast Forward buttons, and two yellow arrow-shaped Volume buttons, one above the other.
+The headphone jack and USB jack are on the right side. The power cord sits in a recess on the back.
+The Library of Congress seal and the words "Library of Congress National Library Service for the Blind and Physically Handicapped" are embossed on top. The advanced DA1 model adds navigation controls that the standard player lacks.
+
 Features:
 Not documented
 
 History:
-Not documented
+According to the APH Museum, NLS introduced its digital talking-book machine in 2009 to replace the cassette players used since the early 1970s. It tested 5,000 machines and then began free nationwide distribution late that year. There were two models: the basic standard player and the DA1 advanced player, which adds navigation controls. Both have a USB jack for playing downloaded books, and APH began making books on the digital cartridges in 2010.
 
 Ports:
 Book cartridge slot, USB, headphone jack
@@ -39,5 +46,6 @@ Not documented
 
 Sources:
 Source 1: https://www.loc.gov/nls/
+Source 2: https://sites.aph.org/museum-virtual-exhibit/vex4/4FB23827-7D1E-497F-BC57-230056211832.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

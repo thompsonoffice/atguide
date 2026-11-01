@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Viewscan Text System is a modified Epson HX-20 laptop-style computer about 14.75 inches wide, 8.5 inches deep and just under 2 inches high (APH Museum example, about 1983). Its case is cream-colored plastic, and an expansion unit is bolted onto the left end. It came in a fitted dark-brown plastic carrying case with a built-in handle and latches.
+The front half of the top is a full QWERTY keyboard. The symbol keys are dark brown, the function keys gray-brown, and the Return and Break keys red.
+Along the back of the top, from left to right, are a slot for the small built-in paper-tape printer, the LCD screen in the middle (20 characters by 4 lines), and a micro-cassette drive for storing files. A speaker grille sits just below the screen.
+On the right side are an on/off slider, a dial for the screen's viewing angle, the cassette eject, a print button, and jacks for a microphone, earphone, remote control and barcode reader. The back has the power adapter jack, a 9-pin RS-232C port and a 6-pin serial port. On the left side, on the expansion unit, is a 25-pin socket for the optional hand-held scanning camera.
+Printed labels read "Viewscan Text System" at the lower left and "Wormald International Sensory Aids" above the screen. A label underneath identifies it as keyboard model VTS 100.
+
 Features:
 Not documented
 
 History:
-Not documented
+Introduced in 1983, the Viewscan Text System (VTS-100) was, according to the APH Museum, the first large-print word processor. It was a modified Epson HX-20 portable computer with a large-print display and a small built-in printer. With the optional scanning camera, it could magnify a book page up to 40 times. It was invented by Russell Smith, a former graduate student of Leslie Kay, while he worked for the Sensory Aids Division of Wormald International in New Zealand. Smith later built the Keynote talking computer on the same HX-20.
 Predecessors: Viewscan (Pulse Data International, 1980)
 
 Ports:
@@ -40,5 +47,6 @@ Not documented
 
 Sources:
 Source 1: https://afb.org/aw/6/6/14572
+Source 2: https://sites.aph.org/museum-virtual-exhibit/vex5/B05FEC63-3118-4C9D-814D-168516371748.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
