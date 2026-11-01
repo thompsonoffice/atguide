@@ -5,7 +5,7 @@ This folder holds one plain text file for every entry in ATGuide: each device, b
 There is one folder per company. Each folder starts with an About file for the company, then its version histories, then its products in alphabetical order.
 Each entry file has a header, then sections separated by blank lines in this order: Overview, Specs, Physical Description, Features, History, Ports, Operating System, System Requirements, Sources. Facts that could not be found in a source read Not documented.
 
-Totals: 90 companies, 335 devices, software and voices, 28 version histories, 454 files including this README.
+Totals: 95 companies, 340 devices, software and voices, 28 version histories, 464 files including this README.
 
 Index by company:
 
@@ -316,6 +316,10 @@ Google/Google Text-to-Speech (Speech Services by Google).txt
 Google/TalkBack.txt
 Google/WaveNet voices (Google).txt
 
+Graham-Field (Lumiscope) (2 files):
+Graham-Field (Lumiscope)/About Graham-Field (Lumiscope).txt
+Graham-Field (Lumiscope)/Lumiscope Talking Digital Ear Thermometer.txt
+
 GW Micro (4 files):
 GW Micro/About GW Micro.txt
 GW Micro/Window-Eyes versions (version history).txt
@@ -478,6 +482,10 @@ MicroTalk (2 files):
 MicroTalk/About MicroTalk.txt
 MicroTalk/ASAP (Automatic Screen Access Program).txt
 
+My Weigh (2 files):
+My Weigh/About My Weigh.txt
+My Weigh/Vox-2 Talking Kitchen Scale.txt
+
 National Library Service for the Blind and Print Disabled (NLS) (3 files):
 National Library Service for the Blind and Print Disabled (NLS)/About National Library Service for the Blind and Print Disabled (NLS).txt
 National Library Service for the Blind and Print Disabled (NLS)/NLS DS1 - DA1 digital talking-book player.txt
@@ -565,6 +573,10 @@ RC Systems/About RC Systems.txt
 RC Systems/DoubleTalk LT.txt
 RC Systems/DoubleTalk PC.txt
 
+Reizen (2 files):
+Reizen/About Reizen.txt
+Reizen/Reizen Talking Atomic Alarm Clock.txt
+
 RNIB (Royal National Institute of Blind People) (2 files):
 RNIB (Royal National Institute of Blind People)/About RNIB (Royal National Institute of Blind People).txt
 RNIB (Royal National Institute of Blind People)/PENfriend 3 audio labeller.txt
@@ -601,9 +613,17 @@ Telesensory Systems (TSI)/TSI Navigator.txt
 Telesensory Systems (TSI)/VersaBraille.txt
 Telesensory Systems (TSI)/VersaBraille II+.txt
 
+ThermoWorks (2 files):
+ThermoWorks/About ThermoWorks.txt
+ThermoWorks/ThermoWorks RT8400 Talking Thermometer.txt
+
 Thiel (2 files):
 Thiel/About Thiel.txt
 Thiel/Thiel Beta-X3.txt
+
+Ultmost (2 files):
+Ultmost/About Ultmost.txt
+Ultmost/TALKiNG Fast Reading Thermometer (Ultmost HE-113-EN).txt
 
 University of Edinburgh CSTR (2 files):
 University of Edinburgh CSTR/About University of Edinburgh CSTR.txt

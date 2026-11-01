@@ -1,0 +1,51 @@
+ThermoWorks RT8400 Talking Thermometer
+Company: ThermoWorks
+Category: Miscellaneous
+Released: On the market by 2012 (AccessWorld review); still recommended in 2026
+
+Overview:
+A talking probe thermometer for food, liquids and bath water, from −58 to 572 °F.
+
+Specs:
+Released: On the market by 2012 (AccessWorld review); still recommended in 2026
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: 2 × AAA (included); auto-off after 10 minutes
+Display or braille cells: Display window plus spoken readout
+Speech synthesizers available: Not documented
+Price at launch: $36.00 (AccessWorld, 2012); about $60 in 2026 (The Blind Bridge)
+Used price today (eBay): Not documented
+
+Physical Description:
+Not documented
+
+Detailed Description:
+The RT8400 is a long, thin probe thermometer about 9 inches long. The upper part is plastic and the lower 5 inches is a slender, pointed metal probe. A clip-on cover protects the probe and lets you hang the thermometer up.
+At the top is a loop for hanging it on a hook. Below that are a small display window, a single large oval button and the speaker openings. The oval button is the only control you need, and it is easy to find by touch.
+On the back, the battery compartment at the top opens with a small loop and holds two AAA batteries (included). Below it a small switch selects Fahrenheit or Celsius; it ships set to Fahrenheit.
+Press the oval button and it beeps within a couple of seconds. Insert the probe and press again, and it speaks the temperature almost at once. It shuts itself off after ten idle minutes. AccessWorld measured boiling water at 211.5 °F and ice water at 33.4 °F, and found the first reading of a session slightly less accurate than later ones.
+Its range is −58 to 572 °F, accurate to within 1.8 °F per the manual. Uses include checking that chicken is cooked through or that a child's bath water is safe. AccessWorld's one complaint was that the manual was not accessible out of the box.
+
+Features:
+Not documented
+
+History:
+AccessWorld's Janet Ingber reviewed it in 2012 at $36.00 from Blind Mice Mart. The Blind Bridge (October 2026) calls it the talking thermometer blind cooks write in about, priced up to about $60.
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/13/5/15813
+Source 2: https://theblindbridge.com/shopping/talking-thermometer/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

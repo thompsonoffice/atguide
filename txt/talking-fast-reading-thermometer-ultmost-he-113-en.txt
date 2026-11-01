@@ -1,0 +1,51 @@
+TALKiNG Fast Reading Thermometer (Ultmost HE-113-EN)
+Company: Ultmost
+Category: Miscellaneous
+Released: On the market by 2012 (AccessWorld review)
+
+Overview:
+An inexpensive talking body thermometer for oral, underarm or rectal use.
+
+Specs:
+Released: On the market by 2012 (AccessWorld review)
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: 2 × AG13 button cells (pre-installed); auto-off after 3 minutes
+Display or braille cells: Small display window plus female voice
+Speech synthesizers available: Not documented
+Price at launch: $12.95 (AccessWorld, 2012); talking body thermometers about $13 in 2018 (AccessWorld)
+Used price today (eBay): Not documented
+
+Physical Description:
+Not documented
+
+Detailed Description:
+This is a slim stick-shaped digital thermometer that speaks body temperature. AccessWorld found that its packaging did not name the maker; a search identified it as the Ultmost HE-113-EN.
+Hold it with the probe tip pointing down. The broad top section has a display window and two buttons. The upper button repeats the last temperature, and the lower one is power. A small speaker is inside.
+The mouth end has a removable plastic protective cover and a flexible tip. The battery compartment on the back is closed by two tiny screws and holds two AG13 button cells, already installed.
+Press power and a clear female voice says 'Ready.' It beeps every few seconds while measuring, then announces 'Your body temperature is' and the reading. Holding the power button switches it from Fahrenheit to Celsius, and it turns itself off after three minutes.
+AccessWorld found it accurate against non-talking thermometers read by a sighted helper, and more consistent than the Lumiscope ear thermometer. It criticized the lack of an accessible manual or usable website. It cost $12.95.
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/13/5/15813
+Source 2: https://afb.org/aw/18/11/15267
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

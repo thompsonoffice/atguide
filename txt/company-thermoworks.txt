@@ -1,0 +1,19 @@
+ThermoWorks
+Type: Company profile
+Founded: Founding year not given in the sources used
+Products listed: 1
+
+History:
+A US maker of cooking and food-safety thermometers. Its RT8400 talking thermometer was reviewed by AccessWorld in 2012, and blind cooks still recommend it in 2026 (The Blind Bridge).
+
+Products:
+ThermoWorks RT8400 Talking Thermometer (Miscellaneous, On the market by 2012 (AccessWorld review); still recommended in 2026)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/13/5/15813
+Source 2: https://theblindbridge.com/shopping/talking-thermometer/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,50 @@
+Lumiscope Talking Digital Ear Thermometer
+Company: Graham-Field (Lumiscope)
+Category: Miscellaneous
+Released: On the market by 2012 (AccessWorld review)
+
+Overview:
+A fast talking ear thermometer that also speaks the time.
+
+Specs:
+Released: On the market by 2012 (AccessWorld review)
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: 2 × AAA (included)
+Display or braille cells: Display window covering most of the front, plus speech
+Speech synthesizers available: Not documented
+Price at launch: $32.85 (AccessWorld, 2012); spare probe covers $7.99 per 40
+Used price today (eBay): Not documented
+
+Physical Description:
+Not documented
+
+Detailed Description:
+The Lumiscope is an oval handheld ear thermometer. A large ridged button on top turns it on and takes a reading once the probe is in the ear. The probe is on the back. It comes with a stand and ten disposable probe covers.
+A display window covers most of the front. Below it are two buttons, Memo and Talk, for stepping through earlier readings. Pressing Talk while it is on speaks the time, because when idle it works as a clock. Setting that clock needs sighted help.
+Small recessed holes on the sides are pressed with an unbent paper clip: one labeled C/F on the right switches Fahrenheit and Celsius, and one on the left resets the unit. Two AAA batteries go in a compartment held by a tiny screw just below the probe.
+To take a reading, you slide a clean cover over the probe, insert it gently into the ear canal and press the top button. It beeps, plays a short melody and speaks the temperature. The manual asks for 30 minutes in the room first, and ten minutes between readings in the same ear.
+AccessWorld found it very fast, but it read consistently higher than the TALKiNG oral thermometer, by as much as three degrees during a fever. The reviewer advised checking with a doctor when accuracy matters.
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/13/5/15813
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,56 @@
+Reizen Talking Atomic Alarm Clock
+Company: Reizen
+Category: Miscellaneous
+Released: Current (Maxi-Aids listing, 2026)
+
+Overview:
+A radio-controlled talking alarm clock that sets itself from the US atomic time signal.
+
+Specs:
+Released: Current (Maxi-Aids listing, 2026)
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: 2 × AA (not included); low-battery reminder
+Display or braille cells: LCD, 1¾ × 3 in, showing time with seconds, month, date, day of week and alarm time
+Speech synthesizers available: Not documented
+Price at launch: $44.95 at Maxi-Aids (list $55.00)
+Used price today (eBay): Not documented
+
+Physical Description:
+Not documented
+
+Detailed Description:
+The Reizen Talking Atomic Alarm Clock is a battery-powered talking clock that never needs setting. It picks up the radio time signal broadcast from the US atomic clock in Colorado, and changes for daylight saving time on its own.
+Press its talk button and a natural-sounding female voice announces the time and date. It can also announce every hour from 8 AM to 10 PM, which can be turned off. A high/low volume switch helps people with hearing loss.
+The front has an LCD about 1¾ by 3 inches showing the time with running seconds, the month, date, day of the week and the alarm time. The retailer listings used do not give the case's dimensions or button layout.
+The alarm sounds for an extra-long five minutes, beeping and announcing the current time, and a snooze gives five more minutes. Newer units add eight selectable time zones (Pacific, Mountain, Central, Eastern, Alaska, Hawaii, Atlantic and UTC). Pressing a button three times speaks the current zone.
+It runs on two AA batteries, which are not included. When batteries go in, it plays a self-introduction, and the voice then guides setup. It also warns when the batteries are low.
+
+Features:
+Female voice announces time and date
+Optional hourly announcements from 8 AM to 10 PM
+Automatic daylight-saving changes
+5-minute alarm with beeps and spoken time; 5-minute snooze
+High/low volume switch
+Voice guidance during setup; press a button 3 times to hear the time zone
+
+History:
+Maxi-Aids lists it at $44.95 (list $55.00). LS&S sells a comparable Talking Radio Controlled Atomic Clock (SKU 101021) at $42.95.
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.maxiaids.com/product/reizen-talking-atomic-alarm-clock
+Source 2: https://lssproducts.com/clocks-watches/talking-clocks/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

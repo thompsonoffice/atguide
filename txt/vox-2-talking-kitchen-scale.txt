@@ -1,0 +1,56 @@
+Vox-2 Talking Kitchen Scale
+Company: My Weigh
+Category: Miscellaneous
+Released: Current (Maxi-Aids listing, 2025 reviews). Its predecessor appears in AccessWorld as the 'Vox 20,' $42 in 2018 and $42.99 in 2021.
+
+Overview:
+A talking kitchen scale that announces weights in four languages, up to 11 lb (5 kg) in 1 g steps.
+
+Specs:
+Released: Current (Maxi-Aids listing, 2025 reviews). Its predecessor appears in AccessWorld as the 'Vox 20,' $42 in 2018 and $42.99 in 2021.
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: 4 × AA (included); auto-off after 90 seconds
+Display or braille cells: Large blue-backlit LCD
+Speech synthesizers available: Not documented
+Price at launch: $46.95 at Maxi-Aids (list $59.95); the Vox 20 was $42 to $42.99 in 2018 to 2021
+Used price today (eBay): Not documented
+
+Physical Description:
+Not documented
+
+Detailed Description:
+The Vox-2 is a flat kitchen scale made for blind and low-vision cooks. Maxi-Aids lists it at 9.0 by 6.5 by 1.75 inches and 1 pound. It has a gray case and a stainless-steel weighing platform that wipes clean.
+The controls are oversized keys, each about 1.5 by 1.2 inches, black with white print. One owner said they are big and easy to identify by touch. A large LCD with blue backlighting shows the weight for anyone with some vision.
+Place an item on the platform and the scale speaks its weight. It weighs up to 11 pounds (5 kg) in 1 gram (0.1 ounce) steps, in grams or in pounds and ounces. Tare zeroes out a bowl so only the ingredient is weighed.
+It speaks English, German, French or Spanish, with a high/low volume switch, and speech can be switched off. One 2025 reviewer described the voice as clear and polite, saying 'Hello' and 'Goodbye' at power on and off. The same reviewer noted that it does not announce the unit mode, and that it beeps rapidly before speaking a negative weight when a container is lifted off.
+It runs on four AA batteries (included) and turns itself off after 90 seconds idle. The reviewer also wished the print manual came in large print or electronic form. Maxi-Aids lists a lifetime limited warranty (30 years in Europe).
+
+Features:
+Speaks weights in English, German, French or Spanish
+Grams or pounds and ounces
+Hi/Low volume, and speech can be turned off
+Tare to subtract a bowl or container
+Oversized 1.5 × 1.2 in keys
+
+History:
+AccessWorld's 2018 holiday guide listed the Vox 20 at $42, describing it as speaking five languages and weighing up to 11 pounds. Its 2021 accessible-kitchen guide listed it at $42.99 with four languages (English, German, French, Spanish) and tare, and noted that BlindMiceMart's Dale uses it to calculate postage. The current Maxi-Aids listing is for the Vox-2, made by My Weigh.
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.maxiaids.com/product/vox-2-talking-kitchen-scale2
+Source 2: https://afb.org/aw/21/11/17296
+Source 3: https://afb.org/aw/18/11/15267
+
+From ATGuide, https://thompsonoffice.github.io/atguide/
