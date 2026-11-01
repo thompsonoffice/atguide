@@ -7,7 +7,7 @@ History:
 Maker of the Accent SA serial speech synthesizer.
 
 Products:
-Accent SA (Speech Synthesizers, A serial-port synthesizer of the DOS era. No release year was found in the NFB timeline or in the archived Aicom material searched.)
+Accent SA (Speech Synthesizers, On the market by 1992)
 
 Operating System and Software Histories:
 Not documented

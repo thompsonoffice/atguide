@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Artic released the SynPhonix 215 in 1987, the year it moved into its own building in Troy, Michigan. It replaced the 200, and Artic later described it as still known for its fast speech rate, accurate text-to-speech, responsiveness, and instant silencing. It was usually paired with Artic's Business Vision screen reader (1987). AccessWorld noted that SynPhonix and Artic's screen readers were significant, lower-cost competitors to DECtalk and JAWS. Related ISA cards included the 210 and 216, and there was also a laptop version, the SynPhonix 225, and a PCMCIA card, the P27. All are now out of production. Users still remembered the 215 decades later; in 2021 a former Smith-Kettlewell staff member listed it on a mailing list among the synthesizers he used there after the early Votrax.
 Predecessors: SynPhonix 200 (Artic Technologies, 1985)
 
 Ports:
@@ -40,5 +40,9 @@ Not documented
 
 Sources:
 Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 2: https://web.archive.org/web/20060327064418/http://www.artictech.com/history.htm
+Source 3: https://web.archive.org/web/20110728031437/http://www.articannex.ws/artictec.htm
+Source 4: https://afb.org/aw/1/5/16151
+Source 5: https://www.freelists.org/post/raspberry-vi/Still-no-go-for-more-voices,32
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

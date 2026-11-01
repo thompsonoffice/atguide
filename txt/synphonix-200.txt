@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Artic Technologies was founded in 1984 by Art Velthoven, Dale McDaniel, Kathy Gargagliano and Tim Gargagliano. All four came from the research and development group at Votrax, the speech synthesis subsidiary of Federal Screw Works. In Artic's own history, the SynPhonix 200 card, released in 1985, was the company's first commercial product; SpeechChips.com notes that the SynPhonix family was already being advertised for IBM and Apple computers in 1984. The card fit inside an IBM PC and spoke through the 263 phoneme chip (the SSI 263, originally Votrax's SC-02), which built words from individual speech sounds. Artic recalls building synthesizers in the founders' basements and moving offices several times in those early years. The 200 became an important partner for screen-reading software, and in 1987 it was replaced by the SynPhonix 215.
 Successors: SynPhonix 215 (Artic Technologies, 1987)
 
 Ports:
@@ -40,5 +40,8 @@ Not documented
 
 Sources:
 Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 2: https://web.archive.org/web/20060327064418/http://www.artictech.com/history.htm
+Source 3: https://web.archive.org/web/20110728031437/http://www.articannex.ws/artictec.htm
+Source 4: https://speechchips.com/devices/synphonix200.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

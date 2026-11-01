@@ -1,13 +1,13 @@
 Artic TransPort
 Company: Artic Technologies
 Category: Speech Synthesizers
-Released: 1992 (announced Fall 1992)
+Released: Fall 1992
 
 Overview:
 Artic's external portable synthesizer.
 
 Specs:
-Released: 1992 (announced Fall 1992)
+Released: Fall 1992
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Artic announced TransPort in its Visions newsletter in fall 1992, after years of users asking for a portable, battery-powered synthesizer as responsive as its internal cards. TransPort was 0.75 inch high, 4.125 inches wide and 7.5 inches long, and weighed about 15 ounces. It had an aluminum case, used the Artic 263 speech chip, had thumbwheels for volume and tone, and could use its built-in speaker, headphones or an external speaker. It ran about 16 hours on rechargeable batteries, warned when the battery was low, and could be used while charging. The flagship model 615 included Artic's Business Vision screen reader, which could be copied from its ROM disk to any PC; the VEST speech rules; a clock with 16 alarms; battery-backed file storage; and a port for Artic's Gizmo pad or Turbo Pedals. The model 611 was the same without Business Vision. Both could emulate Artic's own PortTalk codes or the external Accent synthesizer, so other screen readers could drive them. Later came the palm-sized Mini TransPort 621 and 622; all are now out of production.
 
 Ports:
 Not documented
@@ -40,5 +40,7 @@ Not documented
 Sources:
 Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
 Source 2: http://cd.textfiles.com/nfbfiles/newsletters/VN0892.TXT
+Source 3: https://web.archive.org/web/20110728031437/http://www.articannex.ws/artictec.htm
+Source 4: https://web.archive.org/web/20060327064418/http://www.artictech.com/history.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
