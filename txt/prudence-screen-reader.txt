@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Prudence is an Android screen reader from Prudence Interactive. Its current product page describes iFlytek voices, including premium voices and several Chinese dialects, built-in speech recognition and voice typing, and two ways to operate: touch gestures or voice commands. With the Xiao Zhi voice assistant turned on, every action can be done by two-way voice conversation, hands free. The app has a rewards scheme that uses regular points and Guangming Points, and an interface designed to visual-accessibility standards for blind and low-vision users, older people, and sighted people in no-look situations. The page gives no launch date.
 
 Ports:
 Not applicable (software)

@@ -28,7 +28,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Keynote Gold was the speech built into Pulse Data International's products in New Zealand, including early BrailleNotes running KeySoft. Users and developers identify its voice as BestSpeech, a formant text-to-speech engine from Berkeley Speech Technologies. A Spanish-language user forum says Dr. Michael O'Malley created BestSpeech in 1987 and that Pulse Data licensed it and renamed it Keynote Gold, with the 2009 BrailleNote Apex as the last product to use it; those details come from the forum, not from HumanWare. The software form of the engine survives as b32tts.dll, a 32-bit Windows file dated 1995, and a hobby project on GitHub runs that file unchanged in an emulator so Keynote Gold's voice can serve as a macOS system voice with VoiceOver. A 2022 post on the DECtalk mailing list recalls that KeySoft could also use DECtalk as an alternative to Keynote Gold.
 
 Ports:
 Not documented
@@ -41,5 +41,8 @@ Not documented
 
 Sources:
 Source 1: https://afb.org/aw/2/4/15017
+Source 2: https://github.com/cullen-gallagher/BestSpeechForMac
+Source 3: http://qcsalon.net/en/forum32/topic107910
+Source 4: https://bluegrasspals.com/pipermail/dectalk/2022-September/005776.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

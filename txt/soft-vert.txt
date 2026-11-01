@@ -1,14 +1,14 @@
 Soft Vert
 Company: Telesensory Systems (TSI)
 Category: Screen Readers
-Released: DOS era: Wikipedia's list of screen readers gives it as a commercial DOS screen reader from TeleSensory Systems. No release year was found.
+Released: On the market by 1987
 
 Overview:
 Telesensory's DOS screen reader.
 
 Specs:
 Developer: Telesensory Systems (TSI)
-Release years: DOS era: Wikipedia's list of screen readers gives it as a commercial DOS screen reader from TeleSensory Systems. No release year was found.
+Release years: On the market by 1987
 Runs on: MS-DOS
 Default speech: Not documented
 Price: Not documented
@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Soft Vert was Telesensory Systems' talking screen-access program for the IBM PC and compatibles. Joe Lazzaro and Curtis Chong reviewed it in National Braille Press's Second Beginner's Guide to Personal Computers for the Blind and Visually Impaired (1987). It cost $395, came on an MS-DOS floppy with print, cassette and disk manuals and a braille reference card, and was said to work with WordStar, dBASE, PFS programs and most text-mode software. It supported many synthesizers, including the Artic SynPhonix 200, Votalker IB, Type 'N Talk, Votrax PSS, Echo GP and PC, and DECtalk, but not Speech Plus CallText. Internal speech cards needed Artic's or Votrax's PORTTALK program. Control-0 entered its review mode, which read by character, word, line or screen, and in review mode F3 to F6 changed rate and pitch. The reviewers called it one of the most feature-rich screen review systems then available. In 2002 a Linux user was still running Soft Vert in DOSEMU with an Accent SA. Today the Historical Access Preservation Project lists it as missing software, with no known surviving copy.
 
 Ports:
 Not applicable (software)
@@ -33,5 +33,8 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Listofscreenreaders
+Source 2: https://www.duxburysystems.org/downloads/library/history/nbp2ndbegin.pdf
+Source 3: https://allinaccess.com/happ/
+Source 4: http://oman.org/blinux/list-archive/blinux-list/2002/msg00823.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

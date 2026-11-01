@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Not documented
+System Access grew out of FreedomBox, an internet appliance Mike Calvo developed first with Russian programmers. Calvo founded Serotek in 2001; Matt Campbell later took over FreedomBox development. Serotek's own ten-year history dates System Access to 2004. AccessWorld reports that the FreedomBox System Access feature arrived in December 2005, giving speech access to Word, Excel, Outlook Express, PowerPoint text and Internet Explorer without another screen reader. The reviewer noted occasional hangs but strong promise, and said it was hard to call it anything but a screen reader. Serotek pushed for low prices and portability, moving FreedomBox from a box nearly the size of a microwave oven onto a thumb drive (System Access To Go). In July 2007, with version 2.3.0.87, FreedomBox and its network were renamed the System Access Mobile Network. Calvo later founded Pneuma Solutions.
 
 Ports:
 Not applicable (software)
@@ -36,5 +36,7 @@ Sources:
 Source 1: https://pneumasolutions.com/about/
 Source 2: https://afb.org/aw/7/3/14499
 Source 3: https://en.wikipedia.org/wiki/Listofscreenreaders
+Source 4: http://blog.serotek.com/2012/02/our-story-at-ten.html
+Source 5: http://blog.serotek.com/2007/07/changes-in-system-access-23087.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

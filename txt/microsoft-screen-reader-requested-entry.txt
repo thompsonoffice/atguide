@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Not documented
+No source found documents a separate Microsoft product called Microsoft Screen Reader. Microsoft's first built-in screen reader is Narrator, which debuted in Windows 2000 on February 17, 2000. AbilityNet's Robin Christopherson recalls that blind users long mocked it as the screen reader you used only to download and install a proper one, such as JAWS (first released for Windows in early 1995). By early 2021, though, he judged Narrator a viable competitor to JAWS and NVDA, with richer hotkeys and better handling of Office. Narrator starts with Ctrl+Windows+Enter. This entry is kept so the requested name points readers to Narrator.
 Successors: Microsoft Narrator (Microsoft, February 17, 2000 to present)
 
 Ports:
