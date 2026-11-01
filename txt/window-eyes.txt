@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Version 1.0 came out in October 1995. After the 2014 merger with Ai Squared and the 2016 move to VFO, development stopped in 2017. Registered owners of 9.0 or later got a free migration to JAWS 18, and Window-Eyes kept working on Windows 7, 8.1 and 10 without updates.
+Version 1.0 came out in October 1995. After the 2014 merger with Ai Squared and the 2016 move to VFO, development stopped in 2017. Registered owners of 9.0 or later got a free migration to JAWS 18, and Window-Eyes kept working on Windows 7, 8.1 and 10 without updates. GW Micro of Fort Wayne, Indiana released Window-Eyes in 1995. Version 7 added standard scripting, and it came in 14 languages. GW Micro merged with AI Squared in 2014, and that year a partnership with Microsoft made Window-Eyes free for users of certain versions of Microsoft Office. By July 2017 it was no longer sold in the U.S. and Canada; only support continued, and new customers were pointed to JAWS. Version 9.4 supported Windows Vista through Windows 10.
 Predecessors: Vocal-Eyes (GW Micro, 1990)
 
 Ports:

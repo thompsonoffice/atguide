@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Raman began it in October 1994 on a Linux laptop with a DECtalk Express, and speech-enabled the Emacs calendar in its first weeks. Its speech-server abstraction let it add IBM ViaVoice in 1999. The 2004 Speakup FAQ listed it at version 20.
+Raman began it in October 1994 on a Linux laptop with a DECtalk Express, and speech-enabled the Emacs calendar in its first weeks. Its speech-server abstraction let it add IBM ViaVoice in 1999. The 2004 Speakup FAQ listed it at version 20. Emacspeak was developed mainly by T. V. Raman, blind since childhood, and first released in April 1995. Rather than reading the screen, it is a speech-enabled 'audio desktop' built into Emacs, written largely in Emacs Lisp, with some Tcl. It speaks content directly and uses short sounds for actions such as opening a menu or closing a file. As of 2002 its default synthesizer was IBM ViaVoice TTS, which can be swapped for other software synthesizers. In 2014 Raman wrote about how its design had changed over 20 years.
 
 Ports:
 Not applicable (software)
@@ -35,5 +35,6 @@ Not documented
 Sources:
 Source 1: https://emacspeak.sourceforge.net/raman/publications/bc-emacspeak/publish-emacspeak-bc.html
 Source 2: http://www.linux-speakup.org/faq.html
+Source 3: https://en.wikipedia.org/wiki/Emacspeak
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -23,7 +23,7 @@ Compiz magnifier
 USB braille display support
 
 History:
-Releases include 1.4 (March 2009), 1.5 (May 2009), 2.0 (September 2009), 3.0 (listed on DistroWatch on June 1, 2010) and 5.1 (January 18, 2017), the last.
+Releases include 1.4 (March 2009), 1.5 (May 2009), 2.0 (September 2009), 3.0 (listed on DistroWatch on June 1, 2010) and 5.1 (January 18, 2017), the last. Tony Sales of technical support at the Royal National College for the Blind in Hereford, UK, began Vinux in 2008. It was a remastered Ubuntu with the Orca and Speakup screen readers, Compiz magnification, global font size and color changes, and automatic support for USB braille displays in grade 1 and 2. It could run live from a CD or USB stick or be installed. DistroWatch first listed it on June 1, 2010, as Vinux 3.0.
 
 Ports:
 Not applicable (software)

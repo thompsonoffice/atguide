@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Released in 2006 by Sun Microsystems. It replaced Gnopernicus in GNOME 2.16.
+Released in 2006 by Sun Microsystems. It replaced Gnopernicus in GNOME 2.16. Orca began in May 2004 as a prototype by Marc Mulcahy, a blind programmer at Sun Microsystems. Sun's Accessibility Program Office carried on the work and released the first official version on September 3, 2006. From GNOME 2.16 it replaced Gnopernicus as GNOME's default screen reader, and it ships with Solaris, Fedora, openSUSE and Ubuntu. After Oracle bought Sun in 2010 and cut the full-time GNOME accessibility jobs, including maintainer Willie Walker's, volunteers led by Joanmarie Diggs kept it going. Igalia hired Diggs on September 7, 2011 to continue the work. The name continues a tradition of naming screen readers after sea creatures, like JAWS, Flipper and Dolphin.
 Predecessors: Gnopernicus (GNOME Project, Until GNOME 2.16)
 
 Ports:
@@ -36,5 +36,6 @@ Not documented
 Sources:
 Source 1: https://ashton.codes/dai11y-19-01-2021/
 Source 2: https://en.wikipedia.org/wiki/Listofscreenreaders
+Source 3: https://en.wikipedia.org/wiki/Orca(assistivetechnology)
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

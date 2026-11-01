@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-Forked officially in late 2015 from Reece H. Dunn's GitHub maintenance branch (from 2010). In August 2024, version 1.52-dev supported 137 languages. HumanWare added it to the Stream 3 in firmware 1.7 (September 2026). Fenrir's default generic speech driver calls espeak or espeak-ng.
+Forked officially in late 2015 from Reece H. Dunn's GitHub maintenance branch (from 2010). In August 2024, version 1.52-dev supported 137 languages. HumanWare added it to the Stream 3 in firmware 1.7 (September 2026). Fenrir's default generic speech driver calls espeak or espeak-ng. Reece Dunn forked eSpeak on GitHub on June 25, 2010 (from release 1.43.46), at first to make it easier to build on Linux and other POSIX systems. After Jonathan Duddington had been inactive for eight months, the espeak-ng fork was started on December 11, 2015, and its first release, 1.49.0, came out on September 10, 2016. Because it is small and covers many languages, eSpeak NG ships with the NVDA screen reader and with Android, Ubuntu and other Linux distributions.
 Predecessors: eSpeak (eSpeak / eSpeak NG project, 2007 (origins 1995))
 
 Ports:
@@ -38,5 +38,6 @@ Sources:
 Source 1: https://github.com/espeak-ng/espeak-ng
 Source 2: https://praat.org/manual/eSpeak.html
 Source 3: https://github.com/chrys87/fenrir
+Source 4: https://en.wikipedia.org/wiki/ESpeak
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
