@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 22.5 g; 76 x 21 x 14.9 mm.
 
+Detailed Description:
+The OrCam MyEye 2 is a single small bar, about 3 inches long, 0.83 inch high and 0.59 inch thick, that clips magnetically to the arm of a pair of glasses. There's no cable and no separate box: the camera, speaker, battery and controls are all in the bar.
+The camera is at the front end, facing forward, with small lights beside it for dim places. The back end, near your ear, has the speaker, the charging port and a small loop for the lanyard. Wear the lanyard: the unit can be knocked off the glasses.
+The outer side, facing away from your head, is rounded and has a raised touch bar running along it that clicks when pressed, plus an indicator light. Tap it to read or recognize what's in front of you; swipe forward or back to change the volume or skip through text; double-tap to pause or resume.
+The inner side, against the glasses, is flat. It has the magnets that hold it to the mount, the power button near the speaker end, and a second indicator light. A short press of power suspends it; a second press before it suspends turns it off.
+The box includes glasses with a mount already fitted, a mount kit with small scissors to fit other frames (on either arm), a charger, a leather case and the lanyard. AccessWorld noted that the small size and touch bar may be hard for anyone with limited dexterity.
+
 Features:
 Not documented
 
@@ -41,5 +48,7 @@ Not documented
 
 Sources:
 Source 1: https://www.orcam.com
+Source 2: https://afb.org/aw/19/8/15066
+Source 3: https://device.report/m/b0a794314e8928ae68d7e03019e300fdd0654aaf7f7bf054c6a0d2fe3a840004.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -14,13 +14,20 @@ Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: Not documented
-Display or braille cells: Not documented
+Display or braille cells: 8 MP camera
 Speech synthesizers available: Not documented
 Price at launch: Not documented
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The first OrCam has two parts joined by a cable: a small camera and speaker that clips onto your glasses, and a processor unit you carry in a pocket or on a belt. When something is in front of the camera, it reads the text aloud or names the item.
+The head unit snaps onto the right arm of nearly any standard-size pair of glasses or sunglasses; wire frames would not work. Once attached, the 8-megapixel camera sits at the very front of the frame and the speaker toward the back, aimed at your right ear. It weighs just over an ounce.
+Some prerelease units used bone-conduction earphones, but the released version has a single speaker. Users with hearing loss in the right ear can plug headphones, an external speaker or a hearing aid into the processor unit instead.
+The processor unit has an audio jack and a charging port. On one edge are the Power button and a Volume Up/Down rocker; on the opposite edge is the Trigger button.
+Press the Trigger to scan, or hold it for two seconds with either Volume button to open Settings. Most essential features can be used without pressing the Trigger at all.
 
 Features:
 Not documented
@@ -40,5 +47,6 @@ Not documented
 
 Sources:
 Source 1: https://www.orcam.com
+Source 2: https://afb.org/aw/18/2/15244
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

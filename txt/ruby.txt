@@ -13,7 +13,7 @@ Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
-Battery: About 2 hours
+Battery: AAA batteries, rechargeable or disposable; about 2 hours
 Display or braille cells: 4.3-inch, 2x to 14x
 Speech synthesizers available: Not documented
 Price at launch: Not documented
@@ -21,6 +21,13 @@ Used price today (eBay): Not documented
 
 Physical Description:
 7.7 oz.
+
+Detailed Description:
+RUBY is a pocket video magnifier from Freedom Scientific: a compact, brightly colored plastic case weighing 7.7 ounces, with a 4.3-inch widescreen color display on the front and a camera on the back. Freedom Scientific sells it in red with colored buttons, and a RUBY+ version in gray with high-contrast black and white buttons.
+Four large buttons sit beside the screen, two on each side, each a different color with a raised dot on the spot you press. On the left are Power (green and yellow) and Color Select (blue), which cycles through full color, black on white, white on black, yellow on blue and yellow on black. On the right are Magnification (yellow), which steps through three levels, and Freeze Frame (red).
+On the back is a fold-out handle with an opening in the middle so the camera can see through it when the handle is folded. The camera window is in the center, with an LED light at each end of the case. Unfold the handle to hold RUBY like a magnifying glass; fold it under to rest RUBY flat on a page.
+The handle locks when open and doubles as the battery compartment. Unfolded flat, it is about 10 cm long and 4.5 cm wide, with a hatch for the AAA batteries, which can be rechargeable or disposable. Near the handle's hinge, in the lower right corner, is a post for the wrist strap.
+On the top edge, toward the left, is the socket for the charger, with a small light beside it that shows charging or a low battery. Lying flat on a page, RUBY magnifies 5x and goes to 7.5x and 10x with the yellow button. With the handle out, it ranges from 2x to 14x depending on distance. A set of batteries lasts about two hours.
 
 Features:
 Not documented
@@ -40,5 +47,8 @@ Not documented
 
 Sources:
 Source 1: https://www.freedomscientific.com
+Source 2: https://support.freedomscientific.com/content/Documents/Manuals/RUBY/RUBY-Users-Guide.pdf
+Source 3: https://www.avh.asso.fr/implantations/certam/evaluations-de-produits/ruby-une-loupe-electronique-portable-de-freedom
+Source 4: https://www.freedomscientific.com/products/lowvision/ruby/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
