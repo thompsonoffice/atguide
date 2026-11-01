@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+The APH Museum describes the Viewscan, introduced in 1980, as a portable hand-scanning device that showed print in large type for people with low vision. Its maker, the Sensory Aids Division of Wormald International, followed it in 1983 with the Viewscan Text System, the first large-print word processor. With the optional camera, that system could magnify a page up to 40 times.
 Successors: Viewscan Text System (Pulse Data International, 1983)
 
 Ports:
@@ -40,5 +40,6 @@ Not documented
 
 Sources:
 Source 1: https://afb.org/aw/6/6/14572
+Source 2: https://sites.aph.org/museum-virtual-exhibit/vex5/B05FEC63-3118-4C9D-814D-168516371748.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

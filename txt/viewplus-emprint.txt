@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+On May 16, 2006, ViewPlus Technologies of Corvallis, Oregon, announced Emprint, which it called the world's first braille printer to emboss braille along with matching color ink in a single pass. That let sighted teachers and colleagues read the print above or beside the braille. Raised graphics were printed in color, with darker shades embossed higher. It cost $5,995, including braille translation software, and used ordinary inkjet cartridges and paper.
 Predecessors: ViewPlus Tiger Advantage (ViewPlus Technologies, Shipping 2000 (announced 2001))
 
 Ports:

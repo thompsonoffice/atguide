@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Freedom Scientific's original RUBY user guide (part 440530-001) describes a handheld magnifier with a fold-away handle that also holds four AAA batteries, rechargeable or alkaline. You can hold it like a magnifying glass or rest it flat on a document, and it saves up to 15 images. The RUBY HD later raised that to about 80 images and added an HD camera.
 Successors: RUBY HD (Freedom Scientific, January 2014)
 
 Ports:
