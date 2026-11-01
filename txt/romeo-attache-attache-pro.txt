@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Enabling Technologies of Jensen Beach, Florida made the Romeo Attaché and the Attaché Pro as its smallest embossers. They share one user's manual with the Romeo 25 and Romeo Pro 50, and the November 2010 revision describes them. Both are single-sided impact embossers that print 15 characters per second and up to 32 cells per line on sprocket-fed paper 1.5 to 8.5 inches wide. Each weighs 16.75 pounds in a desktop case with a handle. The Pro adds ET Speaks voice feedback, which announces keypad entries and status, and a single-sheet mode. Every model plays an excerpt from Tchaikovsky's Romeo and Juliet when its power-on self-test passes.
 
 Ports:
 Not documented

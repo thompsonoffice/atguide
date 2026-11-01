@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+The Romeo Pro 50 was the faster, talking sibling of the Romeo 25 in Enabling Technologies' Romeo family. The company's November 2010 user's manual lists it at 50 characters per second with a 40-cell line, on paper up to 13.25 inches wide, in a 32-pound plastic carrying case with a handle. It adds ET Speaks speech feedback, with six voices, and a single-sheet mode for loose paper. It has parallel, serial and USB ports, a 16-key keypad, 16 stored setting menus and an 18,000-character Multi-Copy buffer that can make up to 99 copies.
 
 Ports:
 Not documented
@@ -49,5 +49,6 @@ Source 1: https://www.yumpu.com/en/document/view/38159759/worlds-leading-manufac
 Source 2: http://atkratter.com/braille/et/romeo.htm
 Source 3: https://www.yumpu.com/en/document/view/6157847/romeo-25-romeo-pro-50-enabling-technologies
 Source 4: https://cdn.thomasnet.com/ccp/01055195/75393.pdf
+Source 5: https://manualzilla.com/doc/5765358/romeo-attach%C3%A9-romeo-attach%C3%A9-pro-romeo-25-and-romeo-pro-50
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
