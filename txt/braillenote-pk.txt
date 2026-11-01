@@ -35,7 +35,7 @@ CompactFlash (Wi-Fi through a CF card)
 Joystick navigation
 
 History:
-Not documented
+Pulse Data International announced the BrailleNote PK in July 2004 as the newest and smallest member of the BrailleNote family. AccessWorld's January 2005 review called it the smallest Windows-based accessible PDA on the market: about a pound, roughly 7 by 4 by 2 inches, with an 18-cell braille display. It replaced the earlier models' infrared port with Bluetooth and dropped the parallel port and built-in modem; Wi-Fi was available through a Compact Flash card. It ran Pulse Data's Keysoft suite, including KeyWord, KeyPlan, KeyMail and KeyWeb.
 Predecessors: BrailleNote Classic (BT/QT) (Pulse Data International, April 2000 (shipping from June 2000))
 
 Ports:

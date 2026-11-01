@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Keynote was a talking portable computer built on the Epson HX-20, one of the first notebook-sized computers. AccessWorld's 2005 profile of Russell Smith says the complete Keynote weighed about six pounds.
+The HX-20 itself had a footprint of roughly A4 paper, about 8.3 by 11.7 inches, and on its own weighed about 1.6 kilograms (3.5 pounds), light enough to hold in one hand. The difference in weight between the bare HX-20 and the six-pound Keynote suggests that extra hardware was added, but the sources found don't say what that hardware was or where it sat.
+The HX-20 has a full-travel typewriter-style keyboard, so you type on the Keynote with ordinary QWERTY keys rather than braille keys. Behind the keyboard, the HX-20 has a small LCD screen that shows 4 lines of 20 characters, and a calculator-sized dot-matrix printer that uses rolls of paper.
+The HX-20 ran on built-in rechargeable nickel-cadmium batteries, which made it fully portable. A 1987 review by Deborah Kendrick in Tactic praised the Keynote's speed, portability and good built-in speech, and said that about 7 seconds after you switched it on you were back in the file of your choice.
+We haven't found any first-hand description of where the Keynote's speaker, headphone jack or ports are, or how it differs on the outside from a standard HX-20. Those details are not documented in any source we checked.
+
 Features:
 Not documented
 
@@ -40,5 +47,6 @@ Not documented
 
 Sources:
 Source 1: https://afb.org/aw/6/6/14572
+Source 2: https://en.wikipedia.org/wiki/EpsonHX-20
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
