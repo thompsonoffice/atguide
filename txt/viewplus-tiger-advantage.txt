@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Tiger Advantage was the first ViewPlus embosser. It came from research at Oregon State University that the university patented and licensed to ViewPlus. Peter Langner invented it for his master's thesis, working with physics professor John Gardner. ViewPlus planned to sell it for about $5,000; by August 2001 the NFB listed it at $9,750.
+It embossed tactile graphs, charts, maps and pictures at 20 dots per inch on tractor-fed braille paper, alongside braille text. Langner called it the first embosser that could print directly from standard Windows applications.
+It came with a Windows printer driver, so you could print from any program, and with its own braille translation software. In 2001 it could not print directly from Duxbury.
+The NFB's International Braille and Technology Center found it one of the quietest embossers available. Its braille quality was acceptable when the punch force was set to seven or higher.
+It had a small buffer that held only about 50 braille pages of text at a time, so it suited graphics better than bulk text. On the NFB's 2001 text-only test it embossed 30.4 characters per second against a rated 35. Its physical size and weight were not found in the sources consulted.
+
 Features:
 Not documented
 
@@ -42,5 +49,7 @@ Sources:
 Source 1: https://nfb.org/sites/default/files/images/nfb/publications/fr/fr28/fr280109.htm
 Source 2: https://viewplus.com/about/
 Source 3: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 4: https://nfb.org/images/nfb/publications/bm/bm01/bm0110/bm011007.htm
+Source 5: https://news.oregonstate.edu/news/osu-industry-collaborate-technology-aid-blind
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

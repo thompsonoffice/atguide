@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The VP Max is ViewPlus's wide-carriage desktop tactile-graphics and braille embosser, powered by Tiger. It measures 22.5 inches wide by 13.2 inches deep by 6 inches high (572 by 335 by 152 mm) and weighs 22 pounds (about 10 kg). The smaller VP Cub and Cub Jr. share the same design at 16.8 inches wide.
+It takes tractor-fed paper up to 14 inches (355 mm) wide, or single sheets, up to 0.35 mm thick. The wide paper path suits large tactile graphics as well as braille.
+The operator panel has three buttons. From left to right: Cancel stops a job or clears a warning; Up Arrow loads paper or advances it to tear off, moving continuously if held; Down Arrow pulls the paper back to the ready position after tearing.
+Two status lights sit beside the buttons. A green Power light glows when ready and blinks while printing, and an orange Warning light blinks when it cannot print. Distinct beep patterns signal paper out (high, low), a jam (high, low, high) and an alignment error (high, high, low), repeating every 10 seconds until you press Cancel.
+It connects by USB. Tiger technology embosses graphics at high resolution with 8 dot heights for different shades, and braille dot height can be set to low, normal or high. The Tiger Software Suite lets you emboss directly from Word and other Windows programs.
+
 Features:
 Not documented
 
@@ -40,5 +47,6 @@ Not documented
 
 Sources:
 Source 1: https://viewplus.com/the-max-has-gone-rogue/
+Source 2: https://viewplus.com/downloads/docs/manuals/VPCubJrCubMaxUSBUMEN20160613.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
