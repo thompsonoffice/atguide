@@ -13,20 +13,27 @@ Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
-Battery: Not documented
+Battery: 7 to 8 days (AccessWorld); magnetic USB charger
 Display or braille cells: 4 cells
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $399 (Dot Watch 2, AccessWorld January 2019)
 Used price today (eBay): Not documented
 
 Physical Description:
 27 g.
 
+Detailed Description:
+The Dot Watch 2 is a smartwatch from Dot Incorporated with a 4-cell refreshable braille display instead of a screen. It has a round aluminum 43-millimeter case, about the size of an Apple Watch though shaped differently, and cost $399 in 2019.
+On the right side is a crown that turns either way, with a button on each side of it. Worn on the left wrist, the button nearer your hand is Home, which puts the watch in standby, and the other is Select, which wakes it. Holding Home for three seconds turns it on.
+A protective cover over the face keeps debris out. On a slightly lower surface beneath it is the 4-cell braille display. Past a metal bar level with the cover is another bar, and behind that, parallel to cells 2 and 3, are two touch sensors: the one by cell 2 pans back and the one by cell 3 pans forward.
+The band is a magnetic metal mesh, similar to Apple's Milanese Loop, and arrives already attached. Underneath the watch is a small indentation; the magnetic charger has three dots forming braille L, and lining the indentation up with them aligns the magnets. The watch vibrates when charging starts.
+In Tactile mode, the default, the time uses Dot's own code: at 3:00, cell 1 is blank, cell 2 shows three pins, and each dot in cells 3 and 4 is five minutes. Braille mode uses ordinary braille, and the watch can be flipped for the right wrist. Even the box is tactile, with 'Dot Watch' embossed in braille.
+
 Features:
 Not documented
 
 History:
-Not documented
+AccessWorld's January 2019 review states that the first-generation Dot Watch was discontinued in June 2018 and replaced by the Dot Watch 2. Scott Davert found battery life of seven to eight days. He noted that the default Tactile mode uses Dot's own time code, while Braille mode shows standard braille, and that notifications from a paired phone make it useful for deafblind users.
 
 Ports:
 Bluetooth LE 4.2
@@ -39,5 +46,6 @@ Not documented
 
 Sources:
 Source 1: https://www.dotincorp.com
+Source 2: https://afb.org/aw/20/1/14990
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

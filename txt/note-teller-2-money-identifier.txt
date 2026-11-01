@@ -1,0 +1,54 @@
+Note Teller 2 Money Identifier
+Company: BRYTECH
+Category: Miscellaneous
+Released: On sale by January 2007 (AccessWorld, May 2007); launch year not stated
+
+Overview:
+A tabletop talking identifier for U.S. paper money, $1 to $100, in English or Spanish.
+
+Specs:
+Released: On sale by January 2007 (AccessWorld, May 2007); launch year not stated
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: One 9-volt battery; says 'replace battery' when weak
+Display or braille cells: Not documented
+Speech synthesizers available: Not documented
+Price at launch: $270 (AccessWorld, 2007)
+Used price today (eBay): Not documented
+
+Physical Description:
+Not documented
+
+Detailed Description:
+The Note Teller 2 from BRYTECH of Canada is a talking money identifier for U.S. paper currency. It is a black rectangular box 6 inches long, 3 inches wide and about 1 inch thick, weighing 8 ounces with its 9-volt battery.
+On top, about two thirds of the way toward the back, is a slot for the bill. Molded edges along the sides guide the bill into it. Sliding the end of a bill in turns the unit on, and it does not matter which end or which face is up.
+The front edge has a headphone jack and a slider switch. When the unit is silent, the slider sets the volume to low, medium or high; while it is speaking, the slider switches between English and Spanish.
+The back edge is slightly thicker than the front and has a ring for a neck or wrist strap, or for securing the unit to a desk or counter. A vinyl sleeve protects it when not in use.
+Within two to four seconds a clear male voice announces the denomination, or says 'cannot read.' It says 'replace battery' when the battery is weak and 'out of order' when it needs service. AFB found it very easy to use but too large for a pocket, and its accuracy was about 80% in lab tests.
+
+Features:
+Recognizes U.S. bills $1 to $100; manufacturer-upgradable for new designs
+Either end, either face up; insert 'swiftly'
+Announces in 2 to 4 seconds; says 'cannot read' if unsure
+Says 'out of order' when it needs repair
+Manual in large print and on audio CD, English and Spanish
+
+History:
+AFB TECH evaluated it in May 2007, shortly after a federal judge ruled in December 2006 that U.S. currency was inaccessible to people who are visually impaired. Expert lab testers identified bills about 80% of the time; good-condition bills were easy and worn or wrinkled ones harder. $2 bills succeeded on only 6 of 36 tries (16.7%) and were called $50 five times. In the user study in Dallas, two $10 bills were announced as $100. AFB praised it as one of the easiest devices it had tested and its large-print and audio-CD manual. It found it too big for a pocket and questioned the $270 price.
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.afb.org/aw/8/3/14354
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

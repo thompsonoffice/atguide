@@ -1,0 +1,53 @@
+Verbalise Rol-X and Swarovski-crystal talking watches
+Company: Verbalise (The Talking Watch Shop)
+Category: Miscellaneous
+Released: 2016 (reviewed as new additions in November 2016)
+
+Overview:
+Radio-controlled talking wristwatches designed to look stylish, with natural-sounding voices at a discreet volume.
+
+Specs:
+Released: 2016 (reviewed as new additions in November 2016)
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Speech synthesizers available: Not documented
+Price at launch: £149.99, all models (2016)
+Used price today (eBay): Not documented
+
+Physical Description:
+Not documented
+
+Detailed Description:
+Verbalise talking watches are radio-controlled wristwatches from a company set up by blind entrepreneur Martin Begg. They were designed to look like ordinary fashion watches and to speak quietly in natural voices. All models cost £149.99 in 2016.
+The men's watch is modeled on a 'Rol-X' design, in black and silver or black and gold. It has a decorative edge to the bezel, which also shows 24-hour time around the face. It comes on a leather strap with a clasp and can take most other straps.
+The women's watch is decorated with Swarovski crystals and comes in gold, rose gold and silver.
+Each watch offers two voices and two time formats: a male voice speaks 24-hour time and a female voice 12-hour time. Both have neutral British accents. The reviewer found them audible in average background noise without being loud. The watch can also announce the time every hour.
+Because the watches are radio-controlled, they set themselves from the atomic clock signal. Other settings are easy, with speech feedback guiding you. The reviewer found the clasp fiddly at first and noted that the hourly announcement had to be switched off at night.
+
+Features:
+Two voices: male (24-hour time) and female (12-hour time)
+Optional hourly time announcement
+Speech feedback when setting controls
+Men's model has a 24-hour scale on the bezel
+
+History:
+Disability Now editor Ian Macrae reviewed the range in November 2016. Martin Begg set out to fix two complaints about talking watches: that they look cheap and that their voices are cartoonish or so loud that everyone nearby hears. Macrae found the voices neutral and audible in average noise. He found the clasp and strap adjustment awkward at first. He wished the hourly announcements could be limited to daytime, since they had to be switched off at night.
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://disabilitynow.wordpress.com/2016/11/21/product-review-verbalise-talking-watches-talking-the-talk-looking-the-look/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

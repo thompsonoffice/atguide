@@ -5,7 +5,7 @@ This folder holds one plain text file for every entry in ATGuide: each device, b
 There is one folder per company. Each folder starts with an About file for the company, then its version histories, then its products in alphabetical order.
 Each entry file has a header, then sections separated by blank lines in this order: Overview, Specs, Physical Description, Features, History, Ports, Operating System, System Requirements, Sources. Facts that could not be found in a source read Not documented.
 
-Totals: 95 companies, 340 devices, software and voices, 28 version histories, 464 files including this README.
+Totals: 97 companies, 342 devices, software and voices, 28 version histories, 468 files including this README.
 
 Index by company:
 
@@ -165,6 +165,10 @@ Braillo/Braillo 440 SF.txt
 Bristol Braille Technology (2 files):
 Bristol Braille Technology/About Bristol Braille Technology.txt
 Bristol Braille Technology/Canute 360.txt
+
+BRYTECH (2 files):
+BRYTECH/About BRYTECH.txt
+BRYTECH/Note Teller 2 Money Identifier.txt
 
 Caretec (2 files):
 Caretec/About Caretec.txt
@@ -628,6 +632,10 @@ Ultmost/TALKiNG Fast Reading Thermometer (Ultmost HE-113-EN).txt
 University of Edinburgh CSTR (2 files):
 University of Edinburgh CSTR/About University of Edinburgh CSTR.txt
 University of Edinburgh CSTR/Festival.txt
+
+Verbalise (The Talking Watch Shop) (2 files):
+Verbalise (The Talking Watch Shop)/About Verbalise (The Talking Watch Shop).txt
+Verbalise (The Talking Watch Shop)/Verbalise Rol-X and Swarovski-crystal talking watches.txt
 
 VFO / Vispero (1 files):
 VFO - Vispero/About VFO - Vispero.txt

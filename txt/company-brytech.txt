@@ -1,0 +1,18 @@
+BRYTECH
+Type: Company profile
+Founded: Founding year not found in the AccessWorld article used
+Products listed: 1
+
+History:
+Ottawa, Canada maker of the Note Teller money identifier (600 Peter Morand Crescent, per AccessWorld 2007). AccessWorld reported that as of January 1, 2007 the Note Teller 2 was the only portable device it knew of made for identifying U.S. paper money.
+
+Products:
+Note Teller 2 Money Identifier (Miscellaneous, On sale by January 2007 (AccessWorld, May 2007); launch year not stated)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://www.afb.org/aw/8/3/14354
+
+From ATGuide, https://thompsonoffice.github.io/atguide/
