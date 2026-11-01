@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+This description follows Freedom Scientific's 2013 TOPAZ user's guide. TOPAZ is a desktop video magnifier: a flat-panel monitor on an arm above a camera, which looks down at a sliding reading table. A rear post rises at the back. To carry it, wrap your forearm around the rear post and lift. Do not lift it by its two LED reading lights, which hang over the table.
+The XY reading table glides left, right, forward and back, and it has repositioning grips on both sides for sliding the whole unit across the desk. A red brake locks the table: push it away from the unit to lock it. An indentation at the rear of the table cradles a pill bottle so it cannot roll.
+The control panel has three coloured dials. The black Magnification dial has 16 positions, and pressing its centre freezes the picture. The yellow Brightness dial has a Find button in its centre: hold it to zoom out with crosshairs so you can find your place. The blue Color Select dial chooses colour modes, and pressing its centre draws a reading line across the screen. There is also a red Focus Lock button, and a green standby power button on the right side of the panel.
+A white master power switch sits near the LED reading light on the right side of the unit. You move the monitor up and down by holding its sides, and it turns left and right once you push in the locking pin at the base of the monitor arm. Pull the pin out to lock the arm in the centre before moving the unit.
+The rear panel has a modular jack for the control panel cable, the AC power connector, a power connector for the monitor, and a DVI video connector for the monitor. The guide warns against blocking the ventilation slots and asks you to lock both the monitor arm and the reading table before moving the unit.
+
 Features:
 Not documented
 
 History:
-Not documented
+Freedom Scientific announced TOPAZ on December 8, 2005 as its first line of video magnifiers, in five models. A large illuminated work area under the camera was meant for hobbies such as sewing and painting as well as for reading bills, phone books and prescription labels. Each model had a sliding table and 16 magnification levels. President Lee Hamilton presented TOPAZ as a natural extension of the company's MAGic screen magnifier and SARA reading machine. Vice President Brad Davis linked it to the design-for-manufacturability approach that, a year earlier, had let the company sell its Focus braille displays at 40 percent below the prices then current. TOPAZ later grew into a family that includes the TOPAZ HD, XL HD, EZ HD and OCR models.
 Successors: TOPAZ OCR (Freedom Scientific, December 15, 2017)
 
 Ports:
@@ -40,5 +47,7 @@ Not documented
 
 Sources:
 Source 1: https://www.freedomscientific.com
+Source 2: https://www2.freedomscientific.com/fsnews/PressRoom/en/2005/nrLowVision-Topaz12-8-2005.asp
+Source 3: https://www.freedomscientific.com/Content/Documents/Manuals/TOPAZ/TOPAZ-Users-Guide.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
