@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Developed primarily by Ben Drees and Peter Korn, with interface design by Marc Sutton and Joshua Miele.
+Developed primarily by Ben Drees and Peter Korn, with interface design by Marc Sutton and Joshua Miele. It ran on Windows 3.1, and the interface was designed by Marc Sutton and Joshua Miele. Like the Mac version, it used an off-screen model and could use the mouse pointer as a review cursor. Berkeley Systems sold it with its other accessibility products to ALVA Access Group in 1996, and Optelec acquired ALVA's assets in September 2005.
 Predecessors: outSPOKEN for Macintosh (Berkeley Systems, 1989)
 
 Ports:

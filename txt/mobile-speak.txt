@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Launched for Symbian in 20 countries in 2004. Code Factory called the 2005 Pocket PC version the first touch-based screen reader, and Smartphone support followed in 2006. AFB tested version 2.8 in 2006 and Mobile Speak Smartphone 1.2. It used Fonix DECtalk. It became obsolete as Symbian ended.
+Launched for Symbian in 20 countries in 2004. Code Factory called the 2005 Pocket PC version the first touch-based screen reader, and Smartphone support followed in 2006. AFB tested version 2.8 in 2006 and Mobile Speak Smartphone 1.2. It used Fonix DECtalk. It became obsolete as Symbian ended. Code Factory, founded in 1998 near Barcelona, Spain, by Eduard Sánchez, first made games for the blind and in 2003 released Mobile Accessibility, a simpler talking phone interface. Mobile Speak was announced in April 2004 with Acapela's PocketBabil synthesizer for Nokia Series 60 phones and the Siemens SX1. AccessWorld's 2004 review of version 1.0 found it used Eloquence and cost $295 in the US through Optelec. Code Factory says it launched in 20 countries. Pocket PC support came in 2005 and Windows Mobile Smartphone support in 2006, when Vodafone began offering it. Nokia partnered with Code Factory in 2007, it won an AFB Access Award in 2008, and in 2011 Code Factory supplied Nokia with a branded version called Nokia Screen Reader, while moving to Android with Mobile Accessibility.
 
 Ports:
 Not applicable (software)
@@ -38,5 +38,7 @@ Source 1: https://codefactoryglobal.com/company/
 Source 2: https://codefactory.es/descargas/family4/ms58userguidesymbian.html
 Source 3: https://afb.org/aw/8/1/14407
 Source 4: https://afb.org/aw/8/4/14343
+Source 5: https://afb.org/aw/5/6/14676
+Source 6: https://www.innovations-report.de/wissenschaft-technik/innovative-produkte/bericht-28529/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

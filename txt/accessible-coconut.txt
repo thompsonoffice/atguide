@@ -26,7 +26,7 @@ Console (TTY) screen reader
 Screen magnification
 
 History:
-Not documented
+Accessible-Coconut comes from the Zendalona community in Kerala, India. Its roots go back to K. Sathyaseelan, who lost his sight at age 10 in 1970 and moved to Ubuntu and the Orca screen reader in 2007. Nalin Sathyan, Zendalona's founder and a three-time Google Summer of Code winner, built tools such as Easy-OCR (2009), Lios OCR (2011), Sharada Braille Writer (2012) and IBus-Braille (accepted into Debian in 2015). The first Accessible-Coconut release came in 2014. The group took the name Zendalona in 2020, registered as a non-profit in 2022, and became a Google Summer of Code mentoring organization in 2024.
 
 Ports:
 Not applicable (software)
@@ -41,5 +41,6 @@ System Requirements:
 Sources:
 Source 1: https://github.com/zendalona/accessible-coconut
 Source 2: https://sourceforge.net/projects/accessible-coconut/
+Source 3: https://zendalona.com/about-us/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

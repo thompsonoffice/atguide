@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Written by Wes Boyd and Bruce Berkhalter. It was the only Mac screen reader ever available before VoiceOver.
+Written by Wes Boyd and Bruce Berkhalter. It was the only Mac screen reader ever available before VoiceOver. It was the only Mac screen reader before VoiceOver. Berkeley Systems sold outSPOKEN and all its other accessibility assets to ALVA Access Group of the Netherlands in 1996. On June 10, 2003, ALVA announced it would stop developing outSPOKEN and the inLARGE magnifier for the Mac, to focus on stand-alone products such as the ALVA MPO. outSPOKEN 9.2 stayed on sale for the rest of 2003, with warranties and service agreements honored. Optelec acquired ALVA's assets in September 2005.
 Successors: outSPOKEN for Windows (Berkeley Systems, 1994); VoiceOver (macOS) (Apple, Mac OS X 10.4 Tiger (2005) to present)
 
 Ports:
@@ -36,5 +36,7 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/OutSPOKEN
+Source 2: https://www.macworld.com/article/166605/alva.html
+Source 3: https://lists.w3.org/Archives/Public/w3c-wai-ig/2003AprJun/0718.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

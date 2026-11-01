@@ -1,14 +1,14 @@
 Talking Arch
 Company: Linux accessibility community
 Category: Accessible Linux
-Released: Active by 2015 (opensource.com describes it as a speech- and braille-enabled Arch Linux); the last release was reported in 2017.
+Released: Last release October 3, 2017
 
 Overview:
 A speech- and braille-enabled Arch Linux live image with no graphical installer.
 
 Specs:
 Developer: Linux accessibility community
-Release years: Active by 2015 (opensource.com describes it as a speech- and braille-enabled Arch Linux); the last release was reported in 2017.
+Release years: Last release October 3, 2017
 Runs on: Arch Linux
 Default speech: Not documented
 Price: Not documented
@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Not documented
+TalkingArch began as Chris Brannon's personal project to make installing Arch Linux with speech easier. With community help and the Archiso tooling, it grew into an unofficial modified Arch install and live image with speech and braille support, also used for rescue and recovery. It aimed to stay as consistent as possible with the official Arch image. ArchiveOS lists New Zealand as its origin, a text-only (CLI) environment, x8664, and a last release dated October 3, 2017.
 
 Ports:
 Not applicable (software)
@@ -35,5 +35,6 @@ Not documented
 Sources:
 Source 1: https://opensource.com/life/15/8/accessibility-linux-blind-disabled
 Source 2: https://unix.stackexchange.com/questions/542098
+Source 3: https://archiveos.org/talkingarch/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
