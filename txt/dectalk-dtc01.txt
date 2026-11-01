@@ -27,7 +27,7 @@ Features:
 Not documented
 
 History:
-DEC announced the DTC01 in December 1983 and delivered the first units in February 1984. It connected over RS-232C and could also handle telephone touch tones. Dennis Klatt began looking for an industrial partner for his MIT work in 1981.
+DEC announced the DTC01 in December 1983 and delivered the first units in February 1984. It connected over RS-232C and could also handle telephone touch tones. Dennis Klatt began looking for an industrial partner for his MIT work in 1981. Larger quantities shipped in March 1984. The units had two telephone jacks, one for the phone line and one for a handset, so DECtalk could answer and place calls, read email aloud, and run touch-tone alert systems. Uses ranged from public information services to giving a voice to people with speech disabilities. Later versions came on ISA cards for PCs and as software: DECtalk Software for Digital UNIX and for Windows NT, and DECtalk Access32.
 
 Ports:
 RS-232
