@@ -10,10 +10,10 @@ Specs:
 Released: 2002 (AccessWorld); some sources say 2003
 Processor: Intel XScale 400 MHz
 Memory (RAM): 64 MB
-Storage: 32 MB flash
-Operating system: Windows CE.NET 4.2 / Pocket PC 2003
+Storage: 32 MB flash ROM; 2 CompactFlash Type II slots
+Operating system: Windows CE .NET 4.2 with Pocket PC 2003; JAWS for Pocket PC; Eloquence speech
 Default speech synthesizer: Eloquence
-Battery: 4,320 mAh
+Battery: Lithium-polymer, about 4 h to recharge; warnings at 20% and 12%
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
 Price at launch: BX/QX400 $2,395; 420 (20 cells) $3,795; 440 (40 cells) $5,595
@@ -23,19 +23,26 @@ Voices: ETI-Eloquence (engine)
 Physical Description:
 Not documented
 
+Detailed Description:
+The PAC Mate BX400 and QX400 are Pocket PC-based notetakers from Freedom Scientific, running JAWS on Windows CE. The BX400 has a braille keyboard and measures 11 by 4.87 by 1.93 inches and 1 pound 13 ounces. The QX400 has a QWERTY keyboard and measures 12.3 by 6.27 by 1.62 inches and 2 pounds. All keys are on top, and all ports and switches are on the back.
+The BX400 keyboard has eight braille keys, ordered left to right 7, 3, 2, 1, 4, 5, 6 and 8, with a space bar near the front center. Between keys 1 and 4 sits a four-way 'cursor cross' for the arrows. Above each braille key is a matching function key: F7, F3, F2, F1, F4, F5, F6 and F8. F1 is Escape, F2 the menu bar, F4 the Start menu and F6 FSEdit. The speaker is just left of F7 and the internal microphone just right of F8.
+On the back panel, from right to left, are the On/Off switch, the power jack, a mini A/B USB port, two CompactFlash Type II slots, an infrared port, a 2.5 mm microphone jack and a 3.5 mm headset jack. CompactFlash cards go in one way only and click gently into place.
+On the bottom, left of the left middle rubber foot, is a small round reset button; pressing it erases all data. Across from it on the right is the release for detaching the braille display or drawer. A 20- or 40-cell PAC Mate Portable Braille Display slides onto the front and locks in. With a 40-cell display the BX weighs about 4 pounds, and without it just under 2 pounds.
+Inside is a 400 MHz Intel XScale processor with 64 MB of RAM and 32 MB of flash. A lithium-polymer battery recharges in about 4 hours and announces warnings at 20 and 12 percent. It runs Pocket PC 2003 programs (Word, Excel, Internet Explorer, Outlook, Media Player) plus Freedom Scientific's FSEdit, FSCalc and StopWatch, with Eloquence speech.
+
 Features:
 JAWS for Pocket PC
 Two CompactFlash Type II slots
 
 History:
-AccessWorld (2005) says the PAC Mate was first released in 2002. The braille display detaches: a 40-cell BX weighs about 4 lb, and under 2 lb without the display. Its software included FS Edit.
+AccessWorld (2005) says the PAC Mate was first released in 2002. The braille display detaches: a 40-cell BX weighs about 4 lb, and under 2 lb without the display. Its software included FS Edit. Both owner's manuals are dated December 2003. AccessWorld (2005) noted that the PAC Mate was originally released in 2002 and was then in its second generation. Unlike its competitors, its braille display could be detached and used with JAWS or Window-Eyes on a desktop. AccessWorld praised that feature and the access to third-party Pocket PC software, but criticized inconsistent contracted braille and occasional instability, and rated the BrailleNote PK best of the three PDAs tested.
 Successors: PAC Mate Omni (Freedom Scientific, Fall 2007)
 
 Ports:
 USB OTG (mini-USB), IrDA, 2 CF Type II slots, headphone and microphone jacks
 
 Operating System:
-Windows CE.NET 4.2 / Pocket PC 2003
+Windows CE .NET 4.2 with Pocket PC 2003; JAWS for Pocket PC; Eloquence speech
 Operating system history: Windows CE / Windows Mobile (on notetakers and PDAs)
 Operating system history: JAWS versions
 
@@ -45,5 +52,9 @@ Not documented
 Sources:
 Source 1: http://www2.freedomscientific.com/fsproducts/PACmatebx400info.asp
 Source 2: https://www.afb.org/aw/6/3/14628
+Source 3: https://www2.freedomscientific.com/fssupport/PACMateBX/Docs/PACMateOwner'sManualBX.txt
+Source 4: https://www2.freedomscientific.com/fssupport/PACMateQX/Docs/PACMateOwner'sManualQX.txt
+Source 5: https://www2.freedomscientific.com/fsproducts/PACmatebx400info.asp
+Source 6: https://www2.freedomscientific.com/fsproducts/PACmateqx400info.asp
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

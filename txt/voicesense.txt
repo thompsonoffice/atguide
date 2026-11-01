@@ -8,33 +8,40 @@ A speech-only HIMS notetaker with a braille keyboard.
 
 Specs:
 Released: 2007
-Processor: Intel PXA270
-Memory (RAM): 128 MB
-Storage: 1 GB flash
-Operating system: Windows CE.NET 5.0
+Processor: Intel PXA270, 540 MHz
+Memory (RAM): 128 MB RAM plus 64 MB OS storage
+Storage: 1 GB user flash; SD and CF slots
+Operating system: Windows CE .NET 5.0
 Default speech synthesizer: Not documented
-Battery: Not documented
+Battery: Detachable, user-replaceable lithium-polymer, 12 hours
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: About $1,800 (elektronika.lt, 2007); about $2,150 (PCNews.ru)
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The VoiceSense is a speech-only notetaker from HIMS with a braille keyboard and no braille display. GW Micro's published specifications gave its size as 18.8 by 7.7 by 2.5 centimeters (about 7.4 by 3 by 1 inch) and its weight as 266 grams, just over half a pound. One 2007 user found it almost half the size of a BrailleNote PK.
+The top carries a Perkins-style braille keyboard. The same user described it as having 'incredible little tactile buttons and sliders.' Users of the period also mention a key that opens a list of applications and an F2 key that opens a context menu, much like Shift+F10 on a PC.
+For sound it has stereo speakers and a headphone jack. For input it has a built-in condenser microphone and a microphone jack, used for recording, and there is an FM radio receiver. The exact placement of the jacks is not given in the sources found.
+Its ports are USB On-The-Go (USB 2.0 compatible), an SD card slot and a CompactFlash slot. Wireless is 802.11b/g Wi-Fi and Bluetooth 1.1. Inside is a 540 MHz Intel PXA270 processor with 128 MB of RAM, 64 MB of OS storage and 1 GB of user flash, running Windows CE .NET 5.0.
+A detachable, user-replaceable lithium-polymer battery gives about 12 hours of continuous use. 2007 news reports put the price at about $1,800 to $2,150. The later VoiceSense QWERTY used the smooth white plastic shell of other HIMS products, and at CSUN 2010 GW Micro's Dan Weirich dropped one on the floor and kept using it.
 
 Features:
 FM radio
 DAISY and MP3 playback
 
 History:
-HIMS's product history lists only two VoiceSense models: the original (2007) and the QWERTY (2010).
+HIMS's product history lists only two VoiceSense models: the original (2007) and the QWERTY (2010). GW Micro distributed it in the US. A user quoting GW Micro's spec page in October 2007 listed the hardware, and Sendero GPS was due for it within weeks. After HIMS and GW Micro split in 2011, HIMS sold it directly from Austin, Texas, alongside a QWERTY VoiceSense.
 Successors: VoiceSense QWERTY (HIMS / Selvas BLV, 2010)
 
 Ports:
 CompactFlash, SD, USB, Wi-Fi b/g, Bluetooth
 
 Operating System:
-Windows CE.NET 5.0
+Windows CE .NET 5.0
 Operating system history: Windows CE / Windows Mobile (on notetakers and PDAs)
 
 System Requirements:
@@ -42,5 +49,9 @@ Not documented
 
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
+Source 2: https://www.freelists.org/post/gps-talkusers/Voicenote-or-Voice-Sense,31
+Source 3: https://www.elektronika.lt/naujienos/kompiuterija/8635/voicesense-kompiuteris-akliesiems/
+Source 4: https://pcnews.ru/news/gps-gw-micro-voicesense-windows-ce-net-540-pxa270-fm-wi-fi-802-11-bluetooth-usb-sd-cf-12-188-77-25-181367.html
+Source 5: https://afb.org/aw/12/1/15994
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

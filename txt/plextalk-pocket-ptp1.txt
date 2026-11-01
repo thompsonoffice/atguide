@@ -10,23 +10,30 @@ Specs:
 Released: December 16, 2008 (Japan sales start)
 Processor: Not documented
 Memory (RAM): Not documented
-Storage: Not documented
+Storage: SD/SDHC up to 32 GB (2 GB card included); USB OTG for memory sticks and external CD drives
 Operating system: Not documented
 Default speech synthesizer: Not documented
-Battery: Not documented
+Battery: Removable lithium-ion, 1,430 mAh; about 10 h DAISY/MP3 playback, about 8 h recording; about 4 h to charge
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $349 (AccessWorld, 2010); $275 promotional price until May 31, 2012; €350 in France (2013); ¥41,040 tax-exempt in Japan
 Used price today (eBay): Not documented
 
 Physical Description:
 55 x 112 x 16 mm, 110 g.
 
+Detailed Description:
+The PLEXTALK Pocket PTP1 is a DAISY book player and recorder from Shinano Kenshi. AccessWorld described it as shaped like a deck of cards with a quarter of the cards missing. It measures 112 by 55 by 16 millimeters (4.4 by 2.2 by 0.6 inches) and weighs about 110 grams with its battery. It was made in white and black; white ended in 2013.
+The face is exceptionally smooth. On the lower part is a standard 12-key phone-style keypad, with 11 more keys above it. Every key has its own shape and texture, so AccessWorld found them effortless to locate by touch. Most prominent is a ring of four arrow keys around a concave Enter button, with Go To, Bookmark, Menu and Title keys at its four corners. Above the keys is a speaker that AccessWorld's reviewer called the best she had heard on a handheld player.
+On the top edge are jacks for headphones and an external microphone. The bottom edge has the USB port and the AC adapter jack. The SD card slot is on the left edge. On the right edge are an up-and-down volume switch and a key-lock switch. A built-in microphone lets you record without accessories.
+It plays DAISY books from NLS BARD, Bookshare, Learning Ally and Audible, as well as MP3, WAV, Ogg and AMR-WB+ music, and reads text, HTML and Word files with TTS. It records in DAISY format with headings you can insert during or after recording. Holding Record captures a one-minute voice memo. A removable 1,430 mAh lithium-ion battery gives about 10 hours of playback and charges in about 4 hours. Melodic sounds confirm commands, and pressing 0 opens the full user manual.
+In the box were a 2 GB SD card, stereo earbuds, an AC adapter, a USB cable, a short USB adapter for memory sticks or a CD drive, the manual on CD, and a zippered padded pouch. It cost $349 in 2010.
+
 Features:
 Not documented
 
 History:
-Not documented
+AccessWorld first evaluated it in 2010 (software 2.01) at $349, comparing it with the Victor Reader Stream and the BookSense XT. AFB's verdict was that if recording mattered most, the PTP1 was the choice. Its menus used a recorded human voice and its books used Nuance Tom and Samantha. Deborah Kendrick's 2012 evaluation praised its stability and DAISY recording. Shinano Kenshi's Japanese specification page notes that the white model ended production in November 2013, after which it was sold in black only. A networked PTP1/LINK variant added 8 GB internal memory and Wi-Fi.
 
 Ports:
 Not documented
@@ -40,5 +47,9 @@ Not documented
 Sources:
 Source 1: https://www.plextalk.com
 Source 2: http://www3.kcn.ne.jp/~global-i/ptp1.html
+Source 3: https://afb.org/aw/10/6/16088
+Source 4: https://afb.org/aw/13/5/15814
+Source 5: https://www.plextalk.com/jp/support/ptp1/specifications/
+Source 6: https://www.avh.asso.fr/implantations/certam/evaluations-de-produits/lecteur-enregistreur-plextalk-pocket-ptp1
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
