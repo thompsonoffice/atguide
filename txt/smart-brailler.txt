@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 3.9 kg.
 
+Detailed Description:
+The SMART Brailler is a Perkins-style manual braillewriter with an electronic Smart Module on the front. APH sold it as catalog no. 1-00820-00. Perkins lists it at 8.5 lb (3.9 kg) and 14 × 5.5 × 9.5 in (34 × 15 × 24 cm). It still embosses normally with the power off, and you carry it by a rounded Easy-Grip handle below the keys.
+Across the front are nine keys: Line Spacing at far left, then dots 3, 2 and 1, the space bar, dots 4, 5 and 6, and Backspace at far right. Flat wing-shaped paper feed knobs stick out from each side, and two paper release levers sit at the top near the back. The carriage has a triangular release button and an oval Easy-Erase button just right of the embossing head.
+The hinged Smart Module tilts forward. In the middle is a roughly 4-inch colour screen that shows SimBraille or large print. To its left are four Quick Buttons, marked with 0 to 3 raised lines (screen on/off, display mode, contracted or uncontracted braille, speech mode), and a speaker. To the right are a round green Menu button with a raised dot and a green diamond Select button, marked with a raised checkmark, surrounded by four navigation buttons.
+The headphone jack is on top of the module at the right end, the two volume buttons are high on its right side, and a USB-A port is in a cutout lower on that side, for flash drives or a printer. Behind the module is a slot with left and right margin guides, with 36 raised cell markings above it. A bell sounds at cell 21 and again near the right margin.
+A round rocker power switch is on the lower right side, and the power port is at the lower left of the back. The removable lithium-ion battery sits behind a two-screw door underneath and lasts about 5 hours. It embosses 25 lines of up to 28 cells on 8½ × 11 in paper and speaks with Acapela voices; Duxbury provides contracted-braille translation.
+
 Features:
 Not documented
 
@@ -41,5 +48,7 @@ Not documented
 Sources:
 Source 1: https://www.perkins.org
 Source 2: https://en.wikipedia.org/wiki/PerkinsBrailler
+Source 3: https://sites.aph.org/files/manuals/Smart-Brailler/sbmanual.html
+Source 4: https://brailler.perkins.org/pages/smart-brailler
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

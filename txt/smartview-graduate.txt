@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The SmartView Graduate is a HumanWare video magnifier that connects to a laptop and has no screen of its own; the magnified image appears on the computer. Assembled, it measures 12 × 9 × 15.5 in (VisionAid's metric figure is 22.8 × 30 × 39 cm) and weighs 2.5 lb (1.1 kg).
+It breaks down into three main parts (the camera, the arm and the base), which fit in a laptop bag or an optional travel case. Setup takes under a minute.
+The colour autofocus camera zooms continuously from about 3× to 50× and rotates 360°, so it can switch between reading on the desk and viewing a board across the room.
+The included software on the PC provides zoom control, adjustable contrast and brightness, high-contrast viewing modes, image rotation, freeze-frame, and image capture saved to the computer.
+It draws all its power from the laptop over two USB 2.0 cables, so no mains adapter is needed. It came with USB cables, a software and documentation CD, and an installation guide.
+
 Features:
 Not documented
 
 History:
-Not documented
+The UK dealer VisionAid lists the Graduate as discontinued; it was priced at £1,750 there with VAT relief. VisionAid described it as a laptop-connected magnifier for students and travelling professionals: it splits into three parts that fit in a computer bag, sets up in under a minute, and takes its power from the laptop through two USB 2.0 cables. VisionAid lists compatibility with Windows XP, Vista, 7 and 8. No dated launch announcement was found, so the introduction year remains unknown.
 
 Ports:
 Not documented
@@ -39,5 +46,6 @@ Not documented
 
 Sources:
 Source 1: https://store.humanware.com
+Source 2: https://www.visionaid.co.uk/smartview-graduate
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

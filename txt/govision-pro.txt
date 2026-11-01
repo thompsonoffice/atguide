@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The HIMS GoVision Pro is an all-in-one video magnifier with its monitor and camera arm built together. Ergoguys lists it at 460 mm wide, 570 mm high and 180 mm deep (18.1 × 22.4 × 7.1 in), weighing 8.5 kg (18.7 lb).
+A camera on an arm in front of the screen magnifies from 1.7× to 68× in Near View and rotates 360° for Distance View and Self View. LED lights with brightness control light the reading area, and there is a built-in guide for the reading table.
+For portability you turn the camera arm and head parallel to the screen and lift one lever, which folds them down behind the monitor.
+You control it with a remote that has large, high-contrast buttons and speaks the item you are on, or with a jog switch on the side of the camera. There are 7 colour modes (4 user-definable, 57 combinations), focus lock, line markers, a built-in speaker, an earphone jack and volume control.
+A separate 13-megapixel camera captures a full letter-size page for OCR with text-to-speech, with a guide frame, column reading and automatic language detection. It also includes a document viewer, a video player with subtitles, a photo frame, a clock and a screen saver.
+
 Features:
 Not documented
 
 History:
-Not documented
+HIMS lists the GoVision Pro as a 2018 product in its official product history. It is an all-in-one, transportable HD video magnifier that combines desktop magnification with a 13-megapixel camera for full-page OCR and speech, a 360° rotating camera for distance viewing such as a classroom whiteboard, and a self-view mode for grooming. The reseller Ergoguys lists its specifications as 460 × 570 × 180 mm and 8.5 kg, with near-view magnification of 1.7× to 68×. It also includes a document viewer, a video player and a digital photo frame.
 Predecessors: GoVision (HIMS / Selvas BLV, 2016)
 
 Ports:
@@ -40,5 +47,6 @@ Not documented
 
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
+Source 2: https://www.ergoguys.com/govisionpro.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
