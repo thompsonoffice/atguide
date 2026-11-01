@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Amazon announced the acquisition of IVONA Software on January 24, 2013.
+Amazon announced the acquisition of IVONA Software on January 24, 2013. IVONA was built by IVO Software in Gdańsk, Poland. Its U.S. English entry in the 2006 Blizzard Challenge got the highest naturalness (mean opinion score) ratings from the expert listeners. It entered again in 2007 and 2009; at the time of the 2009 challenge it offered voices in U.S. English, Polish and Romanian, with two British English voices to follow. Amazon announced on January 24, 2013 that it had bought IVONA Software, whose voices then powered Text-to-Speech, Voice Guide and Explore by Touch on Kindle Fire tablets. At that point IVONA had 44 voices in 17 languages and worked with the RNIB and the DAISY Consortium.
 
 Ports:
 Not applicable (software)
@@ -37,5 +37,7 @@ Source 1: https://press.aboutamazon.com/2013/1/amazon-com-announces-acquisition-
 Source 2: https://www.theverge.com/2013/1/24/3911056/amazon-acquires-kindle-fire-text-to-speech-provider-but-this-isnt
 Source 3: http://festvox.org/blizzard/bc2009/ivonaBlizzard2009.pdf
 Source 4: https://www.isca-archive.org/blizzard2007/kaszczuk07blizzard.pdf
+Source 5: https://www.isca-archive.org/blizzard2006/osowski06blizzard.pdf
+Source 6: https://www.isca-archive.org/blizzard2009/kaszczuk09blizzard.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

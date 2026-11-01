@@ -1,14 +1,14 @@
 Acapela voices
 Company: Acapela Group
 Category: TTS Voices
-Released: Current. Acapela voices remain in products in 2026: Stream 3 firmware 1.7 (September 2026) supports up to two Acapela voices. The founding year of the Acapela Group could not be confirmed, because its about page and Wikipedia did not load in this research.
+Released: Merger announced January 2004; name unveiled April 2004
 
 Overview:
 Acapela Group's TTS voices are the default in HumanWare's Stream 2, Stream 3 and Trek.
 
 Specs:
 Maker: Acapela Group
-First released: Current. Acapela voices remain in products in 2026: Stream 3 firmware 1.7 (September 2026) supports up to two Acapela voices. The founding year of the Acapela Group could not be confirmed, because its about page and Wikipedia did not load in this research.
+First released: Merger announced January 2004; name unveiled April 2004
 Synthesis type: Unit selection (concatenating studio recordings); later Acapela DNN neural voices
 Platforms: Embedded devices and others
 Default on or shipped with: Victor Reader Stream 2 and 3, Victor Reader Trek
@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-On Stream 3, firmware 1.7 (September 2026) allows up to 2 Acapela voices plus up to 2 eSpeak NG voices.
+On Stream 3, firmware 1.7 (September 2026) allows up to 2 Acapela voices plus up to 2 eSpeak NG voices. Acapela's roots go back to Babel Technologies, founded in 1997 under Vincent Fontaine as the University of Mons's first spin-off. Babel took over Infovox, a subsidiary of the Swedish operator Telia, in 2001. Babel and the Toulouse text-to-speech company Elan Speech announced their merger on January 7, 2004. Their combined revenue had been €4.7 million in 2003. In April 2004 the group, with Babel Infovox, took the name Acapela Group, with offices in Mons, Toulouse and Stockholm and about 70 staff. Its own timeline lists Infovox Desktop and Virtual Speaker in 2004, Infovox iVox in 2006, an iPhone SDK for Acapela TTS and its first HMM-based TTS project in 2008, and in 2010 Infovox3, a portable talking companion for visually impaired users. Lars-Erik Larsson took over as chief executive from Fontaine in December 2007.
 
 Ports:
 Not applicable (software)
@@ -37,5 +37,9 @@ Sources:
 Source 1: https://www.humanware.com/microsite/stream/index.html
 Source 2: https://milled.com/humanware-uk/stream-3-version-1-7-new-voices-new-languages-Kt8Q3AENeTWOm1mU
 Source 3: https://www.acapela-group.com/news/brainy-voices-innovative-voice-creation-based-on-deep-learning-by-acapela-group-research-lab/
+Source 4: https://www.speechtechmag.com/Articles/ReadArticle.aspx?ArticleID=32697
+Source 5: https://www.acapela-group.com/voiceai-people-behind-technology-at-acapela-group/company-timeline/
+Source 6: https://connaitrelawallonie.wallonie.be/wallons-marquants/dictionnaire-des-wallons/fontaine-vincent
+Source 7: https://www.01net.com/actualites/les-technologies-vocales-europeennes-parlent-dune-meme-voix-230735.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

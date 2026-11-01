@@ -1,6 +1,6 @@
 IVONA Software
 Type: Company profile
-Founded: 2001 (Łukasz Osowski and Michał Kaszczuk, Gdańsk)
+Founded: Gdańsk, Poland (as IVO Software); acquired by Amazon in 2013
 Products listed: 1
 
 History:
@@ -15,5 +15,6 @@ Not documented
 Sources:
 Source 1: https://press.aboutamazon.com/2013/1/amazon-com-announces-acquisition-of-ivona-software
 Source 2: https://technews.tmcnet.com/ivr/topics/ivr/articles/324494-amazon-ivona-kindle-perhaps-mute-no-more.htm
+Source 3: https://www.isca-archive.org/blizzard2009/kaszczuk09blizzard.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

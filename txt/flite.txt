@@ -1,14 +1,14 @@
 Flite
 Company: Carnegie Mellon University
 Category: TTS Voices
-Released: 2001
+Released: Version 1.0 beta, August 27, 2001
 
 Overview:
 Festival-lite, a small-footprint synthesizer for handhelds and servers.
 
 Specs:
 Maker: Carnegie Mellon University
-First released: 2001
+First released: Version 1.0 beta, August 27, 2001
 Synthesis type: Concatenative (diphone and unit selection)
 Platforms: Embedded, Linux and others
 Default on or shipped with: kal, an 8 kHz US English diphone voice derived from cmuuskal and the single voice Flite originally shipped with (later releases also add the awb, rms and slt voices)
@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Alan W Black and colleagues wrote it in 2001 as a reimplementation of Festival's core design.
+Alan W Black and colleagues wrote it in 2001 as a reimplementation of Festival's core design. Flite ('festival-lite') was written at Carnegie Mellon University by Alan W. Black and Kevin A. Lenzo as a small, fast run-time engine for voices built with the Festival and FestVox tools, for embedded systems, handhelds and busy servers. They presented it at the 4th ISCA Workshop on Speech Synthesis in 2001, and version 1.0 beta was posted on August 27, 2001, including an ARM Linux binary.
 Predecessors: Festival (University of Edinburgh CSTR, 1996 to present)
 
 Ports:
@@ -36,5 +36,7 @@ Not documented
 Sources:
 Source 1: https://www.cs.cmu.edu/~awb/papers/ISCA01/flite/node1.html
 Source 2: https://github.com/festvox/flite
+Source 3: http://www.cs.cmu.edu/~awb/papers/ISCA01/flite/flite.html
+Source 4: http://cmuflite.org/packed/flite-1.0/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

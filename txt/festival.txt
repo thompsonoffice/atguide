@@ -21,8 +21,8 @@ Features:
 Not documented
 
 History:
-First version in 1996, with updates through 2007 (better intonation, larger lexicons). It underpins HTS work and spin-offs such as Rhetorical Systems and CereProc.
-Successors: Flite (Carnegie Mellon University, 2001)
+First version in 1996, with updates through 2007 (better intonation, larger lexicons). It underpins HTS work and spin-offs such as Rhetorical Systems and CereProc. Festival was originally developed by Alan W. Black, Paul Taylor and Richard Caley at the University of Edinburgh's Centre for Speech Technology Research, with substantial contributions from Carnegie Mellon University. It is written in C++ with a Scheme-like command interpreter and released under a free, BSD-style license. It supports British and American English, Welsh and Spanish, and voice packages exist for other languages. Version 2.5 came out in December 2017.
+Successors: Flite (Carnegie Mellon University, Version 1.0 beta, August 27, 2001)
 
 Ports:
 Not applicable (software)
@@ -37,5 +37,6 @@ Sources:
 Source 1: https://ppls.ed.ac.uk/linguistics-and-english-language/research/impact/speech-synthesis-technology
 Source 2: https://zeehio.github.io/festival/doc/Site-initialization.html
 Source 3: https://www.cstr.ed.ac.uk/emasters/summerschool2005/tutorial3/tutorial.html
+Source 4: https://en.wikipedia.org/wiki/FestivalSpeechSynthesisSystem
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
