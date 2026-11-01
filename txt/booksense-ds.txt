@@ -23,7 +23,7 @@ Physical Description:
 Not documented
 
 Detailed Description:
-The BookSense DS is a pocket digital book player made by HIMS and sold by GW Micro. The Library of Congress NLS equipment list gives its size as 1.77 × 0.63 × 3.82 in and its weight as 0.143 lb (about 2.3 oz). It is the only BookSense model with a visual OLED display.
+The BookSense DS is a pocket digital book player made by HIMS and sold by GW Micro. The Library of Congress NLS equipment list gives its size as 1.77 × 0.63 × 3.82 in and its weight as 0.143 lb (about 2.3 oz). In July 2010, Easter Seals Crossroads called it the only book player with an OLED display, for higher contrast.
 On the front, the OLED display is at the top, with Up, Down and a jog switch below it. Mode, which cycles through the Media, DAISY, Document Reader and FM Radio programs, is centred just below the jog switch, with Cancel, Play and OK nearby and a 0–9 number pad underneath. Holding the jog switch for 2 seconds turns on Help Mode, which announces what each key does.
 On the left side are the Power/Hold slide switch, volume buttons, a USB On-The-Go port for a computer or memory stick, and a reset button. Pulling the switch down for 2 seconds turns the player on or off; sliding it up locks every key.
 The right edge has an SD card slot near the bottom. The quick start guide also lists Record and Date & Time buttons, a DC power jack, earphone and microphone jacks, a speaker and a strap holder.
@@ -49,5 +49,6 @@ Sources:
 Source 1: https://afb.org/aw/11/4/16038
 Source 2: https://manualzilla.com/doc/5715468/untitled---hims-inc
 Source 3: https://www.loc.gov/nls/services-and-resources/equipment-for-nls-materials/commercial-players-compatible-with-nls-materials-and-additional-products/
+Source 4: https://www.eastersealstech.com/2010/07/22/gw-micro-presents-the-booksense-ds/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

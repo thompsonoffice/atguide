@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The NLS Braille eReader from HumanWare is a 20-cell braille reader that the Library of Congress lends free to its braille patrons. The NLS user guide (version 3.0) describes a flat unit with an eight-key Perkins-style keyboard across the back half of the top and the braille display in front of it.
+The keyboard is numbered from the centre out: dots 1, 2, 3 and 7 to the left, and 4, 5, 6 and 8 to the right. Dot 7 doubles as Backspace and dot 8 as Enter. In front of the keys are 20 braille cells, each with a cursor-routing button, and two identical Space keys run along the front edge of the top.
+On the front edge are five thumb keys, from left to right: Up, Left, a round Select, Right and Down. Each rectangular key has a small tactile ridge showing its direction, and Left and Right have vertical tactile lines on their outer sides.
+On the left side, from back to front, are a USB-C port for charging and connecting to a computer or phone, a green power light, an oval Power button with a raised dot, a USB-A port for a flash drive or keyboard, and a lanyard hole. The right side has an audio jack and two volume buttons, which the NLS eReader does not use, plus a second lanyard hole. The back edge has an SD card slot near the left end.
+It charges fully in about three hours and runs about 15 hours on a charge. It came with a USB-A to USB-C cable, an AC adapter, an NLS cartridge USB cable, a lanyard, and print and braille getting-started guides.
+
 Features:
 Not documented
 
@@ -40,5 +47,6 @@ Not documented
 Sources:
 Source 1: https://www.loc.gov/nls/
 Source 2: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 3: https://www.loc.gov/nls/services-and-resources/equipment-for-nls-materials/nls-braille-ereader-humanware-user-guide/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
