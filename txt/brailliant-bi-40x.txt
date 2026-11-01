@@ -16,17 +16,24 @@ Default speech synthesizer: Not documented
 Battery: 2,500 mAh, about 20 hours
 Display or braille cells: 40 cells
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $3,195 (BI 20X: $1,895), per AccessWorld 2021
 Used price today (eBay): Not documented
 
 Physical Description:
 690 g.
 
+Detailed Description:
+The Brailliant BI 40X is a 40-cell braille display from HumanWare with simple built-in apps. It weighs about 690 grams.
+On the top surface, from back to front, are eight braille keys for dots 1 to 8, then 40 cursor-routing buttons, then the 40 braille cells. At each end of the cells are three command keys arranged like a braille cell. In front of the cells are two spacebars, one under each thumb.
+The front edge has four thumb keys for navigation, with a round Home/Select button in the center.
+The left edge has, from back to front, a USB-C port for a computer or charger, the Power button, and a USB-A port for flash drives. The right edge has an earphone jack and volume up and down buttons.
+The top also has built-in stereo speakers. At the 2021 review they only gave system beeps, though HumanWare planned to add audio.
+
 Features:
 Not documented
 
 History:
-Not documented
+AccessWorld called it a new class of smart braille display. It can connect to Wi-Fi and log into NLS BARD, and its KeyPad editor is meant for quick notes: press Power and you can type within about five seconds. The reviewer missed a spellchecker. The smaller BI 20X has Bluetooth 4.0 instead of 5.0 and an SD slot instead of a USB storage port.
 Predecessors: Brailliant 20 / 40 (HumanWare, 2004)
 
 Ports:
@@ -43,5 +50,6 @@ Sources:
 Source 1: https://store.humanware.com
 Source 2: https://www.braillecast.com/podcast/e026/
 Source 3: http://kentucky-acb.org/pipermail/scholarship-commkentucky-acb.org/attachments/20210506/d8ae4b7e/attachment-0003.pdf
+Source 4: https://afb.org/aw/22/7/17621
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

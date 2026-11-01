@@ -14,7 +14,7 @@ Refreshabraille 18 (Braille Displays, 2010)
 Braille Plus 18 (PDAs, 2012 to February 2015 (discontinued))
 Chameleon 20 (Braille Displays, 2020)
 Mantis Q40 (Braille Displays, Shipping 2020)
-Monarch (Braille Displays, 2024)
+Monarch (Braille Displays, Shipping from September 17, 2024)
 
 Operating System and Software Histories:
 Not documented

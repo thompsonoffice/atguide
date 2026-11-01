@@ -1,13 +1,13 @@
 BAUM VarioUltra
 Company: BAUM Retec
 Category: Braille Displays
-Released: 2014
+Released: 2014 (NFB overview published February 2, 2015)
 
 Overview:
 A braille display with built-in notetaking.
 
 Specs:
-Released: 2014
+Released: 2014 (NFB overview published February 2, 2015)
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
@@ -16,17 +16,24 @@ Default speech synthesizer: Not documented
 Battery: Not documented
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: VarioUltra 20: $2,395; VarioUltra 40: $3,995 (AccessWorld 2017)
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
 
+Detailed Description:
+The VarioUltra is a very thin braille display and basic note-taker from BAUM, in 20- and 40-cell sizes. The 20-cell model is 7.4 by 3.5 by 0.7 inches and weighs 0.7 pounds; the 40-cell model is 12.4 inches long and weighs 1.1 pounds. Reviewers describe it as slim and well built.
+The front of the top is sloped at about 30 degrees. On that slope, from left to right, are system keys S1 and S2, a spacebar, a round joystick called the NaviStick, a second spacebar, and system keys S3 and S4. The NaviStick also presses down to select.
+Behind these is the braille display, with three buttons stacked in a vertical line at each end for panning and other functions. Behind the display are the cursor-routing keys, and at the back is a standard eight-key braille keyboard.
+The right side has only the power button, just behind the front edge. The left side has, from front to back, a keyboard lock switch, a switch between note-taker and display modes, a micro-USB port and a full-size USB port. The back edge is empty. The two front corners have attachment points for a shoulder strap.
+It came in a leather case that closes with magnets and lets you use the display while carrying it by the strap.
+
 Features:
 Not documented
 
 History:
-Not documented
+Made by BAUM Retec AG in 20- and 40-cell sizes. Built-in apps include a word processor, PDF and spreadsheet viewers, a calculator, timers and an alarm clock. It has no SD slot; files move over USB, with the unit appearing as a drive on a PC. AccessWorld compared the VarioUltra 40 with the HIMS Braille Edge 40 ($2,795) in 2017, finding the VarioUltra lighter and slimmer but over $1,000 dearer.
 
 Ports:
 Not documented
@@ -39,5 +46,7 @@ Not documented
 
 Sources:
 Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 2: https://nfb.org/blog/varioultra-overview
+Source 3: https://afb.org/aw/18/4/15220
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

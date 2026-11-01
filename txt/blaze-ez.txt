@@ -10,23 +10,30 @@ Specs:
 Released: 2014
 Processor: Not documented
 Memory (RAM): Not documented
-Storage: Not documented
+Storage: 16 GB (about 12 GB free)
 Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: Not documented
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $595 (BAPIN Group listing)
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
 
+Detailed Description:
+The Blaze EZ is a pocket book player and reader from HIMS, about the size and shape of a smartphone. Its manual gives it as 59.3 millimeters wide, 116.9 long and 16.4 thick, and 118 grams; a reviewer weighed it at 138 grams. The case is white, with contrasting color on the Power, Media, Radio and Books buttons.
+Hold it keypad up. At the top center is a slightly recessed square Power button, with a stereo speaker grille on each side. Below and to the left is a round Record button. Below that is a row of three square buttons with braille letters: M for Music or Media, R for Radio and B for Books.
+Below them is a circular navigation pad of Up, Down, Left and Right with a small round Select button in the middle. Below that are three buttons: a square Cancel on the left, a small dot-like Explorer button in the middle, and a square OCR button marked with braille O on the right. At the very bottom are two status lights on the left and the microphone on the right.
+The left side has the SD card slot in its lower part. The right side has a rotary volume control, a control for speed and voice guidance, and a lock key. The bottom edge has the headphone socket, the micro-USB charging port and a line-in socket. A small hole in the center of the top edge takes the lanyard.
+On the back, near the top, is the camera lens. A removable cover on the back hides the flat rectangular battery. An accessory pack added a stand for OCR, a spare battery and charger, a remote and a charging cradle.
+
 Features:
 Not documented
 
 History:
-Not documented
+Model T70EZ. Similar in size to its predecessor, the BookSense, but with fewer keys, it added a built-in camera for one-button OCR. It plays DAISY, NLS, Bookshare and Learning Ally books, music and podcasts, and has an FM radio and recorder. Jackie Brown's review for Sight and Sound found a 4.5-hour charge gave about 17 hours of use, liked the sound, but missed a phone-style keypad like the Victor Reader Stream's.
 
 Ports:
 Not documented
@@ -39,5 +46,8 @@ Not documented
 
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
+Source 2: https://lssproducts.com/content/251076.pdf
+Source 3: https://www.sightandsound.co.uk/a-review-of-the-hims-blaze-ez-by-jackie-brown/
+Source 4: https://www.bapingroup.com/blaze-ez.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

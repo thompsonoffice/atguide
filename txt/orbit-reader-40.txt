@@ -16,17 +16,24 @@ Default speech synthesizer: Not documented
 Battery: Not documented
 Display or braille cells: 40 cells
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $1,899 (Orbit Research, 2026); under $1,500 when reviewed in October 2021
 Used price today (eBay): Not documented
 
 Physical Description:
 750 g.
 
+Detailed Description:
+The Orbit Reader 40 is a 40-cell braille display and note-taker from Orbit Research. It is a flat bar 11.6 inches long, 3.8 inches deep and 1.3 inches thick, weighing 1.65 pounds (750 grams). Orbit Research calls the construction solid and resistant to fluids and dust.
+Place it with the Spacebar nearest you. Behind the Spacebar is the line of 40 cells, with a cursor-routing button behind each cell. At each end of the line is a rectangular rocker key that you press toward or away from you to pan.
+Behind the routing buttons is a Perkins-style keyboard. From left to right are the keys for dots 7, 3, 2 and 1, then a four-way navigation pad with a Select button in its center, then dots 4, 5, 6 and 8. The front panel has two rectangular slots near each end for attaching a case or strap.
+The left side has a USB-A port for thumb drives. The right side has, from front to back, the Power button, the USB-C port for charging and computer connection, and a 3.5 mm headphone jack. The SD card slot is on the back edge.
+Underneath, each corner has a rubber foot. There are several screws, and a compartment for the user-replaceable battery. No case comes in the box. Orbit Research sold a padded nylon zip case with a top pocket for $59.95; a leather case was also offered.
+
 Features:
 Not documented
 
 History:
-Not documented
+Scott Davert of the Helen Keller National Center reviewed it in October 2021. Unlike the Orbit Reader 20, it added cursor-routing buttons, built-in braille translation and connections to up to five Bluetooth devices. It has no internal memory: files live on an SD card (4 to 32 GB) or a USB drive. He estimated battery life at 20 to 22 hours of heavy use and found the cells quieter than the Orbit Reader 20's but the keyboard louder. The user-replaceable battery cost $44.95 at the time and $49.95 by January 2023.
 Predecessors: Orbit Reader 20 (Orbit Research, Announced March 2016, shipped 2017)
 Successors: Orbit Reader Q40 (Orbit Research, 2025)
 
@@ -42,5 +49,8 @@ Not documented
 Sources:
 Source 1: https://www.orbitresearch.com
 Source 2: https://www.orbitresearch.com/orbit-research-introduces-the-worlds-most-affordable-40-cell-braille-display/
+Source 3: https://www.helenkeller.org/a-review-of-the-orbit-reader-40/
+Source 4: https://www.orbitresearch.com/products/blindness-products/braille-devices/orbit-reader-40/
+Source 5: https://www.orbitresearch.com/support/orbit-reader-40-support/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

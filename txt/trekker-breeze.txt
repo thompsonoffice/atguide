@@ -13,20 +13,27 @@ Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
-Battery: About 8 hours
+Battery: Lithium-ion polymer, replaceable; about 8 hours, 5-hour charge
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $929 including one regional map (AccessWorld 2012); €799 in France
 Used price today (eBay): Not documented
 
 Physical Description:
 129 x 60 x 29 mm, 200 g.
 
+Detailed Description:
+The Trekker Breeze is a handheld talking GPS from HumanWare. AccessWorld compared it to a chubby TV remote. It is 129 by 60 by 29 millimeters and weighs about 8 ounces. It came in a leather case with a belt clip, a shoulder strap, and a small external speaker with a clip.
+The face has nine large buttons in three rows of three, each a different shape and color and easy to tell apart by touch. Above them, at the top left, is a microphone for recording landmark names, and at the top right is the built-in speaker.
+The top row has Information, then a large orange circular Where Am I button in the middle, then Repeat. The middle row has the Left arrow, Confirm and the Right arrow. The bottom row has Explore, Record and Go To.
+The left side has a volume thumb wheel, the SD card slot and the USB connector, under a protective flap. The right side has the power switch and a Reset button, and the power connector at the lower right under a rubber flap. The jack for the external speaker is in the middle of the rounded top edge.
+The battery compartment is on the back. A lanyard attaches at the base. It beeps once at power-on and twice at power-off, and says "Initializing Breeze" with the battery level.
+
 Features:
 Not documented
 
 History:
-Not documented
+AccessWorld reviewed it in March 2009. HumanWare had heard from users and mobility instructors that existing GPS products were too complicated, and that many Trekker owners only used Where Am I and their own recorded landmarks. So the Breeze has 9 buttons instead of the Trekker's 39 and no keypad for typing destinations: you must visit and record a landmark before it can guide you there. Leader Dogs for the Blind helped shape it. It finds satellites in about two to three minutes and describes intersections about 30 feet ahead.
 Predecessors: Trekker (VisuAide, 2003)
 Successors: Victor Reader Trek (HumanWare, 2017)
 
@@ -41,5 +48,8 @@ Not documented
 
 Sources:
 Source 1: https://afb.org/aw/6/6/14572
+Source 2: https://afb.org/aw/10/2/16127
+Source 3: https://afb.org/aw/13/1/15891
+Source 4: https://www.avh.asso.fr/implantations/certam/evaluations-de-produits/trekker-breeze-navigateur-gps-de-humanware
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

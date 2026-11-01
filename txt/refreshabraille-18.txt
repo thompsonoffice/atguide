@@ -13,20 +13,27 @@ Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
-Battery: 700 mAh
+Battery: About 30 hours on Bluetooth, up to 100 on USB; about 2-hour charge; not user-replaceable
 Display or braille cells: 18 cells
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $1,695 (AccessWorld, July 2010)
 Used price today (eBay): Not documented
 
 Physical Description:
 130 x 90 x 25 mm, 310 g.
 
+Detailed Description:
+The Refreshabraille 18 is APH's 18-cell Bluetooth braille display and keyboard. Its footprint is about the size of an index card, roughly 3 by 5 inches, and it weighs about 11 ounces. It is housed in a sturdy metal case.
+Hold it with the display furthest from you. There are 18 eight-dot piezoelectric cells, with a cursor-routing button below each. Below those are three evenly spaced rectangular buttons.
+Next is a straight row of six braille keys. Centered below them, where a spacebar might be, is a round joystick, and directly below that is the spacebar itself. On either side of the spacebar is a key for dot 7 or dot 8. Because the unit is narrow, these sit below the other keys and are pressed with the thumbs.
+The power button is centered on the front edge, flush with the case, so the outline stays smooth.
+The mini-USB port is in a cut-out on the bottom, so a plugged-in cable lies under the display, protected.
+
 Features:
 Not documented
 
 History:
-Not documented
+Deborah Kendrick reviewed it for AccessWorld in July 2010. It works as both a braille display and a braille keyboard. It shipped with a USB cable, a CD of documentation and drivers, and quick-start sheets in print and braille, but no AC adapter. When powered off, all dots stand up; a press of about two seconds on Power vibrates it and shows APH and the serial number.
 
 Ports:
 Bluetooth 1.2, mini-USB
@@ -39,5 +46,6 @@ Not documented
 
 Sources:
 Source 1: https://www.aph.org
+Source 2: https://afb.org/aw/11/3/16054
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

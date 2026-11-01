@@ -13,7 +13,7 @@ Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
-Battery: 4.5 to 7 hours
+Battery: Non-removable 6,700 mAh lithium polymer, 4.5 hours; 3.5-hour charge
 Display or braille cells: 8-inch 1280x800, 2x to 30x, two 21 MP cameras
 Speech synthesizers available: Not documented
 Price at launch: $1,099 (2017)
@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 580 g.
 
+Detailed Description:
+The explorē 8 is an 8-inch handheld video magnifier from HumanWare. It is 8 inches wide, 6 inches tall and just under an inch thick, and weighs 580 grams, about 1.3 pounds. It has a rubberized grip.
+The front is almost entirely an 8-inch touchscreen. Below it is a control panel with three large physical buttons: Zoom minus on the left, a contrast or color button in the middle, and Zoom plus on the right. The zoom buttons change magnification in half steps, or continuously when held.
+The left side has, from the top, the power button, an HDMI port for a TV and a USB-C port for charging and a computer. On the top edge, at the right, is a capture button: a press freezes the image, and a long press saves it.
+On the back, at the top center, are two cameras, one for close-up reading and one for distance, flanked by two rows of three LED lights.
+Along the bottom of the back is a solid alloy folding stand the full width of the device. Opened, it tilts the screen about 30 degrees toward you on a table and switches to the close-up camera.
+
 Features:
 Not documented
 
 History:
-Not documented
+Its two 21-megapixel cameras cover close work from 8.5 to 15 cm and distance from 15 cm to infinity. It offers 17 color schemes and auto-shutoff after 1, 2, 5 or 10 minutes. Its LED lights turn off when it is lifted. It is for low vision, with no speech output.
 
 Ports:
 Not documented
@@ -40,5 +47,7 @@ Not documented
 Sources:
 Source 1: https://store.humanware.com
 Source 2: https://afb.org/aw/18/9/15172
+Source 3: https://www.avh.asso.fr/implantations/certam/evaluations-de-produits/loupe-electronique-portable-explore-8-dhumanware
+Source 4: https://www.maxiaids.com/product/humanware-explore-8-inch-handheld-electronic-video-magnifier
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

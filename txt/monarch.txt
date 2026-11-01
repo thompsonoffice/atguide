@@ -1,19 +1,19 @@
 Monarch
 Company: American Printing House for the Blind (APH)
 Category: Braille Displays
-Released: 2024
+Released: Shipping from September 17, 2024
 
 Overview:
 An APH/HumanWare dynamic tactile device with 10 lines of 32 cells for braille and graphics, using Dot cells. Named one of TIME's Best Inventions of 2025.
 
 Specs:
-Released: 2024
+Released: Shipping from September 17, 2024
 Processor: Quad-core 64-bit Cortex-A55 at 2.0 GHz
 Memory (RAM): 4 GB LPDDR4
 Storage: 128 GB
 Operating system: Android with KeySoft
 Default speech synthesizer: Not documented
-Battery: 8 hours expected; reported as exceeding that
+Battery: Over 24 hours (APH); 8 hours planned in the early spec sheet
 Display or braille cells: 3,840 pins (10 lines x 32 cells)
 Speech synthesizers available: Not documented
 Price at launch: Not documented
@@ -22,13 +22,20 @@ Used price today (eBay): Not documented
 Physical Description:
 403.5 x 266.5 x 35.5 mm (15.89 x 10.49 x 1.40 in), 2.1 kg (4.65 lb).
 
+Detailed Description:
+The Monarch is a multi-line braille and tactile graphics device from APH and HumanWare. It is about the size of a 15-inch gaming laptop: 15.9 inches wide, 10.5 inches deep and 1.4 inches high, weighing about 4.65 pounds (2.1 kilograms). The NFB calls it a workstation rather than a portable note-taker. It ships in a protective bubble sleeve with a hard carrying case.
+Most of the top is the tactile surface: a continuous grid of 96 by 40 evenly spaced pins, 3,840 in all. It shows ten lines of 32 braille cells, or a raised picture across the whole surface. Because the pins are evenly spaced, line spacing can be widened for beginning readers. A user-replaceable membrane protects it from dust and spills.
+Nearest you is an eight-key Perkins-style braille keyboard. APH lists up and down arrows, direction pads, Android navigation keys and controls for paging and zooming. Infrared sensors detect touch gestures on the surface, and a vibration motor gives haptic feedback.
+For connections, it has a USB-C port, a USB-A port, an HDMI port that shows a sighted teacher or classmate what is on the display, and an audio jack. It also has a microphone, stereo speakers, Wi-Fi and Bluetooth.
+When the display refreshes, many pins move at once with an audible clatter, and you must lift your hands for it to refresh correctly. A double press of the refresh button redraws it.
+
 Features:
 Touch sensing (Neonode IR sensor)
 Over 250 braille tables
 KeySoft applications
 
 History:
-Not documented
+APH partnered with HumanWare just over four years before launch; HumanWare designed the display around the braille cell from the South Korean company Dot, and the NFB took part in development. APH began shipping it to students on September 17, 2024. Apps include KeyWord, a braille editor for BRF and eBRF files, the Tactile Viewer linked to APH's Tactile Graphics Image Library of over two thousand graphics, KeyMath, a graphing calculator built with Desmos, and Victor Reader for Bookshare and NFB-NEWSLINE. It carries a two-year warranty and is available with federal quota funds. The NFB's reviewer noted you must lift your hands as it refreshes, and that refreshing is noisy.
 
 Ports:
 USB-C 3.0, USB-A 3.0, HDMI 2.0, Wi-Fi 802.11ac, Bluetooth 5.1, audio jack
@@ -43,5 +50,9 @@ Not documented
 
 Sources:
 Source 1: https://www.humanware.com/wp-content/uploads/Monarch-Technical-Specification-Document.pdf
+Source 2: https://www.aph.org/product/monarch/
+Source 3: https://nfb.org/resources/publications-and-media/access-on-podcast/hands-monarch-dynamic-tactile-multi-line-braille
+Source 4: https://nfb.org/images/nfb/publications/fr/fr43/4/fr430409.htm
+Source 5: https://www.aph.org/blog/making-the-monarch-a-revolutionary-device-for-all/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

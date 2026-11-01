@@ -10,7 +10,7 @@ Products:
 Blindows (Screen Readers, 1997)
 COBRA (Screen Readers, November 2008 (version 8))
 BAUM Pronto! 18 V3 (Notetakers, 2014)
-BAUM VarioUltra (Braille Displays, 2014)
+BAUM VarioUltra (Braille Displays, 2014 (NFB overview published February 2, 2015))
 
 Operating System and Software Histories:
 Not documented
