@@ -5,7 +5,7 @@ This folder holds one plain text file for every entry in ATGuide: each device, b
 There is one folder per company. Each folder starts with an About file for the company, then its version histories, then its products in alphabetical order.
 Each entry file has a header, then sections separated by blank lines in this order: Overview, Specs, Physical Description, Features, History, Ports, Operating System, System Requirements, Sources. Facts that could not be found in a source read Not documented.
 
-Totals: 84 companies, 324 devices, software and voices, 28 version histories, 437 files including this README.
+Totals: 84 companies, 325 devices, software and voices, 28 version histories, 438 files including this README.
 
 Index by company:
 
@@ -438,7 +438,7 @@ Meta (Ray-Ban Meta) (2 files):
 Meta (Ray-Ban Meta)/About Meta (Ray-Ban Meta).txt
 Meta (Ray-Ban Meta)/Ray-Ban Meta glasses (Be My Eyes).txt
 
-Microsoft (14 files):
+Microsoft (15 files):
 Microsoft/About Microsoft.txt
 Microsoft/Windows CE - Windows Mobile (on notetakers and PDAs) (version history).txt
 Microsoft/Narrator versions (version history).txt
@@ -450,6 +450,7 @@ Microsoft/Microsoft Mark.txt
 Microsoft/Microsoft Mary.txt
 Microsoft/Microsoft Mike.txt
 Microsoft/Microsoft Narrator.txt
+Microsoft/Microsoft Narrator natural voices (Aria, Jenny, Guy).txt
 Microsoft/Microsoft Sam.txt
 Microsoft/Microsoft Screen Reader (requested entry).txt
 Microsoft/Microsoft Zira.txt

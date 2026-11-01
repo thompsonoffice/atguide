@@ -1,7 +1,7 @@
 Microsoft
 Type: Company profile
 Founded: 1975
-Products listed: 11
+Products listed: 12
 
 History:
 Narrator shipped with Windows 2000 on February 17, 2000. Default voices: Microsoft Sam (Windows 2000 and XP), Anna (Vista and 7), and David, Zira and Hazel (Windows 8). Narrator gained braille support in 2017.
@@ -17,6 +17,7 @@ Microsoft Hazel (TTS Voices, Windows 8 to present)
 Microsoft Zira (TTS Voices, Windows 8 to present)
 Microsoft George (TTS Voices, 2015 (Windows 10 OneCore voice))
 Microsoft Mark (TTS Voices, 2015 (Windows 10))
+Microsoft Narrator natural voices (Aria, Jenny, Guy) (TTS Voices, January 27, 2022 (Windows 11 Insider Preview Build 22543); general release in Windows 11 version 22H2)
 Microsoft Screen Reader (requested entry) (Screen Readers, Not documented)
 
 Operating System and Software Histories:

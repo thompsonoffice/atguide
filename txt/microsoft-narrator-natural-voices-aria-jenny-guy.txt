@@ -1,0 +1,40 @@
+Microsoft Narrator natural voices (Aria, Jenny, Guy)
+Company: Microsoft
+Category: TTS Voices
+Released: January 27, 2022 (Windows 11 Insider Preview Build 22543); general release in Windows 11 version 22H2
+
+Overview:
+Microsoft's neural ('natural') voices for Narrator. They are modern on-device text-to-speech voices that work offline once downloaded.
+
+Specs:
+Maker: Microsoft
+First released: January 27, 2022 (Windows 11 Insider Preview Build 22543); general release in Windows 11 version 22H2
+Synthesis type: Neural, on-device
+Platforms: Windows 11 version 22H2 and later (Narrator)
+Default on or shipped with: Optional; downloaded from Narrator settings
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Microsoft announced the voices in Windows 11 Insider Preview Build 22543 on January 27, 2022, starting with two US English female voices, Aria and Jenny. A male US English voice, Guy, was added later, and all three are available in Windows 11 version 22H2 and later. Each is installed separately from Narrator Settings > Add natural voices. They follow Microsoft's earlier voices: Sam, Mike and Mary (SAPI 4/5 era), Anna (Vista and 7), and David, Zira, Mark, Hazel and George (Windows 8 and 10).
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows 11 version 22H2 and later (Narrator)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://blogs.windows.com/windows-insider/2022/01/27/announcing-windows-11-insider-preview-build-22543/
+Source 2: https://support.microsoft.com/en-us/accessibility/windows/narrator/appendix-a-supported-languages-and-voices
+Source 3: https://blogs.windows.com/windowsexperience/2022/09/20/how-inclusion-drives-innovation-in-windows-11/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/
