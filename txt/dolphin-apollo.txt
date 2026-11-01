@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Dolphin built the Apollo hardware speech synthesizer as the voice for its Hal for DOS screen reader. Dolphin says the combination was available in more than 30 languages.
+Dolphin built the Apollo hardware speech synthesizer as the voice for its Hal for DOS screen reader. Dolphin says the combination was available in more than 30 languages.  Dolphin's 1998 Series 2 user guide says its synthesizers were developed alongside the Hal screen reader. The family offered more than forty languages, with up to seven in one synthesizer. The Apollo 2 was a mains-powered desktop unit with a built-in loudspeaker that connected to a PC's serial port with a non-standard Dolphin cable, and held up to four languages in replaceable ROMs. It was one of the few synthesizers with a British English voice. Its siblings were the PC 2 internal card and the Juno, a pocket-sized battery unit with about 10 hours of battery life. In 2026 the Dolphin Apollo II Reborn project on GitHub decompiled the Apollo 2 firmware into C.
 
 Ports:
 Not documented
@@ -40,5 +40,7 @@ Not documented
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Listofscreenreaders
 Source 2: https://www.prweb.com/releases/dolphincomputeraccesscelebratetheir30thanniversarylaunchinganaccessibleiosreadingappforblindlowvisiondyslexicreaders/prweb14405612.htm
+Source 3: https://archive.org/details/DolphinApollo2Manual
+Source 4: https://github.com/rommix0/dolphin-apollo-ii-reborn
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

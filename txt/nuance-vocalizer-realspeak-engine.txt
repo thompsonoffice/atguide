@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-Nuance assembled its speech portfolio through acquisitions, including Rhetorical (2004) and SVOX (2011). Vocalizer was the TTS in the 1st-generation Victor Reader Stream and the ClassMate Reader. JAWS 2026 includes Vocalizer Expressive voices.
+Nuance assembled its speech portfolio through acquisitions, including Rhetorical (2004) and SVOX (2011). Vocalizer was the TTS in the 1st-generation Victor Reader Stream and the ClassMate Reader. JAWS 2026 includes Vocalizer Expressive voices.  The company behind it began as Visioneer (1992), which bought ScanSoft from Xerox in 1999 and took its name. ScanSoft entered speech technology by buying Lernout & Hauspie's assets in December 2001 and SpeechWorks in 2003, then merged with Nuance in late 2005 and adopted the Nuance name. Nuance's automotive division was spun off as Cerence in October 2019.
 
 Ports:
 Not applicable (software)
@@ -37,5 +37,7 @@ Sources:
 Source 1: http://truegryc.blogspot.com/2011/06/nuance-corporate-acquisition-history.html
 Source 2: https://jctnpedia.fandom.com/wiki/Text-to-SpeechDownloadablesList
 Source 3: https://www.avh.asso.fr/implantations/certam/evaluations-de-produits/jaws-version-2026
+Source 4: https://en.wikipedia.org/wiki/NuanceCommunications
+Source 5: https://en.wikipedia.org/wiki/Cerence
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

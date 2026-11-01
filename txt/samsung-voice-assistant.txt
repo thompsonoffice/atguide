@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-It coexisted with TalkBack for years. Samsung discontinued it with One UI 3.0 (Android 11), when an agreement made Samsung's TalkBack build the only built-in reader. That build launched with bugs and initially lacked a braille keyboard.
+It coexisted with TalkBack for years. Samsung discontinued it with One UI 3.0 (Android 11), when an agreement made Samsung's TalkBack build the only built-in reader. That build launched with bugs and initially lacked a braille keyboard.  Accessible Android notes that Samsung's interface supported multi-finger screen reader gestures in Voice Assistant long before Android itself did. Android added official multi-finger gestures in Android 11, when Samsung's TalkBack replaced Voice Assistant; Google's own TalkBack didn't get them on Samsung phones until Android 12.
 Successors: TalkBack (Google, October 2009 (Android 1.6 Donut) to present)
 
 Ports:
