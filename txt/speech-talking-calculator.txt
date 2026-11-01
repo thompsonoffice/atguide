@@ -50,5 +50,7 @@ Source 2: http://www.vintagecalculators.com/html/speech-.html
 Source 3: https://interfacemuseum.com/exhibits/tsi-speech-plus/
 Source 4: http://www.vintagecalculators.com/html/calculatorsfortheblind.html
 Source 5: https://sites.aph.org/museum-virtual-exhibit/vex3/955E229A-FC96-4E21-ACFE-954356102956.htm
+Source 6: https://www.calculator.org/calculators/TSISPEECHPLUS.html
+Source 7: https://www.computerhistory.org/collections/catalog/102662875
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -16,17 +16,24 @@ Default speech synthesizer: DoubleTalk speech
 Battery: Not documented
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $1,140 for the upgraded model (APH 1-07320-01, 2004); listed at $1,249 in 2006, then discounted to $800 for the next 400 units
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
 
+Detailed Description:
+The Braille 'n Speak Scholar is a student version of Blazie's Braille 'n Speak pocket notetaker, sold through the American Printing House for the Blind (APH) in partnership with Freedom Scientific. APH recommended it for ages 8 and up and described it as an entry-level notetaker, with a simpler interface for first-time users.
+Like the Braille 'n Speak it is based on, the Scholar has no braille display. You type on a seven-key braille-style keyboard: six dot keys plus a space bar, laid out like a Perkins braillewriter. Everything is spoken back through a built-in speaker or an earphone. After the 2004 upgrade the voice was DoubleTalk speech.
+Built-in tools include a word processor with file organizing, a braille-to-print back translator for printing in braille or print, and a talking clock. There is also a countdown timer, a stopwatch, a phone directory, a calendar, an appointment book and a scientific graphing calculator.
+It connects to a PC through a serial cable. The cable has a 9-pin female plug at the PC end and an 8-pin mini-DIN plug at the Scholar end, so the port on the unit is a small round mini-DIN socket. APH sold parallel-printer and ImageWriter cables separately.
+In the box were a soft leather carrying case, a battery charger/AC adapter, an earphone, the serial cable, braille and print reference manuals, a cassette tutorial with demos, a longer manual on CD-ROM, WinDisc and WinPrint software and a one-year warranty. APH product photos show students seated at a table, with their hands on the seven-key keyboard or listening through earphones.
+
 Features:
 Not documented
 
 History:
-APH listed it from spring 2000 until 2004 (APH catalog number 1-07309-01).
+APH listed it from spring 2000 until 2004 (APH catalog number 1-07309-01). In September 2004 APH sent its entire stock back to Freedom Scientific to upgrade it with higher-quality DoubleTalk speech, better PC formatting and printing and a better appointment book. The upgraded model got the new catalog number 1-07320-01 and a $1,140 price, and existing owners were offered an upgrade for about $425. In October 2006 APH cut the price from $1,249 to $800 for the next 400 units ordered.
 
 Ports:
 Not documented
@@ -40,5 +47,9 @@ Not documented
 Sources:
 Source 1: https://sites.aph.org/museum-virtual-exhibit/vex2/2AEEBF8E-D463-4207-AA5A-417408112058.htm
 Source 2: https://aphmuseum.org/record/braille-n-speak-scholar-3/
+Source 3: https://sites.aph.org/news/september-2004/
+Source 4: https://sites.aph.org/news/october-2006/
+Source 5: https://sites.aph.org/news/june-2007/
+Source 6: https://sites.aph.org/news/february-2007/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+HIMS (now Selvas BLV) lists the BrailleSense LX as a 2008 notetaker in its official product history, after the original BrailleSense (2004) and before the BrailleSense OnHand (2010). No spec sheet, manual or review of the LX turned up in this research, so its specifications stay undocumented.
 Predecessors: BrailleSense (Classic) (HIMS / Selvas BLV, 2004)
 
 Ports:
@@ -40,5 +40,6 @@ Not documented
 
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
+Source 2: https://selvasblv.com/product-history-grid/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

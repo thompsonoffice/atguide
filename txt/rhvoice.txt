@@ -9,7 +9,7 @@ A free, open-source speech synthesizer by Olga Yakovleva. It started with Russia
 Specs:
 Maker: Olga Yakovleva (RHVoice)
 First released: Source copyright from 2010; public NVDA driver 0.2.7 on April 29, 2012
-Synthesis type: Not documented
+Synthesis type: Statistical parametric (HMM-based, built on HTS)
 Platforms: NVDA (Windows), SAPI 5, Android, Linux (speech-dispatcher)
 Default on or shipped with: Not default on any major platform
 Price: Not documented
@@ -37,5 +37,6 @@ Source 1: https://lists.libreplanet.org/archive/html/speechd-discuss/2012-02/msg
 Source 2: https://rhvoice.software.informer.com/download/
 Source 3: https://github.com/Olga-Yakovleva/RHVoice/blob/master/CMakeLists.txt
 Source 4: https://libraries.io/pypi/RHVoice
+Source 5: https://github.com/RHVoice/RHVoice
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
