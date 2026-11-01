@@ -13,20 +13,27 @@ Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
-Battery: About 20 hours
+Battery: About 20 hours on Bluetooth
 Display or braille cells: 40 cells
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $2,995 (AccessWorld 2018)
 Used price today (eBay): Not documented
 
 Physical Description:
 368 x 78 x 19 mm, 565 g.
 
+Detailed Description:
+The Focus 40 Blue 5th Generation is a 40-cell braille display from Freedom Scientific (VFO). The 5th generation is made of solid aluminum, with rubber bumpers on each side to absorb drops, which make it slightly longer than the 4th generation.
+With the front controls nearest you, the front edge holds, from left to right: Left Panning button, Left Rocker bar, Left Selector, Left Shift, Right Shift, Right Selector, Right Rocker bar and Right Panning button. This is the same layout as the 4th generation.
+On the left side, behind the left bumper and almost against it, is a microSD slot, then the Power button, with the USB-C port furthest back. The right side has nothing but the right bumper.
+On top, closest to you, is a pronounced space bar. Behind it are the 40 braille cells, with a cursor-routing button behind each. At each end of the display is a Nav rocker bar with a Nav Mode button behind it.
+Behind the cells is an eight-dot Perkins keyboard, with a Menu button between dots 1 and 4; Menu is the only new surface control. It connects to five Bluetooth devices and one USB device, runs about 20 hours on Bluetooth, and comes with a case.
+
 Features:
 Not documented
 
 History:
-Not documented
+Reviewed by Scott Davert in AccessWorld in April 2018. He wrote that early Focus displays used a serial cable, had audio jacks and only three front controls, and were meant for desktops. The 5th generation added a rugged body and a well-designed case. At launch its microSD slot could not yet be used, and VFO promised a spring firmware update for reading and writing BRF files.
 Predecessors: Focus 44 / 70 / 84 (Freedom Scientific, 2004)
 
 Ports:
@@ -40,5 +47,6 @@ Not documented
 
 Sources:
 Source 1: https://www.freedomscientific.com
+Source 2: https://www.afb.org/aw/19/4/15103
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -13,20 +13,27 @@ Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
-Battery: Not documented
-Display or braille cells: 9 x 40 cells (360)
+Battery: None; mains power only
+Display or braille cells: 9 lines × 40 six-dot cells (360 cells)
 Speech synthesizers available: Not documented
-Price at launch: Under $2,900
+Price at launch: Under $2,900 (AccessWorld 2022)
 Used price today (eBay): Not documented
 
 Physical Description:
 37 x 19 x 4 cm, 2.8 kg.
 
+Detailed Description:
+The Canute 360 is a multi-line braille e-reader from Bristol Braille Technology. It shows nine lines of 40 six-dot cells at once. It is 14.5 inches long, 7.5 inches deep and 1.5 inches high, weighs 6 pounds, and is meant to sit on a table. The case is aluminum with a plastic reading surface.
+The nine lines are spaced further apart than in a braille book, like a double-spaced page. At the left end of each line is a braille line number and a triangular Line Select button. Above button 1 is a round Help button labeled H, and below button 9 is a square button labeled 0 for entering page numbers.
+The front edge has three large rectangular buttons, with braille labels above them on the top: Back, Menu and Forward.
+On the left side, from front to back, are an HDMI port that shows the braille on a monitor in a high-contrast braille font, and a 3.5 mm audio jack not yet used. About halfway back, at the very bottom of that side, is an SD card slot. Further back are two USB-A ports and a USB-B port for computers.
+The back is mostly smooth. At its far right end is the power socket, with a spring-loaded on/off button just to its right. The right side has nothing. There is no battery, so it must be plugged in. It takes about a minute to start, refreshing the lines one at a time, and ticks quietly while idle.
+
 Features:
 Not documented
 
 History:
-Not documented
+Made by Bristol Braille Technology, a UK not-for-profit founded in 2011. After fourteen prototypes, the Canute 360 began shipping in 2020. Founder Ed Rogers named it after King Canute the Great, who was infamous for trying to hold back the ocean, because earlier multi-line displays had failed. AccessWorld noted that it takes about a minute to start and makes a quiet ticking sound while idle.
 
 Ports:
 Not documented
@@ -39,5 +46,6 @@ Not documented
 
 Sources:
 Source 1: https://bristolbraille.org
+Source 2: https://afb.org/aw/23/6/17972
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

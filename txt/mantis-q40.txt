@@ -10,23 +10,30 @@ Specs:
 Released: Shipping 2020
 Processor: Not documented
 Memory (RAM): Not documented
-Storage: 16 GB
+Storage: 16 GB internal; SD up to 64 GB; USB-A flash drives
 Operating system: Not documented
 Default speech synthesizer: Not documented
-Battery: Not documented
+Battery: 12 to 17 hours depending on Bluetooth and Wi-Fi use; about 1% per hour asleep
 Display or braille cells: 40 cells
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $2,495 (APH, AccessWorld 2020)
 Used price today (eBay): Not documented
 
 Physical Description:
 290 x 170 x 20 mm, 950 g.
 
+Detailed Description:
+The Mantis Q40 is a 40-cell braille display with a full laptop-style QWERTY keyboard instead of braille keys, made by HumanWare with APH. It cost $2,495 in 2020.
+With the display nearest you, the front edge has five thumb keys. From left to right they are Previous, Pan Left, Home (which also works as Escape), Pan Right and Next.
+Along the left side, nearest you, is a USB-A port for flash drives, then a small round Power button, then the USB-C port for charging and connecting. Hold Power about two seconds to start; it takes about 15 seconds to boot, and a brief press puts it to sleep or wakes it. The back edge has an SD card slot.
+On top, closest to you, are the 40 braille cells, each with a cursor-routing button behind it. Behind those is the QWERTY keyboard, laid out like a laptop without a number pad.
+The bottom key row, from left to right, is Control, FN, Windows, Left Alt, Space, Right Alt, Right Control, then Left, Down and Right arrows, with Up slightly above Down. On a Mac or iOS device the left keys act as Control, FN, Option and Command. It has 16 GB of storage and downloads from Bookshare and NFB-NEWSLINE.
+
 Features:
 Not documented
 
 History:
-Not documented
+A collaboration between APH and HumanWare. Scott Davert reviewed it for AccessWorld in July 2020. He reported one crash before firmware 1.01 and none after it. He noted that switching devices meant pressing Home to leave the current connection, that updates could require re-pairing Bluetooth, and that start-up took about 15 seconds. He found the braille spongy, much like the BrailleNote Touch.
 
 Ports:
 Bluetooth 4.2, Wi-Fi, 5 Bluetooth plus 1 USB connections
@@ -39,5 +46,7 @@ Not documented
 
 Sources:
 Source 1: https://www.aph.org
+Source 2: https://afb.org/aw/21/8/17143
+Source 3: https://afb.org/aw/22/1/17349
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

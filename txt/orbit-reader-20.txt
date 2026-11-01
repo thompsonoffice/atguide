@@ -10,23 +10,30 @@ Specs:
 Released: Announced March 2016, shipped 2017
 Processor: Not documented
 Memory (RAM): Not documented
-Storage: Not documented
+Storage: SD card (supplied inserted)
 Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: Not documented
-Display or braille cells: 20 cells
+Display or braille cells: 20 cells, refreshed cell by cell
 Speech synthesizers available: Not documented
-Price at launch: $449
+Price at launch: $449 (APH, AccessWorld 2018)
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
 
+Detailed Description:
+The Orbit Reader 20 is a low-cost 20-cell braille display and book reader from Orbit Research, sold in the US by APH. AccessWorld measured it at about 6 inches wide, 4 inches deep and just over 1 inch high.
+With the braille display toward you, the 20 cells run along the front. At each end is a panning button that rocks up or down. Orientation dots sit above cells 5, 10 and 15. Behind the display, from left to right, are Dot 7, the space bar and Dot 8.
+Directly behind the space bar are four arrow keys around a round Select button. Behind them is the six-key Perkins-style keyboard, with oval keys set straight across from each other.
+On the back edge, from left to right, are the power button, an SD card slot with a card already inserted, and a Micro USB connector for charging and USB connection. On the front are two holes, one on each side, for a strap or lanyard, which is not supplied.
+On the underside are many screws, four rubber feet and a plastic battery door held by two screws. It has no cursor-routing buttons. In standalone mode it offers a file manager, reader and editor; in remote mode it is a display for computers, phones and tablets over USB or Bluetooth.
+
 Features:
 Not documented
 
 History:
-Not documented
+Scott Davert's AccessWorld review (2018) credits Orbit Research and the Transforming Braille Group with holding the price to $449, distributed in the US by APH. It reaches that price by refreshing the cells one at a time rather than all at once. That causes a slight delay with external devices but almost none in the built-in reader, and the refresh is a bit noisy, 'no worse than a rather loud laptop.' The reader handles plain text and digital braille files only, and no case is included; Executive Products sold one for $78.95.
 Successors: Orbit Reader 40 (Orbit Research, Announced March 11, 2020 (CSUN))
 
 Ports:
@@ -41,5 +48,6 @@ Not documented
 Sources:
 Source 1: https://www.orbitresearch.com
 Source 2: https://www.aph.org
+Source 3: https://afb.org/aw/19/1/15167
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

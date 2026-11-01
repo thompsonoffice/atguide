@@ -13,20 +13,27 @@ Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
-Battery: Not documented
+Battery: About 20 hours on Bluetooth
 Display or braille cells: 14 cells
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $1,295 (AccessWorld 2018)
 Used price today (eBay): Not documented
 
 Physical Description:
 195 x 78 x 19 mm, 283 g.
 
+Detailed Description:
+The Focus 14 Blue 5th Generation is a 14-cell braille display from Freedom Scientific (VFO). The 5th generation is made of solid aluminum, with rubber bumpers on each side to absorb drops, which make it slightly longer than the 4th generation.
+With the front controls nearest you, the front edge holds, from left to right: Left Selector, Left Rocker bar, Left Panning button, Left Shift, Right Shift, Right Panning button, Right Rocker bar and Right Selector. This order differs from the Focus 40.
+On the left side, behind the left bumper, is a microSD slot, then the Power button, with the USB-C port furthest back. The right side has only the right bumper.
+On top, closest to you, is the space bar. Behind it are the 14 braille cells with cursor-routing buttons behind them, and a Nav rocker bar with a Nav Mode button at each end.
+Behind the cells is an eight-dot Perkins keyboard with a Menu button between dots 1 and 4. It runs about 20 hours on Bluetooth, connects to five Bluetooth devices plus USB, and cost $1,295 in 2018.
+
 Features:
 Not documented
 
 History:
-Not documented
+Reviewed alongside the Focus 40 in AccessWorld (April 2018). Davert noted that the 4th-generation 14-cell display had been hard to get into its case, and that the new case fixed this.
 
 Ports:
 Not documented
@@ -40,5 +47,6 @@ Not documented
 Sources:
 Source 1: https://www.freedomscientific.com
 Source 2: https://vispero.com/news/freedom-scientific-introduces-a-new-generation-of-the-focus-14-blue-braille-display/
+Source 3: https://www.afb.org/aw/19/4/15103
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 3.66 x 7.16 x 0.9 in, 400 g.
 
+Detailed Description:
+The Chameleon 20 is a 20-cell braille display and notetaker from APH. It measures roughly 3.5 by 7 by 1 inches and weighs about a pound.
+The front edge has four thumb keys with a Home button in the middle. The outer two go to the previous and next item, the inner two pan the display left and right, and Home returns to the menu from any app.
+The left edge has, from front to back, a standard USB-A port for flash drives, the power button and a USB-C port for charging or connecting. The only thing on the back edge is an SD card slot near the left. The right edge has two volume buttons and an audio jack.
+On top, two space bars run along the front edge, with the 20 braille cells behind them and a cursor-routing key behind each cell. Near the back is the eight-key Perkins-style keyboard.
+When it is charging while off, the display shows 'Charging' and then 'Charge Complete.' Hold the power button a few seconds to start; 'Starting' appears with two dots spinning as a progress indicator. Enter+P reports the battery, Enter+T the time and Enter+D the date.
+
 Features:
 Not documented
 
 History:
-Not documented
+APH's Chameleon 20 runs HumanWare-style software. NFB's review noted that the thumb keys 'operate exactly the same' as on HumanWare devices. At the time of the review its volume buttons and audio jack were not yet usable; APH planned full text-to-speech and audio playback later. Apps include an Editor, Terminal, Library, Calculator, File Manager, Date and Time, Settings and Online Services for Bookshare and NFB-NEWSLINE.
 
 Ports:
 USB-C, SD
@@ -39,5 +46,6 @@ Not documented
 
 Sources:
 Source 1: https://www.aph.org
+Source 2: https://nfb.org/blog/tech-review-chameleon-20-braille-display-aph
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
