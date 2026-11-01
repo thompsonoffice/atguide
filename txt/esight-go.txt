@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+In 2022, eSight partnered with Gentex Corporation of Zeeland, Michigan, to develop its next device, eSight Go. Gentex acquired eSight's assets in 2023, which was first announced in January 2024. eSight Go, the fifth generation, came out in 2024.
 Predecessors: eSight 4 (eSight, 2020)
 
 Ports:
@@ -53,5 +53,6 @@ Source 4: https://www.esighteyewear.com/esight-go-landing-page/
 Source 5: https://www.esighteyewear.com/wp-content/uploads/2024/06/eSight-User-Manual-10.pdf
 Source 6: https://www.forbes.com/sites/gusalexiou/2024/01/26/what-gentexs-acquisition-of-esight-means-for-the-low-vision-eyewear-market/
 Source 7: https://www.esighteyewear.com/wp-content/uploads/2024/08/eSight-Go-User-Manual72424.pdf
+Source 8: https://en.wikipedia.org/wiki/ESight
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

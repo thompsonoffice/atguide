@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+OrCam introduced the MyEye 2.0 in December 2017. It was a battery-powered unit about the size of a finger, weighing 22.5 grams (0.8 ounce), that snaps magnetically onto any eyeglass frame. A basic version read text, and an advanced version added face recognition and barcode reading. Wikipedia gave its price in July 2023 as $4,000 to $6,000.
 Predecessors: OrCam MyEye (1st generation) (OrCam Technologies, 2015)
 Successors: OrCam MyEye 3 Pro (OrCam Technologies, 2024)
 
@@ -50,5 +50,6 @@ Sources:
 Source 1: https://www.orcam.com
 Source 2: https://afb.org/aw/19/8/15066
 Source 3: https://device.report/m/b0a794314e8928ae68d7e03019e300fdd0654aaf7f7bf054c6a0d2fe3a840004.pdf
+Source 4: https://en.wikipedia.org/wiki/OrCamdevice
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

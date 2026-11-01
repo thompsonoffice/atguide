@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+eSight 3 came out in February 2017. In May 2017, Time magazine put eSight on its list of "The Best Tech of 2017 So Far."
 Predecessors: eSight 2 (eSight, May 2015)
 Successors: eSight 4 (eSight, 2020)
 
@@ -53,5 +53,6 @@ Source 3: https://displaydaily.com/the-esight-3-headset-offers-help-to-the-visio
 Source 4: https://www.usatoday.com/story/tech/columnist/2017/02/15/high-tech-glasses-helping-blind-people-see/97960470/
 Source 5: https://esighteyewear.com/wp-content/uploads/2020/03/eSight-3-User-Guide-4000338-Rev-G-EN.pdf
 Source 6: https://www.manualslib.com/manual/1643221/Esight-3.html
+Source 7: https://en.wikipedia.org/wiki/ESight
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

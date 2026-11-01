@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+eSight 4 came out in early 2020, the fourth generation of the headset from the company Conrad Lewis founded in 2006.
 Predecessors: eSight 3 (eSight, February 2017)
 Successors: eSight Go (eSight, Announced January 3, 2023 (CES); commercial availability 2024)
 
@@ -51,5 +51,6 @@ Source 1: https://esighteyewear.com
 Source 2: https://afb.org/aw/21/11/17299
 Source 3: https://www.visionaid.co.uk/esight-4
 Source 4: https://esighteyewear.com/wp-content/uploads/2021/08/eSight-4-Technical-Specifications.pdf
+Source 5: https://en.wikipedia.org/wiki/ESight
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -34,7 +34,7 @@ Features:
 Six color modes
 
 History:
-Not documented
+eSight was founded in 2006 by Conrad Lewis, a Canadian electrical engineer with two legally blind sisters. He wanted a device that would let them see, work and handle daily activities on their own. Wikipedia lists the first-generation headset among products introduced in 2013.
 Successors: eSight 2 (eSight, May 2015)
 
 Ports:

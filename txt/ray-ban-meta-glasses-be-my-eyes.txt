@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Meta and Ray-Ban launched Ray-Ban Stories in September 2021 and announced the second-generation Ray-Ban Meta on September 27, 2023, with 12-megapixel cameras and Meta AI. In April 2024, Meta AI on the glasses gained camera-based visual input. On November 13, 2024, Be My Eyes became available on them, first in the US, Canada, UK, Ireland and Australia: saying "Hey Meta, Be My Eyes" connects you to a sighted volunteer who sees through the glasses' camera and talks to you through the open-ear speakers.
 
 Ports:
 Not documented
@@ -50,5 +50,6 @@ Source 2: https://www.meta.com/blog/ray-ban-meta-glasses-collection-news-updates
 Source 3: https://www.applevis.com/forum/assistive-technology/comparison-all-new-smart-glasses-blind
 Source 4: https://www.ray-ban.com/usa/c/frequently-asked-questions-ray-ban-meta-smart-glasses
 Source 5: https://www.specifications.global/us/glasses-xr/Meta-RayBan-Wayfarer-Gen1-Standard-Large-RW4006-RW4008/
+Source 6: https://en.wikipedia.org/wiki/Metasmartglasses
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

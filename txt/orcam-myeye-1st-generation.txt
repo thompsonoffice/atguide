@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+OrCam was founded in Jerusalem in 2010 by Ziv Aviram and Amnon Shashua. In 2013, The New York Times described an employee with coloboma using a pre-release device. In 2016, a JAMA Ophthalmology study of 12 legally blind participants found the OrCam improved performance on reading tasks such as a newspaper article or a menu.
 Successors: OrCam MyEye 2 (OrCam Technologies, 2017)
 
 Ports:
@@ -48,5 +48,6 @@ Not documented
 Sources:
 Source 1: https://www.orcam.com
 Source 2: https://afb.org/aw/18/2/15244
+Source 3: https://en.wikipedia.org/wiki/OrCamdevice
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

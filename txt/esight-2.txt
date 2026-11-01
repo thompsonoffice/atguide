@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+eSight 2 came out in May 2015. Wikipedia says it upgraded the hardware with HD OLED screens, better color and resolution, and longer battery life.
 Predecessors: eSight (1st generation) (eSight, 2013)
 Successors: eSight 3 (eSight, February 2017)
 
