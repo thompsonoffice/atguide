@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+The BrailleSense 6 mini, which HIMS's product history dates to 2022, is the 20-cell companion to the 32-cell BrailleSense 6. Selvas BLV calls it a lightweight braille tablet and sells it for $3,995. It runs Android 12 on an eight-core processor with 6 GB of memory and 128 GB of storage. It has a Perkins-style keyboard, a 13-megapixel camera, Wi-Fi, Bluetooth 5.1, GPS, an FM radio and a user-replaceable 3,400 mAh battery. It measures 7.08 by 4.06 by 0.91 inches, weighs 0.95 pounds, and can send video to a monitor through USB-C.
 Predecessors: BrailleSense Polaris Mini (HIMS / Selvas BLV, 2018)
 
 Ports:
