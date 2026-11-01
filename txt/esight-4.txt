@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: Swappable, about 3 hours each
 Display or braille cells: 1280x960, 37.5 degrees; 18 MP camera
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 
 Physical Description:
 Not documented

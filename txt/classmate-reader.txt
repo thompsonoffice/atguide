@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: Nuance Vocalizer
 Battery: Lithium-ion 3.7 V, 2 Ah; 7 hours of DAISY playback
 Display or braille cells: 2 x 3 inch color LCD touchscreen
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 Voices: Nuance Vocalizer / RealSpeak (engine)
 
 Physical Description:

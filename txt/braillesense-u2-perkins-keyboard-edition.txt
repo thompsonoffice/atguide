@@ -15,7 +15,9 @@ Operating system: Windows CE 6.0
 Default speech synthesizer: Eloquence
 Battery: Removable lithium, about 17 hours
 Display or braille cells: 32 cells plus LCD
+Speech synthesizers available: Not documented
 Price at launch: 6,890 euros (France)
+Used price today (eBay): Not documented
 Voices: ETI-Eloquence (engine)
 
 Physical Description:

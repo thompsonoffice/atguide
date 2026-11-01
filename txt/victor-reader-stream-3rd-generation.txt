@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: Acapela; eSpeak NG added in firmware 1.7
 Battery: About 15 hours
 Display or braille cells: Not documented
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 Voices: Acapela voices; eSpeak NG
 
 Physical Description:

@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: Built-in Blazie speech
 Battery: Built-in rechargeable
 Display or braille cells: Not documented
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 
 Physical Description:
 About 4.1 x 4.1 x 0.9 inches (APH museum unit); sand-colored plastic case with seven braille keys.

@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: 320 mAh
 Display or braille cells: 13 MP camera
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 
 Physical Description:
 22.5 g; 76 x 21 x 14.9 mm.

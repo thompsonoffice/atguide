@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: About 6 hours (powered from the tethered phone)
 Display or braille cells: Binocular 1080p OLED displays, 43-degree field of view; 12 MP camera
+Speech synthesizers available: Not documented
 Price at launch: Pro 4 LV bundle (glasses, Samsung phone, case): $3,895 at a US retailer
+Used price today (eBay): Not documented
 
 Physical Description:
 102 g, tethered by USB-C.

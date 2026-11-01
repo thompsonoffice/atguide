@@ -15,7 +15,9 @@ Operating system: Windows Mobile 6
 Default speech synthesizer: Eloquence
 Battery: Over 20 hours
 Display or braille cells: Not documented
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 Voices: ETI-Eloquence (engine)
 
 Physical Description:

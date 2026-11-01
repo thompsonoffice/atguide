@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: 700 mAh
 Display or braille cells: 18 cells
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 
 Physical Description:
 130 x 90 x 25 mm, 310 g.

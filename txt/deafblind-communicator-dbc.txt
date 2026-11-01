@@ -4,21 +4,30 @@ Category: Other
 Released: December 2008
 
 Overview:
-A BrailleNote with special DB software plus a Bluetooth-linked DBC Companion phone, for face-to-face, TTY and text-message communication.
+A two-part communication system for deafblind people: a BrailleNote mPower running DeafBlind software, linked by Bluetooth to a DB-Phone, a Windows Mobile 6 cell phone with a screen and QWERTY keyboard. It supports face-to-face conversation with sighted people, TTY calls over a landline, and SMS text messages.
 
 Specs:
 Released: December 2008
-Processor: Not documented
-Memory (RAM): Not documented
+Processor: Intel XScale PXA272 at 416 MHz (BrailleNote mPower base unit)
+Memory (RAM): 64 MB RAM; 128 MB internal flash disk (BrailleNote mPower base unit)
 Storage: Not documented
-Operating system: Windows CE with KeySoft (BrailleNote base)
-Default speech synthesizer: Not documented
+Operating system: Windows CE with a condensed KeySoft (BrailleNote); Windows Mobile 6 (DB-Phone)
+Default speech synthesizer: Keynote Gold (BrailleNote mPower)
 Battery: Not documented
-Display or braille cells: 18 or 32 cells
-Price at launch: $6,195 (18-cell) or $7,995 (32-cell)
+Display or braille cells: 18 or 32 braille cells (BrailleNote); the DB-Phone has a visual screen
+Speech synthesizers available: Keynote Gold on the BrailleNote mPower. The DB-Phone also speaks its greeting; its voice is not documented.
+Price at launch: DBC BT32 or QT32: $7,995; DBC BT18 or QT18: $6,195; upgrade for existing mPower owners: $2,495 (December 2008)
+Used price today (eBay): No eBay listings for the DeafBlind Communicator were found.
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The DeafBlind Communicator (DBC) lets a person who is both deaf and blind hold conversations in braille. It is two devices that talk to each other over Bluetooth: a braille notetaker the deafblind person keeps, and a small cell phone they hand to a sighted, hearing person. Everything is controlled from the notetaker.
+The main unit is a BrailleNote mPower running DeafBlind software. It is a flat rectangular notetaker with either an eight-key Perkins-style braille keyboard (BT) or a typewriter QWERTY keyboard (QT), and an 18- or 32-cell refreshable braille display with touch cursors along the front edge. Inside are a 416 MHz Intel XScale processor, 64 MB of RAM and a 128 MB flash disk. Ports include USB, serial, infrared and SD and CompactFlash card slots.
+The companion is the DB-Phone, an off-the-shelf Windows Mobile 6 phone with a color screen and a full QWERTY thumb keyboard. It has a retractable security tether so the sighted person cannot walk away with it. When it is turned on it boots straight into the DBC software. It shows and speaks a greeting: 'Hi, I'm blind and I can't hear. To communicate with me, type a message on this keyboard and press (the return arrow).'
+In a face-to-face conversation, whatever the sighted person types on the phone appears in braille on the BrailleNote, and what the deafblind user types on the BrailleNote appears on the phone's screen. Plugged into a landline, the BrailleNote works as a TTY with an answering machine, directly or through a relay service. With a SIM card from a carrier in the DB-Phone, the user can send and receive SMS texts in braille. It can also chat with other DBC users and BrailleNote mPower users.
+The notetaker can stay in a simplified DeafBlind Communicator mode, or switch to the full BrailleNote software: word processor with spell checker, planner, email, web browser and book reader. Prices were $6,195 for 18 cells and $7,995 for 32 cells, with either keyboard and with the face-to-face phone included. Its exact size, weight and colors as a package are not documented separately from the mPower and the phone.
 
 Features:
 Face-to-face mode with the Companion phone
@@ -26,13 +35,13 @@ TTY with answering machine over a landline
 SMS and IM with a SIM card
 
 History:
-HumanWare began shipping it in December 2008, filling the gap left when the TeleBraille went out of production in 1993.
+HumanWare developed it with the Washington State Office of the Deaf and Hard of Hearing and began shipping it in December 2008. It filled a gap left when the TeleBraille went out of production in 1993. At launch, current BrailleNote mPower owners running KeySoft 7.5 could upgrade for $2,495; HumanWare sent the software and an authorization key on an SD card. Engadget covered it in June 2009. Users on the access-uk list later reported that HumanWare discontinued it when component parts became unavailable.
 
 Ports:
-Bluetooth link to the Companion phone; landline TTY connection
+BrailleNote mPower: Bluetooth, 2 USB host ports, mini-USB client, infrared, 9-pin serial, SD card, CompactFlash and PCMCIA slots, plus a landline connector for TTY. DB-Phone: Bluetooth and a SIM card slot for SMS.
 
 Operating System:
-Windows CE with KeySoft (BrailleNote base)
+Windows CE with a condensed KeySoft (BrailleNote); Windows Mobile 6 (DB-Phone)
 Operating system history: KeySoft
 
 System Requirements:
@@ -40,5 +49,10 @@ Not documented
 
 Sources:
 Source 1: http://www.nfbnet.org/pipermail/nfbcsnfbnet.org/2008-December/000128.html
+Source 2: https://nfb.org/deaf-blind-communication-technology
+Source 3: https://veterans.networkofcare.org/Columbia-pa/AssistiveDevices/ProductDetail?productId=113009
+Source 4: https://www.engadget.com/2009-06-08-deafblind-communicator-helps-deaf-blind-individuals-communicat.html
+Source 5: https://www.freelists.org/post/access-uk/DBC-DEAFBLIND-COMMUNICATION,4
+Source 6: https://web.archive.org/web/20110713025651/www.indigo-logix.com/web/index.php?id=24&option=comcontent&task=view
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

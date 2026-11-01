@@ -15,7 +15,9 @@ Operating system: Android 15
 Default speech synthesizer: Not documented
 Battery: 4,600 mAh removable plus secondary battery
 Display or braille cells: 20, 32 or 40 braille cells; visual LCD
+Speech synthesizers available: Not documented
 Price at launch: $5,295 (20-cell), $5,995 (32-cell), $6,495 (40-cell)
+Used price today (eBay): Not documented
 
 Physical Description:
 40-cell: 11.86 x 5.53 x 0.89 in, under 1.80 lb. 32-cell: 9.84 x 5.53 x 0.89 in, under 1.54 lb.

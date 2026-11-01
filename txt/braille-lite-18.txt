@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: DoubleTalk chip
 Battery: Not documented
 Display or braille cells: 18 braille cells
+Speech synthesizers available: Not documented
 Price at launch: Braille Lite 2000 (18 cells): $3,395 (2000)
+Used price today (eBay): Not documented
 
 Physical Description:
 Not documented

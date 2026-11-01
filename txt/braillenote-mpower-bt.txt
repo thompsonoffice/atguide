@@ -8,14 +8,16 @@ The second-generation full-size BrailleNote, with braille keyboard.
 
 Specs:
 Released: June 2005
-Processor: Intel XScale 416 MHz
-Memory (RAM): Not documented
+Processor: Intel XScale PXA272 at 416 MHz
+Memory (RAM): 64 MB RAM; 128 MB flash disk (DiskOnChip)
 Storage: 128 MB flash (DiskOnChip)
 Operating system: Windows CE with KeySoft 6.2 at launch
 Default speech synthesizer: Keynote Gold (Eloquence was not offered on mPower)
 Battery: Not documented
 Display or braille cells: 18 or 32 cells
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
@@ -44,5 +46,6 @@ Sources:
 Source 1: https://afb.org/aw/7/1/14531
 Source 2: http://therangerstation.blogspot.com/2008/05/press-release-humanware-releases.html
 Source 3: https://www.freelists.org/post/braillenote/keynote-gold-speech-thoughts,10
+Source 4: https://web.archive.org/web/20110713025651/www.indigo-logix.com/web/index.php?id=24&option=comcontent&task=view
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

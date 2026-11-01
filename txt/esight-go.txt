@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: About 180 minutes
 Display or braille cells: Dual full-HD 1920x1080 OLED screens, 45-degree field of view, up to 2,000 nits; 12 MP camera, up to 24x zoom
+Speech synthesizers available: Not documented
 Price at launch: $4,950 USD / $6,600 CAD (MSRP)
+Used price today (eBay): Not documented
 
 Physical Description:
 170 g glasses-style device with a neck battery pack.

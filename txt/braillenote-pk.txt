@@ -15,7 +15,9 @@ Operating system: Windows CE with KeySoft
 Default speech synthesizer: Keynote Gold
 Battery: Not documented
 Display or braille cells: 18 cells
+Speech synthesizers available: Not documented
 Price at launch: $4,995 (2005)
+Used price today (eBay): Not documented
 
 Physical Description:
 About 7 x 4 x 2 in, about 1 lb.

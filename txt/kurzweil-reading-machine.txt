@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: Votrax (first generation)
 Battery: Not documented
 Display or braille cells: Not documented
+Speech synthesizers available: Not documented
 Price at launch: $30,000 to $50,000
+Used price today (eBay): Not documented
 Voices: Votrax SC-01 phoneme voice
 
 Physical Description:

@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: DoubleTalk
 Battery: 2 AA batteries
 Display or braille cells: Not documented
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 
 Physical Description:
 4 x 2.25 x 1 in, 6 oz with batteries. An 18-key keypad: a telephone keypad with a nib on 5, plus keys A to F. Headphone jack and USB port on top, card slot on the right, battery compartment and belt clip on the back.

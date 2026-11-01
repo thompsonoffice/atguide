@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: Built-in synthesizer (emulates a Braille 'n Speak)
 Battery: Not documented
 Display or braille cells: 34 cells per line, 27 lines per page; 15 characters per second
+Speech synthesizers available: Not documented
 Price at launch: About $1,700 (1990); $1,695 (1994)
+Used price today (eBay): Not documented
 
 Physical Description:
 About 12 to 14 lb; 14.75 x 9.5 x 5 in (1994 NFB evaluation). Paper up to 8.5 in wide, tractor feed.

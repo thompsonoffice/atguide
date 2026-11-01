@@ -15,7 +15,9 @@ Operating system: Android 8.1 Oreo with KeySoft
 Default speech synthesizer: Acapela (default, up to four voices); Android TTS engines such as Vocalizer and CereProc can be added
 Battery: Not documented
 Display or braille cells: 18 or 32 cells
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 
 Physical Description:
 Not documented

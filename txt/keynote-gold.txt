@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: Not documented
 Display or braille cells: Not documented
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 Synthesis type: LPC (linear predictive coding)
 Shipped with or used by: BrailleNote Classic (BT/QT)
 

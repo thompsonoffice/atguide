@@ -15,7 +15,9 @@ Operating system: Android with KeySoft
 Default speech synthesizer: Not documented
 Battery: 8 hours expected; reported as exceeding that
 Display or braille cells: 3,840 pins (10 lines x 32 cells)
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 
 Physical Description:
 403.5 x 266.5 x 35.5 mm (15.89 x 10.49 x 1.40 in), 2.1 kg (4.65 lb).

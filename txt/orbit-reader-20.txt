@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: Not documented
 Display or braille cells: 20 cells
+Speech synthesizers available: Not documented
 Price at launch: $449
+Used price today (eBay): Not documented
 
 Physical Description:
 Not documented

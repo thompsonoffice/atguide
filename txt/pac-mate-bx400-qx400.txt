@@ -15,7 +15,9 @@ Operating system: Windows CE.NET 4.2 / Pocket PC 2003
 Default speech synthesizer: Eloquence
 Battery: 4,320 mAh
 Display or braille cells: Not documented
+Speech synthesizers available: Not documented
 Price at launch: BX/QX400 $2,395; 420 (20 cells) $3,795; 440 (40 cells) $5,595
+Used price today (eBay): Not documented
 Voices: ETI-Eloquence (engine)
 
 Physical Description:

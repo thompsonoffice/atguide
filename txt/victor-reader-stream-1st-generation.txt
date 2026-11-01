@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: Nuance Vocalizer
 Battery: About 15 hours of playback
 Display or braille cells: Not documented
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 Voices: Nuance Vocalizer / RealSpeak (engine)
 
 Physical Description:

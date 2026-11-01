@@ -15,7 +15,9 @@ Operating system: Linux on Raspberry Pi CM4; custom Traditional mode plus a MATE
 Default speech synthesizer: Not documented
 Battery: 8,200 mAh, about 10 hours
 Display or braille cells: Not documented
+Speech synthesizers available: Not documented
 Price at launch: $795 (BT Speak), $1,195 (Pro)
+Used price today (eBay): Not documented
 
 Physical Description:
 Pro: 6.1 x 2.8 x 0.75 in, 240.9 g, 9-key Perkins-style keyboard.

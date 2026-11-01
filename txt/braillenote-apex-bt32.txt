@@ -15,7 +15,9 @@ Operating system: Windows CE 6 with KeySoft
 Default speech synthesizer: Eloquence (default), Keynote Gold optional
 Battery: Not documented
 Display or braille cells: 32 cells
+Speech synthesizers available: Not documented
 Price at launch: €6,900 incl. VAT (France, KeySoft 9.3, 2013)
+Used price today (eBay): Not documented
 
 Physical Description:
 Not documented

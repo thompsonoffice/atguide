@@ -15,7 +15,9 @@ Operating system: Windows CE with KeySoft
 Default speech synthesizer: Keynote Gold
 Battery: Not documented
 Display or braille cells: Not documented
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 
 Physical Description:
 Not documented

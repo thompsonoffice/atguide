@@ -15,7 +15,9 @@ Operating system: Android 12
 Default speech synthesizer: Not documented
 Battery: 7+ hours (tablet), 4.5 hours with stand light
 Display or braille cells: 11.6-inch 1920x1080; live 1x to 40x; 13 MP camera
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 
 Physical Description:
 Folded 240 x 400 x 29 mm, 1,940 g. Tablet alone 301 x 186 x 10 mm, 840 g.

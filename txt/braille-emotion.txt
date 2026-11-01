@@ -15,7 +15,9 @@ Operating system: Android 12
 Default speech synthesizer: Not documented
 Battery: 5,000 mAh
 Display or braille cells: Not documented
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 
 Physical Description:
 740 g.

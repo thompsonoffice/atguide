@@ -15,7 +15,9 @@ Operating system: Windows CE 6 with KeySoft
 Default speech synthesizer: Eloquence or Keynote Gold
 Battery: Rechargeable, user-replaceable lithium-ion
 Display or braille cells: 18 cells
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 
 Physical Description:
 2 cm (0.78 in) thick, 734 g (1.8 lb). Another listing gives 0.78 x 9.61 x 5.63 in and 1.6 lb.

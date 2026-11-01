@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: Not documented
 Display or braille cells: Not documented
+Speech synthesizers available: Not documented
 Price at launch: $3,495
+Used price today (eBay): Not documented
 
 Physical Description:
 6 x 3 x 2.5 in, 15 oz.

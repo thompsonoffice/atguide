@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: Built-in Blazie speech (Votrax SSI-263 in early units, DoubleTalk chip later)
 Battery: Not documented
 Display or braille cells: Not documented
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 
 Physical Description:
 Not documented

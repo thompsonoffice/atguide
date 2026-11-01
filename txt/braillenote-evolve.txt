@@ -15,7 +15,9 @@ Operating system: Windows 11 Pro with customised NVDA powered by KeySoft
 Default speech synthesizer: Windows/NVDA speech (customised NVDA)
 Battery: Three 5,000 mAh Li-polymer cells; about 5.5 hours
 Display or braille cells: 20 or 32 braille cells with cursor routing
+Speech synthesizers available: Not documented
 Price at launch: $6,199 (US store)
+Used price today (eBay): Not documented
 
 Physical Description:
 243 x 175 x 20 mm; 990 g (1.4 kg with case).

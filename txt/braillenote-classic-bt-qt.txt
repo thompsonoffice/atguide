@@ -15,7 +15,9 @@ Operating system: Windows CE 2.12, later up to CE.NET 4.2, running KeySoft
 Default speech synthesizer: Keynote Gold Multimedia, running under Windows CE
 Battery: Rechargeable NiMH
 Display or braille cells: 18 or 32 cells with touch cursors
+Speech synthesizers available: Not documented
 Price at launch: BrailleNote 18: $3,395; BrailleNote 32: $4,995 (2000)
+Used price today (eBay): Not documented
 Voices: Keynote Gold
 
 Physical Description:

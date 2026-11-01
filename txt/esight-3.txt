@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: Integrated lithium-ion, about 6 hours
 Display or braille cells: Dual 1024x768 OLED, 37.5 degree diagonal field of view; 21.5 MP autofocus camera; up to 24x
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 
 Physical Description:
 104 g.

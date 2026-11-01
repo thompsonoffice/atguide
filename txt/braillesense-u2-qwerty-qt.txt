@@ -15,7 +15,9 @@ Operating system: Windows CE 6.0
 Default speech synthesizer: Not documented
 Battery: Detachable lithium-ion, about 17 hours
 Display or braille cells: 32 cells
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 
 Physical Description:
 250 x 160 x 20 mm, 838 g (1.84 lb).

@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: Votrax SSI-263 speech chip in original units (later Blazie models moved to a DoubleTalk chip)
 Battery: Not documented
 Display or braille cells: Not documented
+Speech synthesizers available: Not documented
 Price at launch: $895
+Used price today (eBay): Not documented
 
 Physical Description:
 A 1988 review gives about 8 x 4 x 1 inches and under 1 lb. AFB describes the device as 2 lb. Braille keys plus space bar.

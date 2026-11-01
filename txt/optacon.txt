@@ -1,37 +1,46 @@
 Optacon
 Company: Telesensory Systems (TSI)
 Category: Other
-Released: 1971 to 1996
+Released: 1971 to 1996 (models included the R1C and R1D)
 
 Overview:
 A reading machine that turned printed letters into vibrating tactile images under the fingertip. About 15,000 were sold.
 
 Specs:
-Released: 1971 to 1996
-Processor: Not documented
-Memory (RAM): Not documented
-Storage: Not documented
-Operating system: Not documented
-Default speech synthesizer: Not documented
-Battery: Not documented
-Display or braille cells: 24 x 6 pin array vibrating at 250 to 300 Hz
-Price at launch: Not documented
+Released: 1971 to 1996 (models included the R1C and R1D)
+Processor: No general-purpose processor; custom Stanford-developed integrated circuits (24 x 6 phototransistor silicon retina and 12-channel bimorph driver chips switching 5 V logic to the 45 V bimorph drive)
+Memory (RAM): None (not a computer)
+Storage: None
+Operating system: None
+Default speech synthesizer: None (tactile output only)
+Battery: Built-in rechargeable battery, not user-removable; external charger. The 1969 prototype ran about 12 hours.
+Display or braille cells: 24 x 6 array of 144 vibrating metal rods (rows 1 mm apart, columns 2 mm apart), vibrating at 250 to 300 Hz
+Speech synthesizers available: None. The Optacon has no speech; output is a vibrating tactile image.
+Price at launch: About $3,400 in 1974 and 1977 (users' reports); about $3,000 in 1985 (user report). One user recalled about $5,000 in 1972.
+Used price today (eBay): An eBay listing for a Model R1D, started December 29, 2025, asked $400 (sold as parts or repair; powers on, untested). Users on the optacon-l list reported paying about $550 on average for used units (2012), and serviced R1C and R1D units were advertised for $800 in October 2019. No eBay sold listings were found.
 
 Physical Description:
-Not documented
+Main unit about the size of a textbook: the R1D electronics section measures 2.25 x 6.3 x 8.5 in and weighs under 4 lb. It is connected by a thin cable to a camera about the size of a pocket knife (lens module 0.75 x 3.5 x 1.75 in). Carried in a leather case with a shoulder strap.
+
+Detailed Description:
+The Optacon (OPtical-to-TActile-CONverter) lets a blind person read ordinary print by touch, with no braille transcription and no speech. You slide a small camera along a line of print with one hand while the index finger of the other hand rests on a small vibrating pad. The pad forms a moving tactile picture of each letter the camera sees. Because it shows the actual shape of the print rather than recognized characters, it works with any typeface or language, and with drawings and screen layouts.
+The main unit is a flat, rectangular box about the size of a textbook. The Model R1D electronics section is about 8.5 in long, 6.3 in deep and 2.25 in high, and weighs less than 4 lb. The museum record lists its materials as leather, steel, plastic and rubber, and one eBay listing describes the unit as black. It lives in a leather case with an adjustable shoulder strap and a flap. A padded vinyl soft-pack with a zipper top and pocket holds the Optacon and its charger, and can be carried by hand, over the shoulder or as a backpack.
+The reading surface is on the far right of a compartment in the top of the chassis. It is a concave finger plate with holes in it. Under it are 144 thin metal rods in 24 rows and 6 columns, an area about one fingertip wide. The rods push up through the holes and buzz at 250 to 300 times a second wherever the camera sees black. You lay your index finger flat in the hollow of the plate. The tracking camera and its cable can be stored inside this same compartment in a plastic holder with a clip, with the cable wound around flanges on the holder.
+The camera is a small module about 3.5 in long. It has a rectangular nose containing the camera opening, small rollers so it glides along the page, and a rounded barrel end where the cable attaches. A movable zoom (magnification) button on top, on the side opposite the rollers, adjusts for type from 6 to 20 point; an optional F4A magnifier lens reads type down to 4 point. The lens module twists off the retina module so other lens modules can be fitted for reading a typewriter, a CRT screen or a calculator display.
+There are four basic controls. On the right side of the front panel are a slide-up On-Off switch and two knobs: Stimulator Intensity, which sets how strongly the rods vibrate, and Threshold, which sets how dark something must be to make the rods vibrate. The camera's zoom button is the fourth. The back panel has the charger jack, a Battery Check button, a Normal-Invert switch for light print on a dark background, and an I/O connector for accessories. Accessories included a Visual Display that shows the same image in lights for a sighted teacher, metal tracking aids that keep the camera straight, and a Portable Line Scanner for practicing tracking. The manual says about 50 hours of instruction teaches the basics, and practice over months can bring reading speed to about 80 words a minute.
 
 Features:
 Not documented
 
 History:
-Developed by John Linvill at Stanford and marketed by Telesensory Systems. The S-15 prototype measured 8 x 6 x 2 in and weighed 4 lb.
-Successors: Optacon II (Telesensory Systems (TSI), 1985)
+Conceived by Stanford electrical engineering professor John Linvill in 1962. During a sabbatical he saw an IBM high-speed printer in Germany whose small pins hammered out letters, and reasoned that his blind daughter Candy could read print if she could feel those pins. With graduate students G.J. Alonzo and John Hill, and with Office of Naval Research support, he developed vibrating piezoelectric bimorph reeds as the tactile pins. He filed for a patent in 1964, and U.S. Patent 3,229,387 was granted in January 1966. James Bliss of SRI joined him. Bliss's computer simulation had Candy reading over 30 words a minute after a few hours. The Veterans Administration would fund the work only if Linvill gave it his patent, and he refused. The U.S. Office of Education then gave over $1.8 million over four years, which paid for custom integrated circuits: a 24 x 6 silicon retina of phototransistors and bimorph drivers. The first self-contained prototype was finished on September 1, 1969. It measured 13.5 x 8 x 2.25 in, weighed 9 lb and ran about 12 hours on rechargeable batteries. The Model S-15 shrank that to 8 x 6 x 2 in and 4 lb, and won an IR-100 award in 1971. The S-15 is now at the Computer History Museum. Linvill and Bliss co-founded Telesensory Systems to make it, and TSI sold the Optacon from 1971 to 1996. Early buyers included the U.S. Office of Education, St Dunstan's in London, and programs in Germany, Sweden, Japan, Italy, France and Scandinavia. About 15,000 were sold. TSI announced in 1996 that it would stop making the Optacon and would service it only until 2000. TSI shut down suddenly in March 2005.
+Successors: Optacon II (Telesensory Systems (TSI), 1985 (developed with Canon))
 
 Ports:
-Not documented
+Back panel, left to right: battery charger jack, Battery Check button, Normal-Invert switch, and an Input/Output connector for the Visual Display, a Repeater Cable to a second Optacon, or other accessories.
 
 Operating System:
-Not documented
+None
 
 System Requirements:
 Not documented
@@ -39,5 +48,13 @@ Not documented
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Optacon
 Source 2: https://afb.org/aw/6/4/14611
+Source 3: https://www.freedomscientific.com/Content/Documents/Manuals/Legacy/Optacon/OptaconOwnersManualModelR1D.txt
+Source 4: https://aphmuseum.org/record/model-r1d-optacon/
+Source 5: https://nfb.org/optacon-past-present-and-future
+Source 6: https://www.freelists.org/post/optacon-l/was-Jim-Blisss-death-Now-Buying-Used-Optacons,1
+Source 7: https://www.freelists.org/post/optacon-l/Jim-Blisss-death,39
+Source 8: https://www.freelists.org/archive/optacon-l/10-2019
+Source 9: https://www.bibliotecanacional.ao/xlWZ1M5z
+Source 10: https://interfacemuseum.com/exhibits/optacon-ii/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

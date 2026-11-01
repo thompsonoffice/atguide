@@ -15,7 +15,9 @@ Operating system: Companion app: iPhone 8 or newer on iOS 16.6+, or Android 11+
 Default speech synthesizer: Not documented
 Battery: Pioneer: about 6 hours (30 with case); V1: about 9 hours
 Display or braille cells: No display; 13 MP centered wide-angle camera
+Speech synthesizers available: Not documented
 Price at launch: $599 (pre-order $449 with free lifetime subscription)
+Used price today (eBay): Not documented
 
 Physical Description:
 Round matte-black frame; 135 mm hinge to hinge, 52 mm lens width, 138 mm temples.

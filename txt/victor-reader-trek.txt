@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: Acapela
 Battery: 12 to 15 hours
 Display or braille cells: Not documented
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 Voices: Acapela voices
 
 Physical Description:

@@ -15,7 +15,9 @@ Operating system: Windows CE.NET
 Default speech synthesizer: Onboard speech engine (name not documented)
 Battery: Detachable lithium-ion
 Display or braille cells: 32 cells with 32 routing buttons; LCD
+Speech synthesizers available: Not documented
 Price at launch: $4,950 (January 2005)
+Used price today (eBay): Not documented
 
 Physical Description:
 9 x 5 x 1.5 in, 2.7 lb. Eight-key braille keyboard (dot 7 is Backspace, dot 8 is Enter) with F1 to F4. The front edge has microphone and headphone jacks and Previous, Record, Stop, Play and Next buttons.

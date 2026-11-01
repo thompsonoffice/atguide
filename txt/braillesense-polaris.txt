@@ -15,7 +15,9 @@ Operating system: Android 5.1.1
 Default speech synthesizer: Not documented
 Battery: Not documented
 Display or braille cells: 32 cells
+Speech synthesizers available: Not documented
 Price at launch: Not documented
+Used price today (eBay): Not documented
 
 Physical Description:
 Not documented

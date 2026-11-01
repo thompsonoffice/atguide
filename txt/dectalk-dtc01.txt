@@ -15,7 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: DECtalk (Perfect Paul default)
 Battery: Not documented
 Display or braille cells: Not documented
+Speech synthesizers available: Not documented
 Price at launch: $4,000
+Used price today (eBay): Not documented
 Voices: DECtalk Perfect Paul; DECtalk Beautiful Betty; DECtalk Huge Harry; DECtalk Frail Frank; DECtalk Kit the Kid; DECtalk Rough Rita; DECtalk Uppity Ursula; DECtalk Doctor Dennis; DECtalk Whispering Wendy
 
 Physical Description:

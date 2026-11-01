@@ -15,7 +15,9 @@ Operating system: Ally app on iOS and Android
 Default speech synthesizer: Not documented
 Battery: Up to 15 to 16 hours, swappable USB-C stems; 15-minute quick charge gives about 3 hours
 Display or braille cells: No display; HD cameras, max 2048x1944
+Speech synthesizers available: Not documented
 Price at launch: $699 (launch pre-order tiers $399 to $599); includes 1 year of Ally Pro
+Used price today (eBay): Not documented
 
 Physical Description:
 About 50 g; IP67; regular or large sizes.

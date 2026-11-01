@@ -1,31 +1,38 @@
 Optacon II
 Company: Telesensory Systems (TSI)
 Category: Other
-Released: 1985
+Released: 1985 (developed with Canon)
 
 Overview:
-A second-generation Optacon developed with Canon.
+A redesigned Optacon developed by Telesensory with Canon Inc., with improved packaging and the ability to connect to a computer, so users could read computer screens.
 
 Specs:
-Released: 1985
+Released: 1985 (developed with Canon)
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
-Default speech synthesizer: Not documented
+Default speech synthesizer: None (tactile output only)
 Battery: Not documented
-Display or braille cells: 100 pixels
+Display or braille cells: 100-pin tactile array (reduced from the original 144)
+Speech synthesizers available: None. Tactile output only.
 Price at launch: Not documented
+Used price today (eBay): No eBay listings for the Optacon II were found.
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The Optacon II is the second-generation Optacon, made by Telesensory with Canon in 1985. Like the original, it turns print seen by a small handheld camera into a vibrating tactile picture under one fingertip. Its main change was a computer interface for reading what is on a screen.
+Its tactile array had 100 pins instead of the original 144. The change was made to cut cost, and sources say it made the device less usable and hurt sales.
+Its exact size, weight, colors and control layout are not documented in the sources found.
 
 Features:
 Not documented
 
 History:
-Not documented
-Predecessors: Optacon (Telesensory Systems (TSI), 1971 to 1996)
+In 1985 Canon Inc. and Telesensory cooperated on the Optacon II. To lower its cost, the tactile array was cut from 144 pins to 100, and that decision is cited as the reason the Optacon II was not commercially successful. It was discontinued with the rest of the Optacon line in 1996.
+Predecessors: Optacon (Telesensory Systems (TSI), 1971 to 1996 (models included the R1C and R1D))
 
 Ports:
 Not documented
@@ -38,5 +45,6 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Optacon
+Source 2: https://interfacemuseum.com/exhibits/optacon-ii/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

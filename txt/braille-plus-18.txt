@@ -15,7 +15,9 @@ Operating system: Android
 Default speech synthesizer: Not documented
 Battery: 4 to 6 hours to charge; about a full day of use
 Display or braille cells: 18 cells, 8-dot
+Speech synthesizers available: Not documented
 Price at launch: $3,599 (2012)
+Used price today (eBay): Not documented
 
 Physical Description:
 Under 6.5 x 4.1 in and just over 1 in thick.

@@ -7,10 +7,10 @@ History:
 Founded in Mountain View, California. It made the Optacon (1971), the Speech+ talking calculator (1976), the VersaBraille (1979) and the Navigator braille displays (1989). It bought Apollo (1984) and Visualtek (1989) and closed in March 2005.
 
 Products:
-Optacon (Other, 1971 to 1996)
+Optacon (Other, 1971 to 1996 (models included the R1C and R1D))
 Speech+ talking calculator (Other, 1976)
 VersaBraille (Notetakers, December 1979)
-Optacon II (Other, 1985)
+Optacon II (Other, 1985 (developed with Canon))
 VersaBraille II+ (Notetakers, 1987)
 TSI Navigator (Braille Displays, 1989)
 Soft Vert (Screen Readers, Not documented)
