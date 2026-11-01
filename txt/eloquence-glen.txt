@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Part of the ETI-Eloquence voice set. Glen was not among the eight Eloquence voices Apple added in iOS 16 (Eddy, Flo, Grandma, Grandpa, Reed, Rocko, Sandy and Shelley). AppleVis listeners hoped it would come later.
+Part of the ETI-Eloquence voice set. Glen was not among the eight Eloquence voices Apple added in iOS 16 (Eddy, Flo, Grandma, Grandpa, Reed, Rocko, Sandy and Shelley). AppleVis listeners hoped it would come later.  Eloquence's programming interface (ECI) defines eight voice presets, numbered 0 to 7: Reed, Shelley, Bobby, Rocko, Glen, Sandy, Grandma and Grandpa. Speed (0 to 250) and pitch (0 to 100) can be changed on any preset. A 2026 hobby project (described by its own author as untested) runs ETI Eloquence 6.1, taken from the firmware of the LevelStar Icon PDA, on 64-bit Linux through QEMU emulation, with a Speech Dispatcher module for Orca. Glen is preset 4.
 
 Ports:
 Not applicable (software)
@@ -37,5 +37,6 @@ Source 1: https://github.com/Mudb0y/eloquence
 Source 2: http://qcsalon.net/en/forum32/topic40905p74
 Source 3: https://www.thisisgain.com/post/how-to-configure-jaws-individual-voice-settings
 Source 4: https://www.applevis.com/podcasts/sneak-peek-additional-us-voices-coming-voiceover-ios-16
+Source 5: https://github.com/Mudb0y/eloquence/blob/main/README.md
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
