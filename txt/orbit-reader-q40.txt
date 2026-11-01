@@ -1,13 +1,13 @@
 Orbit Reader Q40
 Company: Orbit Research
 Category: Braille Displays
-Released: 2025
+Released: Announced March 19, 2024; shipping from June 2024
 
 Overview:
 A 40-cell Orbit Reader with a QWERTY keyboard.
 
 Specs:
-Released: 2025
+Released: Announced March 19, 2024; shipping from June 2024
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
@@ -16,17 +16,24 @@ Default speech synthesizer: Not documented
 Battery: Not documented
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $1,999 (Orbit Research, 2026)
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
 
+Detailed Description:
+The Orbit Reader Q40 combines a 40-cell braille display with a full typewriter keyboard in one case. It is about 11 inches wide, 7 inches deep and a little over an inch high, and weighs about two and a half pounds. Orbit describes it as dust- and fluid-resistant.
+The keyboard is a full-size, laptop-style layout of 78 sculpted keys. It has a full row of twelve function keys, arrow keys in an inverted T, and Windows and Mac keys, but no separate numeric keypad.
+The display has 40 eight-dot cells using Orbit's TrueBraille mechanism, with a cursor routing button for each cell. A rocker key at each end of the display pans the text, and configurable thumb keys help with navigation.
+For connections it has a USB-C port for charging and computers, a USB-A host port for flash drives, and a full-size SD card slot.
+It gives audio and haptic feedback, and has a fast-charging, long-life battery.
+
 Features:
 Not documented
 
 History:
-Not documented
+Orbit Research announced the Q40 and 20-cell Q20 on March 19, 2024 (press release datelined Anaheim), pairing the Orbit Reader with a laptop-style keyboard; shipping was planned for June 2024. It works standalone as a book reader and note-taker, or as a display connected to up to six devices over USB and Bluetooth with JAWS, NVDA, VoiceOver, TalkBack and others. It translates braille in more than 70 languages and works with Orbit Teacher and Orbit Chat.
 Predecessors: Orbit Reader 40 (Orbit Research, Announced March 11, 2020 (CSUN))
 
 Ports:
@@ -40,5 +47,7 @@ Not documented
 
 Sources:
 Source 1: https://www.orbitresearch.com
+Source 2: https://www.orbitresearch.com/products/qwerty-product/orbit-reader-q40/
+Source 3: https://www.orbitresearch.com/orbit-research-expands-its-revolutionary-braille-product-family-with-the-launch-of-orbit-reader-q20-and-q40/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

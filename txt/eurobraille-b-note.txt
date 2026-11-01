@@ -1,19 +1,19 @@
 Eurobraille b.note
 Company: Eurobraille
 Category: Notetakers
-Released: 2021
+Released: 2021 (manual copyright 2021–2024); second generation later
 
 Overview:
 A braille notetaker and display from Eurobraille.
 
 Specs:
-Released: 2021
-Processor: Not documented
-Memory (RAM): Not documented
-Storage: Not documented
+Released: 2021 (manual copyright 2021–2024); second generation later
+Processor: STM32L1 + quad-core ARM Cortex-A53 1.4 GHz
+Memory (RAM): 512 MB
+Storage: 64 GB SD
 Operating system: Not documented
 Default speech synthesizer: Not documented
-Battery: Not documented
+Battery: 6000 mAh, over 14 hours; 30% in 25 min
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
 Price at launch: Not documented
@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The b.note is a braille display and notetaker from Eurobraille, made with 20 or 40 eight-dot cells. The 40-cell version is a long, slim bar 365 millimetres wide, 105 deep and 27 high, weighing 600 grams; the 20-cell version is 235 millimetres wide and 500 grams. A protective bumper wraps the case, and a zippered case comes with it.
+The braille cells run across the top. Above each cell is a routing key with two contacts: a light press moves the display forward or back, so you need not hunt for a scroll key, and a firm press routes the cursor.
+Eight braille keys sit in a row above the routing keys, with two thumb keys below the display, ten keys in all. On the standard and basic versions they are a Perkins-style keyboard; the light versions have none. At each end of the display is a keypad of four buttons; the up key on the left keypad opens the b.note menu.
+On the left edge are a small reset hole for a paper clip, the USB-C port for charging and computers, a 3.5 mm headphone jack and the key lock switch. The power button is a pull-to-activate lock: a short press puts it in transport mode and a long press of more than 2 seconds in standby. On the second generation, a USB-A port on the back takes memory sticks.
+Underneath, a screwed panel covers the SD card, for service only. On the second generation, two grilles at the front let out the sound of two built-in speakers.
+
 Features:
 Not documented
 
 History:
-Not documented
+Eurobraille sells it in standard, basic, light and basic/light versions, with or without the Perkins keyboard and Bluetooth/internal apps. Built-in functions include a file explorer, editor (docx, odt, pdf, epub, brf, txt), MP3 player, web radio and podcasts, agenda, EOLE library reader, Wikipedia access, a braille learning mode and games. A second generation adds two speakers and a USB-A port. The free b.view app shows the display to sighted companions. The 40-cell model was listed as out of stock on Eurobraille's site in October 2026.
 
 Ports:
 Not documented
@@ -39,5 +46,7 @@ Not documented
 
 Sources:
 Source 1: https://www.eurobraille.fr
+Source 2: https://www.eurobraille.fr/wp-content/uploads/2025/04/bnote-Manual-3.1.0-EN.pdf
+Source 3: https://www.eurobraille.com/product/b-note-40/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -35,7 +35,7 @@ Not documented
 History:
 Scott Davert of the Helen Keller National Center reviewed it in October 2021. Unlike the Orbit Reader 20, it added cursor-routing buttons, built-in braille translation and connections to up to five Bluetooth devices. It has no internal memory: files live on an SD card (4 to 32 GB) or a USB drive. He estimated battery life at 20 to 22 hours of heavy use and found the cells quieter than the Orbit Reader 20's but the keyboard louder. The user-replaceable battery cost $44.95 at the time and $49.95 by January 2023.
 Predecessors: Orbit Reader 20 (Orbit Research, Announced March 2016, shipped 2017)
-Successors: Orbit Reader Q40 (Orbit Research, 2025)
+Successors: Orbit Reader Q40 (Orbit Research, Announced March 19, 2024; shipping from June 2024)
 
 Ports:
 Not documented

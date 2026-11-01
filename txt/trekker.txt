@@ -1,13 +1,13 @@
 Trekker
 Company: VisuAide
 Category: Other
-Released: 2003
+Released: 2003 (AccessWorld review, July 2003); version 2.0 reviewed 2004
 
 Overview:
 VisuAide's PDA-based talking GPS for blind travelers.
 
 Specs:
-Released: 2003
+Released: 2003 (AccessWorld review, July 2003); version 2.0 reviewed 2004
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
@@ -16,17 +16,24 @@ Default speech synthesizer: Not documented
 Battery: Not documented
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $1,595
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
 
+Detailed Description:
+The Trekker is not one box but four parts worn together on a strap around the neck: an off-the-shelf pocket PC (PDA), a GPS receiver, a speaker and a battery pack. The set weighs 1.3 pounds.
+The PDA is the part you work with. Static stencils came with it to use as a braille keyboard on the PDA. The on/off button sits above the screen, but it gives no sound to confirm the PDA is off.
+Trekker's own controls are a large oval Navigation key that works as a four-way cursor cross, with two round buttons on each side. To its right are Enter, which starts Trekker, opens menus and answers questions, and Where Am I?. To its left are Escape and the Mode button, which switches between reading and browsing.
+On the left side of the PDA is the Record button, which uses its built-in microphone to record your own points of interest. Trekker talks using the Eloquence synthesizer.
+In the box were a PDA charger and cradle, styli, the keyboard stencils and a user guide. Reviewers warned that pieces, such as the speaker cable, could come apart easily.
+
 Features:
 Not documented
 
 History:
-Not documented
+AccessWorld reviewed the first version in July 2003. It announced streets, intersections about 30 feet ahead and points of interest from a commercial database, and could record your own landmarks, but it could not tell your direction, plan routes or change speech rate. Version 2.0 added an adjustable speech rate and route planning and following, and its case and strap hooks were sturdier. The off-the-shelf PDA kept the price down, but it gave no sign of whether the PDA was off and draining its battery.
 Successors: Trekker Breeze (HumanWare, 2008)
 
 Ports:
@@ -40,5 +47,7 @@ Not documented
 
 Sources:
 Source 1: https://afb.org/aw/6/6/14572
+Source 2: https://afb.org/aw/4/4/14834
+Source 3: https://afb.org/aw/5/6/14675
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

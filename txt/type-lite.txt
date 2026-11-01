@@ -9,11 +9,11 @@ A notetaker from the Braille Lite family with a laptop-style Windows keyboard, a
 Specs:
 Released: By March 2001 (date of user guide)
 Processor: Not documented
-Memory (RAM): 2 MB
-Storage: 12 MB flash plus CompactFlash
+Memory (RAM): 2 MB (16 MB memory in a 2003 Italian listing)
+Storage: 12 MB flash, CompactFlash slot
 Operating system: Not documented
 Default speech synthesizer: Internal speech synthesizer; the Type Lite user guide does not name the model. Sibling Blazie units of the same era (Braille Lite Millennium) used DoubleTalk-style speech.
-Battery: Not documented
+Battery: 30 hours (SIVA listing)
 Display or braille cells: 40 cells
 Speech synthesizers available: Not documented
 Price at launch: Not documented
@@ -21,6 +21,13 @@ Used price today (eBay): Not documented
 
 Physical Description:
 Laptop-style Windows keyboard behind a 40-cell braille display, with cursor-routing buttons and two advance bars.
+
+Detailed Description:
+The Type Lite is a notetaker from Blazie Engineering with a laptop-style typewriter keyboard and a 40-cell braille display, plus built-in speech.
+The keyboard is a standard portable PC layout. Its top row runs Escape, F1 to F12, then Num Lock, Insert, Delete and Break. Raised locator dots mark F1, F5, F10 and Delete.
+The bottom row runs, left to right: Fn, Ctrl, Windows logo key, Alt, the spacebar, Alt, Windows logo key, Application key, Ctrl, then Left Arrow, Down Arrow and Right Arrow, with Up Arrow directly above Down Arrow.
+The 40-cell display is below the keyboard. Between the display and the keyboard are two advance bars, and there is a rocker at each end of the display. Each cell has a cursor routing button above it, with raised locator dots to help find your place.
+It takes standard CompactFlash memory cards.
 
 Features:
 Laptop-style QWERTY keyboard
@@ -30,7 +37,7 @@ Internal speech synthesizer
 Date book, phone book and calculator
 
 History:
-Documented in a Freedom Scientific user guide (part 440001-001) dated March 2001.
+Documented in a Freedom Scientific user guide (part 440001-001) dated March 2001. One of the Braille 'n Speak's spin-off siblings from Blazie Engineering, alongside the Braille Lite and Type 'n Speak (AccessWorld). Deane Blazie said the company added typewriter keyboards because many interested people didn't know braille. Its user guide describes a note-taker and personal organiser with a built-in speech synthesizer, a date book, phone book, calculator and macros. Its keyboard could stand in for a PC keyboard when linked to a computer. Italy's SIVA database listed a Type Lite 40 with bilingual Italian/English speech and 30 hours of battery.
 
 Ports:
 Round 8-pin serial port on the back; CompactFlash slot
@@ -46,5 +53,7 @@ Source 1: https://afb.org/aw/11/1/16078
 Source 2: https://www.yumpu.com/en/document/view/21055960/the-type-lite-user-guide-freedom-scientific/10
 Source 3: https://www.yumpu.com/en/document/view/21055960/the-type-lite-user-guide-freedom-scientific
 Source 4: https://afb.org/aw/3/1/14967
+Source 5: https://www.yumpu.com/en/document/view/21055960/the-type-lite-user-guide-freedom-scientific/11
+Source 6: https://portale.siva.it/en-GB/databases/products/detail/id-9061
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

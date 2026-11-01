@@ -8,10 +8,10 @@ A QWERTY VoiceSense, announced at CSUN 2010 for $1,995.
 
 Specs:
 Released: 2010
-Processor: Not documented
-Memory (RAM): Not documented
+Processor: Intel PXA270
+Memory (RAM): 128 MB
 Storage: 4 GB
-Operating system: Not documented
+Operating system: Windows CE 5.0
 Default speech synthesizer: Not documented
 Battery: Not documented
 Display or braille cells: Not documented
@@ -22,18 +22,25 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Voice Sense QWERTY is a speech-only notetaker from HIMS with a typewriter-style keyboard and no braille display. Set on a table it feels like a small, thin rectangular box, 8.6 inches long, 4.9 inches deep and 0.7 inch high, with rubber feet underneath to stop it sliding.
+The keyboard takes up the front part of the top and has 77 keys in six rows. The top row runs F1 to F11, then left and right square brackets, Insert and Delete, with tactile points on the frame at F1, F5 and F9. R and U, F and J, and V and M carry dots for the index fingers. Fn is at the far left of the bottom row. The arrow keys form an inverted T, with Shift and slash on either side of Up Arrow. Braille stickers are supplied for marking keys.
+Behind the keyboard, in the centre, is a small LCD so a sighted person can read what you type, with a speaker on each side of it.
+The front edge holds, from left to right: the internal microphone, a three-position key lock switch, a microphone jack, a headphone jack, a three-position audio mode switch (radio, DAISY or media), five differently shaped media buttons (previous, record, stop, play/pause, next) and a sliding power switch, pushed right for on and left for off.
+On the right edge, front to back, are a USB OTG port for a computer, a USB port for a memory stick and the AC adapter jack. The left edge has an SD card slot. On the back are an Ethernet port at the left and a recessed reset button at the far right. The removable battery fits a rectangular bay in the middle of the bottom, released by a latch to its left.
+
 Features:
 Not documented
 
 History:
-Not documented
+HIMS's April 2011 manual (software 6.0) lists a word processor that can write braille files by typing chords on F, D, S, J, K and L, email, a web browser, DAISY player, media player, FM radio with recording, Twitter, Google Talk and MSN Messenger. Up to seven programs can run at once.
 Predecessors: VoiceSense (HIMS / Selvas BLV, 2007)
 
 Ports:
 Not documented
 
 Operating System:
-Not documented
+Windows CE 5.0
 Operating system history: Windows CE / Windows Mobile (on notetakers and PDAs)
 
 System Requirements:
@@ -41,5 +48,6 @@ Not documented
 
 Sources:
 Source 1: https://afb.org/aw/11/4/16038
+Source 2: https://manualzilla.com/doc/5723857/voice-sense-qwerty-user-manual--ver-6.0-hims
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

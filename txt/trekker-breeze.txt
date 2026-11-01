@@ -34,7 +34,7 @@ Not documented
 
 History:
 AccessWorld reviewed it in March 2009. HumanWare had heard from users and mobility instructors that existing GPS products were too complicated, and that many Trekker owners only used Where Am I and their own recorded landmarks. So the Breeze has 9 buttons instead of the Trekker's 39 and no keypad for typing destinations: you must visit and record a landmark before it can guide you there. Leader Dogs for the Blind helped shape it. It finds satellites in about two to three minutes and describes intersections about 30 feet ahead.
-Predecessors: Trekker (VisuAide, 2003)
+Predecessors: Trekker (VisuAide, 2003 (AccessWorld review, July 2003); version 2.0 reviewed 2004)
 Successors: Victor Reader Trek (HumanWare, 2017)
 
 Ports:
