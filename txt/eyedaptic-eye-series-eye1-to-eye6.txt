@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Eyedaptic EYE6 is a pair of head-worn smart glasses for people with low vision, especially age-related macular degeneration. They are styled to look like everyday eyewear. Eyedaptic says they weigh under 3 ounces, light enough to wear all day.
+A small built-in camera on the frame captures the scene in front of you. The glasses enhance it and show it on two 1080p full-HD displays, one in front of each eye. Eyedaptic's simulated-natural-vision software adapts the image to make the most of your remaining vision.
+The glasses are controlled hands-free by voice, so you do not need to find buttons for most tasks. Eyedaptic's page does not describe the physical controls or ports in detail.
+The built-in battery lasts about 3 hours of use, according to the EYE5 specifications that the EYE6 shares.
+The visual assistant, Ivy, answers questions spoken aloud through the glasses. It can read text, describe a room, find objects and translate between languages, in 99 languages. EYE5 owners can add the same features with a remote software upgrade.
+
 Features:
 Not documented
 
 History:
-Not documented
+Eyedaptic's EYE series of AMD eyewear ran from EYE1 in 2019 to EYE6 in August 2024 (see the entry's dates). According to Eyedaptic's EYE6 page, the EYE5 was its lightest and most comfortable model: under 3 ounces, with 1080p full-HD displays and about 3 hours of battery life. The EYE6 keeps all of the EYE5's features and adds Ivy, a generative-AI visual assistant built on OpenAI's large language models. Ivy offers conversational text and image analysis in 99 languages, including translation, and can help with reading, finding objects and describing rooms. Ivy can be added to existing EYE5 glasses with a remote upgrade, alongside Eyedaptic's patented simulated-natural-vision enhancement software.
 
 Ports:
 Not documented
@@ -39,5 +46,6 @@ Not documented
 
 Sources:
 Source 1: https://eyedaptic.com
+Source 2: https://eyedaptic.com/eye6/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
