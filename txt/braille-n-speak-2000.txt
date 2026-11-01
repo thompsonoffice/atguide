@@ -27,7 +27,7 @@ The Braille 'n Speak 2000 is the late-1990s Braille 'n Speak: a pocket talking n
 According to its manual it is about the size of a videocassette, a flat rectangle under one pound; THE Journal described it as a two-pound product. Rubber feet on the bottom keep it from sliding while you type. You use it with the space bar nearest you, the same way you would sit at a braillewriter.
 The keyboard is the standard seven-key Perkins layout: dots 1, 2 and 3 under the left hand, dots 4, 5 and 6 under the right, and a space bar in the middle front. Commands are chords typed while holding the space bar.
 From the front right corner, slide your finger toward the back: about halfway along the right side is a rocker on/off switch (rock it away from you to turn on, toward you to turn off), with an earphone jack just behind it. On the left side is an indented rectangular opening with two identical round DIN serial ports separated by two small vertical bars, and the AC adapter jack is just behind that opening. The serial ports connect to a computer, modem, printer, another Braille 'n Speak, a Braille Lite or a portable disk drive.
-It runs 20 to 24 hours on its built-in battery and recharges fully in 2 to 4 hours. It warns you when the battery is low and has a Battery Use Timer. It supported 15 languages, two at a time, and owners could install their own software upgrades. Its color is not documented in the sources found.
+It runs 20 to 24 hours on its built-in battery and recharges fully in 2 to 4 hours. It warns you when the battery is low and has a Battery Use Timer. It supported 15 languages, two at a time, and owners could install their own software upgrades. None of the sources checked for this entry mention its color.
 
 Features:
 Not documented

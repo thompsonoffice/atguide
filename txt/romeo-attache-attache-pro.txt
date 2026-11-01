@@ -27,7 +27,7 @@ The Romeo Attaché is a small, portable, single-sided impact braille embosser fo
 It embosses at 15 characters per second on a line of up to 32 characters.
 It uses tractor-feed paper up to 8.5 inches wide, letter-size, with sprocket holes along the edges.
 It supports 6- and 8-dot braille and graphics.
-Its launch price is not documented in the sources found.
+Its launch price wasn't found; Enabling Technologies' price list effective July 1, 2012 shows the Romeo Attaché at $2,295 and the Attaché Pro at $2,495.
 
 Features:
 Not documented
@@ -50,5 +50,6 @@ Source 2: https://www.yumpu.com/en/document/view/38152810/romeo-attache-romeo-at
 Source 3: https://manualzilla.com/doc/5765358/romeo-attach%C3%A9-romeo-attach%C3%A9-pro-romeo-25-and-romeo-pro-50
 Source 4: https://www.yumpu.com/en/document/view/38152810
 Source 5: https://www.yumpu.com/en/document/view/9450828/prices-and-ordering-information-enabling-technologies
+Source 6: https://cdn.thomasnet.com/ccp/01055195/75393.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

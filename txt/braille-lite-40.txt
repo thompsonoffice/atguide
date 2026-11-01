@@ -23,7 +23,7 @@ Physical Description:
 Not documented
 
 Detailed Description:
-AccessWorld described Blazie's Braille Lite as identical to the Braille 'n Speak with a braille display added. The Braille Lite 40 (1996) has a 40-cell display. Its exact size and weight are not documented in the sources found; the smaller Braille Lite 18 measured 5 × 8.25 × 2 inches.
+AccessWorld described Blazie's Braille Lite as identical to the Braille 'n Speak with a braille display added. The Braille Lite 40 (1996) has a 40-cell display. No source checked gives its own size and weight. For comparison, the smaller Braille Lite 18 measured 5 × 8.25 × 2 inches.
 Like the Braille 'n Speak, it has a Perkins-style braille keyboard with a space bar, and commands are chords of the space bar plus dot keys.
 Its 40-cell refreshable braille display has a cursor routing button above each cell, and it uses advance bars to move through text a display-length at a time.
 Speech comes from a built-in DoubleTalk synthesizer through a speaker or earphones.

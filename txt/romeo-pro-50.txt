@@ -27,7 +27,7 @@ The Romeo Pro 50 is the faster sibling of the Romeo 25, sold by Enabling Technol
 It embosses single-sided braille at 50 characters per second on lines of up to 40 characters, with 6- or 8-dot braille and graphics.
 Paper is continuous tractor-feed paper with sprocket holes, pulled through by sprocket wheels. Unlike the Romeo 25, it also takes hand-fed single sheets.
 Its connections and menus follow the Romeo 25: parallel and serial ports on the back and a front control panel.
-Its launch price is not documented in the sources found.
+Its launch price wasn't found; Enabling Technologies' price list effective July 1, 2012 shows it at $2,995, including ET Speaks and single-sheet tractors.
 
 Features:
 Not documented
@@ -48,5 +48,6 @@ Sources:
 Source 1: https://www.yumpu.com/en/document/view/38159759/worlds-leading-manufacturer-of-braille-embossers-enabling-
 Source 2: http://atkratter.com/braille/et/romeo.htm
 Source 3: https://www.yumpu.com/en/document/view/6157847/romeo-25-romeo-pro-50-enabling-technologies
+Source 4: https://cdn.thomasnet.com/ccp/01055195/75393.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

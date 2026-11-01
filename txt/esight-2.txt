@@ -27,7 +27,7 @@ The eSight 2 (May 2015) is a headset with two HD OLED screens in front of the ey
 You adjust magnification, contrast and color for your vision.
 Like the first eSight, it uses a separate controller. The controller holds a swappable battery giving about four hours, and it can stay plugged in to charge while you use the headset.
 Its price was about $15,000, with financial help available through eSight.
-Its exact dimensions are not documented in the sources found.
+The sources checked give no exact measurements for the headset.
 
 Features:
 Not documented

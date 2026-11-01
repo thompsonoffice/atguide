@@ -25,7 +25,7 @@ About 4.1 x 4.1 x 0.9 inches (APH museum unit); sand-colored plastic case with s
 Detailed Description:
 The Braille 'n Speak 640 is the 1991 successor to the original Braille 'n Speak, named for its 640K of file memory. Blazie introduced it in October 1991. It could run third-party programs written by outside developers.
 The APH museum unit measures about 4.1 x 4.1 x 0.9 in and has a sand-colored plastic case with seven braille keys (six dot keys and a space bar) in Perkins order. Like every Braille 'n Speak it has no braille display; it speaks.
-Like the original it combined a notetaker, Grade 2 braille-to-print translator, clock, calendar, phone book and calculator. It could also connect to a computer as a terminal or speech synthesizer. The exact port layout is not documented in the sources found.
+Like the original it combined a notetaker, Grade 2 braille-to-print translator, clock, calendar, phone book and calculator. It could also connect to a computer as a terminal or speech synthesizer. Blazie's Braille 'n Speak user manual (Freedom Scientific legacy edition, which refers to the 12-volt charger of later units) describes the layout for Braille 'n Speak units generally. With the space bar toward you, the on/off rocker switch is about halfway back on the right side; rock it away from you for on. Just behind it is an earphone jack that can also feed an external speaker or a tape recorder. On the left side is an indented rectangular opening holding two identical round DIN serial ports, with the AC power and charger jack behind it.
 On the right side are the earphone jack and a switch; on the left are the power jack and serial and disk-drive ports. The speaker is on top at the right, and black rubber rests are on the bottom (APH museum unit, model BS2).
 APH added the 640 to its catalog in 1996, though not on quota. The museum unit has 640K of file memory, 256K of program memory and a built-in rechargeable battery.
 
@@ -51,5 +51,6 @@ Source 1: https://www.blazietech.com/post/from-braille-n-speak-to-bt-speak-a-per
 Source 2: https://sites.aph.org/museum-virtual-exhibit/vex2/2AEEBF8E-D463-4207-AA5A-417408112058.htm
 Source 3: https://www.blindbargains.com/ebay.php?num=6
 Source 4: https://www.duxburysystems.org/downloads/library/news/new93.htm
+Source 5: https://support.freedomscientific.com/Content/Documents/Manuals/Legacy/BrailleNSpeakDocs/BrailleNSpeakUserMan.txt
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

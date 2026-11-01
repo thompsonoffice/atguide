@@ -24,7 +24,7 @@ Not documented
 
 Detailed Description:
 The BrailleNote mPower QT is the QWERTY-keyboard version of the mPower, introduced in 2005. AccessWorld says the mPower came with either a braille or a QWERTY keyboard, in the same case size as earlier BrailleNotes (about 9½ × 5 × 1 inches).
-Instead of the eight braille keys, its top surface carries a typewriter-style QWERTY keyboard. The exact key count and layout are not documented in the sources found.
+Instead of the eight braille keys, its top surface carries a typewriter-style QWERTY keyboard. The sources checked don't give a key-by-key layout.
 In front of the keyboard is an 18- or 32-cell refreshable braille display with a cursor routing button above each cell, and four thumb keys on the front edge for moving through text.
 The ports match the braille-keyboard mPower: power, phone line, serial, CompactFlash and SD slots, two USB host ports and one USB client port on the back; PCMCIA on the right; earphone, power switch, microphone jack and recessed Record button on the left.
 The case is silver, and it has the same 128 MB flash storage and Bluetooth as the BT model. A VoiceNote mPower QT version had speech only, with no braille display.

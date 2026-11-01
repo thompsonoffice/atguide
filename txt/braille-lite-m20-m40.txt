@@ -23,7 +23,7 @@ Physical Description:
 Not documented
 
 Detailed Description:
-The Braille Lite M20 and M40 are flat, rectangular notetakers. The M20 is the shorter model with a 20-cell display, and the M40 is wider to hold a 40-cell display. Exact dimensions and weight are not documented in the sources used.
+The Braille Lite M20 and M40 are flat, rectangular notetakers. The M20 is the shorter model with a 20-cell display, and the M40 is wider to hold a 40-cell display. The sources checked give no exact measurements or weight for either model.
 The top surface has an eight-dot Perkins-style braille keyboard: six main dot keys plus dots 7 and 8, with a space bar between the hands. Almost every command is a 'chord', meaning the space bar pressed together with dot keys.
 Below the keyboard is the refreshable braille display. Above each braille cell is a small cursor routing button that puts the cursor at that cell when pressed. The M40 also has raised locator dots above every fifth cell to help you find your place.
 Advance bars let you move through a file one display-length at a time: press the right end to go forward and the left end to go back. The M20 has one advance bar; the M40 has two, one at each end, so you never have to lift your reading hands far. A Reverse Advance setting swaps the bar directions.

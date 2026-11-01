@@ -27,7 +27,7 @@ The BrailleNote Apex BT18 is the 18-cell version of the Apex, launched in May 20
 The top has the eight-key braille keyboard (six dot keys plus Backspace and Enter), with a scroll wheel between the dot 1 and dot 4 keys and the space bar below it.
 Nearest you is an 18-cell eight-dot braille display with a cursor routing button above each cell.
 Four thumb keys (Previous, Back, Advance and Next) are on the front edge, set right-handed at the factory and switchable to left-handed.
-Its ports and user-replaceable battery follow the Apex design. Exact dimensions and weight for the 18-cell model are not documented in the sources found.
+Its ports and user-replaceable battery follow the Apex design. The sources checked give measurements only for the 32-cell Apex, not the 18-cell model.
 
 Features:
 Not documented

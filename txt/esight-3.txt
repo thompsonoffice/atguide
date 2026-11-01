@@ -25,8 +25,8 @@ Physical Description:
 Detailed Description:
 The eSight 3 (February 2017) is a lightweight headset; reports give 104 g for the headset.
 It has two OLED displays in front of the eyes and a 21.5-megapixel camera, with up to 24× zoom.
-Reports from 2017 describe a separate handheld controller that carries the battery, connected to the headset by cable. Battery life is not documented in the sources used.
-Its launch price is not documented in the sources used.
+Reports from 2017 describe a separate handheld controller that carries the battery, connected to the headset by cable. The specifications in this entry give an integrated lithium-ion battery of about 6 hours.
+USA Today reported in February 2017 that it cost $9,995, down from the $15,000 of earlier eSight models, and that insurance did not cover it.
 
 Features:
 Not documented
@@ -49,5 +49,6 @@ Sources:
 Source 1: https://esighteyewear.com/wp-content/uploads/2020/03/Customer-Facing-eSight-3-Specifications-Sheet-4.pdf
 Source 2: https://www.theverge.com/circuitbreaker/2017/2/16/14637804/esight-3-augmented-reality-headset-legally-blind-see
 Source 3: https://displaydaily.com/the-esight-3-headset-offers-help-to-the-vision-impaired/
+Source 4: https://www.usatoday.com/story/tech/columnist/2017/02/15/high-tech-glasses-helping-blind-people-see/97960470/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -25,7 +25,7 @@ Not documented
 Detailed Description:
 The VoiceSense is a speech-only notetaker from HIMS with a braille keyboard and no braille display. GW Micro's published specifications gave its size as 18.8 by 7.7 by 2.5 centimeters (about 7.4 by 3 by 1 inch) and its weight as 266 grams, just over half a pound.
 The top carries a Perkins-style braille keyboard. The sources found do not describe the remaining controls in detail.
-For sound it has stereo speakers and a headphone jack. For input it has a built-in condenser microphone and a microphone jack, used for recording, and there is an FM radio receiver. The exact placement of the jacks is not given in the sources found.
+For sound it has stereo speakers and a headphone jack. For input it has a built-in condenser microphone and a microphone jack, used for recording, and there is an FM radio receiver. The sources checked don't say where on the case the jacks are.
 Its ports are USB On-The-Go (USB 2.0 compatible), an SD card slot and a CompactFlash slot. Wireless is 802.11b/g Wi-Fi and Bluetooth 1.1. Inside is a 540 MHz Intel PXA270 processor with 128 MB of RAM, 64 MB of OS storage and 1 GB of user flash, running Windows CE .NET 5.0.
 A detachable, user-replaceable lithium-polymer battery gives about 12 hours of continuous use. 2007 news reports put the price at about $1,800 to $2,150. The later VoiceSense QWERTY used the smooth white plastic shell of other HIMS products, and at CSUN 2010 GW Micro's Dan Weirich dropped one on the floor and kept using it.
 

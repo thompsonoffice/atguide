@@ -27,7 +27,7 @@ The eSight Go is shaped like glasses rather than a headset. The glasses part wei
 Inside are two 1920 × 1080 OLED screens with a 45-degree field of view.
 An autofocus camera at the front gives up to 24× zoom, with adjustable contrast and color filters.
 Instead of a head strap, a battery pack hangs around your neck; a neck lanyard spreads the weight. Batteries in the device and the neck pack give about 3 hours (180 minutes) per charge.
-Its price is not documented in the sources used.
+Its current list price is $4,950.
 
 Features:
 Not documented

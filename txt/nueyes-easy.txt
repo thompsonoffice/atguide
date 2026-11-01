@@ -27,7 +27,7 @@ The NuEyes Easy (2016) was developed with Osterhout Design Group (ODG), which ma
 It is worn like glasses. Two digital microphones and stereo earphones that attach with magnets are built in, along with haptic vibration in the temples.
 An autofocus high-definition camera and an LED light for dark places are at the front. It magnifies up to 12× and boosts contrast.
 It is controlled by voice, by manual controls on the glasses, or by a wireless Bluetooth controller worn on a finger.
-It has Bluetooth, Wi-Fi, GPS, and other sensors. Its price is not documented in the sources used.
+It has Bluetooth, Wi-Fi, GPS, and other sensors. Its listed price is $5,995.
 
 Features:
 Not documented

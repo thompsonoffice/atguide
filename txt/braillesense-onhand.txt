@@ -23,7 +23,7 @@ Physical Description:
 4 x 7 x 1.5 in.
 
 Detailed Description:
-The BrailleSense OnHand (2010) is a small 18-cell notetaker. AccessWorld measured it at 4 × 7 × 1.5 inches; its weight is not documented in the sources found. It has a white top panel on a black body and comes in a sturdy case with a shoulder strap that leaves every button reachable.
+The BrailleSense OnHand (2010) is a small 18-cell notetaker. AccessWorld measured it at 4 × 7 × 1.5 inches; the Japanese distributor Extra lists it at 17.2 × 9.0 × 2.7 cm and 425 g (about 15 oz). It has a white top panel on a black body and comes in a sturdy case with a shoulder strap that leaves every button reachable.
 On top is an eight-key Perkins-style keyboard, with a row of four evenly spaced function keys below it. The small speaker is on the top panel between and above the dot 1 and dot 7 keys.
 Below the function keys are 18 routing buttons over the 18 eight-dot braille cells, with two scroll keys on each side of the display.
 The front edge has a three-position audio mode switch and five audio buttons. The left side has the AC socket, a USB port and a lock switch; the right side has the SD card slot and external microphone and headset jacks.
@@ -50,5 +50,6 @@ Sources:
 Source 1: https://afb.org/aw/11/4/16038
 Source 2: https://www.himsintl.com/en/company/prdhistory.php
 Source 3: https://afb.org/aw/12/10/15988
+Source 4: https://www.extra.co.jp/product/bsonhand/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
