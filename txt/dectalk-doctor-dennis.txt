@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-One of DECtalk's nine built-in voices. Its name nods to Dennis Klatt.
+One of DECtalk's nine built-in voices. Its name nods to Dennis Klatt. In the DECtalk Software reference (2001, Force Computers), Dennis is described as the 'male voice' and is chosen with the in-line command [:name DENNIS] or [:nd]. The Speak applet gives it local names: Domingo in Spanish, Dieter in German and Joël in French. Its stock settings include an average pitch of 110 Hz, a head size of 105%, breathiness of 38 dB and a pitch range of 135%. Any voice can be reshaped with the Design Voice [:dv] command, and changes can be saved as a tenth voice, Val.
 
 Ports:
 Not applicable (software)
@@ -36,5 +36,8 @@ Not documented
 Sources:
 Source 1: https://dectalk.nu/Artists/Jayson%20Smith/Text/sample.txt
 Source 2: https://en.wikipedia.org/wiki/DECtalk
+Source 3: https://dectalk.github.io/dectalk/idhref1voiceselectionvoice.htm
+Source 4: https://dectalk.github.io/dectalk/idhsdk3definitionsofdectalksoftwarevoices.htm
+Source 5: https://dectalk.github.io/dectalk/idhsdk3designvoicedv.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

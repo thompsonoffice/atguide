@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-One of DECtalk's nine built-in voices. Voice parameters such as throat size were editable.
+One of DECtalk's nine built-in voices. Voice parameters such as throat size were editable. In the DECtalk Software reference (2001, Force Computers), Betty is described as the 'full female voice' and is chosen with the in-line command [:name BETTY] or [:nb]. The Speak applet gives it local names: Berta in Spanish, Beate in German and Marjolaine in French. Its stock settings include an average pitch of 208 Hz, a head size of 100%, breathiness of 0 dB and a pitch range of 240%. Any voice can be reshaped with the Design Voice [:dv] command, and changes can be saved as a tenth voice, Val.
 
 Ports:
 Not applicable (software)
@@ -36,5 +36,8 @@ Not documented
 Sources:
 Source 1: https://en.wikipedia.org/wiki/DECtalk
 Source 2: https://dectalk.nu/Artists/Jayson%20Smith/Text/sample.txt
+Source 3: https://dectalk.github.io/dectalk/idhref1voiceselectionvoice.htm
+Source 4: https://dectalk.github.io/dectalk/idhsdk3definitionsofdectalksoftwarevoices.htm
+Source 5: https://dectalk.github.io/dectalk/idhsdk3designvoicedv.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

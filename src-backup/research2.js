@@ -684,4 +684,18 @@ AD({id:"bi20x",n:"Brailliant BI 20X",co:"hw",cat:"Braille Displays",yr:2021,y:"2
  "Along the back edge is a full-size SD card reader. Underneath are a braille serial number, rubber feet, and a removable battery held by two screws."],
  src:[B20R]});
 U(DEV,"bi40x",{yr:2021,y:"On sale by April 2021 (Helen Keller Services review)",src:[B20R]});
+// Batch 28: DECtalk voice histories from the DECtalk Software reference (verified Oct 31, 2026)
+const DTN="https://dectalk.github.io/dectalk/idh_ref_1_voice_selection_voice.htm",DTD="https://dectalk.github.io/dectalk/idh_sdk_3_definitions_of_dectalk_software_voices.htm",DTV="https://dectalk.github.io/dectalk/idh_sdk_3_design_voice_dv.htm";
+[["dt_paul","Paul","p","default male voice","Pablo","Paul","Oliver",122,100,0,100],
+ ["dt_harry","Harry","h","full male voice","Humberto","Hans","Michel",89,115,0,80],
+ ["dt_frank","Frank","f","aged male voice","Francisco","Frank","François",155,90,50,90],
+ ["dt_dennis","Dennis","d","male voice","Domingo","Dieter","Joël",110,105,38,135],
+ ["dt_betty","Betty","b","full female voice","Berta","Beate","Marjolaine",208,100,0,240],
+ ["dt_ursula","Ursula","u","aged female voice","Úrsula","Ursula","Angèle",240,95,0,135],
+ ["dt_wendy","Wendy","w","whispering female voice","Wendy","Wendy","Nadia",200,100,55,175],
+ ["dt_rita","Rita","r","female voice","Rita","Rita","Jacqueline",106,95,46,80],
+ ["dt_kit","Kit","k","child's voice","Juanito","Karsten","Sébastien",306,80,47,210]].forEach(([id,nm,l,d,es,de,fr,ap,hs,br,pr])=>{
+ if(!DEV.find(x=>x.id===id))return;
+ U(DEV,id,{src:[DTN,DTD,DTV],ha:`In the DECtalk Software reference (2001, Force Computers), ${nm} is described as the '${d}' and is chosen with the in-line command [:name ${nm.toUpperCase()}] or [:n${l}]. The Speak applet gives it local names: ${es} in Spanish, ${de} in German and ${fr} in French. Its stock settings include an average pitch of ${ap} Hz, a head size of ${hs}%, breathiness of ${br} dB and a pitch range of ${pr}%. Any voice can be reshaped with the Design Voice [:dv] command, and changes can be saved as a tenth voice, Val.`});
+});
 };

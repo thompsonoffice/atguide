@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-One of DECtalk's nine built-in voices.
+One of DECtalk's nine built-in voices. In the DECtalk Software reference (2001, Force Computers), Rita is described as the 'female voice' and is chosen with the in-line command [:name RITA] or [:nr]. The Speak applet gives it local names: Rita in Spanish, Rita in German and Jacqueline in French. Its stock settings include an average pitch of 106 Hz, a head size of 95%, breathiness of 46 dB and a pitch range of 80%. Any voice can be reshaped with the Design Voice [:dv] command, and changes can be saved as a tenth voice, Val.
 
 Ports:
 Not applicable (software)
@@ -36,5 +36,8 @@ Not documented
 Sources:
 Source 1: https://dectalk.nu/Artists/Jayson%20Smith/Text/sample.txt
 Source 2: https://en.wikipedia.org/wiki/DECtalk
+Source 3: https://dectalk.github.io/dectalk/idhref1voiceselectionvoice.htm
+Source 4: https://dectalk.github.io/dectalk/idhsdk3definitionsofdectalksoftwarevoices.htm
+Source 5: https://dectalk.github.io/dectalk/idhsdk3designvoicedv.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

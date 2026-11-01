@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-Created from Dennis Klatt's MITalk/Klattalk formant synthesis-by-rule research and commercialized by DEC in 1984. Voices are selected with [:np]. DECtalk passed to Fonix, and Fonix DECtalk was used by Code Factory's Mobile Speak.
+Created from Dennis Klatt's MITalk/Klattalk formant synthesis-by-rule research and commercialized by DEC in 1984. Voices are selected with [:np]. DECtalk passed to Fonix, and Fonix DECtalk was used by Code Factory's Mobile Speak. In the DECtalk Software reference (2001, Force Computers), Paul is described as the 'default male voice' and is chosen with the in-line command [:name PAUL] or [:np]. The Speak applet gives it local names: Pablo in Spanish, Paul in German and Oliver in French. Its stock settings include an average pitch of 122 Hz, a head size of 100%, breathiness of 0 dB and a pitch range of 100%. Any voice can be reshaped with the Design Voice [:dv] command, and changes can be saved as a tenth voice, Val.
 
 Ports:
 Not applicable (software)
@@ -37,5 +37,8 @@ Sources:
 Source 1: https://en.wikipedia.org/wiki/DECtalk
 Source 2: https://dectalk.nu/Artists/Jayson%20Smith/Text/sample.txt
 Source 3: https://afb.org/aw/8/1/14407
+Source 4: https://dectalk.github.io/dectalk/idhref1voiceselectionvoice.htm
+Source 5: https://dectalk.github.io/dectalk/idhsdk3definitionsofdectalksoftwarevoices.htm
+Source 6: https://dectalk.github.io/dectalk/idhsdk3designvoicedv.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
