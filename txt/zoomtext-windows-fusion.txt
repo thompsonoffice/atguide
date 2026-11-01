@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-The Windows version arrived in 1991. ZoomText 10.1 got update 10.11.8 for the Windows 10 Creators Update (2017). Version 2025 (2025.2502.63) added ARM64. Versions 2025 or later are required for Windows 11 25H2.
+The Windows version arrived in 1991. ZoomText 10.1 got update 10.11.8 for the Windows 10 Creators Update (2017). Version 2025 (2025.2502.63) added ARM64. Versions 2025 or later are required for Windows 11 25H2. Ai Squared first released ZoomText for MS-DOS in 1988. Freedom Scientific bought Ai Squared in 2016. ZoomText comes in two editions, Magnifier and Magnifier/Reader (with a built-in screen reader); it magnifies up to 60 times and supports two monitors. After version 11 (2017), it switched to year-based version numbers, and updates now arrive every four to six weeks. Version 2026.2605.28 came out in May 2026.
 Predecessors: ZoomText for DOS (Ai Squared, 1988)
 
 Ports:
@@ -42,5 +42,6 @@ Sources:
 Source 1: https://support.freedomscientific.com/content/documents/manuals/ZoomText/ZoomTextUserGuideEnglishUS.pdf
 Source 2: https://support.freedomscientific.com/downloads/arm64
 Source 3: https://afb.org/aw/18/6/15200
+Source 4: https://en.wikipedia.org/wiki/ZoomText
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

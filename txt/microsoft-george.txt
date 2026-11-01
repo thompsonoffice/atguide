@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Windows 10 made the mobile voice packs universal: each downloaded language pack adds one male and one female voice. Windows 11 calls these legacy voices.
+Windows 10 made the mobile voice packs universal: each downloaded language pack adds one male and one female voice. Windows 11 calls these legacy voices. These mobile voices came from Windows Phone 8 and 8.1 and Windows 10 Mobile. Most desktop language packs had only female voices, but every mobile pack came as a male and female pair, so downloading a language added both. Microsoft has updated the mobile voices through Windows updates to sound more natural than the originals.
 
 Ports:
 Not applicable (software)

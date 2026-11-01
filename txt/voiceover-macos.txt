@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-A preview called 'Spoken Interface Preview' appeared for Mac OS X 10.3 Panther. VoiceOver shipped in 10.4 Tiger in 2005, and the Alex voice arrived with 10.5 Leopard in 2007. Mac OS X 10.7 Lion added downloadable Nuance RealSpeak voices.
+A preview called 'Spoken Interface Preview' appeared for Mac OS X 10.3 Panther. VoiceOver shipped in 10.4 Tiger in 2005, and the Alex voice arrived with 10.5 Leopard in 2007. Mac OS X 10.7 Lion added downloadable Nuance RealSpeak voices. Before Alex, Mac voices descended directly from the early-1990s Speech Manager; Alex added natural-sounding breaths. VoiceOver's Screen Curtain, which blanks the display, is available on the Mac as well as iOS. Apple brought VoiceOver to the iPod shuffle (with spoken playlists from the 2010 model) and, in September 2010, to the iPod nano. In macOS Big Sur 11.3, Apple removed the gender labels from all its voices.
 Predecessors: outSPOKEN for Macintosh (Berkeley Systems, 1989)
 
 Ports:
@@ -38,5 +38,6 @@ Included with Mac OS X 10.4 and later
 Sources:
 Source 1: https://en.wikipedia.org/wiki/VoiceOver
 Source 2: https://www.engadget.com/2007-10-26-24-hours-of-leopard-alex-the-new-voice-of-mac-os-x.html
+Source 3: https://en.wikipedia.org/wiki/PlainTalk
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

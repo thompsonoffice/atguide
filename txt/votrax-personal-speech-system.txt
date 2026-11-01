@@ -27,7 +27,7 @@ Features:
 Not documented
 
 History:
-AbleData described it as a text-to-speech unit using phonetic rules and exception tables, able to play music, with RS-232 and parallel connections.
+AbleData described it as a text-to-speech unit using phonetic rules and exception tables, able to play music, with RS-232 and parallel connections. Votrax released the Personal Speech System in 1982. It used the SC-01-A chip, controlled by a Zilog Z80 processor with two 8K EPROMs, four TTL chips and 2K of RAM, all sealed in epoxy so the design couldn't be copied. Its text-to-speech was based on the text-to-phoneme rules Votrax developed with the U.S. Naval Research Laboratory in 1973, the same rules used in the Type 'N Talk. Votrax restructured in 1984 and stopped making new consumer products, but kept selling the PSS, on and off, until at least October 1990.
 
 Ports:
 Not documented

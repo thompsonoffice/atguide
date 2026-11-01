@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Arrived with the iPhone 3GS in 2009, then the 3rd-generation iPod touch, and the iPad from its launch. Later added braille display support (iOS 4, 2010), Braille Screen Input (iOS 8, 2014) and Braille Access (2025).
+Arrived with the iPhone 3GS in 2009, then the 3rd-generation iPod touch, and the iPad from its launch. Later added braille display support (iOS 4, 2010), Braille Screen Input (iOS 8, 2014) and Braille Access (2025). VoiceOver on iOS works by gestures: sliding a finger around the screen speaks whatever is under it, so blind users can explore the real layout of an app, and a double-tap activates the selected item. Screen Curtain turns the display off but leaves touch active, saving battery. VoiceOver is turned on in Settings, Accessibility; it can also be set to toggle with a triple-click of the Home or side button, or turned on and off by asking Siri.
 
 Ports:
 Not applicable (software)

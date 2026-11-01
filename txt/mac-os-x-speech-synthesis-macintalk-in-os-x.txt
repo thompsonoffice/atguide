@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-Snow Leopard and Lion each showed six default voices, including Alex, Victoria, Bruce and Kathy. Lion added free downloadable English voices with Australian (Karen), Indian (Sangeeta), Irish (Moira), Scottish (Fiona), South African (Tessa), UK (Emily, Serena) and US (Jill, Samantha) accents.
+Snow Leopard and Lion each showed six default voices, including Alex, Victoria, Bruce and Kathy. Lion added free downloadable English voices with Australian (Karen), Indian (Sangeeta), Irish (Moira), Scottish (Fiona), South African (Tessa), UK (Emily, Serena) and US (Jill, Samantha) accents. Text-to-speech has been part of every version of Mac OS X and macOS. In 10.3 Panther the Victoria voice was rebuilt as Vicki, nearly 20 times larger because of higher-quality diphone samples (Victoria was kept). Alex arrived in 10.5 Leopard. Lion added more English accents and 21 other languages. In macOS Big Sur 11.3, Apple removed gender references from every voice, at the same time as the Siri voice changes in iOS 14.5.
 Predecessors: MacinTalk 3 (Apple, 1994 to 1995 (v1.4 in 1995); standard until Mac OS X)
 
 Ports:
@@ -37,5 +37,6 @@ Not documented
 Sources:
 Source 1: https://www.wap.org/journal/lionspeak/
 Source 2: https://www.macworld.com/article/216121/how-to-change-the-mac-s-system-voice.html
+Source 3: https://en.wikipedia.org/wiki/PlainTalk
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

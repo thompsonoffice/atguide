@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-Introduced with Windows 8 and still a Narrator voice. Hazel (U.K. female) came with David and Zira in Windows 8 as a more natural-sounding voice than Anna. In Windows 10 she was removed from the U.S. English language pack.
+Introduced with Windows 8 and still a Narrator voice. Hazel (U.K. female) came with David and Zira in Windows 8 as a more natural-sounding voice than Anna. In Windows 10 she was removed from the U.S. English language pack. In Windows 8, David, Hazel and Zira were designed to sound more natural than Anna, the voice of Vista and Windows 7. Server versions of the same voices were available through the Microsoft Speech Platform for older versions of Windows.
 
 Ports:
 Not applicable (software)

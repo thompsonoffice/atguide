@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-Mark and Zira are the Windows Phone 8, 8.1 and Windows 10 Mobile voices, made available on desktop Windows 10. Windows 11 reclassified them as 'legacy voices' after the Narrator natural voices arrived.
+Mark and Zira are the Windows Phone 8, 8.1 and Windows 10 Mobile voices, made available on desktop Windows 10. Windows 11 reclassified them as 'legacy voices' after the Narrator natural voices arrived. With Windows 10, Microsoft tried to use the same speech voices across all its platforms. Mark is not the voice of Cortana; Cortana's organic responses used a hidden voice called Eva. Microsoft has updated the mobile voices through Windows updates to sound more natural than the originals.
 
 Ports:
 Not applicable (software)
