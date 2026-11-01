@@ -1,13 +1,13 @@
 OpenBook
 Company: Arkenstone
 Category: Other
-Released: Not documented
+Released: An Arkenstone product. Arkenstone merged with Henter-Joyce and Blazie Engineering in 2000 to form Freedom Scientific, which continued OpenBook (Wikipedia). The first release year was not found.
 
 Overview:
 Arkenstone's PC scanning and reading software, later sold by Freedom Scientific.
 
 Specs:
-Released: Not documented
+Released: An Arkenstone product. Arkenstone merged with Henter-Joyce and Blazie Engineering in 2000 to form Freedom Scientific, which continued OpenBook (Wikipedia). The first release year was not found.
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented

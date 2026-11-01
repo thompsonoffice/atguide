@@ -1,13 +1,13 @@
 ALVA ABT-3 series
 Company: ALVA BV
 Category: Braille Displays
-Released: Not documented
+Released: No release year was found in the NFB's 2026 Braille technology timeline or in ALVA material. For context, ALVA's cursor-routing patent was filed in the Netherlands in 1987 and granted in the US in 1991 (NFB timeline).
 
 Overview:
 ALVA's desktop braille terminals of the 1990s, with cursor routing.
 
 Specs:
-Released: Not documented
+Released: No release year was found in the NFB's 2026 Braille technology timeline or in ALVA material. For context, ALVA's cursor-routing patent was filed in the Netherlands in 1987 and granted in the US in 1991 (NFB timeline).
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented

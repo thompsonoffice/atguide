@@ -1,13 +1,13 @@
 AT&T Labs (Natural Voices)
 Type: Company profile
-Founded: Not documented
+Founded: AT&T Labs was formed in 1996; Natural Voices launched in 2001
 Products listed: 1
 
 History:
 AT&T Natural Voices were concatenative voices, including Crystal and Mike.
 
 Products:
-AT&T Natural Voices (Crystal, Mike) (TTS Voices, Not documented)
+AT&T Natural Voices (Crystal, Mike) (TTS Voices, 2001: AT&T Labs launched the Natural Voices TTS Engine on July 31, 2001.)
 
 Operating System and Software Histories:
 Not documented

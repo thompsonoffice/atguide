@@ -11,7 +11,7 @@ Nuance Daniel (TTS Voices, By 2016 (updated in Vocalizer Expressive 2.2))
 Nuance Samantha (TTS Voices, By 2016 (updated in Vocalizer Expressive 2.2))
 Nuance TALKS (and ZOOMS) (Screen Readers, By 2004 to about 2013)
 Nuance Tom (TTS Voices, By 2016 (updated in Vocalizer Expressive 2.2))
-Nuance Vocalizer / RealSpeak (engine) (TTS Voices, 2000s to present (first release not documented))
+Nuance Vocalizer / RealSpeak (engine) (TTS Voices, Mid-2000s to present. Nuance built its TTS line through acquisitions, including Rhetorical (2004) and SVOX (2011), and Vocalizer was the TTS in the first-generation Victor Reader Stream (2007). The first release date of the Vocalizer brand itself was not found.)
 
 Operating System and Software Histories:
 Not documented

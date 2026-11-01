@@ -37,7 +37,7 @@ Three versions; the first tethers to a NuEyes controller with dual 6DoF cameras 
 History:
 Not documented
 Predecessors: NuEyes Easy (NuEyes, 2016)
-Successors: NuEyes Pro (Pro, Pro 3, Pro 4) (NuEyes, Not documented)
+Successors: NuEyes Pro (Pro, Pro 3, Pro 4) (NuEyes, By October 2024, when the Pro 4 LV brochure was published. Its predecessor, the Pro 3, was announced on December 15, 2020.)
 
 Ports:
 Not documented

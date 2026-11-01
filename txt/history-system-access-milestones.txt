@@ -9,7 +9,7 @@ Serotek's and Pneuma Solutions' System Access screen reader. Per-version release
 Version History:
 
 Version 1: FreedomBox
-Released: Not documented
+Released: Date not given in the sources cited for this history
 Notes: Serotek's FreedomBox was a simplified, speech-driven portal for the web, email and other services; AccessWorld reviewed it as a system for 'the liberty to use a computer'. It evolved into System Access in 2005.
 
 Version 2: System Access
@@ -29,7 +29,7 @@ System Access (Serotek (now Pneuma Solutions), December 2005)
 
 System Requirements:
 System Access to Go (2008): Windows XP or Vista, an Internet connection, a sound card and a recent Internet Explorer.
-Other versions: Not documented.
+Other versions: not listed in the sources cited (System Access release notes were not found).
 
 Sources:
 Source 1: https://pneumasolutions.com/about/

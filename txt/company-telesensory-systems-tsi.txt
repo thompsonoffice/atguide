@@ -13,7 +13,7 @@ VersaBraille (Notetakers, December 1979)
 Optacon II (Other, 1985 (developed with Canon))
 VersaBraille II+ (Notetakers, 1987)
 TSI Navigator (Braille Displays, 1989)
-Soft Vert (Screen Readers, Not documented)
+Soft Vert (Screen Readers, DOS era: Wikipedia's list of screen readers gives it as a commercial DOS screen reader from TeleSensory Systems. No release year was found.)
 
 Operating System and Software Histories:
 Not documented

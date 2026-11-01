@@ -21,7 +21,7 @@ Released: Announced January 2009; released July 2009
 Notes: For mPower and PK only, not Classic. Added real-time communication features, a richer book-reading experience and a 90-day Sendero GPS trial. Required one SMA count; free for units bought after January 1, 2009. mPower releases stopped at 8.1.
 
 Version 4: 9.1
-Released: Not documented
+Released: Date not given in the sources cited for this history
 Notes: For the Apex. Enhanced tables and formatting support.
 
 Version 5: 9.3

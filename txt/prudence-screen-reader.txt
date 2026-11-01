@@ -1,14 +1,14 @@
 Prudence Screen Reader
 Company: Prudence Interactive
 Category: Screen Readers
-Released: Not documented (on Google Play)
+Released: Current Android app. Neither its Google Play listing nor AudibleGame's page shows a first-release date.
 
 Overview:
 An Android screen reader with gestures, OCR, voice input and translation in over 40 languages.
 
 Specs:
 Developer: Prudence Interactive
-Release years: Not documented (on Google Play)
+Release years: Current Android app. Neither its Google Play listing nor AudibleGame's page shows a first-release date.
 Runs on: Android
 Default speech: Not documented
 Price: Not documented

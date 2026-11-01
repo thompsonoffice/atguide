@@ -1,14 +1,14 @@
 Nuance Vocalizer / RealSpeak (engine)
 Company: Nuance Communications
 Category: TTS Voices
-Released: 2000s to present (first release not documented)
+Released: Mid-2000s to present. Nuance built its TTS line through acquisitions, including Rhetorical (2004) and SVOX (2011), and Vocalizer was the TTS in the first-generation Victor Reader Stream (2007). The first release date of the Vocalizer brand itself was not found.
 
 Overview:
 Nuance's concatenative TTS family. Voices include Tom, Samantha, Daniel and Karen, according to a fan-maintained list that should be treated as a weak source.
 
 Specs:
 Maker: Nuance Communications
-First released: 2000s to present (first release not documented)
+First released: Mid-2000s to present. Nuance built its TTS line through acquisitions, including Rhetorical (2004) and SVOX (2011), and Vocalizer was the TTS in the first-generation Victor Reader Stream (2007). The first release date of the Vocalizer brand itself was not found.
 Synthesis type: Concatenative (unit selection)
 Platforms: Windows, embedded devices, mobile
 Default on or shipped with: Victor Reader Stream (1st generation), ClassMate Reader; included with JAWS (Vocalizer Expressive)

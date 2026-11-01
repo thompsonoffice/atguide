@@ -4,7 +4,7 @@ Category: Book Readers
 Released: 2014
 
 Overview:
-A HIMS book player in the Blaze line. Details are not documented in the sources found.
+A HIMS book player in the Blaze line. HIMS lists the Blaze EZ (2014) under 'DAISY Player and OCR Multi Player' in its product history, between the BookSense XT (2009) and the Blaze ET (2015).
 
 Specs:
 Released: 2014

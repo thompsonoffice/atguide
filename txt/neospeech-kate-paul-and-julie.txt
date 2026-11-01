@@ -1,14 +1,14 @@
 NeoSpeech Kate, Paul and Julie
 Company: NeoSpeech
 Category: TTS Voices
-Released: Not documented
+Released: 2001 to 2002: Kate was released in September 2001 and Paul in May 2002 (Wikipedia, NeoSpeech). Julie's release date was not found.
 
 Overview:
 NeoSpeech's US English voices.
 
 Specs:
 Maker: NeoSpeech
-First released: Not documented
+First released: 2001 to 2002: Kate was released in September 2001 and Paul in May 2002 (Wikipedia, NeoSpeech). Julie's release date was not found.
 Synthesis type: Unit selection synthesis (corpus-based concatenation of recorded speech; VoiceText engine, originally from Voiceware)
 Platforms: Windows (SAPI) and others
 Default on or shipped with: No single default. The BookSense uses Paul and Kate as its two reading voices.

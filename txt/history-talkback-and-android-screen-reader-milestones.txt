@@ -38,7 +38,7 @@ Notes: Renamed Android Accessibility Suite.
 
 Version 8: 7.2
 Released: November 2018
-Notes: Not documented
+Notes: Changes not listed in the sources cited for this history
 
 Version 9: 7.3
 Released: March 2019

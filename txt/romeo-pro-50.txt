@@ -1,13 +1,13 @@
 Romeo Pro 50
 Company: Enabling Technologies (formerly Triformation Systems)
 Category: Embossers
-Released: Not documented
+Released: Sold alongside the Romeo 25 in Enabling Technologies' brochure. The introduction year was not found in that brochure or at atkratter.com.
 
 Overview:
 The faster sibling of the Romeo 25, at 50 characters per second with ET Speaks speech feedback and single-sheet tractors.
 
 Specs:
-Released: Not documented
+Released: Sold alongside the Romeo 25 in Enabling Technologies' brochure. The introduction year was not found in that brochure or at atkratter.com.
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented

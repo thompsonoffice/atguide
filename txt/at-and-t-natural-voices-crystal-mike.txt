@@ -1,14 +1,14 @@
 AT&T Natural Voices (Crystal, Mike)
 Company: AT&T Labs (Natural Voices)
 Category: TTS Voices
-Released: Not documented
+Released: 2001: AT&T Labs launched the Natural Voices TTS Engine on July 31, 2001.
 
 Overview:
 AT&T Labs voices. In 2007 Engadget treated them as a high-end benchmark when comparing Apple's Alex.
 
 Specs:
 Maker: AT&T Labs (Natural Voices)
-First released: Not documented
+First released: 2001: AT&T Labs launched the Natural Voices TTS Engine on July 31, 2001.
 Synthesis type: Concatenative
 Platforms: Windows (SAPI)
 Default on or shipped with: Not a default in any OS; a commercial SAPI 5.1 engine

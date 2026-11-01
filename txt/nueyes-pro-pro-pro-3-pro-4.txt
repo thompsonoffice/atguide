@@ -1,13 +1,13 @@
 NuEyes Pro (Pro, Pro 3, Pro 4)
 Company: NuEyes
 Category: Vision Wearables
-Released: Not documented
+Released: By October 2024, when the Pro 4 LV brochure was published. Its predecessor, the Pro 3, was announced on December 15, 2020.
 
 Overview:
 NuEyes' smart-glasses line, up to 12x magnification on the Pro 4.
 
 Specs:
-Released: Not documented
+Released: By October 2024, when the Pro 4 LV brochure was published. Its predecessor, the Pro 3, was announced on December 15, 2020.
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-NuEyes announced the Pro 3 on December 15, 2020 (see its entry). The Pro 4 is sold through eye-care professionals; a Pro 4 LV brochure was published in October 2024. Its exact release date is not documented.
+NuEyes announced the Pro 3 on December 15, 2020 (see its entry). The Pro 4 is sold through eye-care professionals; a Pro 4 LV brochure was published in October 2024. The earliest dated Pro 4 material found is the October 2024 brochure.
 Predecessors: NuEyes Easy (NuEyes, 2016)
 
 Ports:

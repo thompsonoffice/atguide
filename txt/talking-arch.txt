@@ -1,14 +1,14 @@
 Talking Arch
 Company: Linux accessibility community
 Category: Accessible Linux
-Released: Not documented (last release reported in 2017)
+Released: Active by 2015 (opensource.com describes it as a speech- and braille-enabled Arch Linux); the last release was reported in 2017.
 
 Overview:
 A speech- and braille-enabled Arch Linux live image with no graphical installer.
 
 Specs:
 Developer: Linux accessibility community
-Release years: Not documented (last release reported in 2017)
+Release years: Active by 2015 (opensource.com describes it as a speech- and braille-enabled Arch Linux); the last release was reported in 2017.
 Runs on: Arch Linux
 Default speech: Not documented
 Price: Not documented

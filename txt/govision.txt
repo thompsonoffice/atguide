@@ -4,7 +4,7 @@ Category: Magnifiers
 Released: 2016
 
 Overview:
-A HIMS video magnifier. Details are not documented in the sources found.
+A HIMS video magnifier. HIMS lists GoVision (2016) under 'Low Vision Digital Magnifier' in its product history.
 
 Specs:
 Released: 2016

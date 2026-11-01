@@ -37,7 +37,7 @@ Released: 2022
 Notes: More than 20 additional VoiceOver languages and locales, and Text Checker for formatting errors.
 
 Version 8: Later versions
-Released: Not documented
+Released: Date not given in the sources cited for this history
 Notes: Version-by-version macOS VoiceOver changes after Ventura are not documented in the sources used.
 
 Devices and Software That Ran It:

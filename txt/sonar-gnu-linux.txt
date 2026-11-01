@@ -1,14 +1,14 @@
 Sonar GNU/Linux
 Company: Linux accessibility community
 Category: Accessible Linux
-Released: By 2015 (exact year not documented)
+Released: Active by 2015. An August 2015 opensource.com article by one of its co-developers describes Sonar as based on Manjaro Linux, in three editions (two desktops and a command-line edition).
 
 Overview:
 A Manjaro-based accessible distribution offered in three editions.
 
 Specs:
 Developer: Linux accessibility community
-Release years: By 2015 (exact year not documented)
+Release years: Active by 2015. An August 2015 opensource.com article by one of its co-developers describes Sonar as based on Manjaro Linux, in three editions (two desktops and a command-line edition).
 Runs on: Manjaro-based
 Default speech: Not documented
 Price: Not documented

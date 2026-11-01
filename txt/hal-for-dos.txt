@@ -1,14 +1,14 @@
 Hal for DOS
 Company: Dolphin Computer Access
 Category: Screen Readers
-Released: DOS era (year not documented)
+Released: DOS era. Wikipedia lists Hal for both DOS and Windows; the Windows version was later superseded by SuperNova and Dolphin ScreenReader. The DOS release year was not found.
 
 Overview:
 Dolphin's original Hal screen reader for DOS.
 
 Specs:
 Developer: Dolphin Computer Access
-Release years: DOS era (year not documented)
+Release years: DOS era. Wikipedia lists Hal for both DOS and Windows; the Windows version was later superseded by SuperNova and Dolphin ScreenReader. The DOS release year was not found.
 Runs on: MS-DOS
 Default speech: Not documented
 Price: Not documented

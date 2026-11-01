@@ -1,14 +1,14 @@
 Soft Vert
 Company: Telesensory Systems (TSI)
 Category: Screen Readers
-Released: Not documented
+Released: DOS era: Wikipedia's list of screen readers gives it as a commercial DOS screen reader from TeleSensory Systems. No release year was found.
 
 Overview:
 Telesensory's DOS screen reader.
 
 Specs:
 Developer: Telesensory Systems (TSI)
-Release years: Not documented
+Release years: DOS era: Wikipedia's list of screen readers gives it as a commercial DOS screen reader from TeleSensory Systems. No release year was found.
 Runs on: MS-DOS
 Default speech: Not documented
 Price: Not documented

@@ -33,11 +33,11 @@ Released: December 2023
 Notes: Upgraded Android 10 to Android 12.
 
 Version 7: BrailleSense 6 firmware 2.1 and 2.5
-Released: Not documented
+Released: Date not given in the sources cited for this history
 Notes: Release notes not documented in the sources found.
 
 Version 8: BrailleSense 6 firmware 3.0
-Released: Not documented
+Released: Date not given in the sources cited for this history
 Notes: Redesigned menu, new browser, Braille Practice, Word Processor formatting and stability improvements.
 
 Version 9: BrailleSense 7 (Android 15)

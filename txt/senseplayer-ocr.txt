@@ -4,7 +4,7 @@ Category: Book Readers
 Released: 2023
 
 Overview:
-A HIMS player with OCR. Details are not documented in the sources found.
+A HIMS player with OCR. HIMS lists the SensePlayer OCR (2023) as its latest 'DAISY Player and OCR Multi Player', following the Blaze ET (2015).
 
 Specs:
 Released: 2023

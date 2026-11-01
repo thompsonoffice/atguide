@@ -1,13 +1,13 @@
 Dolphin Apollo
 Company: Dolphin Computer Access
 Category: Speech Synthesizers
-Released: Not documented
+Released: A hardware speech synthesizer from Dolphin's DOS-era range, alongside Hal for DOS. No release year was found in Wikipedia's list of screen readers or on Dolphin's site.
 
 Overview:
 Dolphin's hardware synthesizer, often paired with Hal.
 
 Specs:
-Released: Not documented
+Released: A hardware speech synthesizer from Dolphin's DOS-era range, alongside Hal for DOS. No release year was found in Wikipedia's list of screen readers or on Dolphin's site.
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented

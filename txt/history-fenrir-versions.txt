@@ -17,19 +17,19 @@ Released: February 7, 2017
 Notes: First stable release, announced by Storm Dragon.
 
 Version 3: 1.9
-Released: Not documented
+Released: Date not given in the sources cited for this history
 Notes: Recommended for production. Speech and sound icons, clipboard history (10 entries), desktop, laptop and PTY layouts, learn mode, spell check and definable windows.
 
 Version 4: 1.9.2
-Released: July 16 (year not documented)
+Released: July 16 (year not given in the release notes)
 Notes: Import from the X clipboard, barrier mode for dialog-style windows, better highlight tracking and attribute sound icons.
 
 Version 5: 1.9.6
-Released: February 15 (year not documented)
+Released: February 15 (year not given in the release notes)
 Notes: Menu-style macros and a settings menu; reworked Speech Dispatcher driver (voice and language swapped).
 
 Version 6: 1.9.7
-Released: May 17 (year not documented)
+Released: May 17 (year not given in the release notes)
 Notes: Device-detection fix, gstreamer driver no longer experimental, Russian translation, real Unicode in VCSA and faster pty backends.
 
 Devices and Software That Ran It:

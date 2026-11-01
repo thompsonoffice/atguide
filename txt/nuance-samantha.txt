@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-A US English female Nuance Vocalizer voice. Freedom Scientific's JAWS 18 notes describe Samantha, Tom, Daniel and Karen as familiar voices updated for Vocalizer Expressive 2.2, and Nuance's Vocalizer documentation lists Samantha. The first release date is not documented.
+A US English female Nuance Vocalizer voice. Freedom Scientific's JAWS 18 notes describe Samantha, Tom, Daniel and Karen as familiar voices updated for Vocalizer Expressive 2.2, and Nuance's Vocalizer documentation lists Samantha. Freedom Scientific's JAWS 18 notes (2016) describe it as a familiar voice updated for Vocalizer Expressive 2.2. Apple also shipped Tom and Samantha as new voices in Mac OS X 10.7 Lion in 2011 (AppleInsider). No first-release date was found in Nuance's documentation.
 
 Ports:
 Not applicable (software)
@@ -37,5 +37,6 @@ Source 1: https://docs.nuance.com/nuance-vocalizer-for-enterprise/voc-dev/lang.h
 Source 2: https://saomaicenter.org/en/blog/whats-new-jaws-180
 Source 3: https://docs.nuance.com/speech-suite/voc-dev/primer.html
 Source 4: https://speech.zone/courses/speech-synthesis/module-1-introduction/current-technology/
+Source 5: https://appleinsider.com/articles/11/03/02/insidemacosx107liondozensofhighqualitynewmultilingualspeechvoices
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

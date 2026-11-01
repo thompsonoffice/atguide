@@ -1,14 +1,14 @@
 Acapela voices
 Company: Acapela Group
 Category: TTS Voices
-Released: Not documented
+Released: Current. Acapela voices remain in products in 2026: Stream 3 firmware 1.7 (September 2026) supports up to two Acapela voices. The founding year of the Acapela Group could not be confirmed, because its about page and Wikipedia did not load in this research.
 
 Overview:
 Acapela Group's TTS voices are the default in HumanWare's Stream 2, Stream 3 and Trek.
 
 Specs:
 Maker: Acapela Group
-First released: Not documented
+First released: Current. Acapela voices remain in products in 2026: Stream 3 firmware 1.7 (September 2026) supports up to two Acapela voices. The founding year of the Acapela Group could not be confirmed, because its about page and Wikipedia did not load in this research.
 Synthesis type: Unit selection (concatenating studio recordings); later Acapela DNN neural voices
 Platforms: Embedded devices and others
 Default on or shipped with: Victor Reader Stream 2 and 3, Victor Reader Trek

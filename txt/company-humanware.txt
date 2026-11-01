@@ -29,7 +29,7 @@ Brailliant BI 40X (Braille Displays, Shipping since mid-February 2021)
 Victor Reader Stream (3rd generation) (Book Readers, 2023 to present)
 BrailleNote Evolve (Notetakers, Previewed late 2025; launched 2026)
 HumanWare Companion (software) (Other, Current version 4.2.9)
-SmartView Graduate (Magnifiers, Not documented)
+SmartView Graduate (Magnifiers, A HumanWare desktop video magnifier. HumanWare's store page gives no introduction year.)
 
 Operating System and Software Histories:
 KeySoft

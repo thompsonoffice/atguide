@@ -1,14 +1,14 @@
 Microsoft Screen Reader (requested entry)
 Company: Microsoft
 Category: Screen Readers
-Released: Not documented
+Released: 2000: Microsoft's built-in screen reader, Narrator, debuted in Windows 2000 on February 17, 2000 (AbilityNet, 'Microsoft Narrator turns 21').
 
 Overview:
 You asked for this as Narrator's Windows 2000-era predecessor, but no source found during research documents a separate Microsoft product by this name. Narrator itself first shipped in Windows 2000.
 
 Specs:
 Developer: Microsoft
-Release years: Not documented
+Release years: 2000: Microsoft's built-in screen reader, Narrator, debuted in Windows 2000 on February 17, 2000 (AbilityNet, 'Microsoft Narrator turns 21').
 Runs on: Not documented
 Default speech: Not documented
 Price: Not documented

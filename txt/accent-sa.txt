@@ -1,13 +1,13 @@
 Accent SA
 Company: Aicom Corporation
 Category: Speech Synthesizers
-Released: Not documented
+Released: A serial-port synthesizer of the DOS era. No release year was found in the NFB timeline or in the archived Aicom material searched.
 
 Overview:
 Aicom's serial speech synthesizer.
 
 Specs:
-Released: Not documented
+Released: A serial-port synthesizer of the DOS era. No release year was found in the NFB timeline or in the archived Aicom material searched.
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented

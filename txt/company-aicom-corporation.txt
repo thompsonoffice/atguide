@@ -1,13 +1,13 @@
 Aicom Corporation
 Type: Company profile
-Founded: Not documented
+Founded: Founding year not found (searched NFB timeline and archived Accent material)
 Products listed: 1
 
 History:
 Maker of the Accent SA serial speech synthesizer.
 
 Products:
-Accent SA (Speech Synthesizers, Not documented)
+Accent SA (Speech Synthesizers, A serial-port synthesizer of the DOS era. No release year was found in the NFB timeline or in the archived Aicom material searched.)
 
 Operating System and Software Histories:
 Not documented

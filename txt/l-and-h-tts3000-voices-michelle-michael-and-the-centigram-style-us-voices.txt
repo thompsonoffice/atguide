@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Other languages included British English (Carol, Peter), Dutch (Linda, Alexander), French (Véronique, Pierre), German (Anna, Stefan), Italian (Barbara, Stefano), Japanese (Naoko, Kenji), Mexican Spanish (Pedro and others), Korean and Russian (Boris). The exact release year is not documented.
+Other languages included British English (Carol, Peter), Dutch (Linda, Alexander), French (Véronique, Pierre), German (Anna, Stefan), Italian (Barbara, Stefano), Japanese (Naoko, Kenji), Mexican Spanish (Pedro and others), Korean and Russian (Boris). It must predate 2001, when Lernout & Hauspie (founded in 1987) went bankrupt after a fraud scandal (Wikipedia). The exact release year was not found.
 
 Ports:
 Not applicable (software)
@@ -37,5 +37,6 @@ Source 1: https://help.genesys.com/pureconnect/mergedprojects/whid/desktop/hidtt
 Source 2: https://learn.microsoft.com/en-us/windows/win32/lwef/accessing-a-speech-engine-in-your-code
 Source 3: https://patents.google.com/patent/US6665641B1/en
 Source 4: https://www.isca-archive.org/icslp2000/coorman00icslp.pdf
+Source 5: https://en.wikipedia.org/wiki/Lernout%26Hauspie
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

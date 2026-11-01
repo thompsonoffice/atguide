@@ -7,7 +7,7 @@ History:
 A TTS vendor whose US English voices included Paul, Julie and Kate. It later moved its hosting to Amazon. Its Kate voice was released in September 2001 and Paul in May 2002. Voiceware and NeoSpeech joined the ReadSpeaker brand in 2019.
 
 Products:
-NeoSpeech Kate, Paul and Julie (TTS Voices, Not documented)
+NeoSpeech Kate, Paul and Julie (TTS Voices, 2001 to 2002: Kate was released in September 2001 and Paul in May 2002 (Wikipedia, NeoSpeech). Julie's release date was not found.)
 
 Operating System and Software Histories:
 Not documented

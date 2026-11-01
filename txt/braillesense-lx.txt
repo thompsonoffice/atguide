@@ -4,7 +4,7 @@ Category: BrailleSense
 Released: 2008
 
 Overview:
-A 2008 BrailleSense variant. Detailed specifications are not documented.
+A 2008 BrailleSense variant. HIMS lists it as its 2007 to 2008 notetaker, between the original BrailleSense (2004) and the BrailleSense OnHand (2010). Neither HIMS nor Selvas BLV publishes a spec sheet for it.
 
 Specs:
 Released: 2008

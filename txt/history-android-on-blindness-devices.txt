@@ -28,7 +28,7 @@ Version 5: Android 12
 Released: 2024
 Notes: Braille eMotion; current Connect 12 tablet.
 
-Version 6: Android (version not documented)
+Version 6: Android (version not stated in the sources cited)
 Released: 2024
 Notes: Monarch.
 

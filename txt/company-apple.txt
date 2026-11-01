@@ -47,7 +47,7 @@ Tessa (Apple, South African English) (TTS Voices, Mac OS X Lion (2011))
 Siri deep-learning voices (iOS 11) (TTS Voices, 2017 (iOS 11))
 Siri voices (iOS 14.5) (TTS Voices, April 2021 (iOS 14.5))
 Siri Voice 5 (Quinn) (TTS Voices, February 2022 (iOS 15.4 beta))
-Vicki (Apple) (TTS Voices, Mac OS X (first version not documented))
+Vicki (Apple) (TTS Voices, 2003: added in Mac OS X 10.3 Panther (released October 24, 2003) and made the default voice. Vicki is an enhanced Victoria built from much larger diphone samples, almost 20 times its size (AppleInsider; Wikipedia, PlainTalk).)
 
 Operating System and Software Histories:
 VoiceOver versions

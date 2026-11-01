@@ -4,7 +4,7 @@ Category: Operating system or software version history
 Versions listed: 3
 
 Overview:
-Samsung's own Android screen reader for Galaxy phones. Reports say it was first called Galaxy TalkBack (Samsung's build of Google's reader) before being renamed Voice Assistant; the exact rename date is not documented in sources checked. Samsung co-developed the 'all-new TalkBack' with Google, and from One UI 3 (Android 11) TalkBack replaced Voice Assistant as the default on all Galaxy devices, keeping its multi-finger gestures and menu ideas.
+Samsung's own Android screen reader for Galaxy phones. Reports say it was first called Galaxy TalkBack (Samsung's build of Google's reader) before being renamed Voice Assistant; the exact rename date was not found in the sources checked. Samsung co-developed the 'all-new TalkBack' with Google, and from One UI 3 (Android 11) TalkBack replaced Voice Assistant as the default on all Galaxy devices, keeping its multi-finger gestures and menu ideas.
 
 Version History:
 

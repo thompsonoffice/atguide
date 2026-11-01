@@ -81,7 +81,7 @@ Released: November 2014 (per AT Observatory; Freedom Scientific's own date list 
 Notes: Touch cursor navigation and Windows 8 touch support, FSReader 3, Speech History and braille improvements. Last version for Windows XP.
 
 Version 19: JAWS 17
-Released: Not documented
+Released: Date not given in the sources cited for this history
 Notes: Last version for Windows Vista.
 
 Version 20: JAWS 18

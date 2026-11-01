@@ -18,7 +18,7 @@ Notes: Listed at $75 in GW Micro's history.
 
 Version 3: 3.0
 Released: January 11, 1999
-Notes: Not documented
+Notes: Changes not listed in the sources cited for this history
 
 Version 4: 4.0
 Released: October 16, 2000

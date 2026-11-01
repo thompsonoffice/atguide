@@ -7,7 +7,7 @@ History:
 A European TTS company. Its voices are the default in the Victor Reader Stream 2 and 3 and the Victor Reader Trek.
 
 Products:
-Acapela voices (TTS Voices, Not documented)
+Acapela voices (TTS Voices, Current. Acapela voices remain in products in 2026: Stream 3 firmware 1.7 (September 2026) supports up to two Acapela voices. The founding year of the Acapela Group could not be confirmed, because its about page and Wikipedia did not load in this research.)
 
 Operating System and Software Histories:
 Not documented

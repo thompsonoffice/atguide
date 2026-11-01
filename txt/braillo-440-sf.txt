@@ -1,13 +1,13 @@
 Braillo 440 SF
 Company: Braillo
 Category: Embossers
-Released: Not documented
+Released: Predates the S2 line, which Braillo introduced after American Thermoform bought the company in 2016 (braillo.com). The original introduction year was not found.
 
 Overview:
 Braillo calls it the first fully automated braille book production system. It followed the 400 S, 400 SR and 440 SW.
 
 Specs:
-Released: Not documented
+Released: Predates the S2 line, which Braillo introduced after American Thermoform bought the company in 2016 (braillo.com). The original introduction year was not found.
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented

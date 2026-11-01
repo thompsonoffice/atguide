@@ -4,7 +4,7 @@ Category: Magnifiers
 Released: 2018
 
 Overview:
-A later GoVision model. Details are not documented in the sources found.
+A later GoVision model. HIMS lists GoVision Pro (2018) under 'Low Vision Digital Magnifier', after GoVision (2016) and before GoVision Move (2026).
 
 Specs:
 Released: 2018

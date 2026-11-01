@@ -1,6 +1,6 @@
 Linux accessibility community
 Type: Company profile
-Founded: Not documented
+Founded: Not a company; projects date from 1995 (BRLTTY) and 1998 (Speakup)
 Products listed: 10
 
 History:
@@ -14,9 +14,9 @@ Oralux (Accessible Linux, July 3, 2003 (0.03))
 Vinux (Accessible Linux, 2008 to January 18, 2017 (discontinued))
 Fenrir (Screen Readers, Repository July 2016; 1.0 released February 7, 2017)
 ADRIANE (Knoppix) (Accessible Linux, Since KNOPPIX 5.3 (ADRIANE 1.7 in KNOPPIX 7.4.1))
-Jenux (Accessible Linux, Not documented (active in 2023 and 2026))
-Sonar GNU/Linux (Accessible Linux, By 2015 (exact year not documented))
-Talking Arch (Accessible Linux, Not documented (last release reported in 2017))
+Jenux (Accessible Linux, Active by January 2023 (the Jenux-2023.01.17 dual ISO on the Blinux list); ISO, Docker and Crostini builds were updated in October 2026.)
+Sonar GNU/Linux (Accessible Linux, Active by 2015. An August 2015 opensource.com article by one of its co-developers describes Sonar as based on Manjaro Linux, in three editions (two desktops and a command-line edition).)
+Talking Arch (Accessible Linux, Active by 2015 (opensource.com describes it as a speech- and braille-enabled Arch Linux); the last release was reported in 2017.)
 
 Operating System and Software Histories:
 Linux (on blindness devices)

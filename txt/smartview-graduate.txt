@@ -1,13 +1,13 @@
 SmartView Graduate
 Company: HumanWare
 Category: Magnifiers
-Released: Not documented
+Released: A HumanWare desktop video magnifier. HumanWare's store page gives no introduction year.
 
 Overview:
 A desktop distance and near magnifier, up to 50x.
 
 Specs:
-Released: Not documented
+Released: A HumanWare desktop video magnifier. HumanWare's store page gives no introduction year.
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented

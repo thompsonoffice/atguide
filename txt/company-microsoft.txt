@@ -18,7 +18,7 @@ Microsoft Zira (TTS Voices, Windows 8 to present)
 Microsoft George (TTS Voices, 2015 (Windows 10 OneCore voice))
 Microsoft Mark (TTS Voices, 2015 (Windows 10))
 Microsoft Narrator natural voices (Aria, Jenny, Guy) (TTS Voices, January 27, 2022 (Windows 11 Insider Preview Build 22543); general release in Windows 11 version 22H2)
-Microsoft Screen Reader (requested entry) (Screen Readers, Not documented)
+Microsoft Screen Reader (requested entry) (Screen Readers, 2000: Microsoft's built-in screen reader, Narrator, debuted in Windows 2000 on February 17, 2000 (AbilityNet, 'Microsoft Narrator turns 21').)
 
 Operating System and Software Histories:
 Windows CE / Windows Mobile (on notetakers and PDAs)

@@ -1,13 +1,13 @@
 Romeo RB-25 (Romeo 25)
 Company: Enabling Technologies (formerly Triformation Systems)
 Category: Embossers
-Released: In use by 2006 (introduction year not documented)
+Released: In use by 2006, per an Enabling Technologies brochure. The introduction year was not found.
 
 Overview:
 A rugged single-sided tractor-feed embosser at 25 characters per second.
 
 Specs:
-Released: In use by 2006 (introduction year not documented)
+Released: In use by 2006, per an Enabling Technologies brochure. The introduction year was not found.
 Processor: Not stated by Enabling Technologies; the published specs give an 18,000-character text buffer and 25 characters per second
 Memory (RAM): 18,000-character text buffer
 Storage: Not documented
