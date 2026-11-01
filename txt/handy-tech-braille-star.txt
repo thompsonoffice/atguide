@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+This description is of the Braille Star 80, the larger of the two models, as set out in Handy Tech's version 4.2 manual; the Braille Star 40 is a shorter 40-cell version. The Star 80 measures about 23.2 inches wide, 9.7 inches deep and 1.7 inches high, and weighs about 5.5 pounds (2.5 kg). Its battery uses regular AA-size rechargeable cells.
+Place it with the controls toward you. Along the front edge, in the center, are two space keys, with four function keys on each side. Those eight keys are also the braille keyboard: from left to right, dots 7, 3, 2, 1, 4, 5, 6 and 8. Behind them runs a line of 80 concave piezoelectric braille cells, each with its own built-in cursor routing key. At each end of the line, flush with the cells, is a Triple Action Key that you press at its top, center or bottom.
+Above and behind the cells on the right side is a 16-key number pad, four rows of four keys, laid out like a standard PC number pad. A screen reader can assign commands to these keys.
+On the right side, from front to back, are two stereo headphone or microphone jacks, then the main power toggle switch (flip it toward you to turn it on), then the power socket. On the back, from left to right, are two stereo jacks that link to the front jacks and your sound card, a PS/2 keyboard port, the USB port to the computer, a second PS/2 port, a small toggle switch, a third PS/2 port, and the serial port.
+The small toggle switch chooses whether the display talks to the computer by USB or serial, and it also switches the PS/2 keyboard pass-through. That lets one keyboard and display serve two PCs. The unit has 4 MB of note memory.
+
 Features:
 Not documented
 
@@ -40,5 +47,7 @@ Not documented
 
 Sources:
 Source 1: https://www.helptech.eu/history
+Source 2: https://www.helptech.eu/downloads
+Source 3: https://d5b3656b-37f9-4ef5-85ec-34fbe5588f31.usrfiles.com/ugd/d5b3659ef268bc9ba94006a114248c71f87343.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

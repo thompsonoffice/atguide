@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Active Star (as described in Help Tech's version 3.2 manual) is a 40-cell braille display built to sit in front of a laptop. It measures about 12.7 inches wide, 8.6 inches deep and 0.9 inches high, and weighs about 2.4 pounds, or about 3.15 pounds with its keyboard. It comes in a carrying case with a Velcro flap, and a compact PC keyboard with tactile markings rests on top. That keyboard is held on by magnets and connects through a short USB cable.
+Along the front edge, in the center, are two space bars. To the left and right of them are four keys each, which form the braille keyboard: from left to right, dots 7, 3, 2, 1, 4, 5, 6 and 8. Behind those keys runs the line of 40 concave piezoelectric braille cells, each with a built-in cursor routing key. At each end of the line, flush with the cells, is a Triple Action Key that you press at its top, center or bottom.
+Behind the braille cells, the top surface slides back to make a stable shelf for a laptop. To open it, take the keyboard off and the unit out of its case, hold the sides near the middle, and push back evenly with your thumbs, just behind the Triple Action Keys; you will feel slight clicks. Fully extended, it reveals a rectangular hollow for a smartphone or Bluetooth audio receiver. On the right wall of the hollow are a charging connector and a 3.5 mm audio jack that routes the sound of the inserted device to the Active Star's speakers.
+On the right side, from front to back, are the main power button and a 3.5 mm headphone or speaker jack. On the back, from left to right, are a square USB-B port for a computer or charger, two USB-A keyboard ports, and the microSD card slot, which sits between the upper and lower halves of the case.
+Underneath, the lithium-ion battery compartment is in the left rear corner, opened with a latch near the center of the unit. A small round hole about 3 cm from the right side holds a reset button you press with a paperclip. The manual lists a 5200 mAh battery lasting about 40 hours, a 16 GB microSD card, Bluetooth and a small built-in speaker.
+
 Features:
 Not documented
 
@@ -40,5 +47,7 @@ Not documented
 
 Sources:
 Source 1: https://www.helptech.eu/history
+Source 2: https://www.helptech.eu/downloads
+Source 3: https://d5b3656b-37f9-4ef5-85ec-34fbe5588f31.usrfiles.com/ugd/d5b365a637e2db78584091b4a5df92d53e20fc.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
