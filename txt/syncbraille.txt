@@ -14,7 +14,7 @@ Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: Not documented
-Display or braille cells: Not documented
+Display or braille cells: 20 cells (B20N) or 32 cells (B32N)
 Speech synthesizers available: Not documented
 Price at launch: Not documented
 Used price today (eBay): Not documented
@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+SyncBraille is a slim USB braille display from HIMS made in 20-cell and 32-cell sizes. The 32-cell model measures 26 by 8.5 by 2 centimeters and weighs 350 grams. The 20-cell model is 18.3 by 8.5 by 2 centimeters and 280 grams. Both are only 2 centimeters thick.
+The top surface carries the row of braille cells. Just behind the cells is a row of cursor keys, used to move the cursor to that position when editing.
+At each end of the display are two round scroll keys, one upper and one lower. With a PC screen reader, the right pair are the Right Up and Right Down scroll keys and the left pair the Left Up and Left Down arrow keys. Pressed together they give Home, End, Enter, Tab, Shift+Tab, Alt and Alt+F4. With a Voice Sense, the upper keys scroll back and the lower keys scroll forward.
+A small USB port on the right side is the only connector, and it has no dust cap, so the manual warns against dust and moisture. The manual describes no battery or power switch; the unit connects to a PC or a Voice Sense by USB cable.
+The package contains the display, a user manual, a USB cable, a driver CD and a carrying case. HIMS gave it a one-year warranty.
+
 Features:
 Not documented
 
 History:
-Not documented
+SyncBraille is the HIMS brand name for its small USB braille displays, models B20N (20 cells) and B32N (32 cells). The manual pairs it with the speech-only Voice Sense notetaker, which announces 'SyncBraille 32 is connected' in speech and braille, and with Windows screen readers through a driver on the included CD.
 
 Ports:
 Not documented
@@ -39,5 +46,6 @@ Not documented
 
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
+Source 2: https://www.boundlessat.com/site/images/SyncBrailleUserManual.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

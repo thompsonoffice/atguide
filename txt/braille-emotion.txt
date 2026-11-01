@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 740 g.
 
+Detailed Description:
+The Braille eMotion is a 40-cell smart braille display from Selvas BLV, formerly HIMS. It has a Perkins-style keyboard and built-in apps: a text editor, file manager, calculator, book downloads, a media player and a recorder. It is the only size Selvas makes.
+The front edge has two panning keys, one at each end, with F1 through F4 between them from left to right. In the middle is a Home button with a microphone on each side. Every front control except Home and the microphones is angled slightly toward the top surface.
+The right side has the volume buttons and a Mode button that changes their function, with the headphone jack and USB-C port behind them. On the left edge is a USB-A port near the front, with a Record button behind it.
+On top, the braille display runs along the front edge, with the Spacebar, Control and Alt keys in front of it. Each cell has a cursor-routing key, and capsule-shaped panning buttons sit at both ends. It was the first Selvas display that pans with either those end buttons or the front keys. Behind the display is the Perkins keyboard, with a center key between dots 1 and 4.
+Speakers sit at the two back corners, with the Power button just left of the right speaker. Just right of the left speaker are three small keys labeled W, B and C in braille. They toggle Wi-Fi and Bluetooth, or hold them to open settings, and the C key opens the Connectivity app. It also has a microSD slot.
+
 Features:
 Not documented
 
 History:
-Not documented
+The Braille Monitor (NFB) compared it with the HumanWare Brailliant BI 40X in 2025. Both start in about 20 seconds, both connect to five Bluetooth devices and one USB device, and both download books from Online DAISY, Bookshare, NFB-NEWSLINE and NLS braille. The eMotion adds a media player, a downloadable BARD Mobile app and legacy braille drivers for Android versions before 15. Selvas makes only a 40-cell version.
 
 Ports:
 Not documented
@@ -40,5 +47,7 @@ Not documented
 
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
+Source 2: https://nfb.org/images/nfb/publications/bm/bm25/bm2506/bm250606.htm
+Source 3: https://striveability.uk/2025/03/30/whats-causing-a-commotion/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

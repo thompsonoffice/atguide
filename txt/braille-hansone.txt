@@ -9,12 +9,12 @@ HIMS's first braille notetaker. Hansone means 'to see the world through one fing
 Specs:
 Released: 2002
 Processor: Not documented
-Memory (RAM): Not documented
-Storage: Not documented
-Operating system: Not documented
+Memory (RAM): 64 MB RAM
+Storage: 64 MB flash; two CompactFlash slots
+Operating system: Windows CE .NET
 Default speech synthesizer: Not documented
-Battery: Not documented
-Display or braille cells: Not documented
+Battery: Detachable lithium-ion
+Display or braille cells: 32 cells with 32 cursor-routing buttons
 Speech synthesizers available: Not documented
 Price at launch: Not documented
 Used price today (eBay): Not documented
@@ -22,18 +22,25 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Braille Hansone is a HIMS braille notetaker with both speech and refreshable braille, later sold as the Braille Sense. AccessWorld measured it at 9 by 5 by 1.5 inches and 2.7 pounds. It runs Windows CE .NET with 64 MB of RAM and 64 MB of flash.
+Across the top is an 8-key braille keyboard; dot 7 is Backspace and dot 8 is Enter. There are four oval function keys: F1 and F2 to the left of the space bar, and F3 and F4 to the right. F1 opens the Program menu, F2 the current program's menu, F3 is Tab and F4 is Escape. A small LCD sits in the middle above the keyboard. Above the Enter and Backspace keys, at the two outer edges, are stereo speakers.
+Nearest you is a 32-cell braille display, with a row of 32 cursor-routing buttons directly above it. At the right end of that row is an Advance key for scrolling forward, and at the left end a Scroll Back key.
+On the front panel, from left to right, are the microphone jack, the stereo headphone jack, and five recorder buttons: Previous, Record, Stop, Play/Pause and Next. On the right side, from front to back, are the on/off switch, the AC adapter jack and the compartment for the detachable lithium-ion battery. The left side has two CompactFlash slots.
+The back panel, from left to right, holds an infrared port, two USB ports, a LAN network jack, a parallel port, a video output and a serial port. There is no modem. It can also serve as a braille display or speech synthesizer for a computer, and it plays MP3 files.
+
 Features:
 Not documented
 
 History:
-Not documented
+AccessWorld (January 2005) explained that 'Hansone' means 'to see the world through one fingertip' in Korean. Because the meaning did not carry over to English speakers, HIMS renamed it Braille SENSE, and GW Micro distributed it in the United States. AFB rated it 2.5 of 5 for documentation, 3.5 for word processing, 3.0 for the web browser, calendar and address list, and 4.0 for speech and braille quality. Reviewers reported a confusing, poorly written manual, occasional freezes and unreliable web connections. AFB noted that the rating applied to the unit tested and that the product was updated afterwards.
 Successors: BrailleSense (Classic) (HIMS / Selvas BLV, 2004)
 
 Ports:
 Not documented
 
 Operating System:
-Not documented
+Windows CE .NET
 Operating system history: HIMS BrailleSense software
 
 System Requirements:
@@ -42,5 +49,8 @@ Not documented
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
 Source 2: https://afb.org/aw/6/1/14662
+Source 3: https://afb.org/aw/6/1/14661
+Source 4: https://afb.org/aw/6/1/14658
+Source 5: https://afb.org/aw/6/3/14624
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -13,7 +13,7 @@ Memory (RAM): 64 MB
 Storage: 30 GB hard drive (later 40 GB) plus 256 MB flash
 Operating system: Linux 2.6.18
 Default speech synthesizer: Not documented
-Battery: Not documented
+Battery: Rechargeable lithium-ion
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
 Price at launch: $1,395
@@ -22,12 +22,19 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The LevelStar Icon is a Linux-based PDA for blind users. It measures 5.09 by 3.35 by 0.975 inches and 7.4 ounces. It has a 30-gigabyte hard drive and Wi-Fi. It plays MP3 and DAISY books, records voice, and includes a web browser, e-mail, an address book, a planner, a word processor, a calculator and a stopwatch.
+On the top edge, from left to right, are an external microphone jack, a miniSD slot, a headphone jack and a headset jack. Stereo speakers sit at the top of the left and right sides. Further down the left side are the volume up and down control, a button that switches between the speakers and the mono earpiece, and the Voice Record button.
+At the bottom of both the left and right sides are buttons that open the battery compartment for the lithium-ion battery. On the bottom edge is the Power/Sync cable port.
+On the front, at the bottom, is a standard 12-key telephone keypad. Directly above the 1, 2 and 3 keys are OK, Menu and Cancel; holding Cancel turns the Icon on. Above that row is a large diamond-shaped Arrow key; you press its top, bottom, left or right edge to move. A small Select key is in its middle, with the Status key to its left and the Help key to its right.
+The top row of keys, from left to right, holds the hot key, the Applications Menu key and the Wi-Fi On/Off key. The package included an AC adapter, a USB cable, a case, a CD with the manual and an HTML Quick Start guide, and a braille Quick Start guide.
+
 Features:
 Detachable braille or QWERTY keyboard dock
 Bookshare integration
 
 History:
-Announced in September 2006 at $1,395 (keyboard docking station $395), it reached market that December.
+Announced in September 2006 at $1,395 (keyboard docking station $395), it reached market that December. Jay Leventhal reviewed it for AccessWorld in 2007 at $1,395. He praised the intuitive menus and Bookshare integration, which stored your password and unpacked books on download. He criticized slow text entry, limited contact and planner fields, poor table reading and its start-up beeps.
 
 Ports:
 USB, Wi-Fi 802.11b, Bluetooth 1.1
@@ -42,5 +49,6 @@ Not documented
 Sources:
 Source 1: http://visually-impaired.blogspot.com/2006/09/pda-for-visually-impaired.html
 Source 2: https://linuxdevices.org/device-profile-levelstar-icon-pda-for-visually-impaired-users/index.html
+Source 3: https://afb.org/aw/8/4/14333
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -10,23 +10,30 @@ Specs:
 Released: 2018
 Processor: Not documented
 Memory (RAM): 256 MB
-Storage: Not documented
+Storage: SD/SDHC up to 32 GB (2 GB card included)
 Operating system: Windows CE 6
 Default speech synthesizer: Not documented
-Battery: Not documented
+Battery: 16 to 18 hours (AccessWorld)
 Display or braille cells: 40 cells
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $3,195 (AccessWorld 2020)
 Used price today (eBay): Not documented
 
 Physical Description:
 1.8 lb.
 
+Detailed Description:
+The QBraille XL is a 40-cell braille display from HIMS with a hybrid keyboard. It combines a Perkins-style braille keyboard with the function, modifier, navigation and arrow keys of a laptop, so screen reader commands can be typed as on a PC. It cost $3,195 in 2020.
+With the braille display toward you, the 40 cells and their cursor-routing buttons run along the near edge, with two scroll buttons at each end. On the right side, the USB-C port is nearest you and an SD card slot is behind it. A recessed Hard Reset button on the back edge needs a paperclip. The Power/Sleep/Wake button is on the left side; a short press sleeps or wakes it, and holding it for five seconds turns it on or off.
+The keys are not in neat rows. At the far left, nearest you, is the Mode key that toggles Hybrid Mode, with Pairing above it and Escape above that. To their right is a column of Shift, Caps Lock, Tab and F1, then F2 through F12 across the top. Every fourth function key has a tactile mark, with a gap between groups of four. Right of F12 is a six-key block: Insert, Home and End on the left, and Delete, Page Up and Page Down on the right. Beneath it are the arrow keys.
+The bottom key row reads Control, Function, Windows, Alt, Space, Alt, Applications, Control in Microsoft layout, or Function, Control, Option, Command, Space, Command, Option, Control in Apple layout. Above that row are the eight Perkins braille keys. AppleVis users noted that the space bar sits high, above the braille cells, and that the cells have tactile ridges around them.
+The box includes a 2 GB SD card, a USB-C cable, a power adapter, the first two chapters of the manual in braille, and a sturdy carrying case with shoulder strap and magnetic closure. Built-in apps include a notepad, DAISY reader, clock, stopwatch, alarm, calendar and calculator. It has no Wi-Fi.
+
 Features:
 Not documented
 
 History:
-Not documented
+Scott Davert reviewed it for AccessWorld in September 2020 on firmware 2.4. He found the braille sharp but a little spongy, and battery life of 16 to 18 hours. He had trouble with JAWS over Bluetooth and could not switch past more than one window with Alt+Tab. In AccessWorld's January 2021 comparison of 40-cell displays he reported that HIMS's November 2020 update had fixed the JAWS Bluetooth issue. He noted that it was the only one of the four with one-handed mode and that a support request went unanswered.
 
 Ports:
 Bluetooth 2.1, USB
@@ -40,5 +47,7 @@ Not documented
 
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
+Source 2: https://afb.org/aw/21/9/17172
+Source 3: https://afb.org/aw/22/1/17349
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -8,9 +8,9 @@ The Windows Mobile 6 update of the PAC Mate. Models: BX400, BX420 and BX440 (bra
 
 Specs:
 Released: Fall 2007
-Processor: Not documented
+Processor: Intel XScale 400 MHz
 Memory (RAM): 64 MB
-Storage: 128 MB flash
+Storage: 128 MB flash ROM; 2 CompactFlash slots
 Operating system: Windows Mobile 6
 Default speech synthesizer: Eloquence
 Battery: Over 20 hours
@@ -23,11 +23,18 @@ Voices: ETI-Eloquence (engine)
 Physical Description:
 BX400: 11 x 4.9 x 1.9 in, 1 lb 13 oz. BX420: 3 lb 9 oz. QX400: 2 lb. QX420: 3 lb 12 oz.
 
+Detailed Description:
+The PAC Mate Omni is the Windows Mobile 6 generation of Freedom Scientific's PAC Mate. It keeps the earlier PAC Mate's shell, with a 400 MHz XScale processor, 64 MB of RAM and 128 MB of flash. The QWERTY QX400 measures 12.3 by 6.27 by 1.62 inches and weighs 2 pounds. Keys are on top, and ports and switches are on the back.
+The QX400 keyboard has six rows. Escape, called the Close button, is first on the left of the top row, followed by F1 through F12. Three finger bumps between F4 and F5, F8 and F9, and F12 and Print Screen keep you oriented. The bottom row runs FN, Ctrl, Windows, Alt, Backslash, Space, Insert, Alt, Windows and Applications. The arrows are in the lower right, with Up above the other three. Delete, Home, Page Up, Page Down and End run down the right side.
+On the back, from right to left, are the On/Off switch, the power jack, a mini A/B USB port, two CompactFlash slots, an infrared port, a 2.5 mm headset/microphone jack and a 3.5 mm headphone jack. On the top surface, the speaker is above F3 and the internal microphone is above Print Screen and Scroll Lock.
+On the bottom, turned over with the back facing you, is a rectangular recess holding the serial number sticker. Just above it is a small round reset button you press with a paper clip or braille stylus. Across from it on the right is the release for the drawer or braille display. A 20- or 40-cell PAC Mate Portable Braille Display slides on and locks.
+The lithium-polymer battery gives a warning at 30 percent and a critical alert at 12 percent; the flyer rates battery life at more than 20 hours. The braille BX models use the eight-key Perkins layout of the earlier BX400.
+
 Features:
 Not documented
 
 History:
-Not documented
+Freedom Scientific's launch flyer presented the Omni as the newest generation of the PAC Mate. It ran Windows Mobile 6.0, which Freedom Scientific called the most keyboard-friendly version yet, with full soft-key support. The flyer says the new hardware 'does not appreciably change its outer appearance.' Because all data is stored in flash, files survive a reset or a flat battery. It came in six models: BX400, BX420, BX440, QX400, QX420 and QX440. The flyer also lists Mobile Office including PowerPoint, Direct Push e-mail, Windows Live Search and Messenger voice clips, and plug-and-play Wi-Fi, Bluetooth, Ethernet and modem cards.
 Predecessors: PAC Mate BX400 / QX400 (Freedom Scientific, 2002 (AccessWorld); some sources say 2003)
 
 Ports:
@@ -43,5 +50,7 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/FreedomScientific
+Source 2: https://support.freedomscientific.com/content/Documents/Manuals/PAC-Mate/PAC-Mate-Omni-QX-Owners-Manual.pdf
+Source 3: https://www.freedomscientific.com/Content/Documents/ProductFlyers/PACMateOmniFlyer.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
