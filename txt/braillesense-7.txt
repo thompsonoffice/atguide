@@ -8,19 +8,26 @@ The 2026 BrailleSense, on Android 15 with Gemini AI.
 
 Specs:
 Released: Unveiled at CSUN, March 2026; shipping from mid/late 2026
-Processor: Octa-core, up to 3.35 GHz
+Processor: Octa-core up to 3.35 GHz
 Memory (RAM): 8 GB LPDDR5X
-Storage: 256 GB UFS 4.0 plus microSD
+Storage: 256 GB UFS 4.0
 Operating system: Android 15
 Default speech synthesizer: Not documented
 Battery: 4,600 mAh removable plus secondary battery
 Display or braille cells: 20, 32 or 40 braille cells; visual LCD
 Speech synthesizers available: Not documented
-Price at launch: $5,295 (20-cell), $5,995 (32-cell), $6,495 (40-cell)
+Price at launch: 20-cell $5,295; 32-cell $5,995; 40-cell $6,495
 Used price today (eBay): Not documented
 
 Physical Description:
 40-cell: 11.86 x 5.53 x 0.89 in, under 1.80 lb. 32-cell: 9.84 x 5.53 x 0.89 in, under 1.54 lb.
+
+Detailed Description:
+The BrailleSense 7, unveiled at CSUN 2026, comes in 20-, 32- and 40-cell models. The 32-cell model measures 9.84 × 5.53 × 0.89 inches and weighs under 1.54 pounds; the 40-cell is 11.86 inches wide and under 1.80 pounds.
+It keeps the Perkins braille keyboard and adds a detachable QWERTY keyboard that attaches magnetically at the top through a secondary battery module. It also has a physical dictation button and an analog scroll wheel.
+Its braille display has no physical routing buttons. Active Responsive Touch tracks your finger and refreshes the line automatically when you reach the last cell. To route the cursor you double-tap the display or press a front end button while touching the spot.
+It has a visual LCD, HDMI output, dual USB-C and dual USB-A ports, a micro SD slot, a 4-pole headphone jack, stereo speakers and microphones, a haptic motor, dual-band GPS and a 20-megapixel rear camera with flash.
+Inside are an octa-core processor up to 3.35 GHz, 8 GB of LPDDR5X RAM and 256 GB of storage, running Android 15. A long press on Home summons Google Gemini. The 4,600 mAh battery is removable and charges at 18 W through a magnetic connector.
 
 Features:
 Not documented

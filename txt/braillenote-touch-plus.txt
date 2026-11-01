@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The BrailleNote Touch Plus (2018–2019) is the faster refresh of the BrailleNote Touch, in the same body: 0.8 inch high, 9½ inches wide, 6.3 inches deep and about 2 pounds. AccessWorld called it 'a bit on the hefty side'.
+Like the original, it has a glass touch screen for TouchBraille typing and a case with a built-in Perkins-style braille keyboard that folds over the screen.
+Nearest you is the braille display, 18 or 32 cells in the same size case, with routing buttons and four thumb keys on the front edge.
+The power button is more recessed than on the original Touch, to stop it switching on in a bag. It charges and connects through USB-C instead of micro USB.
+Its accessibility software is built into the device instead of a removable internal SD card. It ships with the Acapela Sharon voice, and other voices can be added.
+
 Features:
 21 MP camera
 TalkBack-based accessibility

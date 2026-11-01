@@ -26,6 +26,8 @@ Detailed Description:
 The Braille 'n Speak 640 is the 1991 successor to the original Braille 'n Speak, named for its 640K of file memory. Blazie introduced it in October 1991. It could run third-party programs written by outside developers.
 The APH museum unit measures about 4.1 x 4.1 x 0.9 in and has a sand-colored plastic case with seven braille keys (six dot keys and a space bar) in Perkins order. Like every Braille 'n Speak it has no braille display; it speaks.
 Like the original it combined a notetaker, Grade 2 braille-to-print translator, clock, calendar, phone book and calculator. It could also connect to a computer as a terminal or speech synthesizer. The exact port layout is not documented in the sources found.
+On the right side are the earphone jack and a switch; on the left are the power jack and serial and disk-drive ports. The speaker is on top at the right, and black rubber rests are on the bottom (APH museum unit, model BS2).
+APH added the 640 to its catalog in 1996, though not on quota. The museum unit has 640K of file memory, 256K of program memory and a built-in rechargeable battery.
 
 Features:
 Not documented

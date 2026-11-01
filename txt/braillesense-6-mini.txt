@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The BrailleSense 6 Mini (2022) is the 20-cell version of the BrailleSense 6. It measures about 185 × 103 × 23 mm (7.1 × 4.1 × 0.9 in) and weighs about 430 g (0.95 lb).
+The top panel has a nine-key Perkins-style keyboard, Control and Alt keys and four function keys.
+Below the keyboard is the 20-cell braille display. A routing key is above each cell, with a raised dot on every fifth key, and there are four scroll keys.
+The right side has two USB-C ports. The left side has volume controls and headphone and microphone jacks.
+It shares the BrailleSense 6 software and Android platform.
+
 Features:
 Not documented
 
@@ -42,5 +49,7 @@ Not documented
 
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
+Source 2: https://selvasblv.com/wp-content/uploads/2023/11/BrailleSense-6-MINI-User-Manual-V2.pdf
+Source 3: https://selvasblv.com/product/braillesense-6-mini/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

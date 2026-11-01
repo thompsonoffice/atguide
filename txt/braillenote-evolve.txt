@@ -11,16 +11,23 @@ Released: Previewed late 2025; launched 2026
 Processor: Intel Core Ultra 5 125U
 Memory (RAM): 32 GB LPDDR5x
 Storage: 512 GB NVMe
-Operating system: Windows 11 Pro with customised NVDA powered by KeySoft
+Operating system: Windows 11 Pro with KeySoft
 Default speech synthesizer: Windows/NVDA speech (customised NVDA)
 Battery: Three 5,000 mAh Li-polymer cells; about 5.5 hours
 Display or braille cells: 20 or 32 braille cells with cursor routing
 Speech synthesizers available: Not documented
-Price at launch: $6,199 (US store)
+Price at launch: 32-cell: $6,199 (HumanWare US store)
 Used price today (eBay): Not documented
 
 Physical Description:
 243 x 175 x 20 mm; 990 g (1.4 kg with case).
+
+Detailed Description:
+The BrailleNote Evolve is HumanWare's 2026 braille computer, running KeySoft on Windows 11. HumanWare's specification sheet gives 243 mm wide, 175 mm deep and 20 mm thick (9.57 × 6.89 × 0.79 in), or 25 mm (1 in) on its feet, and 990 g (2.18 lb), or about 1.4 kg (3 lb) in its case.
+It comes in 20- and 32-cell braille configurations. HumanWare's labeled drawings show the top surface with the braille keyboard and display; the full key layout is described in that sheet's figures, which are image-only.
+On the left side edge are ports and buttons: a 3.5 mm audio jack that works with a microphone, an HDMI 1.4 port and two USB-C Thunderbolt 4 ports, both of which can charge it. There is also a USB 3.2 Type-A port.
+Inside are an Intel Core Ultra 5 125U processor, 32 GB of LPDDR5x memory and a 512 GB NVMe drive. It has vibration haptics, stereo speakers, Wi-Fi 6, Bluetooth 5 and a programmable RFID tag for future use.
+In the box are the Evolve, a carrying case, a nylon strap with shoulder pad, headphones, a power adapter, a print and braille Getting Started guide and command summary, and a modifier sticker.
 
 Features:
 Not documented
@@ -33,7 +40,7 @@ Ports:
 Two Thunderbolt 4 USB-C (charging and video), USB 3.2 Type-A, HDMI 1.4, 3.5 mm audio jack, Wi-Fi 6, Bluetooth 5 (x2), programmable RFID tag.
 
 Operating System:
-Windows 11 Pro with customised NVDA powered by KeySoft
+Windows 11 Pro with KeySoft
 Operating system history: KeySoft
 Operating system history: NVDA versions
 

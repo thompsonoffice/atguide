@@ -16,11 +16,18 @@ Default speech synthesizer: Not documented
 Battery: Not documented
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $3,995 (2015)
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The BrailleSense U2 Mini (2013) fits in a purse, backpack or roomy jacket pocket. It measures 6.7 × 3.5 × 1 inches (172 × 90 × 27 mm) and weighs under a pound (about 427 g).
+On top is a nine-key Perkins-style keyboard with four function keys.
+It has 18 eight-dot braille cells with 18 routing buttons, and four scroll keys.
+A panel of media controls is on the front. The power socket is on the left side, marked with a braille 'dc'. There are an SD card slot, an OTG USB port, a stereo headphone jack and built-in speakers that AccessWorld found clear and loud for the size.
+The battery compartment is at the back left edge. Two user-replaceable lithium batteries come with it, with a separate charger, so one can charge while the other is in use; each lasted about 8 hours in AccessWorld's test. It has a vibration motor for silent alerts.
 
 Features:
 Not documented
@@ -42,5 +49,7 @@ Not documented
 
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
+Source 2: https://afb.org/aw/15/5/15576
+Source 3: https://www.visiole.fr/basse-vision/anciens-produits/bloc-note-braille-sense-u2-mini/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

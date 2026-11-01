@@ -8,20 +8,27 @@ The flagship Windows CE BrailleSense, with an 8-dot Perkins-style keyboard. Fren
 
 Specs:
 Released: July 2012
-Processor: 1 GHz mobile processor
+Processor: 1 GHz mobile CPU
 Memory (RAM): Not documented
 Storage: 32 GB flash
 Operating system: Windows CE 6.0
 Default speech synthesizer: Eloquence
 Battery: Removable lithium, about 17 hours
 Display or braille cells: 32 cells plus LCD
-Speech synthesizers available: Not documented
-Price at launch: 6,890 euros (France)
+Speech synthesizers available: Eloquence (French product sheet)
+Price at launch: €6,890 incl. VAT in France (January 2014)
 Used price today (eBay): Not documented
 Voices: ETI-Eloquence (engine)
 
 Physical Description:
 25 x 13 x 3.9 cm, 924 g.
+
+Detailed Description:
+The BrailleSense U2 (Perkins-keyboard edition) has the shape of a small, thin rectangular box with rubber feet underneath. HIMS's manual gives 10 × 6.1 × 1.9 inches; a product sheet lists 250 × 130 × 39 mm and 924 g (about 2 pounds).
+On top is a nine-key Perkins-style keyboard: dots 1 to 6, Backspace under the left little finger, Enter under the right little finger, and a long space bar under the thumbs. On the same row as the space bar are four rectangular function keys, F1 and F2 on the left, F3 and F4 on the right.
+Below the keyboard is a 32-cell braille display, with 32 small oval routing buttons above it. Two capsule-shaped Up and Down scroll keys sit on each side of the display. Near the top center is an LCD with four status lights (Wi-Fi, Bluetooth, GPS and charging), and stereo speakers are in the top left and right corners.
+The front edge has a microphone or line-in jack, a headphone jack, a three-position media switch (FM radio, DAISY or MP3), five media buttons and the power button. The left side has two USB ports and an SD slot; the right side has a mini USB port, the AC socket and a three-position lock switch.
+The back has a reset button, an Ethernet jack, a third USB port and a 15-pin VGA output. Inside are a 1 GHz processor, 32 GB of flash and a removable lithium battery rated at about 17 hours.
 
 Features:
 GPS and compass (GPS navigation optional)
@@ -47,5 +54,8 @@ Not documented
 Sources:
 Source 1: http://insidevision.fr/pdf/FicheProduitBrailleBlocNotesBrailleSenseU2Perkins01.pdf
 Source 2: https://sastltd.zohodesk.eu/portal/en/kb/articles/firmware-version-9-0-release-notes
+Source 3: https://wyominginstructionalnetwork.com/wp-content/uploads/2020/04/Braille-Sense-U2-User-Manual-Ver-8.6-1.pdf
+Source 4: https://www.avh.asso.fr/implantations/certam/evaluations-de-produits/le-bloc-notes-braille-braillesense-u2
+Source 5: https://docsbay.net/doc/635567/a-physical-description-of-a-braille-sense-u2-with-a-braille-type-keyboard
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

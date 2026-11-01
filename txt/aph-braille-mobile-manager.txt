@@ -10,7 +10,7 @@ Specs:
 Released: May 2007 to 2012
 Processor: Intel XScale PXA270 at 520 MHz
 Memory (RAM): 64 MB
-Storage: 30 GB hard drive
+Storage: 40 GB hard drive (NFB); a later report says 60 GB
 Operating system: Linux
 Default speech synthesizer: Not documented
 Battery: Not documented
@@ -21,6 +21,13 @@ Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The APH Braille+ Mobile Manager, made by LevelStar for APH, is a pocket-sized device about 5⅛ inches tall, 3¼ inches wide and 1 inch deep, weighing 7.4 ounces. Its gray plastic case has a brushed aluminum faceplate.
+The face looks like a telephone. At the bottom is a 12-key rubber telephone keypad with a nib on the 5. Above it are OK, Menu and Cancel (Cancel is also the power key). Higher up is a four-way navigation pad with a Select button, with Status and Help keys beside it, Program 1 and Program 2 keys at the sides, and a long Applications key between them.
+Flanking the rubber keys are nine blue plastic braille keys turned 90 degrees: six dot keys on one side and Shift, Space and Control on the other. To type braille you turn the unit a quarter turn clockwise, so the braille keys are farthest from you and Shift, Space and Control are nearest.
+The left side has the volume key, a speaker toggle and a Record button. At the top are a phone-style earpiece in the middle and small stereo speakers on each side. The top edge has line-in, headphone and headset jacks and a mini SD slot. The bottom edge has the keypad lock switch and the power/USB connector.
+It came with a 40 GB hard drive, a black nylon case with a belt loop, a wrist strap, earbuds, a USB cable, a charger and a quick-start guide in print and braille. An optional dock added a QWERTY keyboard and Ethernet.
 
 Features:
 RSS, podcasts, newsstand, DAISY, email
@@ -43,5 +50,8 @@ Sources:
 Source 1: https://cbcbvi.tripod.com/html/News/07news86.htm
 Source 2: https://thedotexperience.pastperfectonline.com/Webobject/B4C197A5-6F06-4D35-BDA9-045150994936
 Source 3: https://tech.aph.org/pdadoc.htm
+Source 4: https://nfb.org/images/nfb/publications/bm/bm09/bm0902/bm090211.htm
+Source 5: https://aphmuseum.org/record/aph-braille-mobile-manager/
+Source 6: http://earchive.tpu.ru/handle/11683/26197
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

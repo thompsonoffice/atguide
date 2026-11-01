@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 22 x 14 x 9 inches, 32 lb.
 
+Detailed Description:
+The Romeo Pro 50 is the faster sibling of the Romeo 25, sold by Enabling Technologies for schools, small offices and personal use. It has the same rugged case: 21.25 inches wide, 13.25 inches deep and 8.25 inches high (6 inches without the lid), weighing 32 lb (14.5 kg).
+It embosses single-sided braille at 50 characters per second on lines of up to 40 characters, with 6- or 8-dot braille and graphics.
+Paper is continuous tractor-feed paper with sprocket holes, pulled through by sprocket wheels. Unlike the Romeo 25, it also takes hand-fed single sheets.
+Its connections and menus follow the Romeo 25: parallel and serial ports on the back and a front control panel.
+Its launch price is not documented in the sources found.
+
 Features:
 Not documented
 
@@ -39,5 +46,7 @@ Not documented
 
 Sources:
 Source 1: https://www.yumpu.com/en/document/view/38159759/worlds-leading-manufacturer-of-braille-embossers-enabling-
+Source 2: http://atkratter.com/braille/et/romeo.htm
+Source 3: https://www.yumpu.com/en/document/view/6157847/romeo-25-romeo-pro-50-enabling-technologies
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

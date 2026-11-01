@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+Envision Glasses look like a band across your face: a thin titanium frame on the left and a wider black Glass body on the right. They come assembled in a protective carrying case.
+The Glass body forms the right arm and holds all the electronics, about 45 g. At its back end are the USB-C port, the power button and the speaker.
+Along the outside of the right arm, against your temple, is the touchpad for taps and swipes.
+The body folds forward in front of your right eye. That front part holds a small display that can be switched off and the camera. Moving your finger along the body, you feel an indent at the hinge, which you press for voice commands.
+The titanium frame makes up the bridge and left arm and attaches with round metal hinges. Smith Optics frames with swappable lenses can be ordered.
+
 Features:
 Not documented
 
@@ -40,7 +47,8 @@ Not documented
 Sources:
 Source 1: https://support.letsenvision.com
 Source 2: https://shop.letsenvision.com/products/glasses-professional
-Source 3: https://support.letsenvision.com/hc/en-us/articles/7604910350609-Technical-Specifications
-Source 4: https://support.google.com/glass-enterprise/customer/answer/9220200?hl=en
+Source 3: https://support.google.com/glass-enterprise/customer/answer/9220200?hl=en
+Source 4: https://support.letsenvision.com/hc/en-us/articles/7604953925777-Hardware-Form-and-Design
+Source 5: https://support.letsenvision.com/hc/en-us/articles/7604910350609-Technical-Specifications
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

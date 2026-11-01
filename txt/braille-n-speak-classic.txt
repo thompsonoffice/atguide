@@ -25,6 +25,9 @@ Not documented
 Detailed Description:
 'Braille 'n Speak Classic' is the name later given to the original 1987 Braille 'n Speak after larger-memory models arrived. Blazie Technologies' 2025 retrospective says it had 180K of storage in 45 pages of 4,096 characters each, plus a help file of no more than one page.
 Physically it is the original Braille 'n Speak: a flat box about the size of a videocassette, with six braille dot keys and a space bar laid out like a Perkins braillewriter, and speech output instead of a braille display. See the Braille 'n Speak entry for its full description.
+The APH Museum's Braille 'n Speak describes a sand-colored rigid plastic case with black braille keys and a space key, and black rubber rests on the bottom. The earphone jack and a switch are on the right side; the power jack and serial and disk-drive ports are on the left; the speaker is on top at the right.
+In 1996 APH made the original 180K model available on quota funds and began calling it the Braille 'n Speak Classic, to tell it apart from the more powerful 640.
+It has no braille display. Everything is spoken, and files can be sent to a printer, embosser or computer through the serial port.
 
 Features:
 Braille keyboard

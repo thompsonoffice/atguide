@@ -16,12 +16,19 @@ Default speech synthesizer: Keynote Gold Multimedia, running under Windows CE
 Battery: Rechargeable NiMH
 Display or braille cells: 18 or 32 cells with touch cursors
 Speech synthesizers available: Not documented
-Price at launch: BrailleNote 18: $3,395; BrailleNote 32: $4,995 (2000)
+Price at launch: BrailleNote 18 $3,799; BrailleNote 32 $5,499 (2001, plus $45 shipping)
 Used price today (eBay): Not documented
 Voices: Keynote Gold
 
 Physical Description:
 9.5 x 5 x 1 in. The 32-cell model weighs 2 lb 9 oz. Gray case with green keys; the 18- and 32-cell models share one case, and an 18-cell unit can be upgraded to 32 cells.
+
+Detailed Description:
+The original BrailleNote (BT with a braille keyboard, QT with a QWERTY keyboard) is a flat, rectangular notetaker about 9½ inches wide, 5 inches deep and 1 inch thick. AccessWorld weighed the 32-cell model at 2 pounds 9 ounces. The case is gray and the braille keys are green.
+On the top surface, nine keys sit on a gentle curve for comfort: an eight-dot braille keyboard plus a space bar. The two outer keys, for the little fingers, act as Backspace (dot 7) and Enter (dot 8).
+At the front of the top surface is an 18- or 32-cell refreshable braille display. Both sizes use the same case, and an 18-cell unit could be upgraded to 32 cells. Above each braille cell is a small touch cursor (routing button) that jumps the cursor to that spot.
+On the narrow front edge facing you are four thumb keys, used to move back and forward through documents and menus without lifting your fingers from the braille. The thumb-key layout became a BrailleNote signature.
+Around the edges are a PCMCIA card slot (for the optional disk drive and other accessories), serial and parallel ports, a modem phone jack, an infrared port, an earphone jack and the AC adapter socket. Power comes from a rechargeable nickel-metal-hydride battery.
 
 Features:
 KeySoft suite: KeyWord, KeyPlan, KeyList, KeyMail
@@ -57,5 +64,6 @@ Source 3: http://nfbnet.org/pipermail/nabs-lnfbnet.org/2014-March/033135.html
 Source 4: https://afb.org/aw/1/6/16145
 Source 5: http://leb.net/blinux/list-archive/blinux-list/2000/msg00513.html
 Source 6: https://www.mail-archive.com/braillenote@list.pulsedata.com/msg23785.html
+Source 7: https://afb.org/aw/3/1/14967
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

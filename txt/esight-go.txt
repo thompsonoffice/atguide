@@ -13,14 +13,21 @@ Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
-Battery: About 180 minutes
-Display or braille cells: Dual full-HD 1920x1080 OLED screens, 45-degree field of view, up to 2,000 nits; 12 MP camera, up to 24x zoom
+Battery: About 3 hours (device plus neck battery pack)
+Display or braille cells: Two 1920 × 1080 OLED screens, 45° field of view
 Speech synthesizers available: None (a magnification headset, not a speech device)
 Price at launch: $4,950 MSRP (current)
 Used price today (eBay): Not documented
 
 Physical Description:
 170 g glasses-style device with a neck battery pack.
+
+Detailed Description:
+The eSight Go is shaped like glasses rather than a headset. The glasses part weighs about 170 g.
+Inside are two 1920 × 1080 OLED screens with a 45-degree field of view.
+An autofocus camera at the front gives up to 24× zoom, with adjustable contrast and color filters.
+Instead of a head strap, a battery pack hangs around your neck; a neck lanyard spreads the weight. Batteries in the device and the neck pack give about 3 hours (180 minutes) per charge.
+Its price is not documented in the sources used.
 
 Features:
 Not documented
@@ -45,5 +52,6 @@ Source 3: https://www.esighteyewear.com/esight-go-pricing/
 Source 4: https://www.esighteyewear.com/esight-go-landing-page/
 Source 5: https://www.esighteyewear.com/wp-content/uploads/2024/06/eSight-User-Manual-10.pdf
 Source 6: https://www.forbes.com/sites/gusalexiou/2024/01/26/what-gentexs-acquisition-of-esight-means-for-the-low-vision-eyewear-market/
+Source 7: https://www.esighteyewear.com/wp-content/uploads/2024/08/eSight-Go-User-Manual72424.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

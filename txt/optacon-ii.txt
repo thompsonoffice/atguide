@@ -25,7 +25,9 @@ Not documented
 Detailed Description:
 The Optacon II is the second-generation Optacon, made by Telesensory with Canon in 1985. Like the original, it turns print seen by a small handheld camera into a vibrating tactile picture under one fingertip. Its main change was a computer interface for reading what is on a screen.
 Its tactile array had 100 pins instead of the original 144. The change was made to cut cost, and sources say it made the device less usable and hurt sales.
-Its exact size, weight, colors and control layout are not documented in the sources found.
+Like every Optacon, it has two parts: a small handheld camera probe about the size of a penknife, and a main unit with the tactile pin array, joined by a thin cable. You slide the camera across a line of print with one hand while resting the index finger of the other hand on the array.
+Its array is 20 rows by 5 columns of tiny metal rods that vibrate where the camera sees black. As the camera moves, letter shapes flow across your fingertip. Controls have traditionally been minimal: vibration strength, a black/white threshold and a polarity setting.
+Canon redesigned the packaging. Special lens modules let the camera read typewriters, calculators and computer screens, and a dedicated computer interface let it read screen text directly. Long-time users largely kept their older 144-pin Optacons.
 
 Features:
 Not documented

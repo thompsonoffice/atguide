@@ -10,17 +10,24 @@ Specs:
 Released: 2020
 Processor: Not documented
 Memory (RAM): Not documented
-Storage: Not documented
+Storage: 256 GB
 Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: Swappable, about 3 hours each
-Display or braille cells: 1280x960, 37.5 degrees; 18 MP camera
-Speech synthesizers available: Not documented
-Price at launch: Not documented
+Display or braille cells: Two 1280 × 960 OLED screens
+Speech synthesizers available: Spoken menus only (no document text-to-speech at review time)
+Price at launch: $5,950 (2020)
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The eSight 4 (2020) is worn like large sunglasses rather than ski goggles. A visor sits in front of your eyes, mounted on a padded 'halo comfort band' that goes around your head. It weighs about 596 g (1.31 lb) with a battery.
+The halo band adjusts to your head size. The visor slides closer or farther from your eyes so you can wear prescription glasses underneath, tilts in or out, and flips up out of the way. It doesn't cover your whole face, so you keep some peripheral vision.
+An 18-megapixel camera is mounted on the visor just above your nose. Inside the visor are two 1280 × 960 OLED screens, one for each eye.
+On the right arm is a small touchpad with a line of bumps before and after it. You slide forward or back to zoom. A power button and a context button are on the headset, and three speakers are built in. A separate wireless remote gives the full menu, and a phone app works too.
+At the back of the head, a lithium-ion battery pack plugs into a quick-connect port. Two packs come in the box, each rated at 3 hours, and the headset holds enough charge to swap batteries without shutting down. It has 256 GB of storage, Wi-Fi, Bluetooth and HDMI.
 
 Features:
 Not documented
@@ -41,5 +48,7 @@ Not documented
 
 Sources:
 Source 1: https://esighteyewear.com
+Source 2: https://afb.org/aw/21/11/17299
+Source 3: https://www.visionaid.co.uk/esight-4
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

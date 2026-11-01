@@ -22,6 +22,12 @@ Used price today (eBay): Not documented
 Physical Description:
 104 g.
 
+Detailed Description:
+The eSight 3 (February 2017) is a lightweight headset; reports give 104 g for the headset.
+It has two OLED displays in front of the eyes and a 21.5-megapixel camera, with up to 24× zoom.
+Reports from 2017 describe a separate handheld controller that carries the battery, connected to the headset by cable. Battery life is not documented in the sources used.
+Its launch price is not documented in the sources used.
+
 Features:
 Not documented
 
@@ -42,5 +48,6 @@ Not documented
 Sources:
 Source 1: https://esighteyewear.com/wp-content/uploads/2020/03/Customer-Facing-eSight-3-Specifications-Sheet-4.pdf
 Source 2: https://www.theverge.com/circuitbreaker/2017/2/16/14637804/esight-3-augmented-reality-headset-legally-blind-see
+Source 3: https://displaydaily.com/the-esight-3-headset-offers-help-to-the-vision-impaired/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

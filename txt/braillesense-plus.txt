@@ -16,11 +16,18 @@ Default speech synthesizer: Not documented
 Battery: Not documented
 Display or braille cells: 32 cells plus LCD
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $5,995 (2009)
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The BrailleSense Plus (2008) was made by HIMS of Korea and sold in the US by GW Micro. The NFB measured it at 9.8 inches wide, 5 inches deep and 1.5 inches high, weighing 2 pounds.
+On top is a six-dot braille keyboard with Backspace on the left, Enter on the right and the space bar centered below. Beside the space bar are F1 and F2 on the left and F3 and F4 on the right. Behind the keyboard, in the center, is an LCD screen that can be flipped so a person sitting across from you reads it right side up, with a stereo speaker on each side.
+Nearest you is the 32-cell braille display with a routing key above each cell and scroll keys at both ends.
+The front panel has a three-position Lock switch (all keys, top keys only, or none), microphone and headphone jacks, a three-position media switch (FM radio, DAISY or media), five media buttons, and a spring-loaded power slider: slide right to turn on, left to turn off.
+The left side has CompactFlash and SD slots. The back has a reset button, an Ethernet jack, a serial port and a VGA output. The right side has two USB ports (one to connect to a computer, one for flash drives) and the AC socket. Inside are 128 MB of RAM, 8 GB of flash, an FM tuner, Bluetooth and Wi-Fi.
 
 Features:
 Not documented
@@ -42,5 +49,6 @@ Not documented
 
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
+Source 2: https://nfb.org/images/nfb/publications/bm/bm09/bm0902/bm090211.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

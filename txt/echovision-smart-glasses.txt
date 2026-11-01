@@ -13,14 +13,21 @@ Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Companion app: iPhone 8 or newer on iOS 16.6+, or Android 11+
 Default speech synthesizer: Not documented
-Battery: Pioneer: about 6 hours (30 with case); V1: about 9 hours
+Battery: 6 h (Pioneer), 9 h (V1); 30 h with charging case
 Display or braille cells: No display; 13 MP centered wide-angle camera
-Speech synthesizers available: Not documented
-Price at launch: $599 (pre-order $449 with free lifetime subscription)
+Speech synthesizers available: Built-in AI voice (engine not documented)
+Price at launch: $599
 Used price today (eBay): Not documented
 
 Physical Description:
 Round matte-black frame; 135 mm hinge to hinge, 52 mm lens width, 138 mm temples.
+
+Detailed Description:
+EchoVision, by AGIGA, looks like everyday round-framed glasses in matte black. It measures 135 mm hinge to hinge, with lenses 52 mm wide and 39 mm tall, a 19 mm bridge and 138 mm temples. AGIGA calls it ultra-light but lists no weight.
+It has a 13-megapixel camera for photos and video, a four-microphone array, and open-ear directional stereo speakers that sit near your ears without covering them.
+There are two physical buttons, one on each side, and a touchpad on the left arm. It also answers voice commands.
+The Pioneer Edition runs about 6 hours per charge and the V1 about 9, with up to 30 hours using the charging case. It connects by Bluetooth 5.3 and dual-band Wi-Fi 5 to a companion app for iPhone or Android.
+The box includes a charging case, clip-on sunglasses and a getting-started guide in large print and braille. The price is $599.
 
 Features:
 Not documented

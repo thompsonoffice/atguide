@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The BrailleNote Apex BT32 is a thin, light notetaker that HumanWare called the thinnest and lightest braille notetaker anywhere. A dealer lists it at about 9.6 × 5.6 × 0.78 inches and 1.8 pounds (812 g). It ships in a slim wraparound leather case with a carrying strap, and you can use it without taking it out of the case.
+On top is an eight-key braille keyboard like a braillewriter: six dot keys, plus Backspace (dot 7) under the left little finger and Enter (dot 8) under the right. A small scroll wheel sits in the middle between the dot 1 and dot 4 keys, with the space bar just below it.
+Nearest you is a 32-cell display of eight-dot braille cells, with a cursor routing button above each cell.
+On the front edge facing you are four thumb keys, named Previous, Back, Advance and Next from left to right. They can be set for right- or left-handed use, so you can move through text without lifting your fingers from the braille.
+Around the edges are three USB ports, an SD card slot, earphone and microphone jacks, an Ethernet port and a VGA port for a sighted person's monitor. The battery is user-replaceable.
+
 Features:
 Wi-Fi
 Removable battery
@@ -50,5 +57,8 @@ Source 3: https://www.avh.asso.fr/implantations/certam/evaluations-de-produits/b
 Source 4: https://www.mail-archive.com/braillenote@list.humanware.com/msg80955.html
 Source 5: https://www.freelists.org/post/braillenote/notetakers-and-Eloquence-speech,11
 Source 6: https://www.mail-archive.com/braillenote@list.pulsedata.com/msg24751.html
+Source 7: https://www.afb.org/aw/13/4/15822
+Source 8: https://www.edvisionservices.org/manuals/braillenote%20apex%20bt%20user%20guide.pdf
+Source 9: https://boundlessat.weebly.com/store/p3/BrailleNoteApex.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

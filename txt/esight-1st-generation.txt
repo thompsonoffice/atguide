@@ -16,11 +16,18 @@ Default speech synthesizer: Not documented
 Battery: No onboard battery (wired controller)
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $15,000 (introductory 2013 price reported as $9,750)
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The original eSight, produced commercially from fall 2013, mounts on a prescription-style frame worn like glasses.
+At the front is an HD camera, and in front of the eyes are two small near-eye screens showing the enhanced live image.
+A wire runs from the headset to a hand-held controller that processes the image and adjusts zoom and contrast.
+The controller has a separate battery pack rated at about four hours, carried on a belt or in a pouch. The headset itself has no battery. One user report found it heavier than expected.
+It cost $15,000; an introductory 2013 price of $9,750 was also reported.
 
 Features:
 1.5x to 14x zoom
@@ -41,5 +48,8 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/ESight
+Source 2: https://betakit.com/kanata-based-esight-launches-smart-glasses-to-cure-the-legally-blind/
+Source 3: https://oepatients.org/esight-up-close/
+Source 4: https://newatlas.com/esight-seeing-aid/29514
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -16,11 +16,18 @@ Default speech synthesizer: Keynote Gold (Eloquence was not offered on mPower)
 Battery: Not documented
 Display or braille cells: 18 or 32 cells
 Speech synthesizers available: Eloquence (software, with English, Spanish and French voices on the Apex; five selectable Eloquence voices) plus optional KeyNote Gold; chosen in Options > Review Voice
-Price at launch: Not documented
+Price at launch: mPower BT32 or QT32 $6,195; BT18 or QT18 $4,395; VoiceNote mPower $1,995 (2005, plus $45 shipping)
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The BrailleNote mPower, introduced June 28, 2005, has the same size and keyboard as earlier BrailleNotes (about 9½ × 5 × 1 inches). It looks sleeker, with a silver case instead of gray and forest-green keys instead of teal.
+The top has the curved eight-dot braille keyboard with space bar and an 18- or 32-cell braille display with a routing button above each cell. The four thumb keys stay on the front edge facing you.
+The back panel has the power socket, a telephone jack for the built-in 56K modem, a serial port, a CompactFlash slot, an SD card slot, two USB host ports, one USB client port and built-in Bluetooth. There is no parallel port.
+The PCMCIA slot is on the right side. On the left side are the earphone jack and power switch, plus a new external microphone jack and a small recessed Record button that starts a voice recording from any application. An internal microphone is built in.
+Inside is a 128 MB flash drive. AccessWorld noted excellent stereo sound through headphones, while the built-in speaker is the same modest one as earlier models.
 
 Features:
 SD, CompactFlash and PCMCIA slots
@@ -50,5 +57,6 @@ Source 4: https://web.archive.org/web/20110713025651/www.indigo-logix.com/web/in
 Source 5: https://www.freelists.org/post/braillenote/notetakers-and-Eloquence-speech,11
 Source 6: https://www.mail-archive.com/braillenote@list.pulsedata.com/msg24751.html
 Source 7: https://www.avh.asso.fr/implantations/certam/evaluations-de-produits/bloc-notes-braille-apex-bt-32-version-930
+Source 8: https://www.afb.org/aw/7/1/14531
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

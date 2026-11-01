@@ -16,12 +16,19 @@ Default speech synthesizer: Acapela
 Battery: 12 to 15 hours
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $699 USD / $895 CAD (2018)
 Used price today (eBay): Not documented
 Voices: Acapela voices
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The Victor Reader Trek (2017) combines the second-generation Stream with the Trekker Breeze GPS. It weighs 5 ounces and measures 114 × 62 × 24 mm, resting easily in one hand. It comes in a fitted silicone case.
+The face has three distinctly shaped, widely spaced keys across the top. The middle one is the round Online key that also starts GPS.
+Below them is a 12-key telephone keypad: the 5 has two dots, and the 2, 4, 6 and 8 keys have raised semicircles on their edges. A boldly raised line separates the keypad from the bottom keys.
+Below the line is an oval key for time, date and sleep timer, then an arrow-shaped Rewind, a rectangular Play/Stop and an arrow-shaped Fast Forward.
+The top edge has the SD slot and a 3.5 mm jack; the bottom edge a micro USB port. The left edge has the power button and up and down keys for volume, speed and tone; the right edge has the Record button. The lithium-ion battery is user-replaceable.
 
 Features:
 GPS with HERE maps

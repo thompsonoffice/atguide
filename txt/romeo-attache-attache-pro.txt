@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Romeo Attaché is a small, portable, single-sided impact braille embosser for teachers and students. It measures 17 × 11.25 × 5.75 inches and weighs 16.75 pounds.
+It embosses at 15 characters per second on a line of up to 32 characters.
+It uses tractor-feed paper up to 8.5 inches wide, letter-size, with sprocket holes along the edges.
+It supports 6- and 8-dot braille and graphics.
+Its launch price is not documented in the sources found.
+
 Features:
 Not documented
 
@@ -40,5 +47,7 @@ Not documented
 Sources:
 Source 1: https://www.freelists.org/post/duxuser/DBT-105,19
 Source 2: https://www.yumpu.com/en/document/view/38152810/romeo-attache-romeo-attache-pro-enabling-technologies
+Source 3: https://manualzilla.com/doc/5765358/romeo-attach%C3%A9-romeo-attach%C3%A9-pro-romeo-25-and-romeo-pro-50
+Source 4: https://www.yumpu.com/en/document/view/38152810
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

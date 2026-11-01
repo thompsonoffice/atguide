@@ -16,11 +16,18 @@ Default speech synthesizer: Not documented
 Battery: Not documented
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: Classic Plus $375 (2003)
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
+
+Detailed Description:
+AccessWorld described the Victor Reader Classic Plus, the fuller-featured model of the Classic family, in 2003. It is a CD player for DAISY books measuring 9.3 × 8.2 × 2.1 inches and weighing 2.42 pounds. The top slopes upward from front to back.
+The built-in speaker is at the top left, with a carrying handle below it. On the right side, from back to front, are the AC socket, a line jack, a remote jack and an earphone jack.
+It has 25 keys. Across the top, right of the speaker, are three pairs of keys stacked vertically for tone, volume and speed. Below them is a 12-key telephone-style keypad: 5 has a raised dot, 4 and 6 have raised left and right arrows, and 2 and 8 have fainter up and down arrows.
+Below the keypad are Rewind, Play/Stop (square) and Fast Forward (arrow-shaped). The CD Eject key is to the right of Fast Forward, with the Power key above it.
+With no CD inside, it enters a Key Describer mode that announces what any key does. The 1 key opens the Bookshelf, 3 the History list, 5 says where you are, 9 sets the sleep timer and 0 gives elapsed and remaining time.
 
 Features:
 Not documented
@@ -40,5 +47,7 @@ Not documented
 
 Sources:
 Source 1: https://afb.org/aw/6/6/14572
+Source 2: https://afb.org/aw/5/1/14793
+Source 3: https://www.mkprosopsis.com/Hardware/VictorReaderClassicX.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

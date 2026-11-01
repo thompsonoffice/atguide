@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 About 7 x 4 x 2 in, about 1 lb.
 
+Detailed Description:
+The BrailleNote PK, announced in July 2004, was the smallest Windows-based accessible PDA of its day. It weighs about a pound and measures roughly 7 inches wide, 4 inches deep and 2 inches thick, small enough to hold in one hand.
+Unlike larger BrailleNotes, the eight square braille input keys sit behind the braille display, at the back of the top surface. The outer keys are set farther back than the inner keys to fit the shape of your hand. AccessWorld found these keys and the display among the quietest it had tested.
+In front of the display are two smooth keys that both act as space bars. On either side of them are two small, slightly recessed control keys; you hold one down to turn the unit on or off, since there is no power switch.
+The 18-cell braille display has a cursor routing key above each cell. On each side of the display are three small buttons stacked vertically for scrolling, and the top button on each side starts and adjusts automatic scrolling. On the front edge is a small four-way joystick that you can also press to select.
+All connectors are on the back panel: power, headphone, USB, a CompactFlash slot and a non-standard serial port that uses supplied cables. A small Bluetooth antenna sticks out about half an inch from the back. There is no parallel port, infrared port or built-in modem. It comes in a fitted carrying case with a shoulder strap.
+
 Features:
 Bluetooth
 CompactFlash (Wi-Fi through a CF card)

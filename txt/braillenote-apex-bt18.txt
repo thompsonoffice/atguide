@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 2 cm (0.78 in) thick, 734 g (1.8 lb). Another listing gives 0.78 x 9.61 x 5.63 in and 1.6 lb.
 
+Detailed Description:
+The BrailleNote Apex BT18 is the 18-cell version of the Apex, launched in May 2010. It shares the Apex design: a thin case in a wraparound leather carrying case.
+The top has the eight-key braille keyboard (six dot keys plus Backspace and Enter), with a scroll wheel between the dot 1 and dot 4 keys and the space bar below it.
+Nearest you is an 18-cell eight-dot braille display with a cursor routing button above each cell.
+Four thumb keys (Previous, Back, Advance and Next) are on the front edge, set right-handed at the factory and switchable to left-handed.
+Its ports and user-replaceable battery follow the Apex design. Exact dimensions and weight for the 18-cell model are not documented in the sources found.
+
 Features:
 Not documented
 
@@ -47,5 +54,7 @@ Source 3: https://www.mail-archive.com/braillenote@list.humanware.com/msg80955.h
 Source 4: https://www.freelists.org/post/braillenote/notetakers-and-Eloquence-speech,11
 Source 5: https://www.mail-archive.com/braillenote@list.pulsedata.com/msg24751.html
 Source 6: https://www.avh.asso.fr/implantations/certam/evaluations-de-produits/bloc-notes-braille-apex-bt-32-version-930
+Source 7: https://www.afb.org/aw/13/4/15822
+Source 8: https://www.edvisionservices.org/manuals/braillenote%20apex%20bt%20user%20guide.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

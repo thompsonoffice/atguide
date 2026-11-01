@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 24.4 x 16.2 x 2.06 cm, 900 g (2 lb).
 
+Detailed Description:
+The BrailleNote Touch is an Android braille tablet launched at CSUN in 2016. The tablet itself is 9½ inches wide, 6.3 inches deep and 0.8 inch high and weighs 2 pounds (900 g). In its case with the keyboard it is about 10.2 × 6.9 × 1.6 inches and 3 pounds.
+Most of the top is a glass touch screen with a 7-inch visual display that can be turned off. You can type braille right on the glass with TouchBraille: rest all ten fingers on the screen, feel a short vibration, and the virtual keys find your fingers.
+The carrying case has a physical Perkins-style braille keyboard built in. It folds over the glass, held in place by magnets, and plugs into a port on the back of the tablet; fold it back to use the touch screen.
+Nearest you is an 18- or 32-cell braille display with a routing button over each cell and a stereo speaker at each end. On the front edge are four thumb keys, two short and two long, with three small keys between them: a triangular Back key, a round Home key and a square key for the context menu or app switcher.
+On the left side are a micro USB port, an oval power button and volume buttons. The back has a full-size USB port, an SD card slot and an HDMI port (video only). The right side has microphone and headphone jacks and a camera button. Under the tablet, two latches release the replaceable battery and there is a camera window.
+
 Features:
 7-inch 1024x600 touchscreen
 8 MP camera
@@ -50,5 +57,8 @@ Source 2: https://www.humanware.com/wp-content/uploads/2024/10/EN-UG-BNTouch-Upd
 Source 3: https://groups.io/g/braillenote/topic/cereprocvoicesandothertts/80723268
 Source 4: https://blindbargains.com/bargains.php?m=14995
 Source 5: https://www.second-sense.org/2018/10/braille-notetakers/
+Source 6: https://afb.org/aw/17/8/15305
+Source 7: https://www.humanware.com/microsite/bntouch/faq.php
+Source 8: https://www.braillists.org/wp-content/uploads/bod24.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

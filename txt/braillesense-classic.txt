@@ -16,11 +16,18 @@ Default speech synthesizer: Onboard speech engine (name not documented)
 Battery: Detachable lithium-ion
 Display or braille cells: 32 cells with 32 routing buttons; LCD
 Speech synthesizers available: Not documented
-Price at launch: $4,950 (January 2005)
+Price at launch: $4,950 (Braille Hansone, early 2005)
 Used price today (eBay): Not documented
 
 Physical Description:
 9 x 5 x 1.5 in, 2.7 lb. Eight-key braille keyboard (dot 7 is Backspace, dot 8 is Enter) with F1 to F4. The front edge has microphone and headphone jacks and Previous, Record, Stop, Play and Next buttons.
+
+Detailed Description:
+The first BrailleSense was sold at first as the Braille Hansone, a Korean name meaning 'to see the world through one fingertip'. HIMS renamed it BrailleSense for English speakers. AccessWorld measured it at 9 × 5 × 1.5 inches and 2.7 pounds.
+On top is an eight-key braille keyboard: dot 7 is Backspace and dot 8 is Enter. Four oval function keys sit beside the space bar, F1 and F2 on the left and F3 and F4 on the right. F1 opens the program menu, F2 the menu of the current program, F3 is Tab and F4 is Escape.
+In the middle, above the keyboard, is a small LCD screen so sighted people can follow along, with a stereo speaker at each edge above Backspace and Enter.
+Below the keyboard is a 32-cell braille display with 32 routing buttons. At the right end of the routing row is an Advance key and at the left end a Scroll Back key.
+The front panel, from left to right, has a microphone jack, a stereo headphone jack and five audio buttons: Previous, Record, Stop, Play/Pause and Next. The right side has the power switch, AC socket and detachable lithium-ion battery; the left side has two CompactFlash slots. The back has infrared, two USB, LAN, parallel, video-out and serial ports.
 
 Features:
 32-cell display with 32 routing buttons

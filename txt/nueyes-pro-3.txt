@@ -14,13 +14,20 @@ Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: Not documented
-Display or braille cells: 4K, 51-degree field of view
+Display or braille cells: Dual 4K displays, about 51–52° field of view
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: £3,995 (UK retailer)
 Used price today (eBay): Not documented
 
 Physical Description:
 Tethered glasses weighing 88 g.
+
+Detailed Description:
+The NuEyes Pro 3, announced December 15, 2020, is a lightweight black binocular augmented-reality headset weighing 88 g. It is tethered by cable, with no built-in battery mentioned.
+It has two 4K displays with a wide field of view of about 51 to 52 degrees.
+The main version connects to a proprietary controller with two motion-tracking cameras and a forward-facing 20-megapixel camera.
+The Pro 3-C version has a 5-megapixel camera and a USB-C plug for phones, tablets and laptops that output video. A third version is for thermal imaging.
+It went on sale December 18, 2020. A UK retailer listed it at £3,995.
 
 Features:
 4K displays
@@ -43,5 +50,7 @@ Not documented
 
 Sources:
 Source 1: https://www.nueyes.com/nueyes-announces-new-pro-3-augmented-reality-smart-glass-solution
+Source 2: https://www.prnewswire.com/news-releases/nueyes-technologies-announces-new-pro-3-augmented-reality-smart-glass-solution-301192660.html
+Source 3: https://www.visionaid.co.uk/nueyes-pro-3
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -23,6 +23,13 @@ Voices: Acapela voices; eSpeak NG
 Physical Description:
 114 x 62 x 18 mm, 110 g.
 
+Detailed Description:
+The third-generation Victor Reader Stream (2023) measures 114 × 62 × 18 mm (4.5 × 2.4 × 0.7 in) and weighs 110 g, with a fully tactile interface.
+Across the top of the front are the Go To, Online (Wi-Fi) and Bookmark keys.
+Below them is the 12-key number pad, then Sleep, Rewind, Play/Stop and Fast Forward.
+The left side has Power/Toggle, an LED, the Up and Down keys and the microphone jack. The right side has a red Record key.
+The SD slot is on the top edge. The bottom edge has a USB-C port, the headphone jack and the speaker. It reads text with two Acapela voices.
+
 Features:
 Not documented
 
@@ -44,5 +51,7 @@ Sources:
 Source 1: https://www.humanware.com/microsite/stream/index.html
 Source 2: https://www.humanware.com/news/stream-3-evolves/
 Source 3: https://store.humanware.com/hus/victor-reader-stream-handheld-media-player.html
+Source 4: https://shop.rnib.org.uk/products/victor-stream-3
+Source 5: https://www.humanware.com/wp-content/uploads/2024/11/Victor-Reader-Stream-User-Guide.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

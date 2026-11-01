@@ -16,11 +16,18 @@ Default speech synthesizer: Keynote Gold
 Battery: Not documented
 Display or braille cells: Not documented
 Speech synthesizers available: Eloquence (software, with English, Spanish and French voices on the Apex; five selectable Eloquence voices) plus optional KeyNote Gold; chosen in Options > Review Voice
-Price at launch: Not documented
+Price at launch: QT32 $6,195; QT18 $4,395 (2005)
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The BrailleNote mPower QT is the QWERTY-keyboard version of the mPower, introduced in 2005. AccessWorld says the mPower came with either a braille or a QWERTY keyboard, in the same case size as earlier BrailleNotes (about 9½ × 5 × 1 inches).
+Instead of the eight braille keys, its top surface carries a typewriter-style QWERTY keyboard. The exact key count and layout are not documented in the sources found.
+In front of the keyboard is an 18- or 32-cell refreshable braille display with a cursor routing button above each cell, and four thumb keys on the front edge for moving through text.
+The ports match the braille-keyboard mPower: power, phone line, serial, CompactFlash and SD slots, two USB host ports and one USB client port on the back; PCMCIA on the right; earphone, power switch, microphone jack and recessed Record button on the left.
+The case is silver, and it has the same 128 MB flash storage and Bluetooth as the BT model. A VoiceNote mPower QT version had speech only, with no braille display.
 
 Features:
 Not documented
@@ -46,5 +53,6 @@ Source 2: https://www.freelists.org/post/braillenote/keynote-gold-speech-thought
 Source 3: https://www.freelists.org/post/braillenote/notetakers-and-Eloquence-speech,11
 Source 4: https://www.mail-archive.com/braillenote@list.pulsedata.com/msg24751.html
 Source 5: https://www.avh.asso.fr/implantations/certam/evaluations-de-produits/bloc-notes-braille-apex-bt-32-version-930
+Source 6: https://www.afb.org/aw/7/1/14531
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

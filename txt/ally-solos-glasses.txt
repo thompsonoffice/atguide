@@ -13,14 +13,21 @@ Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Ally app on iOS and Android
 Default speech synthesizer: Not documented
-Battery: Up to 15 to 16 hours, swappable USB-C stems; 15-minute quick charge gives about 3 hours
+Battery: About 10 h operation (up to 16 h claimed); quick-swap USB-C stems
 Display or braille cells: No display; HD cameras, max 2048x1944
-Speech synthesizers available: Not documented
-Price at launch: $699 (launch pre-order tiers $399 to $599); includes 1 year of Ally Pro
+Speech synthesizers available: Ally app voice (engine not documented)
+Price at launch: $699
 Used price today (eBay): Not documented
 
 Physical Description:
 About 50 g; IP67; regular or large sizes.
+
+Detailed Description:
+Ally Solos Glasses run Envision's Ally AI assistant. They have a classic rectangular frame and weigh about 50 g.
+The S/M frame has lenses 51 mm wide and 37 mm tall, a front width of 138 to 149 mm and 163 mm arms.
+The camera sits in a hinge (2K-class resolution), with an LED. Whisper open-ear directional speakers let you hear the AI without blocking surrounding sound.
+The battery is in quick-swap USB-C charging stems. They run about 10 hours in use, and up to 16 hours claimed. They are IP67-rated.
+They connect by Bluetooth 5.2 to the Ally app on iOS or Android and come in a foldable case. The price is $699.
 
 Features:
 Not documented

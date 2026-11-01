@@ -23,6 +23,13 @@ Voices: Acapela voices
 Physical Description:
 114 x 62 x 18 mm, 110 g (3.9 oz) with battery.
 
+Detailed Description:
+The second-generation Victor Reader Stream (2014) is about 28% smaller than the first. It measures 4.5 × 2.4 × 0.7 inches and weighs 3.9 ounces with the battery, keeping the same keypad spacing.
+The top edge has the SD card slot in the center and a protruding headphone jack on the right. The right side has a recessed microphone jack and, below it, a Record key with a barely detectable dot.
+Across the top of the front are three keys: a square Go To key with a raised center (with the internal microphone hole above it), a round smooth Wireless key with an LED beside it, and a diamond-shaped Bookmark key.
+Below them is a phone-style keypad; the 5 key has two raised dots. A raised line separates the keypad from an oval Sleep key and a bottom row of a left-arrow Rewind, a square Play/Stop and a right-arrow Fast Forward.
+AccessWorld puts the round Power key and the up and down arrow keys near the top of the right edge, though the same review elsewhere says left; check the unit. Most of the back is a battery cover with a release near the top.
+
 Features:
 Wi-Fi b/g/n
 Reads BRF, TXT, HTML, XML, DOCX and EPUB
@@ -44,5 +51,6 @@ Not documented
 
 Sources:
 Source 1: https://www.devineexpress.com/products/ls-s-victor-reader-stream-2nd-generation-114-x-62-x-18mm
+Source 2: https://afb.org/aw/14/4/15708
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

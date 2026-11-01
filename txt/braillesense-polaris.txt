@@ -8,19 +8,26 @@ The first Android-based BrailleSense.
 
 Specs:
 Released: 2017
-Processor: Samsung Exynos 7420
+Processor: Samsung Exynos 7420, 2.1 GHz
 Memory (RAM): 3 GB
 Storage: 64 GB
 Operating system: Android 5.1.1
 Default speech synthesizer: Not documented
 Battery: Not documented
 Display or braille cells: 32 cells
-Speech synthesizers available: Not documented
-Price at launch: Not documented
+Speech synthesizers available: Samantha TTS voice (per AccessWorld review)
+Price at launch: $5,795
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The BrailleSense Polaris (June 2017) was HIMS's first Google-certified Android notetaker, named for the Polaris office suite. It measures about 9.64 × 5.66 × 0.74 inches and weighs 1.65 pounds. Its case has a magnetic front flap and a shoulder strap.
+On top is a Perkins-style braille keyboard that AccessWorld found springy and quiet. Control and Alt keys sit just left and right of the space bar, with the four function keys farther out. The LCD screen takes up the top center, flanked by stereo speakers.
+Nearest you is the 32-cell display with routing buttons. Between the cells and the routing buttons is a thin touch strip for flick and tap gestures, and capsule-shaped scroll keys are at each end.
+The right side has a combined USB 3.0 and micro USB port, with the SD card slot behind it. The left side, from front to back, has volume buttons, stereo headphone and microphone jacks, and a USB host port. The back has the AC socket, an HDMI port and a Kensington lock slot.
+The front panel has a three-position key-lock switch, a three-position mode switch (media, DAISY or app control), the media buttons (the Stop button has a raised dot), and the power button at the far right. Inside are a 2.1 GHz Samsung Exynos 7420, 3 GB of RAM and 64 GB of storage, with a 13-megapixel camera.
 
 Features:
 Not documented
@@ -44,5 +51,7 @@ Not documented
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
 Source 2: https://www.perkins.org/resource/braillesense-polaris-april-2020-firmware-upgrade/
+Source 3: https://www.afb.org/aw/19/1/15168
+Source 4: https://afb.org/aw/20/7/16711
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The BrailleSense 6 (2021) measures 9.64 × 5.66 × 0.86 inches (245 × 144 × 22 mm) and weighs 1.55 pounds (705 g).
+Its top panel has a nine-key Perkins-style keyboard and four scroll keys.
+Nearest you is the 32-cell braille display with 32 routing keys.
+The top also has a small LCD, two status lights and stereo speakers.
+The front panel has a key-lock switch, a media-mode switch, five media buttons and the power button.
+
 Features:
 Not documented
 
@@ -47,5 +54,7 @@ Source 2: https://sastltd.zohodesk.eu/portal/en/kb/articles/braillesense-6-upgra
 Source 3: https://selvasblv.com/download/bs6/BrailleSense6UserManualEnglishV1.0210528.pdf
 Source 4: https://selvasblv.com/product/braillesense-6/
 Source 5: https://www.braillists.org/wp-content/uploads/bod24.pdf
+Source 6: https://selvasblv.com/wp-content/uploads/2024/10/BrailleSense-6-User-Manual-EnglishV2.5240912-1.pdf
+Source 7: https://selvasblv.com/wp-content/uploads/2024/06/DIGITALBrailleSense-6-brochure.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

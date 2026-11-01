@@ -23,6 +23,13 @@ Voices: Nuance Vocalizer / RealSpeak (engine)
 Physical Description:
 117 x 66 x 22 mm, 180 g.
 
+Detailed Description:
+The first Victor Reader Stream (2007) is a handheld player about the size of a deck of cards, measuring 4.6 × 2.6 × 0.9 inches and weighing about 6 ounces with its rechargeable battery. Its only visual indicator is a small LED for off, on or charging.
+The front has a 12-button telephone-style keypad. The 5 key has a small nib, which AccessWorld found too faint. Above the 1 key is a square Go To key, above the 3 key a diamond-shaped Bookmark key, and at the top a small speaker grill and internal microphone.
+Below the keypad is a raised separator line. Under it, centered, is the Sleep key, and below that are Rewind, Play/Stop and Fast Forward.
+On the left edge are the round Power button and two arrow-shaped buttons for volume, speed and tone. On the right edge are the headphone and external microphone jacks and the Record button.
+Across the top are a small USB port, the AC socket and, in the center, the SD card slot where all content is stored. The keys are high-contrast for low-vision users. The built-in speaker is quiet and mainly for status messages.
+
 Features:
 DAISY and NLS books
 Text-to-speech for text files

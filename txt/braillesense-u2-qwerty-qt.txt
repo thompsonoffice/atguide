@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 250 x 160 x 20 mm, 838 g (1.84 lb).
 
+Detailed Description:
+The BrailleSense U2 QWERTY (model H432Q) is the typewriter-keyboard version of the U2. Dealer and HIMS data give 250 × 160 × 20 mm (9.84 × 6.3 × 0.78 in) and 838 g (1.84 lb).
+Instead of the Perkins braille keys, its top carries a standard QWERTY keyboard for typing as on a computer.
+Nearest you is a 32-cell braille display with 32 routing keys and four scroll keys, two at each end.
+The front has five audio buttons for the media player. It has USB and SD connections, GPS and a vibration motor.
+It runs Windows CE 6.0 with 32 GB of storage and a detachable battery. It is discontinued; HIMS points buyers to the BrailleSense 6.
+
 Features:
 Not documented
 
@@ -42,5 +49,6 @@ Not documented
 
 Sources:
 Source 1: https://selvasblv.com/brochure/braille/HIMS-Braille-Sense-U2-and-U2-QWERTY-Data-Sheet.pdf
+Source 2: https://www.ergoguys.com/bru2qwke.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

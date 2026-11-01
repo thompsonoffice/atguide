@@ -10,17 +10,24 @@ Specs:
 Released: 1987
 Processor: Not documented
 Memory (RAM): Not documented
-Storage: 640 KB floppy disk
+Storage: Internal 3.5-inch floppy disk drive
 Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: Not documented
-Display or braille cells: Not documented
+Display or braille cells: 20-cell piezoelectric braille display
 Speech synthesizers available: Not documented
 Price at launch: Not documented
 Used price today (eBay): Not documented
 
 Physical Description:
 5.2 kg.
+
+Detailed Description:
+The VersaBraille II+ (about 1987) is a portable braille computer in an ivory aluminum chassis with rounded edges. The APH Museum unit measures 3.5 inches high, 15.25 inches wide and 10.25 inches deep. Four black rubber feet tilt the top slightly toward you.
+On top are seven brown rubber keys: six braille keys that get taller from the center outward, with a long space bar below. On the left is a 12-key numeric keypad, slightly below separate On and Off buttons and a brown rubber joystick pad.
+Above the keyboard, on a brown bar, is a 20-cell piezoelectric refreshable braille display. An aluminum TSI logo plate is in the upper right.
+A built-in 3.5-inch floppy drive is in a recess at the front left; the original VersaBraille used cassette tape. A brown plastic carrying handle folds under the back and doubles as a keyboard stand.
+The back jack panel has, from left to right, the power jack, an on/off slider, two RS-232 serial ports, an external disk drive jack and a parallel printer jack. Owners David and Howard Goldstein liked its disk drive and printer support but found its proprietary software clumsy and its keyboard hard on the wrists.
 
 Features:
 Not documented
@@ -40,5 +47,6 @@ Not documented
 
 Sources:
 Source 1: https://afb.org/aw/6/4/14611
+Source 2: https://sites.aph.org/museum-virtual-exhibit/vex2/4C6CA28D-5B55-4717-BDF0-166038125352.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

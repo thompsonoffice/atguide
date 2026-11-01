@@ -8,19 +8,26 @@ A compact Polaris.
 
 Specs:
 Released: 2018
-Processor: Not documented
+Processor: Samsung Exynos 7420, 2.1 GHz octa-core
 Memory (RAM): Not documented
-Storage: Not documented
-Operating system: Android
+Storage: 64 GB
+Operating system: Android 5.1.1
 Default speech synthesizer: Not documented
 Battery: Not documented
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $4,195
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The BrailleSense Polaris Mini (2018) is the 20-cell version of the Polaris. It measures 7.28 × 4.05 × 0.90 inches (185 × 103 × 23 mm) and weighs 0.91 pound, small enough for a briefcase or large purse.
+The top has the nine-key Perkins keyboard, Control and Alt keys and four function keys. AccessWorld found its keys a bit more clicky than the full Polaris.
+Nearest you is a 20-cell braille display with routing buttons and scroll keys.
+The right side has a USB-C port for charging, file transfer and braille-display use, with a micro HDMI port toward the back. The left side has volume controls and stereo headphone and microphone jacks. The front panel has the same lock switch, mode switch and media controls as the Polaris.
+The speaker and the camera are on the underside. The micro SD slot is inside the battery compartment. Battery life is about 11 hours, and a charge takes about 3.5 hours.
 
 Features:
 Not documented
@@ -34,7 +41,7 @@ Ports:
 Not documented
 
 Operating System:
-Android
+Android 5.1.1
 Operating system history: HIMS BrailleSense software
 Operating system history: Android (on blindness devices)
 
@@ -43,5 +50,7 @@ Not documented
 
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
+Source 2: https://afb.org/aw/20/3/16315
+Source 3: https://afb.org/aw/20/7/16711
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
