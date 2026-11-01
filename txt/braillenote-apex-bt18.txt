@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+HumanWare launched the BrailleNote Apex BT18 in May 2010, for the BrailleNote's tenth anniversary, and called it the tenth notetaker in the line. It is the 18-cell version of the Apex, with the same case design, keyboard and thumb-key layout.
 Predecessors: BrailleNote mPower BT (HumanWare, June 2005)
 
 Ports:

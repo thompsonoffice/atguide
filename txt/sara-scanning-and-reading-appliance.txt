@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Freedom Scientific introduced SARA (Scanning and Reading Appliance) in 2006. It is a stand-alone reading machine that combines a flatbed scanner, text recognition and RealSpeak speech in one box, so no computer is needed.
 
 Ports:
 Not documented

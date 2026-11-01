@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+The Solo V2 is a talking blood glucose meter from BioSense Medical Devices. It was on the US market by 2012, when AccessWorld found it the cheapest fully talking meter tested, at $17, with the largest display characters.
 
 Ports:
 Not documented

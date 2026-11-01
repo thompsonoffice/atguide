@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+The Fora V22 is a slim talking blood glucose meter from Fora Care with a built-in rechargeable battery. It was on the US market by 2012, when AccessWorld tested it and found it the slimmest of the talking meters in that review.
 
 Ports:
 Not documented

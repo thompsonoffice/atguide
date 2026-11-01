@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+HIMS released the BrailleSense U2 QWERTY (model H432Q) in 2012 as the typewriter-keyboard version of the BrailleSense U2. HIMS (now Selvas BLV) has since discontinued it and points buyers to the BrailleSense 6.
 Predecessors: BrailleSense Plus (HIMS / Selvas BLV, 2008)
 
 Ports:

@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+The Fora V20 is a talking blood glucose meter from Fora Care. It was on the US market by 2012, when AccessWorld tested it alongside the Fora V22 and the Solo V2. The reviewer found its buttons among the easiest to tell apart, but its PC software and electronic manual were not screen-reader accessible.
 
 Ports:
 Not documented

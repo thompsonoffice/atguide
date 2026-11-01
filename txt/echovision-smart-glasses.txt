@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+AGIGA's EchoVision smart glasses shipped as a Pioneer Edition in late October and November 2025, priced at $599. They offer AI scene description, text reading, face recognition, and calls to Aira and Be My Eyes.
 
 Ports:
 Bluetooth 5.3 + BLE, dual-band Wi-Fi 5, USB-C; 4-mic array, open-ear stereo speakers, two buttons and a touchpad.

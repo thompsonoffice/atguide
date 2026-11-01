@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+HumanWare introduced the VoiceNote Apex in July 2010, the Friday before that year's NFB convention, as the speech-only member of the Apex family. It came with a braille (BT) or QWERTY (QT) keyboard. It is physically identical to the BrailleNote Apex, and HumanWare said a braille display could be added later.
 Predecessors: VoiceNote mPower BT / QT (HumanWare, 2005)
 
 Ports:

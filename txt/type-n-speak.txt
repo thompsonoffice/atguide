@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Blazie Engineering brought out the Type 'n Speak in late 1992 as the typewriter-keyboard sibling of its 1987 Braille 'n Speak. Deane Blazie said it was for people who liked the Braille 'n Speak but did not know braille. It was a screenless, speech-only notetaker with RAM and flash storage, and its line passed to Freedom Scientific when Blazie merged into it.
 
 Ports:
 Not documented

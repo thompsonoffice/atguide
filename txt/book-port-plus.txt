@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+APH announced the Book Port Plus as available on March 10, 2010, as the successor to its original Book Port. It added Wi-Fi for internet radio, podcast downloads and wireless file transfer, and it is smaller and lighter than the first model.
 Predecessors: Book Port (American Printing House for the Blind (APH), May 2003)
 
 Ports:

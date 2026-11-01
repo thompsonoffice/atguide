@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Envision released Envision Glasses in November 2020. They are built on Google Glass Enterprise Edition 2 and run Envision's AI reading and scene-description software. Envision later partnered with Solos on the Ally Solos Glasses (2025), which run its Ally assistant.
 
 Ports:
 Not documented

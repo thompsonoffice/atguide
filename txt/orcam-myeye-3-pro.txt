@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+OrCam released the MyEye 3 Pro in 2024 as the current generation of its clip-on MyEye reader. It is a single bar that clips magnetically to glasses with no cable. It adds a desktop mode: on its stand, it connects to a browser at cast.orcam.com and has an AI assistant that answers questions about a scanned page.
 Predecessors: OrCam MyEye 2 (OrCam Technologies, 2017)
 
 Ports:

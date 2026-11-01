@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Envision and Solos opened pre-orders for the Ally Solos Glasses on August 14, 2025, and began shipping in October 2025 at $699. The glasses run Envision's Ally conversational AI assistant, and they follow Envision's Google Glass-based Envision Glasses (2020).
 Predecessors: Envision Glasses (Envision, November 2020)
 
 Ports:

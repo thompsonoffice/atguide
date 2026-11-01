@@ -35,7 +35,7 @@ Features:
 Three versions; the first tethers to a NuEyes controller with dual 6DoF cameras and a forward-facing 20 MP camera
 
 History:
-Not documented
+NuEyes announced the Pro 3 augmented-reality glasses on December 15, 2020, and put them on sale on December 18. Versions were offered for low vision, medical and training use, including a USB-C Pro 3-C and a thermal-imaging model. They were succeeded by the Pro 4.
 Predecessors: NuEyes Easy (NuEyes, 2016)
 Successors: NuEyes Pro (Pro, Pro 3, Pro 4) (NuEyes, By October 2024, when the Pro 4 LV brochure was published. Its predecessor, the Pro 3, was announced on December 15, 2020.)
 
