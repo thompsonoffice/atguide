@@ -1,0 +1,39 @@
+L&H TTS3000 voices (Michelle, Michael and the Centigram-style US voices)
+Company: Lernout & Hauspie
+Category: TTS Voices
+Released: Late 1990s (L&H versions 6.03 to 6.13)
+
+Overview:
+Lernout & Hauspie's multilingual SAPI 4 engine. Its US English voices were Adult Female 1 (Michelle) and Adult Male 1 (Michael), plus Peter, Sidney, Eager Eddie, Deep Douglas, Biff, Grandpa Amos, Melvin and Alex, which Genesys documentation says sound like Centigram's voices of the same names.
+
+Specs:
+Maker: Lernout & Hauspie
+First released: Late 1990s (L&H versions 6.03 to 6.13)
+Synthesis type: Not documented
+Platforms: Windows SAPI 4
+Default on or shipped with: Not documented
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Other languages included British English (Carol, Peter), Dutch (Linda, Alexander), French (Véronique, Pierre), German (Anna, Stefan), Italian (Barbara, Stefano), Japanese (Naoko, Kenji), Mexican Spanish (Pedro and others), Korean and Russian (Boris). The exact release year is not documented.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows SAPI 4
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://help.genesys.com/pureconnect/mergedprojects/whid/desktop/hidttsspeechmodes.htm
+Source 2: https://learn.microsoft.com/en-us/windows/win32/lwef/accessing-a-speech-engine-in-your-code
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

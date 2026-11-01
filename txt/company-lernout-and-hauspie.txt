@@ -1,0 +1,19 @@
+Lernout & Hauspie
+Type: Company profile
+Founded: Not documented
+Products listed: 2
+
+History:
+Belgian speech-technology company whose TruVoice and TTS3000 engines were the default speech output for Microsoft Agent characters in the SAPI 4 era.
+
+Products:
+L&H TruVoice voices (Adult Male 1 to 8, Adult Female 1 and 2) (TTS Voices, 1998 (SAPI 4 era))
+L&H TTS3000 voices (Michelle, Michael and the Centigram-style US voices) (TTS Voices, Late 1990s (L&H versions 6.03 to 6.13))
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://learn.microsoft.com/en-us/windows/win32/lwef/accessing-a-speech-engine-in-your-code
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

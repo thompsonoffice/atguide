@@ -1,0 +1,41 @@
+RHVoice
+Company: Olga Yakovleva (RHVoice)
+Category: TTS Voices
+Released: Source copyright from 2010; public NVDA driver 0.2.7 on April 29, 2012
+
+Overview:
+A free, open-source speech synthesizer by Olga Yakovleva. It started with Russian male and female voices and grew to other languages. It runs as an NVDA add-on, a Windows SAPI 5 engine, an Android app, a Linux speech-dispatcher module and a command-line tool.
+
+Specs:
+Maker: Olga Yakovleva (RHVoice)
+First released: Source copyright from 2010; public NVDA driver 0.2.7 on April 29, 2012
+Synthesis type: Not documented
+Platforms: NVDA (Windows), SAPI 5, Android, Linux (speech-dispatcher)
+Default on or shipped with: Not default on any major platform
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+In February 2012 a patch added an RHVoice output module to speech-dispatcher on Linux. It described RHVoice as the only free high-quality Russian synthesizer and planned Ukrainian, Belarusian and Kazakh voices. The NVDA synth driver 0.2.7 was dated April 29, 2012. Python packages followed in 2015.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+NVDA (Windows), SAPI 5, Android, Linux (speech-dispatcher)
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://lists.libreplanet.org/archive/html/speechd-discuss/2012-02/msg00000.html
+Source 2: https://rhvoice.software.informer.com/download/
+Source 3: https://github.com/Olga-Yakovleva/RHVoice/blob/master/CMakeLists.txt
+Source 4: https://libraries.io/pypi/RHVoice
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

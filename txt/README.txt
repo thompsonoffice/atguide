@@ -5,13 +5,17 @@ This folder holds one plain text file for every entry in ATGuide: each device, b
 There is one folder per company. Each folder starts with an About file for the company, then its version histories, then its products in alphabetical order.
 Each entry file has a header, then sections separated by blank lines in this order: Overview, Specs, Physical Description, Features, History, Ports, Operating System, System Requirements, Sources. Facts that could not be found in a source read Not documented.
 
-Totals: 80 companies, 319 devices, software and voices, 20 version histories, 420 files including this README.
+Totals: 83 companies, 323 devices, software and voices, 20 version histories, 427 files including this README.
 
 Index by company:
 
 Acapela Group (2 files):
 Acapela Group/About Acapela Group.txt
 Acapela Group/Acapela voices.txt
+
+Access Solutions (2 files):
+Access Solutions/About Access Solutions.txt
+Access Solutions/TripleTalk.txt
 
 AGIGA (2 files):
 AGIGA/About AGIGA.txt
@@ -396,6 +400,11 @@ Kurzweil Computer Products (2 files):
 Kurzweil Computer Products/About Kurzweil Computer Products.txt
 Kurzweil Computer Products/Kurzweil Reading Machine.txt
 
+Lernout & Hauspie (3 files):
+Lernout & Hauspie/About Lernout & Hauspie.txt
+Lernout & Hauspie/L&H TruVoice voices (Adult Male #1 to #8, Adult Female #1 and #2).txt
+Lernout & Hauspie/L&H TTS3000 voices (Michelle, Michael and the Centigram-style US voices).txt
+
 LevelStar (2 files):
 LevelStar/About LevelStar.txt
 LevelStar/LevelStar Icon Mobile Manager.txt
@@ -470,6 +479,10 @@ NV Access (3 files):
 NV Access/About NV Access.txt
 NV Access/NVDA versions (version history).txt
 NV Access/NVDA (NonVisual Desktop Access).txt
+
+Olga Yakovleva (RHVoice) (2 files):
+Olga Yakovleva (RHVoice)/About Olga Yakovleva (RHVoice).txt
+Olga Yakovleva (RHVoice)/RHVoice.txt
 
 Optelec (4 files):
 Optelec/About Optelec.txt

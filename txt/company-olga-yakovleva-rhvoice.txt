@@ -1,0 +1,18 @@
+Olga Yakovleva (RHVoice)
+Type: Company profile
+Founded: 2010 (earliest RHVoice source copyright)
+Products listed: 1
+
+History:
+Developer of RHVoice, a free and open-source speech synthesizer.
+
+Products:
+RHVoice (TTS Voices, Source copyright from 2010; public NVDA driver 0.2.7 on April 29, 2012)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://github.com/Olga-Yakovleva/RHVoice/blob/master/CMakeLists.txt
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

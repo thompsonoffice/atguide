@@ -1,0 +1,39 @@
+L&H TruVoice voices (Adult Male 1 to 8, Adult Female 1 and 2)
+Company: Lernout & Hauspie
+Category: TTS Voices
+Released: 1998 (SAPI 4 era)
+
+Overview:
+Lernout & Hauspie's American English TruVoice engine. It was the default speech output for every Microsoft Agent character, such as the Office-era animated characters, and was bundled with Microsoft's Speech API 4 releases.
+
+Specs:
+Maker: Lernout & Hauspie
+First released: 1998 (SAPI 4 era)
+Synthesis type: Not documented
+Platforms: Windows with SAPI 4 and Microsoft Agent
+Default on or shipped with: Microsoft Agent characters (default engine)
+Price: Not documented
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Microsoft's Agent documentation lists ten TruVoice voices: Adult Male 1 to 8 and Adult Female 1 and 2. All Agent characters were tuned for TruVoice, and other engines needed the SAPI 4.0a runtime. The tvenua.exe package also included novelty voices: RoboSoft One to Six, Female Whisper and Male Whisper. L&H's separate TTS3000 engine supplied other languages, such as Carol and Peter (British English), Anna and Stefan (German), and Véronique and Pierre (French). Microsoft Agent was deprecated with Windows 7. The user's question about a 'Mark Lund' voice could not be verified in any source found.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Windows with SAPI 4 and Microsoft Agent
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://learn.microsoft.com/en-us/windows/win32/lwef/accessing-a-speech-engine-in-your-code
+Source 2: https://github.com/LouisGameDev/Microsoft-Sam-Mary-Mike-TruVoice-WSAPI4
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

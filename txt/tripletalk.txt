@@ -1,0 +1,46 @@
+TripleTalk
+Company: Access Solutions
+Category: Speech Synthesizers
+Released: By April 2001 (TripleTalk PCI reported new); USB and serial models followed
+
+Overview:
+A hardware speech synthesizer from Access Solutions, sold in PCI, USB and serial versions and supported by JAWS and, through its serial port, by Speakup on Linux.
+
+Specs:
+Released: By April 2001 (TripleTalk PCI reported new); USB and serial models followed
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Built-in TripleTalk speech
+Battery: Not documented
+Display or braille cells: Not documented
+Speech synthesizers available: Built-in TripleTalk voice only
+Price at launch: Not documented
+Used price today (eBay): No eBay listings for the TripleTalk were found.
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+A Linux user reported owning a brand-new TripleTalk PCI from Access Solutions on April 20, 2001; no Linux driver existed then, because the developer declined an open-source driver. By the mid-2000s list members described TripleTalk, with an occasional DECtalk Express, as the only standalone hardware synthesizers still being bought. Its USB model let JAWS speak at a separate volume from the computer's sound card. Some list posts attribute it to RC Systems, the DoubleTalk maker; other posts call it an Access Solutions (Axsol) product.
+
+Ports:
+PCI card, USB or serial, depending on model
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: http://leb.net/blinux/list-archive/blinux-list/2001/msg00426.html
+Source 2: https://www.freelists.org/post/jfw/Laptops-and-hardware-synthesizer-for-JFW,7
+Source 3: https://www.freelists.org/post/jfw/Finding-the-double-and-triple-talk-synths,9
+Source 4: https://inbox.the-brannons.com/blinux/20050331164331.GC11527@rednote.net/T/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/
