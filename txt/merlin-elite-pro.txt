@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Enhanced Vision's 2024 user manual describes the Merlin elite Pro as a fully integrated desktop magnifier that combines a CCTV with OCR. You can read by listening, or by viewing text in colour or in high-contrast positive or negative modes. Its 1080p full-HD camera magnifies from 2.4 to 41 times, or up to 73 times in extended range. It stores at least 1,000 full-page OCR scans, and it carries a three-year warranty. Its detachable console cover switches between a simpler Basic mode and an Advanced mode that adds saving, a document library, OCR zone identifiers and line-by-line navigation. The introduction year was not found in the manual or on Vispero's site.
+Enhanced Vision's 2024 user manual describes the Merlin elite Pro as a fully integrated desktop magnifier that combines a CCTV with OCR. You can read by listening, or by viewing text in colour or in high-contrast positive or negative modes. Its 1080p full-HD camera magnifies from 2.4 to 41 times, or up to 73 times in extended range. It stores at least 1,000 full-page OCR scans, and it carries a three-year warranty. Its detachable console cover switches between a simpler Basic mode and an Advanced mode that adds saving, a document library, OCR zone identifiers and line-by-line navigation. The introduction year was not found in the manual or on Vispero's site.  Its predecessor, the Merlin HD elite with text-to-speech (OCR), was launched by Enhanced Vision on August 14, 2012 (press release). No source found dates the 'Pro' model itself, so its year remains unknown.
 
 Ports:
 Not documented
@@ -47,5 +47,6 @@ Not documented
 Sources:
 Source 1: https://vispero.com
 Source 2: https://www.enhancedvision.com/downloads/product/merlin-elite-pro/usermanual-english.pdf
+Source 3: https://www.prlog.org/11958346-enhanced-visions-new-merlin-elite-hdocr-cctv.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

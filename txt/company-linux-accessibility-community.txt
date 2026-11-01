@@ -13,10 +13,10 @@ Speakup (Screen Readers, October 29, 1998 to present)
 Oralux (Accessible Linux, July 3, 2003 (0.03))
 ADRIANE (Knoppix) (Accessible Linux, 2007 (presented June 2007; part of KNOPPIX since 5.3))
 Vinux (Accessible Linux, 2008 to January 18, 2017 (discontinued))
+Talking Arch (Accessible Linux, By fall 2009 (Chris Brannon's April 2010 announcement refers to a release in fall 2009); last release October 3, 2017)
 Sonar GNU/Linux (Accessible Linux, April 2013 (Sonar 13.04) to 2017)
 Fenrir (Screen Readers, Repository July 2016; 1.0 released February 7, 2017)
 Jenux (Accessible Linux, Active by January 2023 (the Jenux-2023.01.17 dual ISO on the Blinux list); ISO, Docker and Crostini builds were updated in October 2026.)
-Talking Arch (Accessible Linux, Last release October 3, 2017)
 
 Operating System and Software Histories:
 Linux (on blindness devices)

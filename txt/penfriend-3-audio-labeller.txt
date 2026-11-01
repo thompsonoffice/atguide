@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-RNIB sells it exclusively in the UK. It is made with TouchSpot Audio Limited and also plays MP3 music and talking books.
+RNIB sells it exclusively in the UK. It is made with TouchSpot Audio Limited and also plays MP3 music and talking books.  RNIB's April 2023 New Product Guide says PenFriend 3 (DL128) 'has relaunched' with 16 GB of storage, 500 hours of recording time, 21 tactile labels and 84 self-adhesive labels. The maker says PENfriend has been in use since its launch in 2008. No source found gives the year the PenFriend 3 model itself first appeared, so its year remains unknown.
 
 Ports:
 Not documented
@@ -47,5 +47,7 @@ Not documented
 Sources:
 Source 1: https://shop.rnib.org.uk/products/rnib-penfriend-3-audio-labeller
 Source 2: https://www.rnib.org.uk/living-with-sight-loss/independent-living/labelling/
+Source 3: https://rnibwebappsexternalprod.blob.core.windows.net/ecominstructions/instructions/APDFNPG%20April%202023.pdf
+Source 4: https://penfriendlabeller.com/penfriend-3
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

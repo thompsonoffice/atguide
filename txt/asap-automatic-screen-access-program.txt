@@ -1,14 +1,14 @@
 ASAP (Automatic Screen Access Program)
 Company: MicroTalk
 Category: Screen Readers
-Released: DOS era; latest found version January 2002
+Released: Sold by Raised Dot Computing from 1992 (RDC Newsletter, March–April 1992); latest version found January 2002
 
 Overview:
 MicroTalk's DOS screen reader. A Windows counterpart, ASAW, also existed.
 
 Specs:
 Developer: MicroTalk
-Release years: DOS era; latest found version January 2002
+Release years: Sold by Raised Dot Computing from 1992 (RDC Newsletter, March–April 1992); latest version found January 2002
 Runs on: MS-DOS
 Default speech: Not documented
 Price: Not documented

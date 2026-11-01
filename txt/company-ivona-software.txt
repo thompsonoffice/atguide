@@ -7,7 +7,7 @@ History:
 A Polish TTS company whose voices powered Kindle Fire accessibility features. Amazon acquired it on January 24, 2013.
 
 Products:
-IVONA voices (TTS Voices, Acquired by Amazon January 2013)
+IVONA voices (TTS Voices, In use by 2006 (IVONA's US English voice in the 2006 Blizzard Challenge); acquired by Amazon in January 2013)
 
 Operating System and Software Histories:
 Not documented

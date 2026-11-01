@@ -7,7 +7,7 @@ History:
 Maker of the ASAP (DOS) and ASAW (Windows) screen readers. The latest ASAP version found is from January 2002.
 
 Products:
-ASAP (Automatic Screen Access Program) (Screen Readers, DOS era; latest found version January 2002)
+ASAP (Automatic Screen Access Program) (Screen Readers, Sold by Raised Dot Computing from 1992 (RDC Newsletter, March–April 1992); latest version found January 2002)
 
 Operating System and Software Histories:
 Not documented

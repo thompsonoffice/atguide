@@ -32,7 +32,7 @@ Jenux (Linux accessibility community, Active by January 2023 (the Jenux-2023.01.
 Accessible-Coconut (Zendalona, Releases through 22.04.04 (ISO July 2025) and 24.04.01)
 Vinux (Linux accessibility community, 2008 to January 18, 2017 (discontinued))
 Sonar GNU/Linux (Linux accessibility community, April 2013 (Sonar 13.04) to 2017)
-Talking Arch (Linux accessibility community, Last release October 3, 2017)
+Talking Arch (Linux accessibility community, By fall 2009 (Chris Brannon's April 2010 announcement refers to a release in fall 2009); last release October 3, 2017)
 Oralux (Linux accessibility community, July 3, 2003 (0.03))
 ADRIANE (Knoppix) (Linux accessibility community, 2007 (presented June 2007; part of KNOPPIX since 5.3))
 

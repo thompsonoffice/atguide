@@ -1,14 +1,14 @@
 IVONA voices
 Company: IVONA Software
 Category: TTS Voices
-Released: Acquired by Amazon January 2013
+Released: In use by 2006 (IVONA's US English voice in the 2006 Blizzard Challenge); acquired by Amazon in January 2013
 
 Overview:
 IVONA's TTS powered Kindle Fire accessibility features.
 
 Specs:
 Maker: IVONA Software
-First released: Acquired by Amazon January 2013
+First released: In use by 2006 (IVONA's US English voice in the 2006 Blizzard Challenge); acquired by Amazon in January 2013
 Synthesis type: Concatenative unit selection with limited time-scale modification (USLTM), using diphones with a half-phone fallback (IVO Software Blizzard Challenge papers)
 Platforms: Kindle Fire and others
 Default on or shipped with: Kindle Fire text-to-speech

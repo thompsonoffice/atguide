@@ -1154,4 +1154,11 @@ U(DEV,"noteteller2",{yr:2007});
 U(DEV,"cepstral_voices",{yr:2007});
 U(DEV,"asap",{yr:1992});
 U(DEV,"ivona",{yr:2006});
+// Batch 98: SmartView Graduate, TalkingArch years; IVONA/ASAP year labels; Merlin and PenFriend 3 context
+U(DEV,"svgrad",{yr:2009,y:"By March 2009 (shown by HumanWare at CSUN 2009)",src:["http://nfbnet.org/pipermail/nfbcs_nfbnet.org/2009-March/000662.html"],ha:" HumanWare's March 13, 2009 announcement for CSUN 2009 invited visitors to see 'our portable distance viewing camera, the SmartView Graduate': a stand with two USB connections to a laptop, suited to students and travelling professionals, and working well with ZoomText."});
+U(DEV,"talkingarch",{yr:2009,y:"By fall 2009 (Chris Brannon's April 2010 announcement refers to a release in fall 2009); last release October 3, 2017",src:["https://www.spinics.net/lists/arch-general/msg12865.html"],ha:" On April 26, 2010, Chris Brannon announced the April 2010 snapshot of his TalkingArch CD on the arch-general list, describing it as roughly the netinstall CD with speech from boot. He noted improvements since the previous release in fall 2009, including a new x86_64 image and a brltty package for braille displays."});
+U(DEV,"ivona",{y:"In use by 2006 (IVONA's US English voice in the 2006 Blizzard Challenge); acquired by Amazon in January 2013"});
+U(DEV,"asap",{y:"Sold by Raised Dot Computing from 1992 (RDC Newsletter, March–April 1992); latest version found January 2002"});
+U(DEV,"merlin",{src:["https://www.prlog.org/11958346-enhanced-visions-new-merlin-elite-hdocr-cctv.html"],ha:" Its predecessor, the Merlin HD elite with text-to-speech (OCR), was launched by Enhanced Vision on August 14, 2012 (press release). No source found dates the 'Pro' model itself, so its year remains unknown."});
+U(DEV,"penfriend3",{src:["https://rnibwebappsexternalprod.blob.core.windows.net/ecominstructions/instructions/APDF_NPG%20April%202023.pdf","https://penfriendlabeller.com/penfriend-3"],ha:" RNIB's April 2023 New Product Guide says PenFriend 3 (DL128) 'has relaunched' with 16 GB of storage, 500 hours of recording time, 21 tactile labels and 84 self-adhesive labels. The maker says PENfriend has been in use since its launch in 2008. No source found gives the year the PenFriend 3 model itself first appeared, so its year remains unknown."});
 };

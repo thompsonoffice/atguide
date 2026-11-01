@@ -16,6 +16,7 @@ ClassMate Reader (Book Readers, About 2008)
 DeafBlind Communicator (DBC) (Other, December 2008)
 Trekker Breeze (Other, 2008)
 BrailleNote Apex BT32 (Notetakers, November 2009)
+SmartView Graduate (Magnifiers, By March 2009 (shown by HumanWare at CSUN 2009))
 BrailleNote Apex BT18 (Notetakers, May 2010)
 VoiceNote Apex BT / QT (VoiceNotes, July 2010)
 Prodigi (Magnifiers, Announced 2013)
@@ -30,7 +31,6 @@ Brailliant BI 40X (Braille Displays, On sale by April 2021 (Helen Keller Service
 Victor Reader Stream (3rd generation) (Book Readers, 2023 to present)
 BrailleNote Evolve (Notetakers, Previewed late 2025; launched 2026)
 HumanWare Companion (software) (Other, Current version 4.2.9)
-SmartView Graduate (Magnifiers, A HumanWare desktop video magnifier. HumanWare's store page gives no introduction year.)
 
 Operating System and Software Histories:
 KeySoft
