@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The original IrisVision is a Samsung Gear VR headset with a Samsung Galaxy phone clipped into its front. The phone's rear camera films the scene and its screen, seen through the headset's lenses, shows the enhanced image. Cool Blind Tech (2018) describes the kit at $2,500 in the US.
+Wired's 2016 review of that year's Gear VR (the model made for the Galaxy Note 7 and S7 generation) gives the shell as weighing 0.66 pound without a phone, with a soft felt cushion held by velcro around the eyes. The phone connects through a swivelling connector inside the front cover and clicks into place.
+The controls are on the headset: a large recessed touchpad that takes up most of the right side (with a small raised bump in the middle to guide the finger) and a focus wheel on top. Eyes On Eyecare says wearers can use the focus wheel to sharpen the image, and that the headset can be worn over distance glasses.
+Eyes On Eyecare says IrisVision is meant for seated use, not for walking, and describes Scene, TV and Reading modes with brightness and magnification changed from the headset controls.
+The 2023 successor, IrisVision Inspire, moved the phone (a Galaxy S21) out of the headset onto a lanyard, connected by a USB cable, making the headset lighter. AccessWorld describes two buttons under each display, a slider under each lens for focus, a padded light-blocking lining, and an included Bluetooth remote.
+
 Features:
 Not documented
 
@@ -41,5 +48,7 @@ Sources:
 Source 1: https://irisvision.com
 Source 2: https://coolblindtech.com/irisvision-harnesses-the-power-of-samsung-galaxy-smartphone-with-a-samsung-gear-vr-headset/
 Source 3: https://afb.org/aw/february2023/irisvisions-new-addition-inspire
+Source 4: https://www.wired.com/2016/08/new-gear-vr-best-100-phone-accessory-can-buy/
+Source 5: https://eyesoneyecare.com/resources/what-you-need-to-know-about-wearable-low-vision-aids/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

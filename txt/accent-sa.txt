@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+Trace Center's 1996-97 ResourceBook describes the Accent-SA as the stand-alone version of Aicom's Accent-PC card and gives its size as 5.7 x 8.5 x 1.6 inches and its weight as 2.5 pounds, at a price of $995.
+It connects to the computer through a standard RS-232C serial port. Trace says a battery and an AC adapter are included, so it can run away from the mains; speech-output software had to be bought separately.
+The battery is internal. A 2006 Speakup mailing-list post describes Accent SAs that stopped speaking when their battery died and would not charge, and says opening the unit and disconnecting the battery restored them. Another user on the same thread describes the unit saying 'Accent ready' when switched on.
+A 2015 owner asking for a manual on Reddit mentions switches on the back of the unit whose purpose he did not know. No source found in this session explains those switches, gives a layout of the controls and jacks, or says whether there is a built-in speaker or headphone jack.
+The manual a user posted online in 1997 (cyberspc.mb.ca/~astrope/accentmanual.txt) no longer exists and is not in the Internet Archive, which is why the control layout above is incomplete. Trace notes a CTRL-X command that instantly empties the speech buffer and a speaking rate of about 60 to 850 words per minute.
+
 Features:
 Not documented
 
@@ -42,5 +49,8 @@ Source 1: http://cd.textfiles.com/nfbfiles/newsletters/VN0892.TXT
 Source 2: https://www.freelists.org/post/jfw/jaws-61,13
 Source 3: https://www.freelists.org/post/raspberry-vi/Still-no-go-for-more-voices,32
 Source 4: https://www.cs.vassar.edu/~priestdo/emacspeak/list.archive.2005/msg00179.html
+Source 5: https://files.eric.ed.gov/fulltext/ED391288.pdf
+Source 6: http://linux-speakup.org/pipermail/speakup/2006-November/044544.html
+Source 7: https://www.reddit.com/r/HelpMeFind/comments/3dayiy/helpmefindthemanualforpieceofelectronics/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

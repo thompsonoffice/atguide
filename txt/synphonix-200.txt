@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The SynPhonix 200 is an internal expansion card for the IBM PC and compatibles; it has no external box. SpeechChips.com describes it as a board carrying its own speaker, with the SSI 263 phoneme synthesizer chip on the card.
+Its connections are on the card's rear bracket, at the back of the computer. SpeechChips.com describes an external-speaker connection and a volume control there, and Trace Center's 1987 Resource Book 3 says voice output could go through the SynPhonix speaker or any external speaker.
+Because the speaker is on the board, the card can talk with nothing plugged into it, though sound then comes from inside the computer case. Plugging in an external speaker moves the voice outside the case; a contemporary review cited by SpeechChips.com used that output to record spoken material onto cassette.
+Speech settings (rate, pitch, amplitude) are set in software, not with knobs; the only physical control is the rear volume control. Trace listed the card at $225 in 1987, with text-to-speech, demonstration and fixed-vocabulary programs included.
+No dimensions, weight or board-length figure for the SynPhonix 200 was found in the sources checked this session (Trace's 1987 and 1988 Resource Books, SpeechChips.com and Artic's own history pages give none). Related boards fitted other computers: the SynPhonix 100 for the Apple II and the SynPhonix jr for the PCjr.
+
 Features:
 Not documented
 
@@ -42,5 +49,6 @@ Sources:
 Source 1: https://web.archive.org/web/20060327064418/http://www.artictech.com/history.htm
 Source 2: https://web.archive.org/web/20110728031437/http://www.articannex.ws/artictec.htm
 Source 3: https://speechchips.com/devices/synphonix200.html
+Source 4: https://files.eric.ed.gov/fulltext/ED283307.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

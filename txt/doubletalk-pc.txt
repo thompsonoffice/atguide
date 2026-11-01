@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+DoubleTalk PC is a short internal card for an 8- or 16-bit ISA slot. RC Systems' manual gives its size as 3.9 x 5.1 inches. It will not fit Micro Channel machines such as the PS/2 Model 80. It uses no IRQ, DMA or system memory.
+The manual describes no speaker on the card itself. A separate speaker is supplied, and plugs into a 3.5 mm mono jack on the card's metal retaining bracket at the back of the computer. The card's volume control shaft sits just above that jack, and the manual suggests setting it to about mid-travel at first.
+The supplied speaker has its own volume control and headphone jack; plugging headphones into it mutes the speaker for private listening. The manual suggests turning the card's control up and the speaker's down if there is background noise.
+The only setting on the board is the I/O port address. A small black plastic jumper at the lower left edge of the card is moved between pairs of pins on a jumper block, whose left side is printed with the base addresses (25E, 29E, 2DE, 31E, 35E or 39E). Installation is the usual one: remove a slot cover, seat the card's gold connector, and fasten the bracket with its screw.
+On the board is an Intel 80C188EB processor at 12.5 MHz, 512K of ROM and 8K of RAM. The audio output is rated 0.5 W into 8 ohms, and power draw is at most 75 mA (25 mA standby) from the computer's 5-volt supply.
+
 Features:
 Not documented
 
@@ -42,5 +49,6 @@ Source 1: https://lkml.iu.edu/9810.3/0735.html
 Source 2: https://www.duxburysystems.org/downloads/library/news/new95.htm
 Source 3: https://manualzilla.com/doc/5788162/doubletalk-pc-lt-user-s-manual
 Source 4: https://www.rcsys.com/dt.htm
+Source 5: https://www.rcsys.com/Downloads/dtdoc.zip
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

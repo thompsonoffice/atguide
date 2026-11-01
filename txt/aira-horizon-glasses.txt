@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+Aira's Horizon glasses look like ordinary sunglasses. AccessWorld's June 2018 reviewer found them far less conspicuous than the earlier Google Glass-style frames, which were a frame with no lenses and a camera on the right-hand side.
+The camera sits above the nose, in the centre of the frame, rather than on the side. Agents get a 120-degree view, compared with about 60 degrees from the side-mounted cameras on the original glasses.
+The glasses have no battery of their own. A small cord runs from the end of one earpiece to the bottom of a dedicated Samsung phone, which Aira called the Horizon Controller (TechCrunch: 'a repurposed Samsung smartphone'). The phone powers the glasses and is both the call line and the wireless hotspot, so the kit is two pieces instead of the three needed before (glasses, an AT&T Mi-Fi hotspot, and the user's own phone).
+The earlier glasses were very light: AccessWorld's September 2017 introduction gave one model (ordinary-looking frames with a camera unit on the right arm) as slightly under two ounces and the Google Glass-style pair as 1.46 ounces. On both, the power button and charging port were on the right frame. No weight for the Horizon glasses was found.
+Using Horizon is mostly done on the phone. Pressing the Home button brought a greeting from Chloe, the voice assistant, and pressing Home twice called an agent. The reviewer said the Horizon kit could last all day before recharging. Aira stopped its smart-glasses service on April 1, 2020 (OE Patients), continuing with smartphones only.
+
 Features:
 Not documented
 
@@ -41,5 +48,7 @@ Sources:
 Source 1: https://aira.io
 Source 2: https://afb.org/aw/19/6/15088
 Source 3: https://www.afb.org/aw/18/9/15178
+Source 4: https://techcrunch.com/2018/03/27/airas-new-smart-glasses-give-blind-users-a-guide-through-the-visual-world/
+Source 5: https://oepatients.org/electronic-glasses-price-update/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

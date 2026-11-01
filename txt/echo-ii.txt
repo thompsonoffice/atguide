@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Echo II is an Apple II expansion card with a separate small speaker. The 1982 manual has the card fitted into any slot except slot 0: you push its gold 'fingers' (the gold contacts along the lower edge of the board) into the slot with a gentle rocking motion until it is firmly seated.
+The speaker is a separate unit on a cable. Its plug goes into the jack labelled 'speaker' on the card, and the manual says to stick the speaker to the inside right wall of the Apple's case with the tape provided, then replace the lid, so in normal use nothing shows outside the computer.
+There are two small adjustment potentiometers on the board itself. The volume pot is a small knob near the top of the card, with 'VOL' printed just to its left. The frequency pot, in the upper-left corner under the word ECHO and above 'FREQ', changes both pitch and speaking rate and is turned with a small screwdriver; the manual advises marking its original position first.
+The card can also send speech to a telephone line: an appendix describes running a cable with a mini-jack on one end from the Echo to pins 24 and 25 of a Novation Apple-Cat modem, so the Apple could answer calls and speak to the caller.
+Later versions changed the speaker. Trace's 1996-97 ResourceBook describes the then-current Echo II (formerly the Echo IIb) as a card plus an external speaker unit with its own volume control and headphone jack, and SpeechChips.com's Echo IIb exhibit quotes a February 1987 review describing a tilted external speaker with a volume control and headphone jack. The Echo IIb board it photographs carries a Texas Instruments TMP5220C speech chip and a ©1986 Street Electronics marking.
+
 Features:
 Not documented
 
@@ -40,5 +47,7 @@ Not documented
 Sources:
 Source 1: https://www.duxburysystems.org/downloads/library/texas/apple/manuals/echo.htm
 Source 2: https://www.trs-80.org/echo-80-speech-synthesizer.html
+Source 3: https://speechchips.com/devices/echo-iib.html
+Source 4: https://files.eric.ed.gov/fulltext/ED391288.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

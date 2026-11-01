@@ -23,6 +23,13 @@ Voices: Votrax SC-01 phoneme voice
 Physical Description:
 Not documented
 
+Detailed Description:
+Votrax's operator's manual describes the Type 'N Talk as a small, light case 'no larger than a portable cassette recorder', needing no more than 7.7 x 5.2 x 3.1 inches of space and weighing about 2 pounds (896 g). The Henry Ford's catalogue measures its Model 100 at 2.75 inches high, 5 inches wide and 7.5 inches long, made of metal, plastic, rubber and paper, with the label 'Model 100 - Type'N Talk' on the underside.
+The front panel carries only two knobs, both on the left: VOLUME and FREQUENCY. Everything else is on the back panel. Reading from the left, the manual places the push-button ON/OFF switch at the far left, then the POWER jack, the RS-232 SERIAL PORT in the centre, the BAUD SELECT switch block and, last, the SPEAKER jack.
+Power comes from a separate transformer whose cord ends in a 5-pin DIN plug; the power receptacle accepts only that connector, which keeps it from being confused with the other jacks. There is no built-in loudspeaker: the manual says to attach any 8-ohm speaker to the SPEAKER jack, and Antic's reviewer priced the unit at $375 'plus a speaker' for that reason.
+Data rate is set by hand on the back panel. The manual's baud-selection table covers eight switches and says to close only one at a time. When switched on, the unit says 'SYSTEM READY'. A serial cable had to be obtained separately; Atari owners also needed the Atari 850 interface.
+For a blind user the layout is simple to learn by touch, two knobs at the front, all sockets at the back, though Antic's reviewer complained that the on/off switch sat on the back and that there was no power light. Trace Center's 1987 Resource Book 3 lists it (as Type-N-Talk) among the synthesizers that educational programs of the time required.
+
 Features:
 Not documented
 
@@ -43,5 +50,6 @@ Source 1: https://en.wikipedia.org/wiki/Votrax
 Source 2: https://archive.org/stream/VotraxTypeNTalkManual/Votrax%20Type%20%27N%20Talk%20Manualdjvu.txt
 Source 3: https://www.thehenryford.org/collections/explore/artifact/388923?AssetId=THF156826
 Source 4: https://www.atarimagazines.com/v1n2/taritalkers.php
+Source 5: https://files.eric.ed.gov/fulltext/ED283307.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

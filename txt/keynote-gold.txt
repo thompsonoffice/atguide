@@ -24,6 +24,13 @@ Shipped with or used by: BrailleNote Classic (BT/QT)
 Physical Description:
 Not documented
 
+Detailed Description:
+Keynote Gold came in several physical forms. Trace's 1996-97 ResourceBook lists three models: a half-size internal card for PCs, a card for laptops (Toshiba), and a stand-alone box that plugs into a serial port. Each has 256K of memory and its own digital speech processor. It was also built into Pulse Data's later products such as the early BrailleNotes.
+Pulse Data's 1994 manual for the stand-alone Keynote Gold SA describes a small, portable box 8 inches long, 4 inches wide and 1.2 inches thick (200 x 110 x 30 mm), weighing 1.5 pounds (700 g). The top has one set of loudspeaker slots towards the back and the bottom has two sets.
+Laid flat with the short side that has three connectors facing away from you, the on/off rocker switch is the only control on the right-hand side, about halfway along; pressing the near side turns it on and it says 'Keynote Gold'. The volume slider is on the front at the left (slide right for louder), and the 3.5 mm stereo headphone socket is on the front at the right; plugging in cuts off the speaker.
+On the back, from right to left, are the round power socket for the AC adapter, the 9-pin female mini-D serial socket in the centre (fastened with two locking screws), and a telephone-style socket on the left for Pulse Data's MasterTouch touch tablet. The adapter is 9 V DC, at least 300 mA, centre positive.
+The SA has an internal rechargeable battery giving 6 to 12 hours, depending on how much it speaks. A full charge takes 14 hours. It announces 'A.C adapter On' or 'Off' at power-up and 'Charge battery' when low. Audio power is 500 mW. A supplied DOS driver let screen readers treat it as an Aicom Accent PC.
+
 Features:
 Not documented
 
@@ -44,5 +51,7 @@ Source 1: https://afb.org/aw/2/4/15017
 Source 2: https://github.com/cullen-gallagher/BestSpeechForMac
 Source 3: http://qcsalon.net/en/forum32/topic107910
 Source 4: https://bluegrasspals.com/pipermail/dectalk/2022-September/005776.html
+Source 5: https://www.freelists.org/post/access-uk/Cables-for-the-old-keynote-SA,1
+Source 6: https://files.eric.ed.gov/fulltext/ED391288.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -36,7 +36,7 @@ Text-to-speech for text files
 Voice recorder
 
 History:
-Firmware version 3 was shown at CSUN 2009.
+Firmware version 3 was shown at CSUN 2009.  AccessWorld's January 2008 review ('Full Stream Ahead') says HumanWare Canada announced the Stream in July 2007. Much of the excitement came from the simultaneous news that the National Library Service would offer Digital Talking Books for download. Shipping began in early September 2007, at $329 plus shipping. A November update added Audible support (from November 15). The Stream played NLS talking books, Bookshare DAISY books, music and text files, and doubled as a voice recorder.
 Predecessors: Victor Reader Classic (VisuAide, About 2002)
 Successors: Victor Reader Stream (2nd generation) (HumanWare, February 2013)
 

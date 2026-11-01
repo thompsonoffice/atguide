@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+Artic's fall 1992 Visions newsletter gives TransPort's size as 0.75 inch high, 4.125 inches wide and 7.5 inches long, and its weight as about 15 ounces, small enough for a coat pocket. Trace's 1996-97 ResourceBook lists slightly different figures, 4 x 7 x 1.4 inches and 1.25 pounds; the source of the difference (a later case or a different measurement) is not stated.
+The case is aluminium. Volume and tone are set with two thumbwheels rather than knobs, which makes them easy to find and turn by touch.
+Sound comes from an internal speaker, or from headphones or an external speaker plugged into the unit. The computer connects through a serial port; Trace notes it works with the IBM PC and PS/2 families.
+TransPort runs on rechargeable batteries or AC power and can be used while charging. Artic quoted about 16 hours per charge and built in a low-battery alarm. The 615's battery-backed memory kept stored files for about thirty days after the unit was switched off with a full charge.
+The flagship model 615 has an extra Turbo Port for Artic's Gizmo navigation pad or Turbo Pedals, and comes with a Turbo Pad that plugs into the front of the unit. The model 611 is the same unit without Business Vision in ROM.
+
 Features:
 Not documented
 
@@ -41,5 +48,6 @@ Sources:
 Source 1: http://cd.textfiles.com/nfbfiles/newsletters/VN0892.TXT
 Source 2: https://web.archive.org/web/20110728031437/http://www.articannex.ws/artictec.htm
 Source 3: https://web.archive.org/web/20060327064418/http://www.artictech.com/history.htm
+Source 4: https://files.eric.ed.gov/fulltext/ED391288.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

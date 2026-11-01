@@ -23,6 +23,13 @@ Voices: DECtalk Perfect Paul; DECtalk Beautiful Betty; DECtalk Huge Harry; DECta
 Physical Description:
 18 x 12 x 4 in, 16 lb.
 
+Detailed Description:
+The DTC01 is a large desktop cabinet. Wikipedia lists it at about 18 x 12 x 4 inches (45.7 x 30.5 x 10.2 cm) and 16 pounds (7.2 kg); Trace's 1996-97 ResourceBook gives a weight of 19 pounds. The Computer History Museum's example has a front that slopes back at the top, with ventilation slits in both sides.
+The front carries only an on/off switch. According to the Computer History Museum's description, everything else is on the back, from left to right: two DB-25 male connectors (one labelled COMM, the other apparently marked with a monitor icon), two RJ-11 telephone jacks (one marked with a handset icon), two audio jacks (marked with a headphone icon and a triangle), a green LED, a volume thumbwheel, and the AC inlet with a fuse and a 120/240-volt selector.
+DEC's owner's manual says the unit has a built-in loudspeaker and volume control. Plugging headphones or an auxiliary speaker into the headphone jack on the back turns the internal speaker off; the separate audio output jack, meant for an amplifier, leaves the internal speaker on, so you silence it by turning the volume control down.
+The two telephone jacks let DECtalk sit between a phone line and a telephone set, so it could answer and place calls; the manual lists USOC RJ11C (or RJXA1) as the line jack type, model DTC01-AA, ringer equivalence 0.3B. A host computer connects to the COMM port over RS-232C, and a terminal can be connected to the second port for setting up the unit.
+At power-on the unit runs a self-test of about seven seconds and then says 'DECtalk version ... is running', the only start-up confirmation besides the green LED. Trace's ResourceBook describes nine voices (four male, four female, one child) and speech through the internal speaker, headphones, an external speaker or the telephone.
+
 Features:
 Not documented
 
@@ -41,5 +48,8 @@ Not documented
 Sources:
 Source 1: https://en.wikipedia.org/wiki/DECtalk
 Source 2: https://www.inc.com/magazine/19840301/3858.html
+Source 3: https://archive.org/stream/EK-DTC01-OM-002OwnersManual/EK-DTC01-OM-002OwnersManualdjvu.txt
+Source 4: https://www.computerhistory.org/collections/catalog/102757099
+Source 5: https://files.eric.ed.gov/fulltext/ED391288.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

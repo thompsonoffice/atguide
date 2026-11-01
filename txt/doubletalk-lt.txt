@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+DoubleTalk LT is a small external box. RC Systems' fact sheet gives it as 5.3 x 4.0 x 1.5 inches and 11 ounces without its battery. A 4-foot moulded serial cable with a 9-pin female (DB-9F) plug is permanently attached to the back of the unit.
+The front holds the controls you touch: a headphone jack (1/8-inch, 3.5 mm stereo) and a small black thumbwheel that is both the power switch and the volume control. Turning the wheel until it clicks switches the unit on, and it says 'DoubleTalk ready'. Plugging in headphones mutes the built-in speaker.
+The AC adapter plugs into a power jack at the back; the manual warns that the plug is meant to be a tight fit. The unit can also run from a 9-volt alkaline battery for up to 10 hours or more. The manual says to put back the foam that sits in the battery compartment if the battery is removed, or the case can resonate while speaking.
+Speaker, headphone jack, volume control and serial interface are all built in, and no driver is needed: text is sent to the serial port at 9600 baud, 8 data bits, no parity, 1 stop bit, like text to a printer. The fact sheet notes that computers without a 9-pin serial port can use an inexpensive USB-to-serial adapter.
+Internally it uses the RC8650 chipset. The internal speaker is rated at 0.5 W, and current draw is 100 mA when active, 30 mA idle and 0.2 mA asleep. RC Systems has retired the product.
+
 Features:
 Not documented
 
@@ -41,5 +48,6 @@ Sources:
 Source 1: https://aphmuseum.org/record/doubletalk-lt-speech-synthesizer/
 Source 2: https://www.rcsys.com/dt.htm
 Source 3: https://www.rcsys.com/Downloads/dtfacts.pdf
+Source 4: https://www.rcsys.com/Downloads/dtdoc.zip
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

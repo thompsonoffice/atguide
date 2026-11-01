@@ -23,6 +23,13 @@ Voices: Votrax SC-01 phoneme voice
 Physical Description:
 Not documented
 
+Detailed Description:
+The Personal Speech System is a self-contained external box. AbleData's record gives its size as 12.25 x 5.2 x 3.1 inches and its weight as 2.6 pounds, noticeably longer than the Type 'N Talk, whose manual gives 7.7 x 5.2 x 3.1 inches for the same height and width.
+Unlike the Type 'N Talk, the PSS speaks through its own internal speaker; AbleData and Trace Center's 1987 Resource Book 3 both say speech 'comes out as synthesized speech from the system's internal speaker'. It runs from 120-volt AC mains power; no battery is mentioned in either source.
+The unit connects to the computer through either a serial (RS-232) or a parallel port, and data sent to that port reaches the PSS just as it would reach a printer. It also has its own auxiliary serial and parallel ports, so a printer could stay attached while the PSS sat in the chain.
+Inside, a 3,500-character buffer let text be accepted without holding up the computer. Inflection, rate and amplitude are adjustable by command, and the unit can play music. Wikipedia's Votrax article adds that the circuitry (a Z80 with two 8K EPROMs, TTL logic and 2K of RAM) was sealed in epoxy so the design could not be copied.
+No source found in this session describes the placement of the switches, knobs or connectors on the case, and no PSS manual was found online; AbleData and Trace list only the dimensions, weight, power, ports and speaker. AbleData marked the product discontinued (verified June 1995) with a list price of $449.
+
 Features:
 Not documented
 
@@ -41,5 +48,6 @@ Not documented
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Votrax
 Source 2: https://web.archive.org/web/20110606065104/www.abledata.com/abledata.cfm?pageid=113583&productid=94209&top=0&trail=0
+Source 3: https://files.eric.ed.gov/fulltext/ED283307.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

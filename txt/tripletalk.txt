@@ -22,6 +22,13 @@ Used price today (eBay): No eBay listings for the TripleTalk were found.
 Physical Description:
 Not documented
 
+Detailed Description:
+TripleTalk came in more than one physical form, and each is documented differently. A 2003 paper by Joe Grand (Grand Idea Studio) lists the TripleTalk PCI, a $395 expansion card for desktop PCs, and the TripleTalk USB, a $495 external unit with both serial and USB interfaces, an internal rechargeable battery, an internal speaker, and dimensions of 5.5 x 4.0 x 1.5 inches.
+The Linux kernel's Speakup guide groups the external TripleTalk (on a DB-9 serial connection only) with the DoubleTalk LT and LiteTalk under the same ltlk driver, and says Speakup does not support the internal TripleTalk card. No source found gives the layout of controls on the external unit or on the PCI card.
+The later TripleTalk USB Mini is the best documented. Blind Mice Mega Mall's listing describes it as palm-sized, 2.4 x 1.6 x 0.8 inches and 1.5 ounces, with a 1.4-inch onboard speaker and a 1/8-inch stereo headphone jack.
+The Mini's volume is set with a slider on the side or by software. It is powered entirely by the USB bus, with no battery or power adapter, and its 8 KB flashable EPROM accepts firmware updates in the field.
+The Mini's box contains the unit, an installation disk with documentation, a 12-inch full-speed USB cable, 1/8-inch stereo earbuds, and a quick-install reference sheet. Blind Mice lists it at $199.99, with English or Spanish speech and support in JAWS, Window-Eyes and NVDA.
+
 Features:
 Not documented
 
@@ -43,5 +50,7 @@ Source 2: https://www.freelists.org/post/jfw/Laptops-and-hardware-synthesizer-fo
 Source 3: https://www.freelists.org/post/jfw/Finding-the-double-and-triple-talk-synths,9
 Source 4: https://inbox.the-brannons.com/blinux/20050331164331.GC11527@rednote.net/T/
 Source 5: https://www.blindmicemegamall.com/bmm/shop/ItemDetail?itemid=5323293
+Source 6: https://grandideastudio.com/media/emicportttspaper.pdf
+Source 7: https://www.kernel.org/doc/Documentation/admin-guide/spkguide.txt
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

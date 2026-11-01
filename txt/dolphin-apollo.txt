@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+Dolphin's 1998 Series 2 user guide describes the Apollo 2 as a mains-only desktop synthesizer with a built-in loudspeaker, measuring 11.5 cm long, 13 cm wide and 7 cm high. Its siblings were the PC 2 card (the same synthesizer on an internal PC card) and the Juno, a pocket-sized battery unit.
+With the speaker facing you, there are three connectors. On the back is a 9-way D-type serial socket for the computer; it is wired in a non-standard way, so only Dolphin's cable (9-way female at both ends, reversible) should be used, and the guide warns that a standard cable may damage the synthesizer's port. Also at the back is the socket for the mains adapter.
+On the front is a 3.5 mm stereo socket for headphones or an extension speaker; the guide says a mono plug will not work correctly. The adapter must supply 13 V at 300 mA through a 2.1 mm barrel, negative tip.
+There are only two controls. The on/off switch is at the back on the left-hand side (left is on, right is off), and the volume knob is on top, to the left, just below the speaker grille. At switch-on the unit tests itself: one short buzz means it passed, three longer hoots mean it failed.
+Inside, the Apollo 2 holds up to four languages in replaceable ROMs (one 64K ROM as standard) and was one of the few synthesizers with a British English voice. The original Apollo that preceded the Series 2 is not described in any source found; this description covers the Apollo 2.
+
 Features:
 Not documented
 
@@ -42,5 +49,6 @@ Source 1: https://en.wikipedia.org/wiki/Listofscreenreaders
 Source 2: https://www.prweb.com/releases/dolphincomputeraccesscelebratetheir30thanniversarylaunchinganaccessibleiosreadingappforblindlowvisiondyslexicreaders/prweb14405612.htm
 Source 3: https://archive.org/details/DolphinApollo2Manual
 Source 4: https://github.com/rommix0/dolphin-apollo-ii-reborn
+Source 5: https://archive.org/stream/DolphinApollo2Manual/DolphinApollo2Manualdjvu.txt
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -29,7 +29,7 @@ SD-card labeling
 Player update checks
 
 History:
-Not documented
+HumanWare Companion is the free Windows program HumanWare provides for its Victor Reader Stream and Victor Reader Stratus players; its guide also covers the ClassMate Reader. Its user guide (revision marked VER 10-20140206) describes a two-pane window, with the computer's files above and the player's SD card below, and menus to transfer DAISY or NISO talking books, other books, music, podcasts and text files into the correct bookshelf folders. It also removes them; converts the Stream's audio notes and bookmarks to WAV; backs up the ClassMate's text notes; builds music playlists; writes a spoken SD-card label (a hidden $VRLabel.txt file of up to 50 characters, since print or braille labels can damage the player); backs up and restores SD cards; and checks for and installs new Stream and Stratus firmware. The guide also covers a Bookshare search and download window, Wi-Fi setup and Internet-radio playlists for the Stream, and copying of KXO authorisation files. Every function is reachable from the keyboard: Tab between controls, Alt for the menu bar, and Space to select items. HumanWare's support page offers version 4.2.9 in English and other languages, with 4.1.17 and 4.2.5 archived.
 
 Ports:
 Not documented
@@ -44,5 +44,6 @@ Sources:
 Source 1: https://www.humanware.com/support/humanwarecompanion/
 Source 2: https://www.humanware.com/en-usa/support/victorreaderstream2/victorreaderstream2faq
 Source 3: https://www.humanware.com/support-training/victor-reader-stream-3-faq/
+Source 4: https://www.humanware.com/wp-content/uploads/2024/11/EN-HumanWareCompanion-Help-Rev10-1.docx
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

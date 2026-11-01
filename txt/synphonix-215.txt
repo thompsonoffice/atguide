@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The SynPhonix 215 is an internal card for the IBM PC family and the PS/2 Models 25 and 30. Trace's 1996-97 ResourceBook explains that the 215 is the SynPhonix 210 board bundled with Artic's VEST text-to-speech rules and either Artic Vision ($795) or Business Vision ($895), so physically it is the 210 card.
+Trace says the voice can come through the on-board speaker, a small external speaker, or headphones, all three included, and that the volume and treble controls are 'located externally'.
+The card also has a built-in Artic Switch Interface, so that switches can be plugged into the computer for use with Artic's screen-access programs. An optional accessory for the 215 was Turbo-Pedals ($150), foot pedals giving fast-forward, rewind, review mode and instant quiet.
+SpeechChips.com photographs a related Artic board marked 'SP-21X Revision 3' (©1987): a large on-board loudspeaker dominates the card, two adjustment controls and a multi-pin connector sit on the rear bracket, and jumpers labelled MAP and IRQ provide configuration. It is described as belonging to the 21x family, not identified specifically as a 215.
+No dimensions or weight for the 215 were found in the sources checked. Artic's own history says the 210, 215 and 216 ISA cards are all out of production; the Micro Channel equivalents for PS/2 Models 50 and above were the SynPhonix 310 and 315.
+
 Features:
 Not documented
 
@@ -43,5 +50,7 @@ Source 1: https://web.archive.org/web/20060327064418/http://www.artictech.com/hi
 Source 2: https://web.archive.org/web/20110728031437/http://www.articannex.ws/artictec.htm
 Source 3: https://afb.org/aw/1/5/16151
 Source 4: https://www.freelists.org/post/raspberry-vi/Still-no-go-for-more-voices,32
+Source 5: https://files.eric.ed.gov/fulltext/ED391288.pdf
+Source 6: https://speechchips.com/devices/synphonix-sp21x.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
