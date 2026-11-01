@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-RC Systems' manual says the card fits an 8- or 16-bit ISA slot and needs no IRQ, DMA or system memory. Its sibling, the DoubleTalk LT, is the external serial version.
+RC Systems' manual says the card fits an 8- or 16-bit ISA slot and needs no IRQ, DMA or system memory. Its sibling, the DoubleTalk LT, is the external serial version.  An early-1990s Raised Dot Computing newsletter sold the DoubleTalk PC for $280 and explained its roots. RC Systems' first product was the SlotBuster, a multi-function Apple II card with a speech synthesizer, but many programs required an Echo, so RC Systems built the DoubleTalk for the Apple, which combined the SlotBuster voice with an Echo-like synthesizer. The PC version added more speech capabilities, for four synthesizers on one board. The newsletter listed Flipper and ASAP among the screen readers that supported it.
 
 Ports:
 8-bit ISA

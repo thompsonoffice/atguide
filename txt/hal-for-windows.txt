@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Dolphin's 1997 schedule included Hal 1.04 for Windows 95. Later versions supported Windows 95, 98, ME, 2000, NT and XP.
+Dolphin's 1997 schedule included Hal 1.04 for Windows 95. Later versions supported Windows 95, 98, ME, 2000, NT and XP.  AccessWorld reviewed Hal 6.51 in 2006, alongside JAWS 7.0 and Window-Eyes 5.5. Installing it took three steps: the screen reader itself, Dolphin's Synthesizer Access Manager (SAM), and the Orpheus software synthesizer, with IBM ViaVoice on an optional CD. Hal could copy the keyboard commands of other screen readers such as JAWS, and it used downloadable map files to configure itself for specific programs. It was also sold as the Dolphin Pen edition, which ran from a USB flash drive.
 Predecessors: Hal for DOS (Dolphin Computer Access, DOS era. Wikipedia lists Hal for both DOS and Windows; the Windows version was later superseded by SuperNova and Dolphin ScreenReader. The DOS release year was not found.)
 Successors: Dolphin Supernova (Dolphin Computer Access, Launched 1998)
 
