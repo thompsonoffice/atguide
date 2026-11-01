@@ -38,9 +38,8 @@ System Requirements:
 Not documented
 
 Sources:
-Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
-Source 2: http://cd.textfiles.com/nfbfiles/newsletters/VN0892.TXT
-Source 3: https://web.archive.org/web/20110728031437/http://www.articannex.ws/artictec.htm
-Source 4: https://web.archive.org/web/20060327064418/http://www.artictech.com/history.htm
+Source 1: http://cd.textfiles.com/nfbfiles/newsletters/VN0892.TXT
+Source 2: https://web.archive.org/web/20110728031437/http://www.articannex.ws/artictec.htm
+Source 3: https://web.archive.org/web/20060327064418/http://www.artictech.com/history.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

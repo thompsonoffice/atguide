@@ -15,6 +15,7 @@ Operating System and Software Histories:
 Not documented
 
 Sources:
-Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 1: https://web.archive.org/web/20060327064418/http://www.artictech.com/history.htm
+Source 2: https://web.archive.org/web/20110728031437/http://www.articannex.ws/artictec.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -38,10 +38,9 @@ System Requirements:
 Not documented
 
 Sources:
-Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
-Source 2: http://cd.textfiles.com/nfbfiles/newsletters/VN0892.TXT
-Source 3: https://www.freelists.org/post/jfw/jaws-61,13
-Source 4: https://www.freelists.org/post/raspberry-vi/Still-no-go-for-more-voices,32
-Source 5: https://www.cs.vassar.edu/~priestdo/emacspeak/list.archive.2005/msg00179.html
+Source 1: http://cd.textfiles.com/nfbfiles/newsletters/VN0892.TXT
+Source 2: https://www.freelists.org/post/jfw/jaws-61,13
+Source 3: https://www.freelists.org/post/raspberry-vi/Still-no-go-for-more-voices,32
+Source 4: https://www.cs.vassar.edu/~priestdo/emacspeak/list.archive.2005/msg00179.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
