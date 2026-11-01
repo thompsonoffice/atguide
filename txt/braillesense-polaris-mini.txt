@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+HIMS announced the BrailleSense Polaris Mini a few months after the 32-cell Polaris, which AccessWorld reviewed in January 2018. It is a 20-cell version running Android 5.1.1 on a Samsung Exynos octa-core processor with 64 GB of storage. Unlike the Polaris, it charges over USB-C (about 3.5 hours) and keeps its microSD card in the battery compartment.
 Predecessors: BrailleSense U2 Mini (HIMS / Selvas BLV, 2013)
 Successors: BrailleSense 6 Mini (HIMS / Selvas BLV, 2022)
 

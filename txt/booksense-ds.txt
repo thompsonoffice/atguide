@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+GW Micro began taking orders for the Book Sense DS at $499, along with the Voice Sense QWERTY at $1,995, after announcing both at the CSUN conference in March 2010. AccessWorld's 2010 convention roundup reported that a US delivery date had not yet been announced.
 Predecessors: BookSense (HIMS / Selvas BLV, 2009)
 
 Ports:

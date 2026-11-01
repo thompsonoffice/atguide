@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+The BookSense XT is physically identical to the standard BookSense but adds an FM radio, 4 GB of built-in memory and Bluetooth headset support. GW Micro sold it for $499, compared with $349 for the standard model, and AccessWorld tested the XT with software version 1.1.
 Predecessors: BookSense (HIMS / Selvas BLV, 2009)
 
 Ports:

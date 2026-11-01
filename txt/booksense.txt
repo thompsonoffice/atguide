@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+HIMS, maker of the BrailleSense, built the BookSense, and GW Micro (maker of Window-Eyes) sold it in the US. AccessWorld reviewed it alongside the Victor Reader Stream and PLEXTALK Pocket. The standard model cost $349 and was the smallest of the three, shaped like a candy-bar phone at 4.25 by 1.85 by 0.73 inches and 4 ounces. It used NeoSpeech Paul and Kate voices and played NLS, Bookshare, Audible and DAISY books.
 Successors: BookSense XT (HIMS / Selvas BLV, 2009); BookSense DS (HIMS / Selvas BLV, 2010)
 
 Ports:

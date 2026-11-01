@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+GW Micro showed the Braille Sense OnHand as an 18-cell prototype in 2010, only slightly larger than the voice-only Voice Sense. HIMS later launched it when it opened its first US office, in Austin, Texas. AccessWorld's review priced it at $4,995, with the Sendero-based Sense Navigation GPS software an extra $1,595. It came with a spare battery and a charger that beeps when a battery is ready.
 Successors: BrailleSense U2 Mini (HIMS / Selvas BLV, 2013)
 
 Ports:

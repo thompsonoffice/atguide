@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+HIMS lists the Braille Sense U2 Mini as a 2013 product. AccessWorld's review praised it as versatile, responsive and robust at $3,995, while noting its display has only 18 cells. It shipped with a carrying case, two user-replaceable lithium batteries, a charger, and a braille command summary, and it had Wi-Fi and Bluetooth.
 Predecessors: BrailleSense OnHand (HIMS / Selvas BLV, 2010)
 Successors: BrailleSense Polaris Mini (HIMS / Selvas BLV, 2018)
 
