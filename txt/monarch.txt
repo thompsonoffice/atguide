@@ -16,7 +16,7 @@ Default speech synthesizer: Not documented
 Battery: Over 24 hours (APH); 8 hours planned in the early spec sheet
 Display or braille cells: 3,840 pins (10 lines x 32 cells)
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: About $15,000, varying by region and channel (NFB Braille Monitor, May 2026)
 Used price today (eBay): Not documented
 
 Physical Description:
@@ -54,5 +54,6 @@ Source 2: https://www.aph.org/product/monarch/
 Source 3: https://nfb.org/resources/publications-and-media/access-on-podcast/hands-monarch-dynamic-tactile-multi-line-braille
 Source 4: https://nfb.org/images/nfb/publications/fr/fr43/4/fr430409.htm
 Source 5: https://www.aph.org/blog/making-the-monarch-a-revolutionary-device-for-all/
+Source 6: https://nfb.org/images/nfb/publications/bm/bm26/bm2605/bm260506.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

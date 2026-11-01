@@ -8,25 +8,32 @@ A tactile graphics display.
 
 Specs:
 Released: 2021
-Processor: Not documented
+Processor: ARM Cortex-M4 32-bit, 120 MHz (Dot Pad X)
 Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
-Battery: 10,000 mAh
-Display or braille cells: 2,400 pins
+Battery: 10,000 mAh 3.7 V; 8 to 11 hours
+Display or braille cells: 300 eight-pin cells (30 × 10) = 2,400 pins, plus a 20-cell braille line
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: Dot Pad: $10,000 to $12,000 range (Dot Inc.); Dot Pad X: about $6,000 (NFB, May 2026); £6,495 ex VAT (RNIB)
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
 
+Detailed Description:
+The Dot Pad is a tactile graphics display from Dot Inc. The NFB compares the Dot Pad X to an iPad Pro in size: under an inch thick and about 2.5 pounds. Dot Inc. gives the original Dot Pad as 273.5 by 228.5 by 31 millimeters and 1.2 kilograms.
+Most of the top is the graphics area: 300 eight-pin cells, 30 across by 10 down, making 2,400 pins. It can show a raised picture, or multi-line braille at 20 cells per line. A protective membrane covers the pins and gives them a distinctive feel.
+It has six tactile buttons that can be assigned to functions. They move forward and back through text and invert, zoom, rotate or pan images.
+Below the graphics area, and below these controls, is a separate single line of 20 braille cells for text. You can read text there with one hand while exploring a graphic with the other.
+The Dot Pad X has two USB-C ports for charging and data. A blue light shows a Bluetooth connection and a red light shows charging. The cells will not refresh while a finger rests on them, so lift your hands briefly to let the picture change.
+
 Features:
 Not documented
 
 History:
-Not documented
+Made by Dot Inc. of South Korea, whose cell technology is also used in the Monarch. The Dot Pad X uses a newer generation of the cell that refreshes faster. It is a display, not a computer: it has no operating system, document storage, keyboard or cursor routing, and relies on an iPhone, iPad or Windows PC running VoiceOver, NVDA or JAWS. Dot Inc. offers Dot Book for reading up to ten lines of six-dot braille, and the Dot Cloud graphics library. The NFB found its battery outlasted the stated eight hours.
 
 Ports:
 Not documented
@@ -39,5 +46,8 @@ Not documented
 
 Sources:
 Source 1: https://www.dotincorp.com
+Source 2: https://nfb.org/images/nfb/publications/bm/bm26/bm2605/bm260506.htm
+Source 3: https://www.dotincorp.com/en/product/pad
+Source 4: https://shop.rnib.org.uk/products/dot-pad
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

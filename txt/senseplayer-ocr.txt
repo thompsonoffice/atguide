@@ -13,7 +13,7 @@ Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
-Battery: Not documented
+Battery: Li-polymer 3.8 V, 2,300 mAh (8.74 Wh); removable
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
 Price at launch: Not documented
@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The SensePlayer is a thin rectangular book and media player from HIMS, about 64 by 130 millimeters and 14.5 millimeters thick, weighing about 140 grams.
+Most of the front is a 12-key telephone-style keypad. Above it is a ring of four direction buttons with a confirm button in the center, and four more function keys around them. Stereo speakers run along the top and bottom edges of the front.
+The top row of keys has two distinct clicks: a short press, and a deeper press you can also hold. These keys switch between modes, manage Wi-Fi and Bluetooth, and open Smart Connect. A short press usually announces a status, a deep press toggles it, and a long press opens its settings.
+The left edge has a Record button at the top, then a mode button, two volume buttons and a microSD slot. The mode button changes what the volume buttons adjust, such as voice speed or the music equalizer. The right edge has the power button and a key-lock switch. The bottom edge has the headphone jack on the left and the USB-C port on the right.
+On the back is a lanyard loop at the top. On the OCR version, the camera is directly below the loop. The rest of the back is the cover over the removable battery.
+
 Features:
 Not documented
 
 History:
-Not documented
+Sold in a standard version and a slightly dearer OCR version with a camera. It plays music, DAISY books, documents, podcasts and internet radio, and can install a limited selection of Android apps such as Audible, BARD Mobile and Netflix. Its Smart Connect mode turns it into a Bluetooth keypad for an iPhone or Android phone, for navigating, typing, calling and media control. The NFB's review found the OCR good but not better than phone apps such as Seeing AI or Lookout, and found Smart Connect sometimes slow to reconnect.
 
 Ports:
 Not documented
@@ -39,5 +46,7 @@ Not documented
 
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
+Source 2: https://nfb.org/blog/access-tech-review-hims-sense-player
+Source 3: https://himsintl.com/en/daisyplayer/view.php?idx=12
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

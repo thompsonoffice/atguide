@@ -1,32 +1,39 @@
 Orbit Speak
 Company: Orbit Research
 Category: Notetakers
-Released: March 2022
+Released: Announced at CSUN, March 2022
 
 Overview:
 A low-cost speech-only notetaker with a braille keyboard.
 
 Specs:
-Released: March 2022
+Released: Announced at CSUN, March 2022
 Processor: Not documented
 Memory (RAM): Not documented
-Storage: Not documented
+Storage: 32 GB, plus SD up to 2 TB
 Operating system: Not documented
-Default speech synthesizer: Not documented
-Battery: Not documented
+Default speech synthesizer: RUNA TTS (Vocalizer voices; Zoe by default in the US), or Google TTS
+Battery: About 15 hours of continuous playback at full volume
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: Orbit Speak $599; Orbit Speak Plus $749
 Used price today (eBay): Not documented
 
 Physical Description:
 180 g.
 
+Detailed Description:
+The Orbit Speak is a pocket note-taker from Orbit Research, with a braille keyboard and speech but no braille display. It is a small bar about 6.5 inches long, under 3 inches wide and 0.6 inch thick, about the weight of a smartphone. Orbit Research gives 180 grams; the NFB's review gives 210 grams.
+Place it on a desk. At the back of the top surface is a six-key Perkins-style keyboard with quiet scissor keys. Between dots 1 and 4 is a navigation pad of up, down, left and right arrows around a Select button.
+Directly in front of the pad is the spacebar. Immediately left and right of the spacebar are the keys for dots 7 and 8, used for Backspace and Enter and pressed with the thumbs, which keeps the unit narrow. Beyond them are function keys: F1 and F2 on the left, F3 and F4 on the right.
+The left side has a 3.5 mm headphone jack and the power button, which has a distinctive raised nub. Holding it from a full shutdown gives a series of vibrations; a tap puts it into hibernation and a second tap wakes it where you left off. The right side has a USB-C port for charging and accessories, including USB audio devices.
+The SD card slot is on the front edge. It has a built-in speaker and vibration feedback.
+
 Features:
 Not documented
 
 History:
-Not documented
+Jonathan Mosen's review for the NFB's Access On podcast notes that it answered calls for a modern Braille 'n Speak and predates the return of the Blazie brand. It is braille in and speech out, with no braille display. The standard and Plus models are physically identical. The Plus adds a music player and more, and upgrading later costs $50 more than buying the Plus at first. Its menus use chords from as far back as the VersaBraille of the 1980s.
 
 Ports:
 USB-C
@@ -39,5 +46,7 @@ Not documented
 
 Sources:
 Source 1: https://www.orbitresearch.com
+Source 2: https://nfb.org/resources/publications-and-media/access-podcast/comprehensive-review-and-demonstration-orbit-speak
+Source 3: https://www.orbitresearch.com/products/blindness-products/braille-devices/orbit-speak/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

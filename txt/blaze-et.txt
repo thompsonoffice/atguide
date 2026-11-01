@@ -12,21 +12,28 @@ Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
-Default speech synthesizer: Not documented
-Battery: Not documented
+Default speech synthesizer: Acapela
+Battery: Lithium polymer 3.7 V, 2,050 mAh, removable; 13 hours; 3-hour charge (4 from a computer); spare battery included
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: €990; €1,180 with the Premium pack (France, 2016)
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
 
+Detailed Description:
+The Blaze ET is a pocket book player and reader from HIMS, close to the size of a mobile phone: 116 by 58 by 16 millimeters, and 136 grams with its battery. It has no screen; small lights show battery, Wi-Fi and Bluetooth status.
+At the top of the front are grilles over the stereo speakers, with the Power button between them. A long press of about four seconds turns it on or off, and a short press gives the date and time. Below are three keys, left to right: Info, Home and OCR.
+In the middle is a five-key pad of four arrows around an OK key. Just below are three keys: Cancel, Menu and Review, which repeats the last announcement. The lower part of the front is a number keypad. A long press of the star key starts a key describer.
+The left side has, from top to bottom, a voice-control key that chooses what to adjust, plus and minus keys, and the SD card slot. The right side has the Record key, a key-lock slider and a reset hole. The bottom edge has, from left to right, a 3.5 mm headphone jack, a micro-USB port for charging and file transfer, and a 3.5 mm jack for an external microphone or line-in.
+The top edge has the lanyard attachment. On the back, the camera lens is in the middle near the top, and the battery compartment covers about three quarters of the back.
+
 Features:
 Not documented
 
 History:
-Not documented
+Made by the Korean company HIMS in partnership with Visiole. The French CERTAM evaluation (published December 16, 2016) gives a French release date of February 2016. It differs from the Blaze EZ mainly by its number keypad, which adds navigation and text entry. It has 28 keys in all. Features include DAISY and media playback, podcasts and web radio, recording in MP3, WAV or DAISY, an FM radio, OCR with the camera, color detection, a calculator and alarms.
 Predecessors: Blaze EZ (HIMS / Selvas BLV, 2014)
 
 Ports:
@@ -40,5 +47,6 @@ Not documented
 
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
+Source 2: https://www.avh.asso.fr/implantations/certam/evaluations-de-produits/lecteur-multimedias-machine-lire-de-poche-blaze-et
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

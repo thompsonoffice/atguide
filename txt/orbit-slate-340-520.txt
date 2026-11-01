@@ -14,19 +14,26 @@ Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: Not documented
-Display or braille cells: Not documented
+Display or braille cells: Slate 520: 5 lines × 20 cells (100 cells); Slate 340: 3 lines × 40 cells
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: Slate 520 $3,495 and Slate 340 $3,995 including shipping (June 2023 purchase, per Juan Pablo's review)
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
 
+Detailed Description:
+The Orbit Slate 520 is a five-line, 20-cell braille display from Orbit Research; the Slate 340 has three lines of 40 cells. The Slate 520 is about the length of a letter-size sheet but about 2 inches narrower. It is 1.3 inches thick, like a closed thin laptop, weighs 3.15 pounds, and is made of very smooth plastic.
+From the back, the top has a row of cursor-routing buttons, then a braille line, then a separator, then the next braille line, and so on. The separators carry raised vertical lines, with every fifth line more prominent, to help you count across.
+At each end of each braille line is a pair of rocker buttons for scrolling. The top line's buttons move one line at a time; the lower ones move further, up to five lines at once.
+Near the front is a round direction pad with a Select button in the middle, and a Perkins-style keyboard with oval keys for dots 7 and 8 beside the spacebar, used as Backspace and Enter.
+The left edge has a small square power button. The SD card slot is in the middle of an edge toward the right corner. The right edge has the USB-C port for computer connection and charging, and a USB-A port for flash drives. It beeps and vibrates to confirm actions, and came with a padded zip cloth case with a front pocket.
+
 Features:
 Not documented
 
 History:
-Not documented
+Orbit Research's brochure calls the Slate 520 the world's first multi-line braille display. It suggests uses such as spatial math with fractions and matrices, braille music and spreadsheets. It offers 2D cursor routing, onboard translation in over 40 languages, a book reader, a note-taker and clock, calendar and calculator apps. A Spanish-language review from February 2024 reports that early units shipped late because of component quality problems.
 
 Ports:
 Not documented
@@ -39,5 +46,7 @@ Not documented
 
 Sources:
 Source 1: https://www.orbitresearch.com
+Source 2: https://www.orbitresearch.com/wp-content/uploads/2022/07/Orbit-Slate-520-Brochure-v0.4.pdf
+Source 3: https://pianojuan.com/review-resena-orbit-slate-520-el-siguiente-nivel-en-braille-electronico-y-portatil/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

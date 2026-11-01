@@ -1,13 +1,13 @@
 Graphiti
 Company: Orbit Research
 Category: Braille Displays
-Released: 2016
+Released: Announced August 2, 2016 (APH and Orbit Research)
 
 Overview:
 A tactile graphics display with a 60 x 40 pin array.
 
 Specs:
-Released: 2016
+Released: Announced August 2, 2016 (APH and Orbit Research)
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+APH and Orbit Research announced it on August 2, 2016 as the world's first affordable refreshable tactile graphics display, built on Orbit's Tactuator technology. Each of its 2,400 pins, in a 60 by 40 array, can rise to different heights to represent topographic maps and shades of gray or color, and can blink individually. It connects by USB-C to computers, tablets, phones or the Orion TI-84 Plus talking graphing calculator, and has an HDMI port that makes it appear as a monitor. It also has a cursor pad, an SD card slot for standalone use, and a touch interface where tracing a shape with a fingertip raises the pins along the path.
 
 Ports:
 Not documented
@@ -39,5 +39,6 @@ Not documented
 
 Sources:
 Source 1: https://www.orbitresearch.com
+Source 2: https://sites.aph.org/pr/aph-and-orbit-research-announce-the-worlds-first-affordable-refreshable-tactile-graphics-display/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
