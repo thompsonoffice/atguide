@@ -16,7 +16,7 @@ Default speech synthesizer: Not documented
 Battery: Not documented
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $2,295 (Enabling Technologies price list, July 1, 2012)
 Used price today (eBay): Not documented
 
 Physical Description:
@@ -49,5 +49,6 @@ Source 1: https://www.freelists.org/post/duxuser/DBT-105,19
 Source 2: https://www.yumpu.com/en/document/view/38152810/romeo-attache-romeo-attache-pro-enabling-technologies
 Source 3: https://manualzilla.com/doc/5765358/romeo-attach%C3%A9-romeo-attach%C3%A9-pro-romeo-25-and-romeo-pro-50
 Source 4: https://www.yumpu.com/en/document/view/38152810
+Source 5: https://www.yumpu.com/en/document/view/9450828/prices-and-ordering-information-enabling-technologies
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -50,5 +50,6 @@ Sources:
 Source 1: https://esighteyewear.com
 Source 2: https://afb.org/aw/21/11/17299
 Source 3: https://www.visionaid.co.uk/esight-4
+Source 4: https://esighteyewear.com/wp-content/uploads/2021/08/eSight-4-Technical-Specifications.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

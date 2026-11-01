@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Telesensory Systems introduced VersaBraille in December 1979. The APH Museum says it was the first refreshable braille device designed in the United States, inspired by Oleg Tretiakoff's Elinfa Digicassette (France, 1975–1977). A donor called it 'the first piece of computer equipment for the blind'. It stored braille on C-60 cassettes formatted into pages of 1,000 cells (about 400 pages per tape), with editing, search and an audio-recording mode. A later model added a computer interface. A Texas rehabilitation agency paid $2,500 of one $5,250 unit.
+Telesensory Systems introduced VersaBraille in December 1979. The APH Museum says it was the first refreshable braille device designed in the United States, inspired by Oleg Tretiakoff's Elinfa Digicassette (France, 1975–1977). A donor called it 'the first piece of computer equipment for the blind'. It stored braille on C-60 cassettes formatted into pages of 1,000 cells (about 400 pages per tape), with editing, search and an audio-recording mode. A later model added a computer interface. A Texas rehabilitation agency paid $2,500 of one $5,250 unit. An early-1980s proposal by a VersaBraille owner quotes its '$5250 price tag', with the state vocational rehabilitation agency paying $2,500. APH calls it the first refreshable braille device designed in the US (December 1979), inspired by Oleg Tretiakoff's Elinfa Digicassette.
 Successors: VersaBraille II+ (Telesensory Systems (TSI), 1987)
 
 Ports:
