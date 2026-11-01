@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 20 x 12 x 3.5 in, 18 lb.
 
+Detailed Description:
+SARA (Scanning and Reading Appliance) is a self-contained desktop reading machine about 20 by 12 inches and 3.5 inches high, weighing about 18 pounds. No computer is needed: it combines a flatbed scanner, text recognition, a RealSpeak speech synthesizer, and front-mounted stereo speakers in one box. It runs from a separate black power adapter, which plugs into the far right socket on the back.
+The top holds the scanner lid and a large, colorful keypad with raised symbols. The lid's back edge lifts so it rests level on an open book. Freedom Scientific warns never to press down on the lid, because the glass can break. Put the page face down, close the lid, and press SCAN: a red oval key with a raised circle at the upper left of the keypad. SARA says "Scanning," beeps while it works, and starts reading on its own.
+The keypad also has a green READ key to start and pause reading, four blue arrow keys in the center (up and down move by line, left and right by word), a SELECT key, rewind and fast-forward keys, MENU, and a yellow HELP key. Press HELP and then any key to hear what that key does.
+The sloping front panel holds more controls. At the far left is a small round green POWER button; press once for on, and press again for a choice between power off (POWER again) and sleep (DOWN ARROW). To its right is an orange VOLUME rocker with a raised loudspeaker shape: press the left end for softer and the right end for louder. Next come four small round function keys you can assign, then a rocker for voice speed. A headset jack sits at the lower right of the front, and there's a CD slot on the front.
+USB ports on the back accept thumb drives and external drives. SARA reads OBX, ARK, RTF, TXT, DOC, PDF, HTML and XML files, plays DAISY and audio CDs, and can save scanned books to CD or USB. It can also connect to a computer monitor for large print, or to a braille display. In the box: the unit, a power cord and adapter, a headset, a large-print guide, an audio training recording and a test page.
+
 Features:
 Not documented
 
@@ -39,5 +46,7 @@ Not documented
 
 Sources:
 Source 1: https://www.freedomscientific.com
+Source 2: https://support.freedomscientific.com/Content/Documents/Manuals/SARA/SARAUserGuide.pdf
+Source 3: https://afb.org/aw/6/6/14568
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

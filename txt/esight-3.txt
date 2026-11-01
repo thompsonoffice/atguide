@@ -23,10 +23,11 @@ Physical Description:
 104 g.
 
 Detailed Description:
-The eSight 3 (February 2017) is a lightweight headset; reports give 104 g for the headset.
-It has two OLED displays in front of the eyes and a 21.5-megapixel camera, with up to 24× zoom.
-Reports from 2017 describe a separate handheld controller that carries the battery, connected to the headset by cable. The specifications in this entry give an integrated lithium-ion battery of about 6 hours.
-USA Today reported in February 2017 that it cost $9,995, down from the $15,000 of earlier eSight models, and that insurance did not cover it.
+eSight 3 has two parts: a headset worn like glasses and a hand-sized controller. The headset weighs 104 grams. It has a lensless frame with a nosepad (prescription lenses can be fitted), a padded forehead band, and a headstrap that wraps around the back of the head and snaps on magnetically. Fitted properly, the band and strap form a snug halo and the headset doesn't move when you shake your head.
+The front of the headset holds a 21.5-megapixel autofocus camera and a small light. Inside are two OLED screens, one for each eye. The whole display unit tilts on a hinge, from 45 degrees up to 10 degrees down: fully down for reading or TV, half up so you look under it with your own vision when moving around, or fully up out of the way for conversation. eSight warns never to walk with it fully down.
+The controller has dials on both sides. On the right side are two dials you roll up or down and also press: the top one is contrast (press to change contrast modes) and the other is focus (press to switch between near manual, far manual and auto focus). On the left side are the zoom dial (roll for up to 24x; press and hold for a quick unmagnified view), the power button, a photo button, and a power and battery light.
+The face of the controller has a trackpad surrounded by four buttons at the compass points: north is Home (resets to start-up settings), south is Menu Back and Control Lock, west freezes and resumes the picture, and the fourth button turns on panning mode. Pressing the trackpad opens the menu, and sliding a finger up or down moves through it. Hold the power button for on, standby or off. A door on the controller covers its USB-C charging port.
+The headset has speakers for spoken menus, and a micro HDMI input lets you watch a computer, TV box or game console directly in the screens. In the box: the headset and controller, the frame, a USB cable and wall adapter, a belt clip, wrist and neck lanyards, a digital video cable, an SD card, a spare forehead band, a microfiber bag and a carry case. eSight says not to use it in rain or snow.
 
 Features:
 Not documented
@@ -50,5 +51,7 @@ Source 1: https://esighteyewear.com/wp-content/uploads/2020/03/Customer-Facing-e
 Source 2: https://www.theverge.com/circuitbreaker/2017/2/16/14637804/esight-3-augmented-reality-headset-legally-blind-see
 Source 3: https://displaydaily.com/the-esight-3-headset-offers-help-to-the-vision-impaired/
 Source 4: https://www.usatoday.com/story/tech/columnist/2017/02/15/high-tech-glasses-helping-blind-people-see/97960470/
+Source 5: https://esighteyewear.com/wp-content/uploads/2020/03/eSight-3-User-Guide-4000338-Rev-G-EN.pdf
+Source 6: https://www.manualslib.com/manual/1643221/Esight-3.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
