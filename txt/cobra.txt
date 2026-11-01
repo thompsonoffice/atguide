@@ -1,14 +1,14 @@
 COBRA
 Company: BAUM Retec
 Category: Screen Readers
-Released: November 2008 (version 8)
+Released: November 2008 (COBRA 8) onward
 
 Overview:
 BAUM Retec's commercial Windows screen reader, with MSAA and Java Access Bridge support.
 
 Specs:
 Developer: BAUM Retec
-Release years: November 2008 (version 8)
+Release years: November 2008 (COBRA 8) onward
 Runs on: Windows
 Default speech: Not documented
 Price: Not documented
@@ -20,8 +20,8 @@ Features:
 Not documented
 
 History:
-Not documented
-Predecessors: Blindows (BAUM Retec, 1997)
+COBRA, made by BAUM Retec AG of Wiesenbach, Germany, is the joint successor to Blindows and BAUM's VIRGO. COBRA 8 came out in November 2008 and 8.1 in April 2009, with braille and speech only, still using BAUM's WebFormator add-on for Internet Explorer to read web pages. COBRA 9 (January 2010) added magnification and replaced WebFormator with a built-in COBRA Explorer. Version 9.1 came in December 2010, 10 in November 2012 (Windows XP to 7) and 11 in May 2016 (Windows 8 and 10). Features include OCR of images, text snippets, splitting braille displays and running more than one at once, and VBScript scripting. In Germany it was for years the second most used screen reader after JAWS. After BAUM went insolvent, VisioBraille took over its assets and still offers COBRA downloads and license activation.
+Predecessors: Blindows (BAUM Retec, In use by February 1999; development ended 2006)
 
 Ports:
 Not applicable (software)
