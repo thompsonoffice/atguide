@@ -9,7 +9,7 @@ An additional US English male voice listed for Narrator in Windows 10 and 11.
 Specs:
 Maker: Microsoft
 First released: 2015 (Windows 10)
-Synthesis type: Not documented
+Synthesis type: Microsoft does not publish the technique. Microsoft lists this as a standard Windows TTS voice, which Windows 11 calls a 'legacy voice', as distinct from the newer neural 'natural voices'.
 Platforms: Windows 10 and 11
 Default on or shipped with: Not a default; mobile voice added to the Windows 10 US English language pack (Windows Phone 8 and 10 Mobile voice)
 Price: Not documented
@@ -37,5 +37,6 @@ Sources:
 Source 1: https://support.microsoft.com/en-us/accessibility/windows/narrator/appendix-a-supported-languages-and-voices
 Source 2: https://en.wikipedia.org/wiki/Microsofttext-to-speechvoices
 Source 3: https://winaero.com/windows-10-features-new-text-to-speech-voices-for-narrator-and-cortana/
+Source 4: https://support.microsoft.com/en-us/windows/appendix-a-supported-languages-and-voices-4486e345-7730-53da-fcfe-55cc64300f01
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

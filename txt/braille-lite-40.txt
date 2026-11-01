@@ -9,13 +9,13 @@ A 40-cell version of the Braille Lite.
 Specs:
 Released: Summer 1996
 Processor: Not documented
-Memory (RAM): Not documented
+Memory (RAM): Not given for the original Braille Lite 40. The Japanese catalog lists the BLT40 at 1.5 kg; the successor Braille Lite Millennium M40 has 14 MB of internal memory (related model).
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: DoubleTalk chip
 Battery: Not documented
 Display or braille cells: 40 braille cells
-Speech synthesizers available: Internal speech synthesizer (model not documented in sources used)
+Speech synthesizers available: Internal synthesizer, model not named for the original Braille Lite 40. The successor Millennium uses a synthesizer that AccessWorld says sounds like DoubleTalk.
 Price at launch: Braille Lite 40 2000: $5,495 (2000)
 Used price today (eBay): No used or eBay listing surfaced in this research pass (eBay blocks direct page checks).
 
@@ -54,5 +54,7 @@ Source 4: http://linux-speakup.org/pipermail/speakup/2002-May/014709.html
 Source 5: https://afb.org/aw/3/1/14967
 Source 6: http://leb.net/blinux/list-archive/blinux-list/1996/msg00254.html
 Source 7: https://sites.aph.org/museum-virtual-exhibit/vex2/179F821D-F5AB-42AF-9065-355222231963.htm
+Source 8: https://www.cis.twcu.ac.jp/~k-oda/AccessBlind/Notetaker/BrailleLite40.html
+Source 9: https://veterans.networkofcare.org/Washington-DC/AssistiveDevices/ProductDetail?productId=75445
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

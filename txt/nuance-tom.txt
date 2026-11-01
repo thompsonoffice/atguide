@@ -11,7 +11,7 @@ Maker: Nuance Communications
 First released: By 2016 (updated in Vocalizer Expressive 2.2)
 Synthesis type: Nuance Vocalizer: concatenates recorded speech units, with a multiform mode that alternates unit selection and statistical parametric generation
 Platforms: Nuance Vocalizer (enterprise and Expressive); JAWS 18 and later
-Default on or shipped with: Not documented
+Default on or shipped with: An optional voice; no source documents it as the out-of-box default of a screen reader. JAWS 18 notes list it among the voices updated for Vocalizer Expressive 2.2.
 Price: Not documented
 
 Physical Description:

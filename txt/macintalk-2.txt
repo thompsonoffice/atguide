@@ -11,7 +11,7 @@ Maker: Apple
 First released: 1992 to 1994 (v1.2)
 Synthesis type: Concatenative (per a 1990s product survey)
 Platforms: System 6 and 7; about 150 KB of memory
-Default on or shipped with: Not documented
+Default on or shipped with: No default voice is named in the sources searched (CMU comp.speech FAQ and the Speech Manager notes). The ten voices were Ben, Boris, Brenda, Mariel, Marvin, Mr. Hughes, Otis, RoboVox, Votron and Xero.
 Price: Not documented
 
 Physical Description:

@@ -8,15 +8,15 @@ A redesigned Optacon developed by Telesensory with Canon Inc., with improved pac
 
 Specs:
 Released: 1985 (developed with Canon)
-Processor: Not documented
-Memory (RAM): Not documented
+Processor: No processor is named in TSI or museum descriptions. The Optacon II (1985, built with Canon) is described as having a 100-pin tactile array (down from 144) and a computer interface.
+Memory (RAM): No memory figure is published. The Optacon converts the camera image to the tactile array directly, with no OCR or text storage (HCI Museum).
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: None (tactile output only)
 Battery: Not documented
 Display or braille cells: 100-pin tactile array (reduced from the original 144)
 Speech synthesizers available: None. Tactile output only.
-Price at launch: Not documented
+Price at launch: No Optacon II list price was found. Related figures: an Optacon bought in 1985 for about $3,000 (optacon-l, model not stated); TSI's Optacon price was $4,495 in the 1990s (NFB-RD list).
 Used price today (eBay): No eBay listings for the Optacon II were found.
 
 Physical Description:
@@ -48,5 +48,7 @@ Not documented
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Optacon
 Source 2: https://interfacemuseum.com/exhibits/optacon-ii/
+Source 3: https://www.freelists.org/post/optacon-l/was-Jim-Blisss-death-Now-Buying-Used-Optacons,1
+Source 4: https://nfbcal.org/nfb-rd/0949.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

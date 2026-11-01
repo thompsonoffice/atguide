@@ -8,8 +8,8 @@ A paperless-braille device that stored braille on C-60 cassettes, an ancestor of
 
 Specs:
 Released: December 1979
-Processor: Not documented
-Memory (RAM): Not documented (pages of 1,000 braille cells; about 400 pages per C-60 cassette)
+Processor: Processor model not found in TSI or APH sources. The VersaBraille stored braille on C-60 audio cassettes and showed it on a 20-cell display.
+Memory (RAM): No RAM figure is published. Storage was by cassette: pages of 1,000 braille cells, about 400 pages per C-60 cassette.
 Storage: C-60 audio cassette tape
 Operating system: Not documented
 Default speech synthesizer: Not documented

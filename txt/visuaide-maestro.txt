@@ -12,7 +12,7 @@ Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Pocket PC
-Default speech synthesizer: Not documented
+Default speech synthesizer: Text-to-speech on the HP iPAQ h4150; Engadget and AccessWorld do not name the engine
 Battery: Not documented
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented

@@ -9,7 +9,7 @@ Lernout & Hauspie's American English TruVoice engine. It was the default speech 
 Specs:
 Maker: Lernout & Hauspie
 First released: 1998 (SAPI 4 era)
-Synthesis type: Not documented
+Synthesis type: Not stated by L&H. TruVoice was a separate, lighter SAPI 4 engine from L&H's diphone-concatenative TTS3000; no source describes its method.
 Platforms: Windows with SAPI 4 and Microsoft Agent
 Default on or shipped with: Microsoft Agent characters (default engine)
 Price: Not documented
@@ -35,5 +35,6 @@ Not documented
 Sources:
 Source 1: https://learn.microsoft.com/en-us/windows/win32/lwef/accessing-a-speech-engine-in-your-code
 Source 2: https://github.com/LouisGameDev/Microsoft-Sam-Mary-Mike-TruVoice-WSAPI4
+Source 3: https://patents.google.com/patent/US6665641B1/en
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

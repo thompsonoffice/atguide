@@ -8,7 +8,7 @@ A pocket notetaker with a six-key Perkins-style braille keyboard and speech outp
 
 Specs:
 Released: 1987 to 1990s
-Processor: Not documented
+Processor: Processor model not named. The Braille 'n Speak 2000 manual and the ERIC teachers' guide give only memory figures (768 KB RAM, 2 MB flash on the 2000). Deane Blazie told AccessWorld the unit used surface-mount chips.
 Memory (RAM): 200K nonvolatile memory (1988 review)
 Storage: Not documented
 Operating system: Not documented
@@ -57,5 +57,8 @@ Source 5: https://www.afb.org/aw/1/1/16189
 Source 6: https://nfb.org/images/nfb/publications/bm/bm88/brlm8804.htm
 Source 7: https://www.blazietech.com/post/from-braille-n-speak-to-bt-speak-a-personal-reflection
 Source 8: https://www.blindbargains.com/ebay.php?num=6
+Source 9: https://support.freedomscientific.com/Content/Documents/Manuals/Legacy/BrailleNSpeakDocs/BrailleNSpeakUserMan.txt
+Source 10: https://archive.org/details/ERICED422682
+Source 11: https://www.afb.org/aw/11/1/16078
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -11,7 +11,7 @@ Maker: Don't Ask Software
 First released: 1982 (reviewed in Antic, October 1982)
 Synthesis type: All-software phoneme synthesis; RECITER rule-based text-to-phoneme
 Platforms: Apple II, Lisa, Atari 8-bit, Commodore 64
-Default on or shipped with: Not documented
+Default on or shipped with: No named presets are documented; sources describe a single SAM voice with adjustable speed and pitch settings
 Price: $59.95 (Atari version)
 
 Physical Description:

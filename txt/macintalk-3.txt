@@ -9,7 +9,7 @@ Apple's text-to-speech standard in System 7, Mac OS 8 and Mac OS 9, with 19 voic
 Specs:
 Maker: Apple
 First released: 1994 to 1995 (v1.4 in 1995); standard until Mac OS X
-Synthesis type: Not documented
+Synthesis type: Not described in the sources searched (CMU comp.speech FAQ, Speech Manager notes). The same survey labels MacinTalk 2 and MacinTalk Pro concatenative but gives no method for MacinTalk 3.
 Platforms: System 7, Mac OS 8 and 9 (68030 at 33 MHz, about 300 KB of memory)
 Default on or shipped with: Mac OS 7 to 9 (Fred and others)
 Price: Not documented

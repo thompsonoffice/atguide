@@ -12,7 +12,7 @@ Processor: Intel PXA255
 Memory (RAM): 64 MB
 Storage: 64 MB flash
 Operating system: Windows CE.NET
-Default speech synthesizer: Onboard speech engine (name not documented)
+Default speech synthesizer: An onboard speech engine. ACB's review notes it was the only engine available at the time; the engine is not named.
 Battery: Detachable lithium-ion
 Display or braille cells: 32 cells with 32 routing buttons; LCD
 Speech synthesizers available: Not documented

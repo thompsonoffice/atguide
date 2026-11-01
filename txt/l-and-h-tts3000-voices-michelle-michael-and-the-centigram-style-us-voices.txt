@@ -9,9 +9,9 @@ Lernout & Hauspie's multilingual SAPI 4 engine. Its US English voices were Adult
 Specs:
 Maker: Lernout & Hauspie
 First released: Late 1990s (L&H versions 6.03 to 6.13)
-Synthesis type: Not documented
+Synthesis type: Concatenative diphone synthesis with pitch and duration adjustment (L&H patent US6665641B1 background); later L&H RealSpeak moved to unit selection
 Platforms: Windows SAPI 4
-Default on or shipped with: Not documented
+Default on or shipped with: US English Adult Female 1 (Michelle) is listed first; no explicit default is documented
 Price: Not documented
 
 Physical Description:
@@ -35,5 +35,7 @@ Not documented
 Sources:
 Source 1: https://help.genesys.com/pureconnect/mergedprojects/whid/desktop/hidttsspeechmodes.htm
 Source 2: https://learn.microsoft.com/en-us/windows/win32/lwef/accessing-a-speech-engine-in-your-code
+Source 3: https://patents.google.com/patent/US6665641B1/en
+Source 4: https://www.isca-archive.org/icslp2000/coorman00icslp.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

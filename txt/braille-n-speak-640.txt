@@ -8,7 +8,7 @@ A higher-capacity Braille 'n Speak with more storage, a smart calendar and the a
 
 Specs:
 Released: October 1991
-Processor: Not documented
+Processor: Processor model not named in Blazie literature. The 640 is described only as a 'souped up' Braille 'n Speak with 640 KB of RAM (Raised Dot Computing Newsletter, Nov–Dec 1991).
 Memory (RAM): 640K file memory, 256K program memory (APH unit)
 Storage: Not documented
 Operating system: Not documented
@@ -16,7 +16,7 @@ Default speech synthesizer: Built-in Blazie speech
 Battery: Built-in rechargeable
 Display or braille cells: Not documented
 Speech synthesizers available: Built-in Blazie speech only
-Price at launch: Not documented
+Price at launch: $1,300 new, or $500 with a trade-in of an older Braille 'n Speak (Raised Dot Computing Newsletter, Nov–Dec 1991)
 Used price today (eBay): No current eBay listings or eBay sold prices for complete units were found. Blind Bargains has posted eBay finds of a likely-working Braille 'n Speak for $59.97 and units starting at $50 (dates not given).
 
 Physical Description:
@@ -50,5 +50,6 @@ Sources:
 Source 1: https://www.blazietech.com/post/from-braille-n-speak-to-bt-speak-a-personal-reflection
 Source 2: https://sites.aph.org/museum-virtual-exhibit/vex2/2AEEBF8E-D463-4207-AA5A-417408112058.htm
 Source 3: https://www.blindbargains.com/ebay.php?num=6
+Source 4: https://www.duxburysystems.org/downloads/library/news/new93.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

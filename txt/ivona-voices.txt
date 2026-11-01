@@ -9,7 +9,7 @@ IVONA's TTS powered Kindle Fire accessibility features.
 Specs:
 Maker: IVONA Software
 First released: Acquired by Amazon January 2013
-Synthesis type: Not documented
+Synthesis type: Concatenative unit selection with limited time-scale modification (USLTM), using diphones with a half-phone fallback (IVO Software Blizzard Challenge papers)
 Platforms: Kindle Fire and others
 Default on or shipped with: Kindle Fire text-to-speech
 Price: Not documented
@@ -35,5 +35,7 @@ Not documented
 Sources:
 Source 1: https://press.aboutamazon.com/2013/1/amazon-com-announces-acquisition-of-ivona-software
 Source 2: https://www.theverge.com/2013/1/24/3911056/amazon-acquires-kindle-fire-text-to-speech-provider-but-this-isnt
+Source 3: http://festvox.org/blizzard/bc2009/ivonaBlizzard2009.pdf
+Source 4: https://www.isca-archive.org/blizzard2007/kaszczuk07blizzard.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

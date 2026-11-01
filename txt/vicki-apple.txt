@@ -9,7 +9,7 @@ A US English female voice listed among Lion's English voices.
 Specs:
 Maker: Apple
 First released: Mac OS X (first version not documented)
-Synthesis type: Not documented
+Synthesis type: Apple does not describe the technique. AppleInsider says Vicki was added in Mac OS X Panther (2003), before Alex (10.5) and the Nuance voices of Lion.
 Platforms: Mac OS X
 Default on or shipped with: Not the system default (Alex is the default from Mac OS X 10.5)
 Price: Not documented
@@ -38,5 +38,6 @@ Source 1: https://www.wap.org/journal/lionspeak/
 Source 2: https://www.macworld.com/article/216121/how-to-change-the-mac-s-system-voice.html
 Source 3: https://www.engadget.com/2007-10-26-24-hours-of-leopard-alex-the-new-voice-of-mac-os-x.html
 Source 4: https://alvinalexander.com/mac-os-x/mac-osx-text-to-speech-default-system-voice/
+Source 5: https://appleinsider.com/articles/11/03/02/insidemacosx107liondozensofhighqualitynewmultilingualspeechvoices
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -9,7 +9,7 @@ A UK English female voice.
 Specs:
 Maker: Microsoft
 First released: Windows 8 to present
-Synthesis type: Not documented
+Synthesis type: Microsoft does not publish the technique. Microsoft lists this as a standard Windows TTS voice, which Windows 11 calls a 'legacy voice', as distinct from the newer neural 'natural voices'.
 Platforms: Windows 8 and later
 Default on or shipped with: Windows 8 and later (UK English)
 Price: Not documented
@@ -35,5 +35,6 @@ Not documented
 
 Sources:
 Source 1: https://github.com/MicrosoftDocs/winrt-api/blob/docs/windows.media.speechsynthesis/voiceinformation.md
+Source 2: https://support.microsoft.com/en-us/windows/appendix-a-supported-languages-and-voices-4486e345-7730-53da-fcfe-55cc64300f01
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

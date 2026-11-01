@@ -15,7 +15,7 @@ Operating system: Not documented
 Default speech synthesizer: DoubleTalk chip
 Battery: Lithium-ion; about 4-hour charge, about 30 hours of use
 Display or braille cells: 20 or 40 cells
-Speech synthesizers available: Internal speech synthesizer (model not documented in sources used)
+Speech synthesizers available: A new synthesizer that 'should sound familiar to anyone who has ever used the Double Talk synthesizer', played through two built-in speakers (AccessWorld)
 Price at launch: Not documented
 Used price today (eBay): No used or eBay listing surfaced in this research pass (eBay blocks direct page checks).
 
@@ -54,5 +54,6 @@ Source 1: https://www.freedomscientific.com
 Source 2: https://www.freedomscientific.com/Content/Documents/Manuals/Legacy/BrailleLiteMDocs/BrailleLitePart440013-001RevE.pdf
 Source 3: http://linux-speakup.org/pipermail/speakup/2002-May/014709.html
 Source 4: https://portale.siva.it/en-GB/databases/products/detail/id-14670
+Source 5: https://afb.org/aw/3/1/14967
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

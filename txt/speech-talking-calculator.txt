@@ -9,7 +9,7 @@ A talking calculator with a 24-word vocabulary.
 Specs:
 Released: 1976
 Processor: Texas Instruments TMC1007NL (based on the TMS1000 4-bit microcontroller) for calculation; Telesensory S14001A custom speech processor
-Memory (RAM): Not documented (24-word vocabulary held in a TSI-programmed ROM)
+Memory (RAM): No RAM figure is published. It has a calculator memory register; the TMS1000-based chip handles calculation and the 24-word vocabulary sits in a TSI-programmed ROM (vintagecalculators.com).
 Storage: 4 KB ROM
 Operating system: Not documented
 Default speech synthesizer: Not documented

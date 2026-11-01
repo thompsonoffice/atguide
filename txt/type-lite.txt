@@ -12,7 +12,7 @@ Processor: Not documented
 Memory (RAM): 2 MB
 Storage: 12 MB flash plus CompactFlash
 Operating system: Not documented
-Default speech synthesizer: Internal synthesizer (model not documented)
+Default speech synthesizer: Internal speech synthesizer; the Type Lite user guide does not name the model. Sibling Blazie units of the same era (Braille Lite Millennium) used DoubleTalk-style speech.
 Battery: Not documented
 Display or braille cells: 40 cells
 Speech synthesizers available: Not documented
@@ -45,5 +45,6 @@ Sources:
 Source 1: https://afb.org/aw/11/1/16078
 Source 2: https://www.yumpu.com/en/document/view/21055960/the-type-lite-user-guide-freedom-scientific/10
 Source 3: https://www.yumpu.com/en/document/view/21055960/the-type-lite-user-guide-freedom-scientific
+Source 4: https://afb.org/aw/3/1/14967
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

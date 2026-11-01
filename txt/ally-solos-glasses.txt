@@ -15,7 +15,7 @@ Operating system: Ally app on iOS and Android
 Default speech synthesizer: Not documented
 Battery: About 10 h operation (up to 16 h claimed); quick-swap USB-C stems
 Display or braille cells: No display; HD cameras, max 2048x1944
-Speech synthesizers available: Ally app voice (engine not documented)
+Speech synthesizers available: Speech from the Ally assistant app; Envision does not name the TTS engine
 Price at launch: $699
 Used price today (eBay): Not documented
 

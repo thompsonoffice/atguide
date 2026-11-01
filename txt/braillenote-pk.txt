@@ -8,7 +8,7 @@ A compact 18-cell BrailleNote based on BAUM's Pronto hardware.
 
 Specs:
 Released: Announced July 2004
-Processor: ARM (model not documented)
+Processor: ARM-based Windows CE platform; AccessWorld and HumanWare materials do not name the exact chip
 Memory (RAM): 40 MB
 Storage: 16 MB flash
 Operating system: Windows CE with KeySoft

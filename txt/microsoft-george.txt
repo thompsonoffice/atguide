@@ -9,9 +9,9 @@ A UK English male voice listed for Narrator.
 Specs:
 Maker: Microsoft
 First released: 2015 (Windows 10 OneCore voice)
-Synthesis type: Not documented
+Synthesis type: Microsoft does not publish the technique. Microsoft lists this as a standard Windows TTS voice, which Windows 11 calls a 'legacy voice', as distinct from the newer neural 'natural voices'.
 Platforms: Windows 10 and 11
-Default on or shipped with: Not documented
+Default on or shipped with: Not the default for US English (Microsoft lists David and Mark as US male voices). George is the English (Great Britain) male voice, alongside Hazel and Susan.
 Price: Not documented
 
 Physical Description:
@@ -35,5 +35,6 @@ Not documented
 Sources:
 Source 1: https://support.microsoft.com/en-us/accessibility/windows/narrator/appendix-a-supported-languages-and-voices
 Source 2: https://en.wikipedia.org/wiki/Microsofttext-to-speechvoices
+Source 3: https://support.microsoft.com/en-us/windows/appendix-a-supported-languages-and-voices-4486e345-7730-53da-fcfe-55cc64300f01
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

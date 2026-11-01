@@ -8,15 +8,15 @@ A hardware speech synthesizer from Access Solutions, sold in PCI, USB and serial
 
 Specs:
 Released: By April 2001 (TripleTalk PCI reported new); USB and serial models followed
-Processor: Not documented
-Memory (RAM): Not documented
+Processor: Not stated. The TripleTalk USB Mini has an onboard 8 KB flashable EPROM for field firmware updates.
+Memory (RAM): Not stated. The USB Mini lists 8 KB of flash EPROM, 11 voices, 10 speeds and 100 pitches, and measures 2.4 × 1.6 × 0.8 in (1.5 oz).
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Built-in TripleTalk speech
 Battery: Not documented
 Display or braille cells: Not documented
 Speech synthesizers available: Built-in TripleTalk voice only
-Price at launch: Not documented
+Price at launch: No launch price found for the PCI, USB or serial models. The TripleTalk USB Mini is still listed by Blind Mice Mega Mall.
 Used price today (eBay): No eBay listings for the TripleTalk were found.
 
 Physical Description:
@@ -42,5 +42,6 @@ Source 1: http://leb.net/blinux/list-archive/blinux-list/2001/msg00426.html
 Source 2: https://www.freelists.org/post/jfw/Laptops-and-hardware-synthesizer-for-JFW,7
 Source 3: https://www.freelists.org/post/jfw/Finding-the-double-and-triple-talk-synths,9
 Source 4: https://inbox.the-brannons.com/blinux/20050331164331.GC11527@rednote.net/T/
+Source 5: https://www.blindmicemegamall.com/bmm/shop/ItemDetail?itemid=5323293
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

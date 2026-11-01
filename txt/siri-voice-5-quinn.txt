@@ -9,7 +9,7 @@ A gender-neutral American English Siri voice, nicknamed Quinn.
 Specs:
 Maker: Apple
 First released: February 2022 (iOS 15.4 beta)
-Synthesis type: Not documented
+Synthesis type: Apple has not described Voice 5's technique. Apple's machine-learning papers describe the iOS 11-era Siri voices as deep-learning-guided unit selection.
 Platforms: iOS 15.4 and later
 Default on or shipped with: Optional
 Price: Not documented
@@ -38,5 +38,6 @@ Sources:
 Source 1: https://en.wikipedia.org/wiki/Siri
 Source 2: https://techcrunch.com/2022/02/24/siri-gains-a-new-gender-neutral-voice-option-in-latest-ios-update/
 Source 3: https://www.theverge.com/2022/2/23/22947150/ios-15-4-quinn-siri-voice-5-american
+Source 4: https://machinelearning.apple.com/research/siri-voices
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

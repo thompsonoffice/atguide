@@ -15,7 +15,7 @@ Operating system: Windows CE with a condensed KeySoft (BrailleNote); Windows Mob
 Default speech synthesizer: Keynote Gold (BrailleNote mPower)
 Battery: Not documented
 Display or braille cells: 18 or 32 braille cells (BrailleNote); the DB-Phone has a visual screen
-Speech synthesizers available: Keynote Gold on the BrailleNote mPower. The DB-Phone also speaks its greeting; its voice is not documented.
+Speech synthesizers available: Keynote Gold on the BrailleNote mPower. The DB-Phone also speaks its greeting; no source names that voice.
 Price at launch: DBC BT32 or QT32: $7,995; DBC BT18 or QT18: $6,195; upgrade for existing mPower owners: $2,495 (December 2008)
 Used price today (eBay): No eBay listings for the DeafBlind Communicator were found.
 

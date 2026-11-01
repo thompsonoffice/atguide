@@ -11,7 +11,7 @@ Maker: Apple
 First released: September 1993 (v1.0); v1.2 February 1994
 Synthesis type: Concatenative
 Platforms: System 7 on 68020/68040 and PowerPC Macs; about 1.5 MB of memory
-Default on or shipped with: Not documented
+Default on or shipped with: No default voice is named in the sources searched. The voices were Agnes, Bruce and Victoria, each in High Quality and Small versions.
 Price: Not documented
 Voices: Agnes (Apple); Bruce (Apple); Victoria (Apple)
 

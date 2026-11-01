@@ -9,7 +9,7 @@ Google's Android speech engine, delivered as a Play Store app so voices can upda
 Specs:
 Maker: Google
 First released: October 2013 on Google Play (reported November 6, 2013)
-Synthesis type: Not documented
+Synthesis type: Google does not publish the on-device technique. Google's WaveNet powers Assistant and Cloud voices, and its WaveRNN model was designed to run on phones; on Wear OS Google uses small ML prosody models.
 Platforms: Android; current versions need Android 8 or later
 Default on or shipped with: Used by TalkBack, Play Books and Translate
 Price: Not documented
@@ -39,5 +39,7 @@ Source 1: https://en.wikipedia.org/wiki/GoogleText-to-Speech
 Source 2: https://www.androidpolice.com/2013/11/06/new-app-google-text-to-speech-arrives-in-the-play-store-paves-way-for-future-updates-fixes-awful-default-voices-on-note-3-and-others/
 Source 3: https://www.theverge.com/2013/11/7/5077034/google-brings-android-text-to-speech-to-google-play
 Source 4: https://9to5google.com/2021/11/09/speech-services-by-google-reaches-10-billion-play-store-downloads/
+Source 5: https://deepmind.google/research/wavenet/
+Source 6: https://android-developers.googleblog.com/2024/03/introducing-new-text-to-speech-engine-wear-os.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

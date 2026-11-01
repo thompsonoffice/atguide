@@ -8,7 +8,7 @@ The first print-to-speech reading machine for the blind.
 
 Specs:
 Released: Unveiled January 13, 1976
-Processor: Built-in minicomputer (model not documented in sources used); about 250,000 instructions per second
+Processor: A built-in minicomputer of about 250,000 instructions per second; sources searched do not name the model
 Memory (RAM): 64 KB
 Storage: Not documented
 Operating system: Not documented

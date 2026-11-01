@@ -8,14 +8,14 @@ AI smart glasses for blind and low-vision users: scene description, text reading
 
 Specs:
 Released: Pioneer Edition shipped late October/November 2025
-Processor: Not documented
+Processor: Not published by Agiga; the spec sheet lists the 13 MP camera, battery life and app requirements
 Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Companion app: iPhone 8 or newer on iOS 16.6+, or Android 11+
 Default speech synthesizer: Not documented
 Battery: 6 h (Pioneer), 9 h (V1); 30 h with charging case
 Display or braille cells: No display; 13 MP centered wide-angle camera
-Speech synthesizers available: Built-in AI voice (engine not documented)
+Speech synthesizers available: Built-in AI voice through the glasses' speakers; Agiga does not name the TTS engine
 Price at launch: $599
 Used price today (eBay): Not documented
 

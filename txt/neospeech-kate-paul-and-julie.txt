@@ -9,9 +9,9 @@ NeoSpeech's US English voices.
 Specs:
 Maker: NeoSpeech
 First released: Not documented
-Synthesis type: Not documented
+Synthesis type: Unit selection synthesis (corpus-based concatenation of recorded speech; VoiceText engine, originally from Voiceware)
 Platforms: Windows (SAPI) and others
-Default on or shipped with: Not documented
+Default on or shipped with: No single default. The BookSense uses Paul and Kate as its two reading voices.
 Price: Not documented
 
 Physical Description:
@@ -35,5 +35,7 @@ Not documented
 Sources:
 Source 1: https://www.speechtechmag.com/Articles/News/News-Feature/NeoSpeech-Turns-TTS-Over-to-Amazon-Hosting--89128.aspx
 Source 2: https://en.wikipedia.org/wiki/NeoSpeech
+Source 3: https://e-flt.nus.edu.sg/wp-content/uploads/docroot/v3n12006/revharashima.pdf
+Source 4: https://afb.org/aw/10/6/16088
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
