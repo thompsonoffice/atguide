@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-The voices shipped with Speech Manager 1.2 in 1994. Each voice stored a joke phrase as its comment, revealed by the 1994 Talking Eggs utility. Fred later survived byte-identical into Mac OS X. One 1994 report said a Quadra was needed for smooth speech.
+The voices shipped with Speech Manager 1.2 in 1994. Each voice stored a joke phrase as its comment, revealed by the 1994 Talking Eggs utility. Fred later survived byte-identical into Mac OS X. One 1994 report said a Quadra was needed for smooth speech. René Ros's Talking Eggs utility (version 1.0, June 18, 1994) revealed that each MacinTalk III voice had an age and a joke phrase stored as its comment instead of a description. Fred's was "I sure like being inside this fancy computer," Kathy's "Isn't it nice to have a computer that will talk to you?" and Zarvox's "That looks like a peaceful planet."
 Predecessors: MacinTalk 2 (Apple, 1992 to 1994 (v1.2))
 Successors: Mac OS X Speech Synthesis (MacinTalk in OS X) (Apple, Mac OS X (2001) onward)
 

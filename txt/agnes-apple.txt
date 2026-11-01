@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-One of the three original MacinTalk Pro voices, described as the first concatenative Mac voices. A Mac voice that reached iPhone and iPad with iOS 16 (2022), when it was added to VoiceOver's U.S. English voices.
+One of the three original MacinTalk Pro voices, described as the first concatenative Mac voices. A Mac voice that reached iPhone and iPad with iOS 16 (2022), when it was added to VoiceOver's U.S. English voices. In September 1994 Joe Campbell's comp.speech guide explained how to get Apple's Speech Manager free from ftp.apple.com, or with At Ease 2.x and the System 7.5 CD-ROM. MacinTalk Pro (1.2) needed a 68020 or better and System 7, and came with Agnes, Bruce and Victoria, each in a large high-quality version and a small lower-quality one; the voices download was about 12.5 MB. Campbell rated the high-quality voices among the best synthesized speech he had heard.
 
 Ports:
 Not applicable (software)

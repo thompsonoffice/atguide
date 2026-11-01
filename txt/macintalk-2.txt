@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Shipped with Speech Manager 1.2.1. It was almost immediately made obsolete by MacinTalk 3.
+Shipped with Speech Manager 1.2.1. It was almost immediately made obsolete by MacinTalk 3. In 1994 Apple offered it as the low-end option of its free Speech Manager download. MacinTalk 2 (1.2) gave moderate-quality speech for Macs with little memory or processing power, and ran on System 6 on a Mac Plus. Speech Manager 1.2.1 included the Fred voice, the MacinTalk 2 extension added Marvin, and an extra voices file added nine more.
 Predecessors: MacinTalk (original) (Apple, 1984 (MacinTalk 1.1 May 1985))
 Successors: MacinTalk 3 (Apple, 1994 to 1995 (v1.4 in 1995); standard until Mac OS X)
 
