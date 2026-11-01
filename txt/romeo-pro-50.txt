@@ -1,13 +1,13 @@
 Romeo Pro 50
 Company: Enabling Technologies (formerly Triformation Systems)
 Category: Embossers
-Released: Sold alongside the Romeo 25 in Enabling Technologies' brochure. The introduction year was not found in that brochure or at atkratter.com.
+Released: By October 2001 (tested by the NFB's IBTC in the October 2001 Braille Monitor); introduction year not found
 
 Overview:
 The faster sibling of the Romeo 25, at 50 characters per second with ET Speaks speech feedback and single-sheet tractors.
 
 Specs:
-Released: Sold alongside the Romeo 25 in Enabling Technologies' brochure. The introduction year was not found in that brochure or at atkratter.com.
+Released: By October 2001 (tested by the NFB's IBTC in the October 2001 Braille Monitor); introduction year not found
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-The Romeo Pro 50 was the faster, talking sibling of the Romeo 25 in Enabling Technologies' Romeo family. The company's November 2010 user's manual lists it at 50 characters per second with a 40-cell line, on paper up to 13.25 inches wide, in a 32-pound plastic carrying case with a handle. It adds ET Speaks speech feedback, with six voices, and a single-sheet mode for loose paper. It has parallel, serial and USB ports, a 16-key keypad, 16 stored setting menus and an 18,000-character Multi-Copy buffer that can make up to 99 copies.
+The Romeo Pro 50 was the faster, talking sibling of the Romeo 25 in Enabling Technologies' Romeo family. The company's November 2010 user's manual lists it at 50 characters per second with a 40-cell line, on paper up to 13.25 inches wide, in a 32-pound plastic carrying case with a handle. It adds ET Speaks speech feedback, with six voices, and a single-sheet mode for loose paper. It has parallel, serial and USB ports, a 16-key keypad, 16 stored setting menus and an 18,000-character Multi-Copy buffer that can make up to 99 copies.  In the October 2001 Braille Monitor, the NFB's International Braille and Technology Center listed the Romeo Pro 50 at 50 characters per second rated and 35.9 measured, priced at $2,895.
 
 Ports:
 Not documented
@@ -50,5 +50,6 @@ Source 2: http://atkratter.com/braille/et/romeo.htm
 Source 3: https://www.yumpu.com/en/document/view/6157847/romeo-25-romeo-pro-50-enabling-technologies
 Source 4: https://cdn.thomasnet.com/ccp/01055195/75393.pdf
 Source 5: https://manualzilla.com/doc/5765358/romeo-attach%C3%A9-romeo-attach%C3%A9-pro-romeo-25-and-romeo-pro-50
+Source 6: https://nfb.org/images/nfb/publications/bm/bm01/bm0110/bm011007.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -10,10 +10,10 @@ Products:
 Triformation BD-3 (Embossers, 1971)
 Triformation LED-120 (Embossers, 1974)
 Enabling Technologies Juliet (Embossers, 1992)
+Romeo Pro 50 (Embossers, By October 2001 (tested by the NFB's IBTC in the October 2001 Braille Monitor); introduction year not found)
+Romeo RB-25 (Romeo 25) (Embossers, By October 2001 (tested by the NFB's IBTC in the October 2001 Braille Monitor); introduction year not found)
 Romeo Attaché / Attaché Pro (Embossers, 2004)
-Romeo RB-25 (Romeo 25) (Embossers, In use by 2006, per an Enabling Technologies brochure. The introduction year was not found.)
 Juliet 120 (Embossers, Introduction year not found. The Juliet 120 is a later model developed jointly with Index Braille, so the original Juliet's 1992 date does not apply to it.)
-Romeo Pro 50 (Embossers, Sold alongside the Romeo 25 in Enabling Technologies' brochure. The introduction year was not found in that brochure or at atkratter.com.)
 
 Operating System and Software Histories:
 Not documented

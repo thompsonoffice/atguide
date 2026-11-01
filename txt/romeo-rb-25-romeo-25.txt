@@ -1,13 +1,13 @@
 Romeo RB-25 (Romeo 25)
 Company: Enabling Technologies (formerly Triformation Systems)
 Category: Embossers
-Released: In use by 2006, per an Enabling Technologies brochure. The introduction year was not found.
+Released: By October 2001 (tested by the NFB's IBTC in the October 2001 Braille Monitor); introduction year not found
 
 Overview:
 A rugged single-sided tractor-feed embosser at 25 characters per second.
 
 Specs:
-Released: In use by 2006, per an Enabling Technologies brochure. The introduction year was not found.
+Released: By October 2001 (tested by the NFB's IBTC in the October 2001 Braille Monitor); introduction year not found
 Processor: Not stated by Enabling Technologies; the published specs give an 18,000-character text buffer and 25 characters per second
 Memory (RAM): 18,000-character text buffer
 Storage: Not documented
@@ -35,7 +35,7 @@ Dynamic Braille Scaling
 Paper width 1.5 to 13.25 in
 
 History:
-Enabling Technologies' Romeo 25 (model RB-25) is a rugged, transportable single-sided impact embosser for students, home and office. It embosses a 40-cell Library of Congress line at 25 characters per second. Features include Dynamic Braille Scaling (Library of Congress, California sign, Jumbo, relaxed spacing and Japanese 'petite' braille), normal and high-resolution graphics, 6- or 8-dot braille, sideways printing, multiple strikes, impact control for plain paper, 16 setup menus, and Multi-Copy of up to 99 copies. It meets ENERGY STAR guidelines by entering low-power mode after three minutes. Its sibling, the Romeo Pro 50, embosses at 50 cps.
+Enabling Technologies' Romeo 25 (model RB-25) is a rugged, transportable single-sided impact embosser for students, home and office. It embosses a 40-cell Library of Congress line at 25 characters per second. Features include Dynamic Braille Scaling (Library of Congress, California sign, Jumbo, relaxed spacing and Japanese 'petite' braille), normal and high-resolution graphics, 6- or 8-dot braille, sideways printing, multiple strikes, impact control for plain paper, 16 setup menus, and Multi-Copy of up to 99 copies. It meets ENERGY STAR guidelines by entering low-power mode after three minutes. Its sibling, the Romeo Pro 50, embosses at 50 cps.  In the October 2001 Braille Monitor ('Choosing your Braille Embosser', Anne Taylor), the NFB's International Braille and Technology Center listed the Romeo RB25 at 25 characters per second rated and 23.8 measured, priced at $2,195.
 
 Ports:
 USB, parallel, serial.
@@ -55,5 +55,6 @@ Source 5: https://veterans.networkofcare.org/Riverside/AssistiveDevices/ProductD
 Source 6: https://www.yumpu.com/en/document/view/9450828/prices-and-ordering-information-enabling-technologies
 Source 7: https://www.ebay.com.au/itm/188871407318
 Source 8: http://www.rla.com/embossers.html
+Source 9: https://nfb.org/images/nfb/publications/bm/bm01/bm0110/bm011007.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

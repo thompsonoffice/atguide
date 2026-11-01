@@ -1,13 +1,13 @@
 Colorino
 Company: Caretec
 Category: Miscellaneous
-Released: Current product (Caretec SKU 14000)
+Released: By late 2006 (sold by APH at $195, Dialogue magazine Nov–Dec 2006 gift guide); introduction year not found
 
 Overview:
 A talking color identifier and light detector that recognizes over 150 color shades.
 
 Specs:
-Released: Current product (Caretec SKU 14000)
+Released: By late 2006 (sold by APH at $195, Dialogue magazine Nov–Dec 2006 gift guide); introduction year not found
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Caretec markets the Colorino as already in daily use by many people around the world. It sits below Caretec's Color Star and Color Star Pro, which name more than 1,700 shades.
+Caretec markets the Colorino as already in daily use by many people around the world. It sits below Caretec's Color Star and Color Star Pro, which name more than 1,700 shades.  Dialogue magazine's November–December 2006 gift guide listed the Colorino Talking Color Identifier from APH at $195, in English (1-03955-00) or Spanish (1-03955-SP). The guide says it detects more than 100 nuances of colour, also works as a light detector, and comes with two AAA batteries, a carrying case, a cassette, and large-print and braille quick-start guides.
 
 Ports:
 Not documented
@@ -47,5 +47,6 @@ Not documented
 Sources:
 Source 1: https://www.caretec.at/product/colorino-color-and-light-detector/
 Source 2: https://shop.rnib.org.uk/products/colorino-talking-colour-identifier-and-light-detector
+Source 3: https://web.archive.org/web/2010/http://www.blindskills.com/novdec2006sample4.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
