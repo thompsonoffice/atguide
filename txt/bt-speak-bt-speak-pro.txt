@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Pro: 6.1 x 2.8 x 0.75 in, 240.9 g, 9-key Perkins-style keyboard.
 
+Detailed Description:
+BT Speak Pro is a flat, pocket-sized slab about 6.1 inches wide, 2.8 inches deep and 0.75 inch thick (15.5 x 7.1 x 1.9 cm), weighing 8.5 ounces (241 grams). It has no screen and no QWERTY keys. Everything is done from a braille keyboard and heard through speech.
+The top surface is mostly a nine-key Perkins-style braille keyboard, set on a slight curve for comfortable typing. There are six dot keys (three for each hand), a space bar between them, and the dot 7 and dot 8 keys on either side of the space bar, which work as modifiers. Commands are chords: for example, h-chord (h with space) brings up help for wherever you are, and v-chord opens voice commands.
+Two internal speakers sit at the left and right sides of the top. A built-in vibration motor gives haptic feedback. When it's turned on, BT Speak opens straight into the editor, back in the last document you were working on.
+For connections, there's one USB-C port, used to charge and also to connect headphones, a USB drive, a braille display or a wireless QWERTY keyboard receiver; a mini HDMI port for a monitor; and a microSD card slot. Inside are Wi-Fi, Bluetooth 5.0, a Raspberry Pi Compute Module 4 with 8 GB of RAM and 32 GB of flash storage, and an 8,200 mAh battery that lasts about 10 hours. It can be used while charging.
+It has two modes, switched with one keystroke. Traditional mode is a menu system modeled on the Braille 'n Speak, with an editor, calendar, phonebook, calculator, radio tuner, media player and AI chat. Desktop mode runs the Linux MATE desktop with the Orca screen reader, LibreOffice, Thunderbird, Firefox and Chromium. Voices include Vocalizer, RHVoice, Pico, Festival Lite, eSpeak and DECtalk.
+
 Features:
 Perkins-style braille keyboard
 Speech output
@@ -44,5 +51,6 @@ Sources:
 Source 1: https://blazietech.com/btspeak-hardware
 Source 2: https://www.blazietech.com/btspeak-features
 Source 3: https://www.blazietech.com/btspeak-product-page
+Source 4: https://www.blazietech.com/btspeak-hardware
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
