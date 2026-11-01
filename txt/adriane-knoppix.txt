@@ -1,14 +1,14 @@
 ADRIANE (Knoppix)
 Company: Linux accessibility community
 Category: Accessible Linux
-Released: Since KNOPPIX 5.3 (ADRIANE 1.7 in KNOPPIX 7.4.1)
+Released: 2007 (presented June 2007; part of KNOPPIX since 5.3)
 
 Overview:
 Klaus Knopper's talking desktop with optional braille, started by typing 'adriane' at the KNOPPIX boot prompt.
 
 Specs:
 Developer: Linux accessibility community
-Release years: Since KNOPPIX 5.3 (ADRIANE 1.7 in KNOPPIX 7.4.1)
+Release years: 2007 (presented June 2007; part of KNOPPIX since 5.3)
 Runs on: KNOPPIX (Debian-based)
 Default speech: Not documented
 Price: Not documented
@@ -23,7 +23,7 @@ Orca and Compiz in graphics mode
 GPLv2
 
 History:
-Not documented
+ADRIANE (Audio Desktop Reference Implementation and Networking Environment) is a talking desktop by Knoppix creator Klaus Knopper, named after his wife Adriane, who lost her sight at 15 and helped develop it. Knopper announced it at CeBIT in March 2007 for release that April, aimed at beginners as well as blind users, and it was presented at the end of Linuxwochen Vienna in June 2007. Simple menus are driven with the arrow keys and Enter, with Caps Lock used for speech functions, giving easy access to email, the web, SMS and scanning printed documents, with optional braille. It uses the SBL screen reader by Marco Skambraks and Halim Sahin with speech-dispatcher and eSpeak, and works with Orca in graphical mode. It has been part of KNOPPIX since version 5.3: the boot option 'adriane' starts it with speech.
 
 Ports:
 Not applicable (software)
@@ -38,5 +38,8 @@ Not documented
 Sources:
 Source 1: https://www.knopper.net/knoppix-adriane/index-en.html
 Source 2: https://knopper.net/knoppix/knoppix741-en.html
+Source 3: https://knopper.net/knoppix-adriane/index-en.html
+Source 4: https://winfuture.de/news,30673.html
+Source 5: https://ress.at/linux-fuer-blinde-aber-nicht-nur-news04062007151257.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

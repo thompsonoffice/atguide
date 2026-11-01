@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Oralux was announced in mid-2003 as a Knoppix-based live CD for blind and visually impaired users, so it ran straight from CD with no installation. LWN described it in August 2003: a crowing rooster at startup let you set the volume, then you chose a language (English only in version 0.04, using Flite), a keyboard and, optionally, DECtalk. Version 0.05 (October 2003) moved to Knoppix 3.3 and added Emacspeak with Festival and MBROLA for English or French, optional Spanish and German DECtalk files, and a startup menu in four languages.
 
 Ports:
 Not applicable (software)
@@ -34,5 +34,7 @@ Not documented
 
 Sources:
 Source 1: https://lwn.net/Articles/39195/
+Source 2: https://lwn.net/Articles/45329/
+Source 3: https://lwn.net/Articles/52826/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
