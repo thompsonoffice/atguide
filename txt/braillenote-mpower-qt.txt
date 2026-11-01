@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+HumanWare introduced the BrailleNote mPower on June 28, 2005, and first showed it at that summer's NFB and ACB conventions. It was the same size as earlier BrailleNotes and came with either a braille or a QWERTY keyboard; the QT models have the QWERTY keyboard. The QT32 cost $6,195 and the QT18 $4,395. Owners of earlier units could have their braille display "transplanted" into a new mPower.
 Predecessors: BrailleNote Classic (BT/QT) (Pulse Data International, April 2000 (shipping from June 2000))
 Successors: BrailleNote Apex BT32 (HumanWare, November 2009)
 

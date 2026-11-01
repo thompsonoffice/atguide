@@ -38,7 +38,7 @@ Voice recorder
 History:
 Firmware version 3 was shown at CSUN 2009.
 Predecessors: Victor Reader Classic (VisuAide, About 2002)
-Successors: Victor Reader Stream (2nd generation) (HumanWare, 2014)
+Successors: Victor Reader Stream (2nd generation) (HumanWare, February 2013)
 
 Ports:
 SD/SDHC, USB 2.0, headphone jack

@@ -35,8 +35,8 @@ GPS with HERE maps
 All Stream 2 book functions
 
 History:
-Not documented
-Predecessors: Victor Reader Stream (2nd generation) (HumanWare, 2014); Trekker Breeze (HumanWare, 2008)
+HumanWare announced the Victor Reader Trek in summer 2017. It combines the second-generation Victor Reader Stream with the GPS wayfinding of the Trekker Breeze (about 2011). Customers who ordered that summer or fall reported getting their units only in January and February 2018. AccessWorld's review listed the price as $699 US or $895 Canadian.
+Predecessors: Victor Reader Stream (2nd generation) (HumanWare, February 2013); Trekker Breeze (HumanWare, 2008)
 
 Ports:
 Wi-Fi b/g/n, Bluetooth 4.0, SD up to 32 GB

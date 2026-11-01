@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+The VoiceNote mPower was the speech-only version of the mPower, introduced on June 28, 2005, with either a braille keyboard (BT) or a QWERTY keyboard (QT). It cost $1,995 plus $45 shipping. Sendero's GPS software was an option for both the VoiceNote and BrailleNote mPower.
 Predecessors: VoiceNote BT / QT (Classic) (Pulse Data International, Introduced at Closing the Gap 2000; replaced in 2005)
 Successors: VoiceNote Apex BT / QT (HumanWare, July 2010)
 

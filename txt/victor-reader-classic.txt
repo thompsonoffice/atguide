@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+AccessWorld's review of four DAISY book players covered VisuAide's Victor Reader Classic Plus at $375. It measured 9.3 by 8.2 by 2.1 inches, weighed 2.42 pounds, and had a top that slopes up toward the back, a carrying handle, and 25 keys including a phone-style keypad. It took about 10 seconds to load a DAISY CD and could also play music CDs.
 Successors: Victor Reader Stream (1st generation) (HumanWare, 2007 to 2014)
 
 Ports:

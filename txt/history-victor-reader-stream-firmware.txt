@@ -30,7 +30,7 @@ Notes: eSpeak NG alongside Acapela (up to 4 voices), NLS BARD 2, skippable DAISY
 
 Devices and Software That Ran It:
 Victor Reader Stream (1st generation) (HumanWare, 2007 to 2014)
-Victor Reader Stream (2nd generation) (HumanWare, 2014)
+Victor Reader Stream (2nd generation) (HumanWare, February 2013)
 Victor Reader Stream (3rd generation) (HumanWare, 2023 to present)
 Victor Reader Trek (HumanWare, 2017)
 

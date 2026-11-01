@@ -35,7 +35,7 @@ Not documented
 
 History:
 Firmware 1.5 (June 2025), 1.6 (February 2026, experimental eBraille) and 1.7 (September 2026, eSpeak NG voices and NLS BARD 2). See OS History.
-Predecessors: Victor Reader Stream (2nd generation) (HumanWare, 2014)
+Predecessors: Victor Reader Stream (2nd generation) (HumanWare, February 2013)
 
 Ports:
 USB-C, Bluetooth 4.2, Wi-Fi, SD up to 1 TB, headphone jack
