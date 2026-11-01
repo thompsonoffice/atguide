@@ -35,7 +35,7 @@ Not documented
 
 History:
 Ray Kurzweil built the KRM by combining three inventions: omni-font OCR, the CCD flatbed scanner and text-to-speech. The idea came after a blind man on a plane told him that print was his only real barrier. The prototype was finished in late 1975 and announced with the NFB on January 13, 1976; Walter Cronkite used it to read his sign-off on CBS. NFB scientists asked for no braille labels and for a 'Nominator' key that announces what other keys do. A federal contract placed units at Perkins and in the Boston schools.
-Successors: K-NFB Reader (K-NFB Reading Technology, 2005)
+Successors: K-NFB Reader (K-NFB Reading Technology, Released July 1, 2006)
 
 Ports:
 Not documented

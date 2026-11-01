@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Handy Tech presented the Braille Wave in 1999 as the first braille system with note-taking capability, the same year it opened a consulting center in Marburg. In 2004, the Braille Wave was one of the Handy Tech systems equipped with Bluetooth.
 
 Ports:
 Not documented
@@ -38,6 +38,6 @@ System Requirements:
 Not documented
 
 Sources:
-Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 1: https://www.helptech.eu/history
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

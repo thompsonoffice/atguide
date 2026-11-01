@@ -26,8 +26,8 @@ Features:
 Not documented
 
 History:
-Not documented
-Predecessors: K-NFB Reader (K-NFB Reading Technology, 2005)
+KNFB Reader Mobile ported the K-NFB Reader's software from the original PDA-and-camera unit to the Nokia N82 camera phone running Symbian, at a new price of $1,595. In 2014 the NFB and Sensotec NV released an iOS app for $99, followed shortly by an Android version, which can read documents in more than thirty languages.
+Predecessors: K-NFB Reader (K-NFB Reading Technology, Released July 1, 2006)
 
 Ports:
 Not documented
@@ -39,6 +39,6 @@ System Requirements:
 Not documented
 
 Sources:
-Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 1: https://en.wikipedia.org/wiki/K-NFBReader
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

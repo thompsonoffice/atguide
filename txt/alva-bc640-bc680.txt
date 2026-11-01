@@ -38,7 +38,6 @@ System Requirements:
 Not documented
 
 Sources:
-Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
-Source 2: https://imreverhoeven.wordpress.com/2010/04/02/alva-bc640-braille-displaynotetaker/
+Source 1: https://imreverhoeven.wordpress.com/2010/04/02/alva-bc640-braille-displaynotetaker/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

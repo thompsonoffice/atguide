@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Handy Tech introduced the Braille Star 40 and Braille Star 80 in 2002. It described the Star 40 as ideal for use with a laptop, and the Star 80 as a system for professional workplaces, particularly blind telephone operators. The Braille Star 40 gained Bluetooth in 2004.
 Successors: Handy Tech Active Star (Handy Tech / Help Tech, 2015)
 
 Ports:
@@ -39,6 +39,6 @@ System Requirements:
 Not documented
 
 Sources:
-Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 1: https://www.helptech.eu/history
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

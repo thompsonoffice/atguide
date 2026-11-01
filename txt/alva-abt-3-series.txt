@@ -38,6 +38,6 @@ System Requirements:
 Not documented
 
 Sources:
-Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Not documented
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,13 +1,13 @@
 K-NFB Reader
 Company: K-NFB Reading Technology
 Category: Other
-Released: 2005
+Released: Released July 1, 2006
 
 Overview:
 A portable reading machine: a digital camera combined with a PDA.
 
 Specs:
-Released: 2005
+Released: Released July 1, 2006
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 6 x 3 x 2.5 in, 15 oz.
 
+Detailed Description:
+The K-NFB Reader is a handheld reading machine about the size of a thick paperback: 6 inches long, 3 inches wide and 2.5 inches deep, weighing 15 ounces. It is really two off-the-shelf devices, a Fujitsu-Siemens LOOX N560 pocket PC and a Canon SD20 digital camera, joined in a leatherette case that also holds the electronics connecting them.
+In the normal reading position, the screen and control panel face up toward the ceiling, with the controls closest to you. The control panel is a rectangle of nine buttons. In the middle is a five-way control like a phone's: an Enter button surrounded by up, down, left and right arrows. Function buttons F1 and F2 are to the left of it, and F3 and F4 are to the right. Behind the controls is a 3.5-inch screen under a thick plastic cover.
+The front edge, facing you, has just one control: a large reset button on the right. The back edge has the memory card slot and the headphone jack. The left side has only the AC adapter jack, and the right side has nothing.
+The camera is fixed under the back end of the PDA, with an autofocus lens pointing down at the page; a mechanical door over the lens opens and closes automatically when the camera turns on or off. The camera has two buttons on its left side: a large smooth button near the back that isn't used, and a smaller flush, rough-textured button that turns the camera on and off. To read, you hold the unit about 16 inches above the page.
+It shipped with a small canvas carrying case, about the size of a small lunchbox, with pockets for the PDA charger, a camera battery charger and a spare battery, earbuds with a volume control, and memory cards. AccessWorld found the built-in speaker sometimes too quiet in noisy places such as airports and restaurants.
+
 Features:
 Not documented
 
 History:
-Not documented
+Ray Kurzweil and the NFB began the project about four years before it went on sale on July 1, 2006, the world's first handheld OCR reading system. It used a Fujitsu-Siemens LOOX N560 PDA and a Canon SD20 camera, with Eloquence speech (RealSpeak optional). AccessWorld noted it was about 1,000 times smaller than the original Kurzweil Reading Machine and about one-fifteenth the price.
 Predecessors: Kurzweil Reading Machine (Kurzweil Computer Products, Unveiled January 13, 1976)
 Successors: KNFB Reader Mobile (K-NFB Reading Technology, 2008)
 
@@ -40,6 +47,8 @@ System Requirements:
 Not documented
 
 Sources:
-Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 1: https://afb.org/aw/7/6/14430
+Source 2: https://afb.org/aw/7/5/14548
+Source 3: https://en.wikipedia.org/wiki/K-NFBReader
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

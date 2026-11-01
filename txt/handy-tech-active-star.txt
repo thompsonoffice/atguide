@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Handy Tech introduced the Active Star in 2015, calling it the universal access terminal for blind computer users. It came a year after the company marked 20 years of Handy Tech and 40 years of braille technology from its Horb team.
 Predecessors: Handy Tech Braille Star (Handy Tech / Help Tech, 2002)
 
 Ports:
@@ -39,6 +39,6 @@ System Requirements:
 Not documented
 
 Sources:
-Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 1: https://www.helptech.eu/history
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

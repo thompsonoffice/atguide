@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Handy Tech introduced the Active Braille in 2011 with its ATC (Active Tactile Control) technology, first used in 2006 on the Modular Evolution. Help Tech released a more compact redesign with improved controls in 2020–21.
 
 Ports:
 Not documented
@@ -38,6 +38,6 @@ System Requirements:
 Not documented
 
 Sources:
-Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 1: https://www.helptech.eu/history
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

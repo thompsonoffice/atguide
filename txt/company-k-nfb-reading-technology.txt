@@ -4,17 +4,17 @@ Founded: 2005
 Products listed: 2
 
 History:
-A Kurzweil and National Federation of the Blind venture. It made the K-NFB Reader (2005) and KNFB Reader Mobile (2008, on the Nokia N82).
+K-NFB Reading Technology was the partnership of inventor Ray Kurzweil and the National Federation of the Blind. Work began around 2002, and the handheld K-NFB Reader went on sale on July 1, 2006. The software was later ported to the Nokia N82 phone as KNFB Reader Mobile ($1,595). In 2014 an iOS app ($99), developed by the NFB and Sensotec NV, followed, and an Android version came shortly after.
 
 Products:
-K-NFB Reader (Other, 2005)
+K-NFB Reader (Other, Released July 1, 2006)
 KNFB Reader Mobile (Other, 2008)
 
 Operating System and Software Histories:
 Not documented
 
 Sources:
-Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
-Source 2: https://cage.report/DUNS/781821660
+Source 1: https://afb.org/aw/7/5/14548
+Source 2: https://en.wikipedia.org/wiki/K-NFBReader
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

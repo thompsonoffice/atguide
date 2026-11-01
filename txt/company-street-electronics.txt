@@ -4,7 +4,7 @@ Founded: 1978 (Milo Street, Carpinteria, California)
 Products listed: 1
 
 History:
-Maker of the Echo II speech card for the Apple II (1982), which used the TMS5220 chip and Textalker software.
+Street Electronics Corporation of Carpinteria, California, made the Echo II speech card for the Apple II (manual copyright 1982), with its Textalker and Speakeasy software. Its trademarks also included Echo GP.
 
 Products:
 Echo II (Speech Synthesizers, 1982)
@@ -13,7 +13,6 @@ Operating System and Software Histories:
 Not documented
 
 Sources:
-Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
-Source 2: https://audioxpress.com/article/echo-test-measurement-specifically-made-for-audio-testing
+Source 1: https://www.duxburysystems.org/downloads/library/texas/apple/manuals/echo.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

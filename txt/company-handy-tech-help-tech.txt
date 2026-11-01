@@ -4,7 +4,7 @@ Founded: 1994
 Products listed: 4
 
 History:
-Founded by Sigi Kipke in Germany and renamed Help Tech in 2017. Products: Braille Wave (1999), Braille Star (2002), Active Braille (2011) and Active Star (2015).
+Siegfried (Sigi) Kipke restarted the company as Handy Tech Elektronik GmbH in Horb, Germany, in 1994 with 8 staff, continuing the braille-display work begun there by Klaus Peter Schönherr, who invented the first braille module in 1975. It was renamed Help Tech GmbH in 2017 and became Help Tech GmbH & Co. KG in 2024. Products include the Braille Wave (1999), Braille Star 40 and 80 (2002), Braillino (2003), Modular Evolution (2006), Active Braille (2011) and Active Star (2015).
 
 Products:
 Handy Tech Braille Wave (Braille Displays, 1999)
@@ -16,6 +16,7 @@ Operating System and Software Histories:
 Not documented
 
 Sources:
-Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 1: https://www.helptech.eu/history
+Source 2: https://www.helptech.eu/about-us
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
