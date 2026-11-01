@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The V5 line includes three main embossers. The Basic-D is a low desktop tractor-feed unit, 52 by 26 by 13 cm (about 20.5 by 10.2 by 5.1 inches), weighing 7.6 kg (about 16.8 pounds). The Everest-D is a taller desktop sheet-fed unit, 56 by 18 by 45 cm, weighing 12 kg. The BrailleBox is a floor-standing production cabinet, 56 by 72 by 90 cm, weighing 68.2 kg. These figures come from German dealer IPD.
+All V5 models share the same control panel. Its general keys are ON, OFF, FEED, DOOR (BrailleBox only) and HELP. Its menu keys are MENU, four arrow keys and OK. Its number keys are 1, 10 and CHS. Text on the panel is backlit and lights up to show Bluetooth, Wi-Fi and network status, translation, available updates, paper jams and errors. A built-in speaker gives speech feedback, and pressing HELP explains what a lit indicator means.
+The Basic-D has a lid over its print area and left and right paper tractors with a tractor-release lever for fan-fold paper. Optical sensors detect the paper edge and movement. It has a transport lock and holder for shipping, and ventilation inlets and outlets. The Everest-D instead has a sheet feeder with a switch to open and close it, left and right margin guides with locking levers, card and sheet selectors, pick-up rollers, and guides that steady the embossed sheets as they come out.
+On the Basic-D and Everest-D, the connectors are a 48-volt DC power input, a Wi-Fi and Bluetooth antenna, a USB 2.0 device port for a computer, a 100-megabit network port, and a USB host port for a memory stick. The BrailleBox takes mains power directly through a fused inlet and has the same data connections.
+The BrailleBox has a front service door, a paper tray, and a braille tray with a glass cover and a stack guide. Inside are three embossing heads (bottom, middle and top), and sensors detect paper going in and coming out. Its DOOR key opens and closes the braille tray, and indicators light if the stack gets too high or a tray or door is left open. IPD rates the BrailleBox at about 60 dB(A) and the Basic-D and Everest-D at about 80 dB(A).
+
 Features:
 Not documented
 
@@ -44,5 +51,7 @@ Source 2: https://www.braillecast.com/podcast/e020/
 Source 3: https://sastltd.zohodesk.eu/portal/en/kb/articles/index-embosser-version-identification
 Source 4: https://www.medicalexpo.com/prod/index-braille/product-108385-1043623.html
 Source 5: http://www.itacconsulting.com/img/products/braille%20embrossers/pdfs/Index%20BrailleBox-presentation.pdf
+Source 6: https://sensorysolutions.co.za/wp-content/uploads/2022/11/Index-V5-manual-eng-2020-Feb.pdf
+Source 7: https://ipd.gmbh/wp-content/uploads/2025/07/Index-Brailledrucker-2025-02.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
