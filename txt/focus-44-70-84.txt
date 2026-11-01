@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The first-generation Focus displays came in 44-, 70- and 84-cell sizes. The braille cells are placed near the back of the unit so that they are as close as possible to the computer keyboard. A removable handle doubles as a keyboard stand and height adjuster for a keyboard or laptop.
+A cursor-routing key sits above each braille cell. Between the cells and the back of the unit are two advance bars, with two programmable General Display Buttons between them. The status cells can be set to either end of the display, and VariBraille adjusts the firmness of the dots.
+In front of the cells are eight Perkins-style braille keys for entering commands. At each end is a Whiz Wheel, which you roll to move through files, lists and menus and press to switch between line, sentence and paragraph. Along the front edge are Left Shift, Spacebar and Right Shift.
+The left end has a 9-pin serial port, an AC adapter jack and a USB port. The right end has a second USB port (only one can be used at a time) and four audio jacks: speaker and headphone outputs at the front and two audio inputs behind them.
+Over USB the display draws power from the computer, but over serial it needs the AC adapter. It shipped with a keyboard accessory, USB and serial cables, a power supply, a fitted case, and print and braille manuals, with a 30-month warranty. It works with JAWS 4.02 and later.
+
 Features:
 Not documented
 
@@ -41,5 +48,6 @@ Not documented
 Sources:
 Source 1: https://en.wikipedia.org/wiki/FreedomScientific
 Source 2: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 3: https://support.freedomscientific.com/Content/Documents/Manuals/Legacy/Focus/440025-001Focus%20Manual.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

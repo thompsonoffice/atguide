@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 14 x 13 x 1.5 in, 5 lb.
 
+Detailed Description:
+The PowerBraille 40 is a 40-cell refreshable braille display measuring 14 inches wide by 13 inches deep by 1.5 inches tall (35.5 by 33 by 3.8 cm). It weighs 5 pounds (2.25 kg). It is slim enough to slide under a notebook computer or desktop keyboard, and two Velcro strips on its large flat top hold the computer or keyboard in place.
+Near the front of the top is a slightly raised ridge. In front of the ridge is a row of tiny cursor-routing buttons, then the 40 braille cells, then a tactile ruler with an indicator dot below each cell. A small square button near each end of the display, slightly to the rear, moves the display backward (left) or forward (right) through the screen.
+On the front edge, the Left Rocker on the far left moves the system cursor up and down, and the Right Rocker on the far right moves the braille display up and down. In between, a convex button on the left acts as Enter in DOS programs, and a concave button on the right links and unlinks the display from the cursor. The cells drop after 4 minutes idle to save power, and any key wakes them.
+On the rear edge are a rocker on/off switch (right side on), a 2.5 mm DC-in jack, and a 9-pin male DTE serial port for a Braille 'n Speak or second computer. There is also a 25-pin female pass-through port for a printer, a 25-pin male parallel port, and a 9-pin female DCE serial port, which is the preferred connection to the PC at 9600 baud.
+The PowerBraille 40 runs on rechargeable C-size nickel-cadmium batteries behind an access panel on the bottom. The product label there gives the serial number in both print and braille. At power-on it shows its name, version and battery use.
+
 Features:
 Not documented
 
@@ -40,5 +47,6 @@ Not documented
 Sources:
 Source 1: https://www.freedomscientific.com
 Source 2: https://sites.aph.org/museum-virtual-exhibit/vex2/B9113F0E-60F5-4EC7-87DC-908226712520.htm
+Source 3: https://support.freedomscientific.com/Content/Documents/Manuals/Legacy/PowerBraille/PBUserManual.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

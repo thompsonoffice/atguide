@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 10 lb.
 
+Detailed Description:
+The PowerBraille 80 is the large desktop model of the line. The manual notes it really has 81 cells. It shares its case with the 65-cell PowerBraille 65: 24 inches wide by 11.5 inches deep by 1.5 inches tall (61 by 29 by 3.8 cm), weighing 10 pounds (4.5 kg). A recessed rubber pad on the rear of the top stops a notebook or keyboard from sliding.
+Near the front of the top, in front of a raised ridge, are four bars for moving the display. With ScreenPower software, bar 1 moves backward and bars 2 to 4 move forward. A pair of cursor buttons on each side of the bars moves the application's cursor. Next come the cursor-routing buttons, the braille cells, and a tactile ruler with an indicator dot below each cell.
+On the front edge, from left to right: Switch 1 selects six- or eight-dot braille; Switch 2 shows screen attribute codes; the Left Rocker moves the system cursor; a convex button acts as Enter; a concave button links and unlinks the display; and the Right Rocker moves the display up and down.
+The rear edge has a power switch, DC-in jack, speaker out and two speaker-in jacks for sharing speech synthesizers, and two pairs of keyboard in and out jacks. There are also a 9-pin DTE serial port (Serial B), a 9-pin DCE serial port (Serial A, the preferred PC connection), a 25-pin parallel port and a 25-pin printer pass-through.
+Unlike the PowerBraille 40, the 65 and 80 run only on mains power through the AC adapter. Many control functions can be reassigned in ScreenPower, TeleSensory's screen reader for the line.
+
 Features:
 Not documented
 
@@ -40,5 +47,6 @@ Not documented
 Sources:
 Source 1: https://www.freedomscientific.com
 Source 2: https://sites.aph.org/museum-virtual-exhibit/vex2/B9113F0E-60F5-4EC7-87DC-908226712520.htm
+Source 3: https://support.freedomscientific.com/Content/Documents/Manuals/Legacy/PowerBraille/PBUserManual.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
