@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Viewscan, introduced in 1980, was a portable hand-scanning reading aid for people with low vision. It was made by the Sensory Aids Division of Wormald International, and AccessWorld credits its design to Russell Smith.
+AccessWorld and the APH Museum describe it as a portable large-print hand-scanning device: you passed a camera over printed text and it appeared enlarged on the unit's display. A user AccessWorld quotes recalled Wormald's displays for 'gorgeous orange-on-black scrolling words', though he was describing the later Viewscan Text System.
+APH says the Viewscan Text System (VTS-100, 1983), with the optional scanning camera, could magnify a library-book page up to 40 times. The APH example is a modified Epson HX-20 laptop, 1.875 × 14.75 × 8.5 in, with a 25-pin camera jack on its left side.
+A 1982 technical note by Alan W. Johnston of the University of Melbourne, 'The Viewscan – a new reading aid for the visually impaired' (Clinical and Experimental Optometry), evaluated the device. Its full text was not accessible in this research.
+No museum record, manual or accessible review of the original 1980 Viewscan was found. Its size, weight, display, controls and price are therefore not included, rather than borrowed from the later Text System.
+
 Features:
 Not documented
 
@@ -41,5 +48,6 @@ Not documented
 Sources:
 Source 1: https://afb.org/aw/6/6/14572
 Source 2: https://sites.aph.org/museum-virtual-exhibit/vex5/B05FEC63-3118-4C9D-814D-168516371748.htm
+Source 3: https://doi.org/10.1111/j.1444-0938.1982.tb03034.x
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

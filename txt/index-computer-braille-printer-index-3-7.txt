@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Index Computer Braille Printer was the first embosser made by what became Index Braille. Braillecast says a small batch was built in Björn Löfstedt's garage in Sweden by 1984.
+These machines became known as 'Index 3.7' embossers, after their firmware version.
+They came out of a 1979 university project to build a braille typewriter that could also make copies. Polar Print Production, the company Löfstedt and Torvald Lundqvist formed in 1982, built them.
+Index Braille became a brand in its own right in the late 1980s with the Index Blue Bar, a tractor-feed embosser, followed in 1992 by the cut-sheet Everest. SAST describes the first-generation (V1) Basic as having a steel case with a blue and red bar, but no source ties that description to the Index 3.7 itself.
+No photograph, museum record, manual or contemporary review of the Index 3.7 turned up in this research. Its size, weight, speed, paper handling and interfaces are therefore not included.
+
 Features:
 Not documented
 

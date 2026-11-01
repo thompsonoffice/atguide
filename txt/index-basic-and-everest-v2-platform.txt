@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+Index Braille's version 2 platform (V2) covered the Basic single-sided embosser and the Everest sheet-fed interpoint embosser. Braillecast dates it to 1995, and SAST's identification guide gives production as February 1995 to 2002.
+SAST says the V2 Basic has a red lid on a black case. Every V2 printed through a Centronics parallel interface only. The serial port on V2 and V3 machines is for service and cannot be used for embossing, and SAST adds that USB-to-parallel leads generally do not work well.
+No V2 spec sheet turned up in this research. The nearest source is the 1994 NFB/APH Braille Technology Evaluation, which tested the models sold just before V2. It gives the Basic as 20 × 11.75 × 7.5 in, 14 lb, 50 characters per second and $2,995. Its paper fed from front to back across the top, with four switches and an impression knob at the rear left of the top plate, and serial and parallel ports, a power switch and the power cord on the back.
+That report gives the Everest as 20 in wide, 6.75 in deep and 25 in tall, weighing 25 lb, rated at 100 characters per second and priced at $5,995. A feeder on top held 100 to 150 single sheets, which passed down through the printer into a catch basket at the bottom. The front-panel buttons had braille labels and spoke through built-in speech, and a cut-down Duxbury translator was built into ROM.
+These measurements describe the pre-1995 models, not the V2 machines, and are given only as the closest documented reference. SAST says Index stopped supporting V2 embossers on January 1, 2011.
+
 Features:
 Not documented
 
@@ -44,5 +51,6 @@ Source 1: https://www.braillecast.com/podcast/e020/
 Source 2: https://indexbraille.com/
 Source 3: https://sastltd.zohodesk.eu/portal/en/kb/articles/index-embosser-version-identification
 Source 4: https://www.medicalexpo.com/prod/index-braille/product-108385-1043623.html
+Source 5: https://www.duxburysystems.org/downloads/library/history/00-nfb1994-tech-eval.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

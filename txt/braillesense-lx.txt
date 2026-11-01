@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The BrailleSense LX is a HIMS braille notetaker that the company's official product history lists under 2008.
+In that history it comes after the original BrailleSense (2004) and before the BrailleSense OnHand (2010). HIMS is now Selvas BLV.
+Searches for a BrailleSense LX spec sheet, user manual, brochure, dealer listing or review all came up empty. The HIMS and Selvas history pages give only its name, year and product photo slot.
+The NVDA screen reader's HIMS driver uses the device ID 'LX' for a BrailleSense model with four scroll keys. Nothing in the driver connects that ID to this product name, though, so no physical details are taken from it.
+Its cell count, keyboard type, ports, battery, size and weight are not included, because no source found in this research documents them.
+
 Features:
 Not documented
 
