@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+This description comes from the National Federation of the Blind's 1994 evaluation of the Index Basic, which was then the first-generation (V1) Basic sold in the US. V1 machines are identified by the blue or red bar on the steel case, so it fits this entry. The 1994 report does not say which bar colour its unit had.
+The Basic was a single-sided, tractor-fed embosser and somewhat lighter and smaller than its competitors. It measured 20 inches wide by 11.75 inches deep by 7.5 inches high and weighed 14 pounds.
+Paper feeds from the front to the back across the top of the unit. There are four switches and a knob for adjusting impression depth on the top plate, in the rear left corner.
+On the back are a serial port, a parallel port, the on/off switch and the power cord.
+It embossed 50 characters per second, giving 26 lines of 40 cells, and cost $2,995 from the dealer Young Opportunities. The panel found it quieter than most embossers and its braille quite readable, though not the best. US service and importer arrangements were uncertain at the time.
+
 Features:
 Not documented
 
@@ -43,5 +50,6 @@ Sources:
 Source 1: https://www.braillecast.com/podcast/e020/
 Source 2: https://www.medicalexpo.com/prod/index-braille/product-108385-1043623.html
 Source 3: https://sastltd.zohodesk.eu/portal/en/kb/articles/index-embosser-version-identification
+Source 4: https://www.duxburysystems.org/downloads/library/history/00-nfb1994-tech-eval.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

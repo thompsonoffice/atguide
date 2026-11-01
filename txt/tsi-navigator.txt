@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The TeleSensory Navigator is a low, flat, rectangular refreshable braille display. It came in 20-cell six-dot, 40-cell six- or eight-dot, and 80-cell eight-dot models, priced from $4,500 to $16,000 in 1994. Some models could run on batteries.
+The 40-cell six-dot model that the NFB evaluated measures 12 inches wide by 12.5 inches deep by 1.75 inches high and weighs 5 pounds 11 ounces.
+Ten buttons on the front panel form two mirror-image groups of five. Each group has two long horizontal up and down buttons in the middle, a vertical left and right button on either side, and a smaller button to the side. The smaller buttons act as Enter, link or unlink the display from the cursor, or start View2, the real-time braille translator. Mostly, the right-hand group moves the reading window and the left-hand group moves the system cursor.
+Between the two button groups is a jack like an RJ-11 phone jack for connecting a BrailleMate. Its braille keyboard can then enter six- or eight-dot braille, and the display can be split between the BrailleMate and the computer.
+On the back are the input and output connectors, an on/off switch and the power cord. It connects to the PC through a serial port and runs TeleSensory's Gateway software, with a TRACK utility for following alternate cursors and the VBPC VersaBraille emulator.
+
 Features:
 Not documented
 
@@ -41,5 +48,6 @@ Sources:
 Source 1: https://afb.org/aw/6/4/14611
 Source 2: https://brltty.app/pipermail/brltty/2015-December/013007.html
 Source 3: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 4: https://www.duxburysystems.org/downloads/library/history/00-nfb1994-tech-eval.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

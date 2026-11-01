@@ -1,13 +1,13 @@
 ALVA ABT-3 series
 Company: ALVA BV
 Category: Braille Displays
-Released: No release year was found in the NFB's 2026 Braille technology timeline or in ALVA material. For context, ALVA's cursor-routing patent was filed in the Netherlands in 1987 and granted in the US in 1991 (NFB timeline).
+Released: By 1994 (reviewed in the NFB's 1994 Braille Technology Evaluation; exact release year not found)
 
 Overview:
 ALVA's desktop braille terminals of the 1990s, with cursor routing.
 
 Specs:
-Released: No release year was found in the NFB's 2026 Braille technology timeline or in ALVA material. For context, ALVA's cursor-routing patent was filed in the Netherlands in 1987 and granted in the US in 1991 (NFB timeline).
+Released: By 1994 (reviewed in the NFB's 1994 Braille Technology Evaluation; exact release year not found)
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The ALVA Braille Terminal is a flat, low, rectangular refreshable braille display in a plastic housing. The 83-cell model reviewed in 1994 measures 23.5 inches wide by 11 inches deep by 1 inch high and weighs 11 pounds 6 ounces. A 43-cell version was also sold.
+The braille display runs along the top front edge: 80 cells plus three status cells on the left. The first two status cells show which screen line is displayed, and the third shows attribute information.
+Above the cells is a row of 80 dots, one per cell, for cursor routing. Pressing the dot above a cell moves the application's cursor there, where the program allows it; for example, in WordPerfect's editing screen but not at the DOS prompt.
+Seven buttons run along the front edge: three round ones on the left, then two short and two long bars, with the long bars in the middle. From left to right they are Program, Home, Cursor, Line Up, Line Down, Line Down and Line Up. The up and down bars can also move the system cursor.
+The power cord, on/off switch and input and output connectors are on the back edge. The ABT connects to the computer's parallel port and has its own parallel port to replace the one it occupies, so a printer still works normally.
+
 Features:
 Not documented
 
 History:
-Not documented
+The National Federation of the Blind's 1994 Braille Technology Evaluation reviewed the ALVA Braille Terminal (ABT), made by ALVA in the Netherlands and imported by HumanWare of Loomis, California. It cost $14,495 for the 83-cell model and $8,995 for the 43-cell model. The panel called it an all-round good choice for most users: simple, effective and easy to install. Its memory-resident control software caused no problems with other programs. The braille was a little mushy but acceptably readable. The report does not give the ABT-3 series model numbers, so this is the best available record of the ABT as sold at that time.
 
 Ports:
 Not documented
@@ -39,5 +46,6 @@ Not documented
 
 Sources:
 Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 2: https://www.duxburysystems.org/downloads/library/history/00-nfb1994-tech-eval.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

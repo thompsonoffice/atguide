@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Thiel Beta/X3 is a heavy single-sided braille embosser from Thiel GmbH of Germany. It measures 16.25 inches wide by 22.25 inches deep by 5.75 inches high and weighs 84 pounds.
+It has a metal lid and a carrying handle, so it can be moved, but the NFB evaluators stressed how heavy it is. Paper feeds in from the front and passes across the top of the printer, drawn by pull-type tractors.
+Six buttons and a switch on the right front of the top surface control the printer. Setup is a series of yes/no questions shown in braille, which you answer by pressing different buttons. The evaluators found some questions confusing until you got used to them.
+A cut-out on the right side holds the input cable connector and the power cord. The on/off switch there is a key that you turn.
+It connects to a computer only through a serial port; there is no parallel connection. It embosses 130 characters per second, 26 lines of 42 cells, and is relatively quiet for an embosser.
+
 Features:
 Not documented
 
 History:
-Not documented
+The National Federation of the Blind's 1994 Braille Technology Evaluation said the Beta/X3 had been available since the mid-1980s and was generally considered very reliable. The NFB's International Braille and Technology Center owned several and called them real workhorses: expensive to repair, but they keep going, and relatively quiet. Blazie Engineering of Forest Hill, Maryland, imported it for about $12,000. It embossed 130 characters per second, with 26 lines of 42 cells. The braille quality was good, but setup, like that of all Thiel printers, could be confusing.
 
 Ports:
 Not documented
@@ -39,5 +46,6 @@ Not documented
 
 Sources:
 Source 1: https://nfb.org/sites/default/files/images/nfb/publications/fr/fr28/fr280109.htm
+Source 2: https://www.duxburysystems.org/downloads/library/history/00-nfb1994-tech-eval.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

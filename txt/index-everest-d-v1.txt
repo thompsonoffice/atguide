@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The first Everest, as evaluated by the National Federation of the Blind's International Braille and Technology Center in 1994, was an unusual interpoint (double-sided) embosser: wide and tall but not very deep. It measured 20 inches wide by 6.75 inches deep by 25 inches high and weighed 25 pounds. TeleSensory imported it to the US at $5,995.
+Single sheets of paper sit in a feeder on top of the unit. The feeder holds 100 to 150 sheets, depending on paper thickness. The paper travels down through the printer and drops out of the bottom into a catch basket.
+Control buttons run along the front panel. They have braille markings, which the panel found oddly spaced, and a built-in speech synthesizer announces each button as it is pressed. The panel found the speech somewhat hard to understand.
+The power cord, power switch and parallel cable connect at the back, on one of the legs or supports. A stripped-down Duxbury braille translator was built into ROM, and a WordPerfect driver let you print directly from that program.
+The importer rated it at 100 characters per second, giving 26 lines of 42 cells. The panel judged the braille quality very good but reported paper jams on roughly one sheet in three. TeleSensory said this was not typical.
+
 Features:
 Not documented
 
@@ -43,5 +50,6 @@ Sources:
 Source 1: https://indexbraille.com/about-us/
 Source 2: https://www.braillecast.com/podcast/e020/
 Source 3: https://sastltd.zohodesk.eu/portal/en/kb/articles/index-embosser-version-identification
+Source 4: https://www.duxburysystems.org/downloads/library/history/00-nfb1994-tech-eval.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

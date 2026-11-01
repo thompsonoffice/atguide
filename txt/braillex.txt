@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+This description is of the BRAILLEX IB80, the model the National Federation of the Blind evaluated in 1994. A 40-cell 4040 was also sold. The IB80 measures 29 inches wide by 11.5 inches deep by 1.25 inches high and weighs 20 pounds 2 ounces. It has a heavy, solid metal case and came with a hard suitcase-style carrying case. In 1994 it cost $15,000 and the 4040 $10,000, through ATR Computers.
+The braille display sits on top near the front edge: 80 cells plus four status cells on the left. Behind it are 40 cursor-routing buttons, one for every two cells. Press once to route to the left cell, twice for the right.
+On the left end of the top are eight buttons in two vertical rows of four, numbered like braille dots. To the right of the display are five buttons forming the four arrow keys and a Home key. A vertical row of four buttons on the top plate gives three function keys and a Shift key.
+Along the front edge are two long bars to move the display up and down, a Home key between them, and two buttons at each end. Those end buttons move each half of the display when the 80 cells are split into two 40-cell banks, so one half can stay parked on part of the screen.
+The IB80 is hardware-based. An interface card goes in a PC expansion slot, the PC keyboard plugs into the Braillex, and a cable runs to the PC's keyboard connector, so braille works from the moment the computer starts. The on/off switch is on the left side, and the power cord and connectors are on the back.
+
 Features:
 Not documented
 
@@ -40,5 +47,6 @@ Not documented
 Sources:
 Source 1: https://nfb.org/sites/default/files/images/nfb/publications/fr/fr28/fr280109.htm
 Source 2: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 3: https://www.duxburysystems.org/downloads/library/history/00-nfb1994-tech-eval.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
