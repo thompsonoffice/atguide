@@ -15,7 +15,7 @@ Operating system: Not documented
 Default speech synthesizer: DoubleTalk chip
 Battery: Lithium-ion; about 4-hour charge, about 30 hours of use
 Display or braille cells: 20 or 40 cells
-Speech synthesizers available: Internal speech synthesizer (Blazie/Freedom Scientific; DoubleTalk-based per earlier entry)
+Speech synthesizers available: Internal speech synthesizer (model not documented in sources used)
 Price at launch: Not documented
 Used price today (eBay): No used or eBay listing surfaced in this research pass (eBay blocks direct page checks).
 
