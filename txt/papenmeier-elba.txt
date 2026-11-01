@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The BRAILLEX ELba (EL Braille Assistant) is a portable, Linux-based braille notetaker from F. H. Papenmeier of Schwerte, Germany. The August 2003 user manual describes it with either 20 or 32 braille cells, and with either an eight-dot braille keyboard or a QWERTY keyboard.
+The rounded front houses Papenmeier's patented Easy Access Bar, a long joystick-like bar with rubber nubs for grip. You push it up, down, left or right with your thumbs, in two steps each way, to move around the screen without leaving the braille. The braille display sits behind the bar, with a routing key built into each cell, a speaker grille to its right and a small microphone to its left.
+Above the display is the keyboard. The braille version's eight keys run 7, 3, 2, 1, 4, 5, 6, 8 from left to right, with a long Space key below and a thumb key on each side of it. The QWERTY version has a notebook-style layout with Windows and context-menu keys.
+On the back panel, from left to right, are the on/off switch, the charger jack, a 25-pin parallel port, a PS/2 keyboard port, an RJ-11 modem jack, a USB client port, a 9-pin serial port and a speaker/headphone jack. A PCMCIA/CardBus slot sits above the modem, USB and serial connectors, with an RJ-45 Ethernet jack to its right.
+It has 16 MB of flash memory and 32 MB of RAM, and a built-in lithium-ion battery rated for at least 10 hours, charging overnight in at most 6 hours. It ran email (Pine), the Lynx web browser, an editor, a spreadsheet, a day planner and an MP3 player, and could act as a braille display for a Windows PC. It shipped with a Velcro-lined carrying pouch.
+
 Features:
 Not documented
 
@@ -40,5 +47,6 @@ Not documented
 
 Sources:
 Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 2: https://manualzz.com/doc/1887502/papenmeier-elba-braille-assistant-user-s-manual
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

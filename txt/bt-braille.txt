@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The BT Braille from Blazie Technologies is a braille computer and notetaker in 20-cell and 40-cell sizes. Blazie gives the 20-cell model as 6.38 × 4.63 × 1.25 in and 618 g (1 lb 6 oz), and the 40-cell as 11.38 × 4.63 × 1.25 in and 885 g (1 lb 15 oz). It notes these figures are within 0.2 in of the final design.
+It has a 9-key Perkins-style braille keyboard. BrailleDB describes the keyboard as non-linear, with the space bar above the display and dots 7 and 8 on either side of it.
+Below the keyboard is a piezoelectric braille display (eight-dot cells with cursor routing) with three navigation buttons at each end, six in all.
+According to BrailleDB, the two USB-C ports (one also used for charging) are on the rear edge and the 3.5 mm headphone jack is on the right side. There are also a mini-HDMI port for classroom screen sharing, a microSD slot, dual speakers, a microphone and haptic feedback.
+Inside are a Raspberry Pi Compute Module 5, 16 GB of RAM and a 1 TB SSD, with Wi-Fi and Bluetooth. A 15,000 mAh lithium-polymer battery gives at least 10 hours. It runs a Linux-based, self-voicing text interface, with an optional MATE desktop running the Orca screen reader. Terminal Mode lets it act as a braille display for iPhone, iPad, Mac and Windows.
+
 Features:
 Not documented
 
 History:
-Blazie Technologies launched the BT Speak in 2024 as a modern, Linux-based revival of the Braille 'n Speak. In March 2026 it demonstrated the BT Braille, which the NFB's 2026 timeline describes as a modern take on the Braille Lite, the 1993 Blazie Engineering notetaker that added a refreshable braille display to the Braille 'n Speak.
+Blazie Technologies launched the BT Speak in 2024 as a modern, Linux-based revival of the Braille 'n Speak. In March 2026 it demonstrated the BT Braille, which the NFB's 2026 timeline describes as a modern take on the Braille Lite, the 1993 Blazie Engineering notetaker that added a refreshable braille display to the Braille 'n Speak.  Blazie Technologies lists the BT Braille at $4,495 for the 20-cell model and $6,495 for the 40-cell model, and the BrailleDB device database records it as released in 2026.
 Predecessors: BT Speak / BT Speak Pro (Blazie Technologies, 2024 to present)
 
 Ports:
@@ -41,5 +48,7 @@ Not documented
 Sources:
 Source 1: https://blazietech.com
 Source 2: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 3: https://www.blazietech.com/bt-braille
+Source 4: https://brailledb.seeinghands.org/device/blazietechbtbraille20
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

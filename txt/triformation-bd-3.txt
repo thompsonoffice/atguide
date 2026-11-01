@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Triformation BD-3 Braille Terminal was a portable braille embosser built into a brown plastic suitcase. The case has a pebbled faux-leather finish with real stitching, brushed-aluminium trim, chrome latches and a carrying handle. The APH Museum example, serial 00048, is labelled 'TRIFORMATIONS SYSTEMS, INC./BRAILLE TERMINAL BD-3'. APH says it weighed 15 pounds and cost $1,850.
+Inside the opened case is a plastic table covered in walnut-woodgrain vinyl. The embossing head sits under a brown cover at the lower left.
+It embossed onto paper tape rather than sheets. An 8.5-inch grey plastic spool of tape mounts on an aluminium hub at the upper right and feeds around a spring-loaded aluminium bar.
+Behind the embossing head is a small panel with a female RCA input jack, an on/off toggle switch and a red indicator light; the grey power cord comes out of the table above it. APH records the case's dimensions as H 14.5, W 19, D 60 inches.
+Sold as a 'braille verifier', it produced braille tape of whatever was being typed on a connected teletype or computer terminal. The donor's brother used it with a Teletype Model 33 at the University of Connecticut in 1976. He found that moving between the keyboard and the tape was slow and awkward, and that it was faster to have someone read the teletype output aloud.
+
 Features:
 Not documented
 
@@ -41,5 +48,6 @@ Not documented
 Sources:
 Source 1: https://nfb.org/sites/default/files/images/nfb/publications/fr/fr28/fr280109.htm
 Source 2: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 3: https://sites.aph.org/museum-virtual-exhibit/vex1/FC37273C-26B8-431D-B445-033067776821.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

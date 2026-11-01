@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 102 g, tethered by USB-C.
 
+Detailed Description:
+The NuEyes Pro 4 is a pair of lightweight augmented-reality smart glasses weighing 102 grams, with arms that fold for storage.
+Two 1080p OLED displays, one for each eye, give a 43° field of view. A 12-megapixel camera and a gyroscope, accelerometer, light sensor and distance sensor are built into the frame.
+The glasses have no battery. They plug into a compatible phone, tablet or computer by USB-C and draw power from it; NuEyes says that gives about 6 hours with a Samsung S21. The page also notes 5G compatibility through the connected phone.
+In the low-vision version, the Pro 4 LV, the October 2024 brochure lists variable magnification from 1× to 12×, OCR with text-to-speech, and a range of colour and contrast settings. It also says the glasses help with reading, writing, watching TV and seeing faces.
+The Pro 4 LV ships with a Samsung phone and a case and has a one-year warranty. NuEyes' Smart Bundle adds its low-vision software, a two-year support plan and dedicated tech support. Standard and DoD/Federal USB-C standalone versions are also sold.
+
 Features:
 Not documented
 
