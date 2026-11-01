@@ -16,17 +16,24 @@ Default speech synthesizer: Not documented
 Battery: About 20 hours
 Display or braille cells: 40 cells
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $2,795 (AccessWorld, April 2017)
 Used price today (eBay): Not documented
 
 Physical Description:
 About 2 lb.
 
+Detailed Description:
+The Braille EDGE 40 is a 40-cell refreshable braille display from HIMS, which AccessWorld classed as a 'smart display' with its own small applications. It measures 12.2 inches long, 4 inches deep and 0.86 inches thick, and weighs 1.73 pounds, a little wider and heavier than BAUM's VarioUltra 40.
+Along the edge nearest you runs the 40-cell braille line with its cursor-routing buttons. Behind it is an eight-key Perkins-style keyboard, with keys for dots 1 to 8 in their usual positions. The keys sit close together, so people with large hands may find them crowded.
+The space bar sits between dots 1 and 4. On each side of it are rectangular function keys, F1 to F4 among them, whose jobs change with context. In the internal programs F4 opens the menus, and with JAWS F2 acts as the Alt key. Sets of arrow keys sit on either side of the Perkins keyboard for navigation.
+Around the edges are an SD card slot, a jack for the included AC adapter and a mini-USB port. The USB port gives slow charging and connects the EDGE to a PC or Mac as a screen-reader terminal. AccessWorld found it cannot read files from a thumb drive, and its SD card cannot be read from another device through the EDGE.
+It comes in a zip-up carrying bag with a strap, shaped like a small laptop bag, which must be closed to secure the unit, so the display can't be used while inside. HIMS sold an Executive Products case for $98 that lets you use the display fully while it stays protected. In 2017 it sold for $2,795.
+
 Features:
 Not documented
 
 History:
-Not documented
+AccessWorld (April 2017, republished from Blind Bargains) compared it with BAUM's VarioUltra 40 ($3,995) as a 'smart display': more than a terminal, with notepad, scheduler and other internal applications, but less than a full notetaker. At that time HIMS offered no smaller EDGE.
 
 Ports:
 Not documented
@@ -40,5 +47,6 @@ Not documented
 
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
+Source 2: https://afb.org/aw/18/4/15220
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

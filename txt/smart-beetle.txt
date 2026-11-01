@@ -13,20 +13,27 @@ Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
-Battery: Not documented
+Battery: About 18 hours (AccessWorld)
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $1,345 list; on sale for $995 in January 2018 (AccessWorld)
 Used price today (eBay): Not documented
 
 Physical Description:
 Not documented
 
+Detailed Description:
+The Smart Beetle is a 14-cell braille display from HIMS with no notetaking applications, only a menu and a terminal clipboard. AppleVis's reviewer found it about the size of an iPhone 6S but a little thicker and wider, almost exactly the size of a Focus 14. It is a rectangle with rounded edges.
+With the braille line toward you, the 14 cells run along the front of the top surface, with a diamond-shaped panning button at each end. Directly behind the cells are 14 cursor-routing buttons.
+Behind those, on a slightly raised level, is the space bar with two rectangular keys on each side: F1 and F2 on the left, F3 and F4 on the right. Behind them is the eight-key Perkins-style keyboard. At the very back of the top are a small speaker for audio alerts and a couple of indicator lights.
+The back panel has a reset button at the far left and a micro-USB port on the right. The left side and front are bare. The power button is alone on the right side: a quick press opens the menu, which offers Bluetooth serial, USB or Bluetooth keyboard modes, and a three-second press turns it on or off. Pairing with iOS needs no PIN.
+It connects to up to five Bluetooth devices plus one USB device at once, and battery life is about 18 hours. It comes with a thin, close-fitting case that closes magnetically, a micro-USB cable, print and braille guides, and a driver CD. It listed at $1,345 and was on sale for $995 in early 2018.
+
 Features:
 Not documented
 
 History:
-Not documented
+Scott Davert's AppleVis review (December 2015) gave it 4 stars. He noted that it was natively supported in iOS 9 and OS X El Capitan, while earlier iOS versions treated it as an 18-cell BrailleSense, so panning skipped text. AccessWorld (2018) found that it had not been updated in a long time, and that the manual's keyboard-emulation section was incomplete.
 
 Ports:
 Not documented
@@ -39,5 +46,7 @@ Not documented
 
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
+Source 2: https://afb.org/aw/19/2/15123
+Source 3: https://www.applevis.com/reviews/smart-beetle-hims
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
