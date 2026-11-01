@@ -8,25 +8,32 @@ A manual braillewriter (not an electronic embosser) designed by David Abraham. I
 
 Specs:
 Released: 1951 to present
-Processor: Not documented
-Memory (RAM): Not documented
+Processor: None (fully mechanical)
+Memory (RAM): None (mechanical)
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: Not documented
-Display or braille cells: Not documented
-Speech synthesizers available: Not documented
-Price at launch: Not documented
-Used price today (eBay): Not documented
+Display or braille cells: Embosses up to 42 cells per line and 26 lines per page
+Speech synthesizers available: None; a mechanical braille writer with no speech
+Price at launch: $70 (original 1951 price); about $810 new today
+Used price today (eBay): eBay: a refurbished unit with new parts and new paint listed at about US$449.87 plus $28.87 shipping. Braille Superstore sells refurbished units for $454.95. An estate auction in May 2025 sold one for $40.
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The Classic Perkins Brailler is a solid, heavy metal machine about the size of a small, boxy typewriter. It is about 37 cm long, 23 cm high and 15 cm deep, and weighs 10.6 lb (4.8 kg), so you can lift it with two hands but it doesn't slide around on a desk. The body is aluminum with a baked-enamel finish. It usually comes in gray, and newer machines also come in blue.
+Along the front edge sits a single row of nine keys. In the middle is the space bar key. To its left are three dot keys for dots 3, 2 and 1, and to its right are dots 4, 5 and 6, so each hand rests on three keys. At the far left end is the line-space key, which advances the paper one line, and at the far right end is the backspace key. Pressing several dot keys together embosses one braille cell.
+On top, toward the back, is a rounded roller drum that holds the paper. Two paper-feed knobs on the sides roll the paper in and out. Pressure-roller levers, which you pull toward you to open and push away to close, clamp the sheet in place. The paper goes in from the back and lines up against the left side.
+The embossing head is inside the machine, riding on a carriage that moves from left to right as you type. A carriage lever lets you return it to the left starting position. Each line holds up to 42 braille cells, and a page holds about 26 lines.
+It is purely mechanical, with no power cord or battery. Users say a well-kept machine lasts for decades; ACB's author still used the one she got as a first grader more than 60 years later. Variations include the Unimanual model, whose keys lock down for one-handed brailling, the Light-Touch Electric model, and the SMART Brailler, which adds a screen and speech.
 
 Features:
 Not documented
 
 History:
-Not documented
+In the 1800s many mechanical braille writers were tried, including the Daisy Writer and Frank H. Hall's 1892 machine. Howe Press's cast-iron braillers were heavy, noisy and broke easily. In the 1930s Perkins director Gabriel Farrell asked David Abraham, an English-born industrial-arts teacher and former Royal Flying Corps mechanic, to design a new one with Dr. Edward Waterhouse. Abraham built it in his home workshop with help from tool-and-die maker Fred Lehman and showed the prototype to the trustees in 1941. Wartime material shortages delayed production. The trustees voted to subsidize production in 1946, and AFB helped secure $40,000 in loans. Shipping began in 1951 at $70. Perkins expected to need about 1,000 units but soon had orders for more than 2,000. The machine has more than 600 parts; assemblers built about 40 a day. Abraham retired in 1961. In the 1990s production also moved to England, India and South Africa, and more than 395,000 braillers have shipped to 200 countries and territories. Perkins Brailler 1 came back from the Oregon School for the Blind into the Perkins archives.
 Successors: SMART Brailler (Perkins School for the Blind / Perkins Products, 2012)
 
 Ports:
@@ -40,5 +47,11 @@ Not documented
 
 Sources:
 Source 1: https://www.perkins.org
+Source 2: https://www.acb.org/perkins-brailler-turns-seventy
+Source 3: https://brailler.perkins.org/pages/brailler-comparison
+Source 4: https://brailler.perkins.org/pages/perkins-brailler-faq
+Source 5: https://www.ebay.nl/itm/158272750760
+Source 6: https://www.braillebookstore.com/Refurbished-Perkins-Brailler.1
+Source 7: https://lightningauctions.auctionmobility.com/lots/view/1-AMFBZL/perkins-brailler-writing-machine
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
