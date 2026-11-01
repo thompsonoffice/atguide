@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Developed by Daniel Nash. A dual ISO (Jenux-2023.01.17) was discussed on the Blinux list in January 2023. ISO, Docker and Crostini builds were updated at jenux.dev in October 2026.
+Developed by Daniel Nash. A dual ISO (Jenux-2023.01.17) was discussed on the Blinux list in January 2023. ISO, Docker and Crostini builds were updated at jenux.dev in October 2026.  The jenux.dev build page offers installers and live environments for x8664, i686 and aarch64 (including Raspberry Pi and virtual machines on phones), in Base GUI, GNOME, MATE, Plasma, Kodi and RetroArch variants. Builds come as ISOs, VMDK virtual-machine images, rootfs images and Chrome OS Crostini images, along with a Docker image. The page also has a sample configuration file for unattended setup and step-by-step key sequences for enrolling the Jenux key on Secure Boot machines.
 
 Ports:
 Not applicable (software)

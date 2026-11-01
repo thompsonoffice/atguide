@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-The GitHub project (chrys87/fenrir) was created in July 2016, and version 1.0 was announced on February 7, 2017. Development later moved to a new home. It runs on Linux and, through its pty driver, on macOS, BSD and Windows.
+The GitHub project (chrys87/fenrir) was created in July 2016, and version 1.0 was announced on February 7, 2017. Development later moved to a new home. It runs on Linux and, through its pty driver, on macOS, BSD and Windows.  The README calls Fenrir a modern, modular, flexible and fast console screen reader, licensed under LGPL v3 and written in Python 3. It speaks through eSpeak or eSpeak NG, Speech Dispatcher or Emacspeak, supports braille through BRLTTY (a work in progress), and includes a spell checker. Development now continues at git.stormux.org/storm/fenrir.
 
 Ports:
 Not applicable (software)
@@ -39,5 +39,6 @@ Speech: espeak or espeak-ng, or Speech Dispatcher with python-speechd
 Sources:
 Source 1: https://github.com/chrys87/fenrir
 Source 2: https://lists.gnome.org/archives/orca-list/2017-February/msg00079.html
+Source 3: https://github.com/chrys87/fenrir/blob/master/README.md
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

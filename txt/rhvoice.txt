@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-In February 2012 a patch added an RHVoice output module to speech-dispatcher on Linux. It described RHVoice as the only free high-quality Russian synthesizer and planned Ukrainian, Belarusian and Kazakh voices. The NVDA synth driver 0.2.7 was dated April 29, 2012. Python packages followed in 2015.
+In February 2012 a patch added an RHVoice output module to speech-dispatcher on Linux. It described RHVoice as the only free high-quality Russian synthesizer and planned Ukrainian, Belarusian and Kazakh voices. The NVDA synth driver 0.2.7 was dated April 29, 2012. Python packages followed in 2015.  RHVoice uses statistical parametric (HMM) synthesis built mainly on the open-source HTS toolkit, so it stores only small statistical models rather than recordings. Its README says it began as Russian-only and now also speaks American and Scottish English, Brazilian Portuguese, Esperanto, Georgian, Ukrainian, Kyrgyz, Tatar, Macedonian, Albanian and Polish. It runs on Windows (SAPI 5), Linux (Speech Dispatcher) and Android (F-Droid and Google Play), and ships its own NVDA driver.
 
 Ports:
 Not applicable (software)
@@ -38,5 +38,6 @@ Source 2: https://rhvoice.software.informer.com/download/
 Source 3: https://github.com/Olga-Yakovleva/RHVoice/blob/master/CMakeLists.txt
 Source 4: https://libraries.io/pypi/RHVoice
 Source 5: https://github.com/RHVoice/RHVoice
+Source 6: https://github.com/RHVoice/RHVoice/blob/master/README.md
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
