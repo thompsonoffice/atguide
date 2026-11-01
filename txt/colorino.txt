@@ -13,7 +13,7 @@ Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
-Battery: 2 × 1.5 V AAA batteries (the maker's Q&A warns that 1.2 V rechargeables may only beep)
+Battery: 2 × 1.5 V AAA batteries
 Display or braille cells: None; speech output in natural language, 3 volume levels
 Speech synthesizers available: Not documented
 Price at launch: Not documented
@@ -26,8 +26,8 @@ Detailed Description:
 The Colorino is a handheld talking color identifier from the Austrian company Caretec. You hold its tip against clothing, a wall or any surface and it speaks the color in plain language. It recognizes over 150 shades.
 It is a small bar about 110 mm long, 52 mm wide and 25 mm thick, and weighs 84 grams with its batteries. The body is black, red and yellow.
 It works with just two keys. A built-in loudspeaker has three volume levels, and a 3.5 mm headphone jack lets you hear results privately.
-It also detects light, sounding a tone whose pitch shows how bright a light source is, so you can tell whether a lamp is on or find a window. Caretec says it can tell natural from artificial light and measure contrast and brightness.
-It runs on two 1.5 V AAA batteries. In the box are the device, batteries, a textile case and printed instructions. Caretec's Q&A notes that 1.2 V rechargeable cells may make it only beep without speaking.
+It also detects light, sounding an audio signal (0 to 2.5 kHz, per Caretec's spec table) that shows how bright a light source is, so you can tell whether a lamp is on or find a window. Caretec says it can tell natural from artificial light and measure contrast and brightness.
+It runs on two 1.5 V AAA batteries. In the box are the device, batteries, a textile case and printed instructions.
 
 Features:
 Not documented
