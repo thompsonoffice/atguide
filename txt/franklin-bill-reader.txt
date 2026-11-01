@@ -1,0 +1,43 @@
+Franklin Bill Reader
+Company: Franklin Electronic Publishers
+Category: Miscellaneous
+Released: On the market by February 2010
+
+Overview:
+A handheld talking identifier for U.S. paper money from $1 to $100, speaking English or Spanish.
+
+Specs:
+Released: On the market by February 2010
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Speech synthesizers available: Not documented
+Price at launch: $300 (2010)
+Used price today (eBay): Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+The New York Times described it in February 2010 as a $300 device using object recognition to name a bill's denomination aloud. It recognized current and recent series, and new designs could be downloaded into it from Franklin's website using a Windows PC. Results came through a built-in speaker or wired earbuds. The article placed it in the context of a 2008 court ruling that the U.S. government discriminated against blind people by not making bills distinguishable.
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://archive.nytimes.com/gadgetwise.blogs.nytimes.com/2010/02/19/for-the-visually-impaired-money-talks/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

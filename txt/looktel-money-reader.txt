@@ -1,0 +1,45 @@
+LookTel Money Reader
+Company: IPPLEX (LookTel)
+Category: Miscellaneous
+Released: March 8, 2011 (iOS)
+
+Overview:
+An early iPhone app that named U.S. bills from $1 to $100 in real time through the camera, without an internet connection.
+
+Specs:
+Released: March 8, 2011 (iOS)
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Speech synthesizers available: Not documented
+Price at launch: $1.99 at launch (2011)
+Used price today (eBay): Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+IPPLEX released it on March 8, 2011 for $1.99, for the iPhone 4, iPhone 3GS and fourth-generation iPod touch. It used LookTel's patented object recognition on a continuous video stream, so you didn't need to hold still or take a photo, and it spoke results in a clear female voice. AccessWorld's Scott Davert called it unequivocally a top performer. In 2016 NantMobile Health bought it and moved it to a subscription; by 2020 the version he had bought in 2011 was no longer available.
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.freelists.org/post/real-eyes/Ipplex-Releases-LookTel-Money-Reader-for-iOS-Devices
+Source 2: https://www.engadget.com/2011-03-10-iphone-app-helps-the-blind-id-currency.html
+Source 3: https://afb.org/aw/21/7/17116
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

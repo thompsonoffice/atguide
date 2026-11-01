@@ -5,7 +5,7 @@ This folder holds one plain text file for every entry in ATGuide: each device, b
 There is one folder per company. Each folder starts with an About file for the company, then its version histories, then its products in alphabetical order.
 Each entry file has a header, then sections separated by blank lines in this order: Overview, Specs, Physical Description, Features, History, Ports, Operating System, System Requirements, Sources. Facts that could not be found in a source read Not documented.
 
-Totals: 97 companies, 342 devices, software and voices, 28 version histories, 468 files including this README.
+Totals: 101 companies, 346 devices, software and voices, 28 version histories, 476 files including this README.
 
 Index by company:
 
@@ -178,6 +178,10 @@ Carnegie Mellon University (2 files):
 Carnegie Mellon University/About Carnegie Mellon University.txt
 Carnegie Mellon University/Flite.txt
 
+Cash Reader s.r.o. (2 files):
+Cash Reader s.r.o/About Cash Reader s.r.o.txt
+Cash Reader s.r.o/Cash Reader.txt
+
 Cepstral (2 files):
 Cepstral/About Cepstral.txt
 Cepstral/Cepstral David and Diane.txt
@@ -283,6 +287,10 @@ Fora Care (3 files):
 Fora Care/About Fora Care.txt
 Fora Care/Fora V20.txt
 Fora Care/Fora V22.txt
+
+Franklin Electronic Publishers (2 files):
+Franklin Electronic Publishers/About Franklin Electronic Publishers.txt
+Franklin Electronic Publishers/Franklin Bill Reader.txt
 
 Freedom Scientific (18 files):
 Freedom Scientific/About Freedom Scientific.txt
@@ -417,6 +425,10 @@ Index Braille/Index Everest-D (V1).txt
 Index Braille/Index V3 platform.txt
 Index Braille/Index V4 platform.txt
 Index Braille/Index V5 line (Basic-D, Everest-D, BrailleBox).txt
+
+IPPLEX (LookTel) (2 files):
+IPPLEX (LookTel)/About IPPLEX (LookTel).txt
+IPPLEX (LookTel)/LookTel Money Reader.txt
 
 IrisVision (2 files):
 IrisVision/About IrisVision.txt
@@ -624,6 +636,10 @@ ThermoWorks/ThermoWorks RT8400 Talking Thermometer.txt
 Thiel (2 files):
 Thiel/About Thiel.txt
 Thiel/Thiel Beta-X3.txt
+
+U.S. Bureau of Engraving and Printing (BEP) (2 files):
+U.S. Bureau of Engraving and Printing (BEP)/About U.S. Bureau of Engraving and Printing (BEP).txt
+U.S. Bureau of Engraving and Printing (BEP)/EyeNote (BEP money identifier app).txt
 
 Ultmost (2 files):
 Ultmost/About Ultmost.txt

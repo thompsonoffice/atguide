@@ -1,0 +1,19 @@
+U.S. Bureau of Engraving and Printing (BEP)
+Type: Company profile
+Founded: Founding year not covered by the pages used here
+Products listed: 1
+
+History:
+The U.S. Treasury bureau that prints Federal Reserve notes. Until redesigned currency with tactile features arrives, it gives eligible blind and visually impaired people a free iBill reader (AccessWorld, June 2015), and it publishes the free EyeNote app.
+
+Products:
+EyeNote (BEP money identifier app) (Miscellaneous, 2011 (iOS); EyeNote 4.0 on August 16, 2024; later released for Android)
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://www.bep.gov/services/currency-accessibility/mobile-applications/
+Source 2: https://afb.org/aw/16/6/15449
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

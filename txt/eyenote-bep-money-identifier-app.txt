@@ -1,0 +1,48 @@
+EyeNote (BEP money identifier app)
+Company: U.S. Bureau of Engraving and Printing (BEP)
+Category: Miscellaneous
+Released: 2011 (iOS); EyeNote 4.0 on August 16, 2024; later released for Android
+
+Overview:
+The U.S. government's free app that names the denomination of U.S. Federal Reserve notes from Series 1996 onward, using the phone camera.
+
+Specs:
+Released: 2011 (iOS); EyeNote 4.0 on August 16, 2024; later released for Android
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Speech synthesizers available: Not documented
+Price at launch: Free
+Used price today (eBay): Not documented
+
+Physical Description:
+Not documented
+
+Features:
+U.S. notes only, Series 1996 to present
+Continuous scanning, no photo needed
+Works offline
+Either side, any orientation, partial notes
+Does not detect counterfeits
+
+History:
+The BEP released EyeNote for iOS in 2011. Version 4.0 (August 16, 2024) is 64-bit and needs iOS 11 or later, covering the iPhone 6 and newer. The Android version needs Android 11 and at least 4 GB of RAM. It scans continuously, so there is no need to hold still or take a photo. It reads the face or back in any orientation, even part of a note, works offline, and speaks English or Spanish to match the device. It doesn't check whether a note is genuine. In AccessWorld's July 2020 test on an iPhone SE, it named every U.S. bill within a second and showed front or back on a braille display. It gave no ready prompt, though, and spoke in the Samantha voice rather than the user's VoiceOver voice. The BEP's older IDEAL Currency Identifier for Android has been withdrawn.
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.bep.gov/services/currency-accessibility/mobile-applications/
+Source 2: https://afb.org/aw/21/7/17116
+
+From ATGuide, https://thompsonoffice.github.io/atguide/
