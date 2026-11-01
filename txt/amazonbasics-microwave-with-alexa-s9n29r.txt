@@ -1,0 +1,60 @@
+AmazonBasics Microwave with Alexa (S9N29R)
+Company: Amazon
+Category: Miscellaneous
+Released: Announced September 20, 2018; shipped from November 14, 2018. Reported discontinued by 2025 (user reports on Reddit, September 2025).
+
+Overview:
+A $59.99 compact 700-watt microwave controlled by voice through any Echo device. It was Amazon's first kitchen appliance and the first device built on the Alexa Connect Kit.
+
+Specs:
+Released: Announced September 20, 2018; shipped from November 14, 2018. Reported discontinued by 2025 (user reports on Reddit, September 2025).
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Digital time readout; no speech of its own (spoken feedback comes from the Echo)
+Speech synthesizers available: Not documented
+Price at launch: $59.99 at launch (2018); still $59.99 in AccessWorld's December 2020 review
+Used price today (eBay): No resale price found; Reddit users reported in 2025 that it can no longer be bought new
+
+Physical Description:
+Not documented
+
+Detailed Description:
+The AmazonBasics Microwave is a small white countertop microwave. AccessWorld gives its outside dimensions as 17.3 inches wide, 14.1 inches deep and 10.1 inches high, and its weight as 21.9 pounds. Inside is a 0.7 cubic foot cavity with a 10-inch glass turntable. It is rated at 700 watts of cooking power, lower than most full-size microwaves, though owners on NFB's lists said food needs only a little longer.
+The door is hinged on the left, and its handle runs down the strip just left of the control panel. All controls and the display sit in a strip about three inches wide on the right front. At the top is the digital time readout. Below it is a row of three buttons: Power Level, Time Defrost and Weight Defrost.
+Next comes a standard keypad, numbers 1 to 9 in three rows. The row below has Popcorn on the left, 0 in the middle and Kitchen Timer on the right. The bottom row has Pause/Stop on the left, the Alexa button in the middle and Start/+30 Sec on the right. The Alexa button is the only raised button. The others are flat membrane keys marked only by small indentations, so AccessWorld suggests locator dots or braille labels for anyone who wants to use the keypad by touch.
+To set up the turntable, you feel for three taped bumps on the cavity floor, remove the tape, and seat the roller ring around them. The glass tray's three bumps then lock loosely into place on the rollers. The microwave has no microphone or speaker. It pairs over Wi-Fi as a smart-home device in the Alexa app. AccessWorld's tester needed sighted help for one step of pairing, holding the 2 key for four seconds, because the keys are hard to identify by touch.
+Once paired, it is controlled entirely by voice through any nearby Echo: 'Alexa, microwave for one minute,' 'add 30 seconds,' 'reheat coffee' or 'five minutes on medium.' Pressing the raised Alexa button and simply saying 'one minute' does the same thing without the wake word. Alexa answers through the Echo, which gives a blind cook the spoken confirmation the microwave itself cannot.
+
+Features:
+Alexa voice control through any Echo on the same Wi-Fi network, for example 'Alexa, microwave for 2 minutes' or 'Alexa, reheat coffee'
+Raised 'Ask Alexa' button: press it and speak the command without saying the wake word
+Voice power levels ('five minutes on power six' or 'on medium')
+Quick-cook voice presets (potatoes, frozen vegetables, coffee and others)
+Optional Dash Replenishment reordering of popcorn
+
+History:
+Amazon announced it at its September 20, 2018 devices event, alongside the second-generation Echo Show, Echo Wall Clock, Amazon Smart Plug and Echo Input. The Verge called it 'the e-commerce giant's first real kitchen appliance.' It was the first product built on the Alexa Connect Kit (ACK), a low-cost Wi-Fi and Bluetooth Low Energy module that lets ordinary appliances take commands from an existing Echo. The microwave itself has no microphone or speaker, and Amazon positioned it largely as a reference design for ACK. It also integrated Dash Replenishment, with an optional Auto Popcorn Replenishment feature that reorders popcorn. Tech press first treated a talking microwave as a gimmick. In January 2021 Forbes' Steven Aquino argued that the voice control made it genuinely accessible for people with visual or motor disabilities. AFB's AccessWorld reviewed it in December 2020, called it 'very accessible' when paired with an Alexa device and 'an excellent value,' and judged it a good choice of small accessible microwave. Users on NFB's Electronics-Talk list reported getting a braille keypad overlay for it in 2020. Its successor in the Alexa kitchen line was the 2019 Amazon Smart Oven (see that entry).
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.theverge.com/2018/9/20/17882140/amazon-basics-microwave-alexa-2018-smart-features-price-release-date
+Source 2: https://www.aftvnews.com/amazon-announces-new-amazonbasics-microwave-with-alexa/
+Source 3: https://www.fonearena.com/blog/264036/amazon-echo-show-2nd-gen-amazon-basics-microwave-echo-wall-clock-smart-plug-echo-input.html
+Source 4: https://afb.org/aw/20/12/16848
+Source 5: https://www.forbes.com/sites/stevenaquino/2021/01/14/the-amazonbasics-microwave-with-alexa-shows-how-gimmicks-are-gold/
+Source 6: http://www.nfbnet.org/pipermail/electronics-talknfbnet.org/2020-July/017897.html
+Source 7: https://www.reddit.com/r/alexa/comments/1ngto3z/ithinkthewificardinmyamazonbasicssmart/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

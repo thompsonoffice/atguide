@@ -1,0 +1,63 @@
+Amazon Smart Oven / Amazon Basics 4-in-1 Smart Oven (EB544N)
+Company: Amazon
+Category: Miscellaneous
+Released: Announced September 25, 2019; shipped from November 14, 2019. Later sold under the Amazon Basics name (Woot listings as 'Amazon Basics EB544N Smart Oven'). No 2021 launch and no second-generation model were found; user reports from September 2025 describe it as discontinued, with Alexa connections failing.
+
+Overview:
+A 4-in-1 countertop appliance (microwave, convection oven, air fryer and food warmer) controlled by voice through an Echo. Amazon offers a free braille keypad overlay.
+
+Specs:
+Released: Announced September 25, 2019; shipped from November 14, 2019. Later sold under the Amazon Basics name (Woot listings as 'Amazon Basics EB544N Smart Oven'). No 2021 launch and no second-generation model were found; user reports from September 2025 describe it as discontinued, with Alexa connections failing.
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Speech synthesizers available: Not documented
+Price at launch: $249.99 with an included Echo Dot (2019)
+Used price today (eBay): Refurbished units on Woot at $149.99 to $189.99 (reference price $249.99)
+
+Physical Description:
+Not documented
+
+Detailed Description:
+The Amazon Smart Oven is a large countertop box that looks like an oversized microwave. Its manual gives outside dimensions of 21.73 by 21.38 by 12.83 inches and a weight of about 44.75 pounds, roughly twice the size and weight of the 2018 AmazonBasics Microwave. The 1.5 cubic foot cavity has a 13.6-inch turntable and holds a 5-pound chicken.
+It combines four appliances. As a microwave it puts out 1,000 watts, and as a convection oven 1,400 watts. Air frying is convection cooking on the tall rack with the air-fry pan, and keep-warm runs at 1,300 watts. The whole unit draws up to 1,600 watts from a standard 120-volt outlet.
+Accessories include a tall rack, a short rack, a perforated air-fry tray and a temperature probe. The manual explains which go with which mode: the tall rack and air-fry tray for air fry and convect, the short rack for keep warm, and the probe required for auto roast. No racks or metal may be used in the microwave, defrost, reheat or preset-cook modes. The probe plugs into a socket on the inside wall, and the display then shows its reading.
+The front has a control panel with a display, a keypad and mode keys such as Convect. Amazon offers a free braille keypad overlay that marks the key functions, with instructions on its help page for applying it. As with the microwave, the oven has no microphone or speaker, so all speech comes from a nearby Echo.
+By voice you can preheat, set the temperature, start, stop and add time, for example 'Alexa, bake for 25 minutes at 350 degrees.' Alexa announces when the oven has preheated and when food is done, so a blind cook does not need to read the display. With scan-to-cook, the Alexa app reads a packaged food's barcode and loads the right program. Owners reported in 2025 that Alexa control had stopped working on some units and that Amazon no longer sells the oven new.
+
+Features:
+Microwave, convection bake, air fry and keep-warm modes, plus defrost, reheat, auto roast and preset cook
+30+ built-in presets
+Alexa voice control through any compatible Echo ('Alexa, bake for 25 minutes at 350 degrees')
+Alexa Announcements when preheating finishes or food is done
+Temperature probe that plugs into the inside wall; the display shows the probe temperature
+Scan-to-cook for packaged foods with the Alexa app
+Free braille keypad overlay from Amazon
+
+History:
+Amazon announced it on September 25, 2019 as the follow-up to the 2018 AmazonBasics Microwave. It sold for $249.99 bundled with an Echo Dot and shipped on November 14, 2019. The launch press release called it 'Voice-Controlled 4-in-1 Oven' and paired it with the new 'Certified for Humans' program for easy-setup smart-home devices. Like the microwave, it has no microphone or speaker and was described by The Verge as a reference design for Alexa appliance APIs. New at launch were 30 cooking presets, a temperature probe, Alexa voice preheat and temperature setting, Alexa Announcements when preheating finishes or food is done, and 'scan-to-cook.' Scan-to-cook reads the barcode of hundreds of packaged foods (Whole Foods Market, 365, Gardein, Marie Callender's and others) with the Alexa app and loads the cooking program onto the oven. Amazon's help page states that a free braille keypad overlay is available and has instructions for applying it. The oven was later listed as the 'Amazon Basics EB544N Smart Oven,' including refurbished units on Woot at $149.99 to $189.99 against a $249.99 reference price. A 2021 launch date and a 2025 second generation were both searched for and not found. The model number stayed EB544N. In September 2025 several owners on Reddit reported that their 4-in-1 ovens and Basics microwaves had lost Alexa connectivity, and that the products could no longer be bought new.
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://press.aboutamazon.com/2019/9/amazon-introduces-an-array-of-new-devices-and-features-to-help-make-your-home-simpler-safer-and-smarter
+Source 2: https://www.theverge.com/2019/9/25/20883867/amazon-smart-oven-features-specs-price-release-date-alexa-echo-dot
+Source 3: https://customerdocumentation.s3-us-west-2.amazonaws.com/Alexa+Devices/Amazon+Smart+Oven+Manual+(Accessible+HTML).html
+Source 4: https://www.amazon.com/b?ie=UTF8&node=21341314011
+Source 5: https://www.utahsweetsavings.com/amazon-basics-eb544n-smart-oven-149-99-reg-249-99-today-only-2-08/
+Source 6: https://www.reviewed.com/cooking/features/amazon-smart-oven-is-it-worth-buying
+Source 7: https://www.reddit.com/r/alexa/comments/1ngto3z/ithinkthewificardinmyamazonbasicssmart/
+Source 8: https://www.indiatoday.in/technology/features/story/amazon-event-2019-echo-studio-echo-buds-all-new-echo-and-all-other-devices-announced-1603344-2019-09-26
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

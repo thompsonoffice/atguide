@@ -1,13 +1,15 @@
 Amazon
 Type: Company profile
 Founded: 1994
-Products listed: 1
+Products listed: 3
 
 History:
 Makes Fire tablets and Fire OS, which include the VoiceView screen reader (launched in late 2015).
 
 Products:
 VoiceView (Amazon Fire tablets) (Screen Readers, September 2015 (Fire OS 5 'Bellini'))
+AmazonBasics Microwave with Alexa (S9N29R) (Miscellaneous, Announced September 20, 2018; shipped from November 14, 2018. Reported discontinued by 2025 (user reports on Reddit, September 2025).)
+Amazon Smart Oven / Amazon Basics 4-in-1 Smart Oven (EB544N) (Miscellaneous, Announced September 25, 2019; shipped from November 14, 2019. Later sold under the Amazon Basics name (Woot listings as 'Amazon Basics EB544N Smart Oven'). No 2021 launch and no second-generation model were found; user reports from September 2025 describe it as discontinued, with Alexa connections failing.)
 
 Operating System and Software Histories:
 VoiceView versions

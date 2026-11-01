@@ -5,7 +5,7 @@ This folder holds one plain text file for every entry in ATGuide: each device, b
 There is one folder per company. Each folder starts with an About file for the company, then its version histories, then its products in alphabetical order.
 Each entry file has a header, then sections separated by blank lines in this order: Overview, Specs, Physical Description, Features, History, Ports, Operating System, System Requirements, Sources. Facts that could not be found in a source read Not documented.
 
-Totals: 90 companies, 333 devices, software and voices, 28 version histories, 452 files including this README.
+Totals: 90 companies, 335 devices, software and voices, 28 version histories, 454 files including this README.
 
 Index by company:
 
@@ -40,9 +40,11 @@ ALVA BV/ALVA BC640 - BC680.txt
 ALVA BV/ALVA MPO 5500.txt
 ALVA BV/ALVA Satellite 544.txt
 
-Amazon (3 files):
+Amazon (5 files):
 Amazon/About Amazon.txt
 Amazon/VoiceView versions (version history).txt
+Amazon/Amazon Smart Oven - Amazon Basics 4-in-1 Smart Oven (EB544N).txt
+Amazon/AmazonBasics Microwave with Alexa (S9N29R).txt
 Amazon/VoiceView (Amazon Fire tablets).txt
 
 American Printing House for the Blind (APH) (9 files):
