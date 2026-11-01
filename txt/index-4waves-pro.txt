@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Introduced in 2005, the 4Waves Pro was Index's high-speed production embosser. It came between the V3 platform (2002 to 2004) and the V4 platform (2011).
 
 Ports:
 Not documented

@@ -26,8 +26,8 @@ Features:
 Not documented
 
 History:
-Not documented
-Successors: Index Blue Bar (Index Braille, Late 1980s)
+Index began in 1979 as a university project to build a braille typewriter with a copy function. Björn Löfstedt was inspired by his mother, who went blind at 32. With support from a Swedish disability organization, he and Torvald Lundqvist founded Polar Print Production (later Index Braille AB) in 1982. A small batch of Index Computer Braille Printers was built in Löfstedt's garage in 1984; they became known as the 'Index 3.7' after the firmware version. Index moved into its current premises in 1985, paid for by distributing assistive technology around Sweden.
+Successors: Index Blue Bar (Index Braille, 1988)
 
 Ports:
 Not documented
@@ -40,5 +40,6 @@ Not documented
 
 Sources:
 Source 1: https://www.braillecast.com/podcast/e020/
+Source 2: https://indexbraille.com/about-us/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

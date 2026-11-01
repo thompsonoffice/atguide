@@ -26,8 +26,8 @@ Features:
 Not documented
 
 History:
-Not documented
-Predecessors: Index V3 platform (Index Braille, 2002 to 2004)
+Basic-D V4 (2011) was Index's first black-and-white Basic: a white case with a black lid. The control panel changed to a Menu button with up and down arrows. Production ran from 2011 to 2016. The BrailleBox, a sheet-fed production embosser with three embossing heads and a 300-page sheet feeder, came out in 2011 as part of V4. Index calls it the most advanced development work it had ever done.
+Predecessors: Index V3 platform (Index Braille, 2002 to 2011)
 Successors: Index V5 line (Basic-D, Everest-D, BrailleBox) (Index Braille, 2016 to present)
 
 Ports:
@@ -41,5 +41,8 @@ Not documented
 
 Sources:
 Source 1: https://www.braillecast.com/podcast/e020/
+Source 2: https://sastltd.zohodesk.eu/portal/en/kb/articles/index-embosser-version-identification
+Source 3: https://www.medicalexpo.com/prod/index-braille/product-108385-1043623.html
+Source 4: http://www.itacconsulting.com/img/products/braille%20embrossers/pdfs/Index%20BrailleBox-presentation.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -8,14 +8,14 @@ It began as a 1979 university project to build a braille typewriter with a copy 
 
 Products:
 Index Computer Braille Printer (Index 3.7) (Embossers, 1984)
+Index Blue Bar (Embossers, 1988)
 Index Everest-D (V1) (Embossers, 1992)
-Index Basic and Everest (V2 platform) (Embossers, 1995)
+Index Basic and Everest (V2 platform) (Embossers, February 1995 to 2002)
 Index 4X4 Pro (Embossers, 1998)
-Index V3 platform (Embossers, 2002 to 2004)
+Index V3 platform (Embossers, 2002 to 2011)
 Index 4Waves Pro (Embossers, 2005)
 Index V4 platform (Embossers, 2011)
 Index V5 line (Basic-D, Everest-D, BrailleBox) (Embossers, 2016 to present)
-Index Blue Bar (Embossers, Late 1980s)
 
 Operating System and Software Histories:
 Not documented

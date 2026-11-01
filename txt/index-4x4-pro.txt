@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Introduced in 1998, the 4X4 Pro was Index's booklet-printing embosser. It came between the V2 platform (1995) and the V3 platform (2002 to 2004).
 
 Ports:
 Not documented

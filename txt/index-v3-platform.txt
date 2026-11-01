@@ -1,13 +1,13 @@
 Index V3 platform
 Company: Index Braille
 Category: Embossers
-Released: 2002 to 2004
+Released: 2002 to 2011
 
 Overview:
 Added USB and network connectivity.
 
 Specs:
-Released: 2002 to 2004
+Released: 2002 to 2011
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
@@ -26,8 +26,8 @@ Features:
 Not documented
 
 History:
-Not documented
-Predecessors: Index Basic and Everest (V2 platform) (Index Braille, 1995)
+Basic-D V3 came out in 2002. A UK service note describes V3 machines as having a black case, red lid and yellow buttons, with USB, Ethernet and parallel ports (the serial port is for service only), and serial numbers from 30000 to 49999. Production ran until 2011. V3 is now end-of-life with no parts available.
+Predecessors: Index Basic and Everest (V2 platform) (Index Braille, February 1995 to 2002)
 Successors: Index V4 platform (Index Braille, 2011)
 
 Ports:
@@ -41,5 +41,7 @@ Not documented
 
 Sources:
 Source 1: https://www.braillecast.com/podcast/e020/
+Source 2: https://sastltd.zohodesk.eu/portal/en/kb/articles/index-embosser-version-identification
+Source 3: https://www.medicalexpo.com/prod/index-braille/product-108385-1043623.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

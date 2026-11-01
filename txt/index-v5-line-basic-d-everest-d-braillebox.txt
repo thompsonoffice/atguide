@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Index released the V5 line in 2016. The Basic-D V5 has a white case and black lid, embosses 140 characters per second double-sided with a dot height of 0.58 mm, and has a control panel labeled in braille and print. V5 added Index-direct-Braille (printing doc, docx, PDF and EPUB 3 files without a braille editor), printing from phones and tablets, Wi-Fi, wired network or USB connections, printing from a USB stick with speech guidance, and the BrailleApp web interface. The BrailleBox V5 cut the number of circuit boards from 4 to 2, replaced the mechanical door with a DOOR key and moved all controls to its panel. The BrailleBox has won design awards including Red Dot, Good Design and the German Design Award.
 Predecessors: Index V4 platform (Index Braille, 2011)
 
 Ports:
@@ -41,5 +41,8 @@ Not documented
 Sources:
 Source 1: https://indexbraille.com/about-us/
 Source 2: https://www.braillecast.com/podcast/e020/
+Source 3: https://sastltd.zohodesk.eu/portal/en/kb/articles/index-embosser-version-identification
+Source 4: https://www.medicalexpo.com/prod/index-braille/product-108385-1043623.html
+Source 5: http://www.itacconsulting.com/img/products/braille%20embrossers/pdfs/Index%20BrailleBox-presentation.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
