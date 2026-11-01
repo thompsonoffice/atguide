@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+The NFB's Braille Technology Timeline (2026 edition) says Triformation Systems, later Enabling Technologies, released its first embosser, the BD 3, in 1971. Triformation made the first embossers able to print eight-dot computer braille in the early 1970s, partly building on the Braille Mboss developed at MIT.
 Successors: Triformation LED-120 (Enabling Technologies (formerly Triformation Systems), 1974)
 
 Ports:
@@ -40,5 +40,6 @@ Not documented
 
 Sources:
 Source 1: https://nfb.org/sites/default/files/images/nfb/publications/fr/fr28/fr280109.htm
+Source 2: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+The National Library Service began piloting free 20-cell braille displays for patrons in 2020, funded by a five-million-dollar Congressional appropriation. Two models were chosen: one by HumanWare, based on the Brailliant BI 20X, and one by Zoomax.
 
 Ports:
 Not documented
@@ -39,5 +39,6 @@ Not documented
 
 Sources:
 Source 1: https://www.loc.gov/nls/
+Source 2: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

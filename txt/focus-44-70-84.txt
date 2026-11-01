@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Freedom Scientific's first Focus line came out in 2004 in 44-, 70- and 84-cell sizes. A second generation offered 40 and 80 cells, and Focus Blue added Bluetooth. The NFB timeline calls Focus one of the most widely used displays among JAWS users.
 Successors: Focus 40 Blue (5th generation) (Freedom Scientific, 2019)
 
 Ports:
@@ -40,5 +40,6 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/FreedomScientific
+Source 2: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

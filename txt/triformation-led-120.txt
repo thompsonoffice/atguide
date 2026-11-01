@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+The NFB's Braille Technology Timeline (2026) calls the LED 120 Triformation's popular embosser of the late 1970s, which differs from this entry's earlier 1974 date. It followed the BD 3 (1971), and Triformation later became Enabling Technologies.
 Predecessors: Triformation BD-3 (Enabling Technologies (formerly Triformation Systems), 1971)
 
 Ports:
@@ -40,5 +40,6 @@ Not documented
 
 Sources:
 Source 1: https://nfb.org/sites/default/files/images/nfb/publications/fr/fr28/fr280109.htm
+Source 2: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

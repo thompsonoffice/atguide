@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+At the 2004 NFB convention HumanWare released the BrailleNote PK, then the smallest notetaker sold in the U.S., with an 18-cell display and speech. According to the NFB timeline its hardware was BAUM's Pronto.
 
 Ports:
 Not documented
@@ -40,5 +40,6 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/BrailleNote
+Source 2: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

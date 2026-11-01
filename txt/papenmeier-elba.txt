@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+The NFB timeline records Papenmeier's Elba (2001) as the first Linux-based notetaker, with both braille and QWERTY keyboards and a refreshable braille display.
 
 Ports:
 Not documented

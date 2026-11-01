@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Papenmeier Reha worked with Dr. Werner Boldt of Dortmund University and in 1975 produced the BRAILLEX, an electronic device with a refreshable braille display. The same year Klaus Peter Schönherr of Horb-Nordstetten invented the first piezoelectric braille module, the basis of refreshable braille cells for the next forty years.
 
 Ports:
 Not documented
@@ -39,5 +39,6 @@ Not documented
 
 Sources:
 Source 1: https://nfb.org/sites/default/files/images/nfb/publications/fr/fr28/fr280109.htm
+Source 2: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

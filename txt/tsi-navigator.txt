@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+The NFB timeline dates the Navigator to 1989 as TSI's first dedicated refreshable braille display for PC access. It came in 20-cell (six-dot desktop), 40-cell (eight-dot) and 80-cell versions, sat below the PC keyboard and had cursor routing keys. The PowerBraille line replaced it in the mid-1990s.
 
 Ports:
 Not documented
@@ -40,5 +40,6 @@ Not documented
 Sources:
 Source 1: https://afb.org/aw/6/4/14611
 Source 2: https://brltty.app/pipermail/brltty/2015-December/013007.html
+Source 3: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
