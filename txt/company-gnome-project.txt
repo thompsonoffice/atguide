@@ -7,8 +7,8 @@ History:
 The GNOME desktop's screen reader is Orca (2006, originally from Sun Microsystems), which replaced Gnopernicus in GNOME 2.16. IBM's Linux Screen Reader (LSR) ran from 2006 to 2007.
 
 Products:
+Gnopernicus (Screen Readers, December 7, 2001 (first release) to 2006 (1.1.2, August 21, 2006))
 Orca (Screen Readers, 2006 to present)
-Gnopernicus (Screen Readers, Until GNOME 2.16)
 
 Operating System and Software Histories:
 Orca versions

@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Unveiled at Google I/O 2011 by T. V. Raman's team as an early developer beta. It used experimental TTS and accessibility extension APIs and exposed an API for web developers.
+Unveiled at Google I/O 2011 by T. V. Raman's team as an early developer beta. It used experimental TTS and accessibility extension APIs and exposed an API for web developers. T.V. Raman announced the developer beta, which used Chrome's experimental tts and accessibility extension APIs and offered web developers a simple screen reader API. Over time it moved from a separate extension into the operating system, and its code now lives in the Chromium tree. Google rebuilt it from the ground up as ChromeVox Next, which became the default on all Chromebooks with Chrome 56 at the end of January 2017. Next changed the modifier from Shift+Search to Search alone and added a ChromeVox panel with menus, braille captions and navigation from USB braille display keyboards.
 
 Ports:
 Not applicable (software)
@@ -33,5 +33,8 @@ Not documented
 
 Sources:
 Source 1: https://blog.chromium.org/2011/05/chromevox-built-in-spoken-feedback-for.html
+Source 2: https://developers.googleblog.com/en/chromevox-built-in-spoken-feedback-for-chrome-os/
+Source 3: https://www.youtube.com/watch?v=NyuuK7tB9fM
+Source 4: https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/accessibility/os/chromevox.md
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

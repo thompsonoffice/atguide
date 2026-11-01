@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-A male voice option arrived in June 2013.
+A male voice option arrived in June 2013. Siri itself began as a spin-out of SRI International's Artificial Intelligence Center and the DARPA-funded CALO project, co-founded by Dag Kittlaus, Tom Gruber and Adam Cheyer. Nuance supplied its speech recognition. The voice actors recorded around 2005 without knowing how the recordings would be used; Briggs told The Guardian the original system was recorded for a US company called ScanSoft, "who were then bought by Nuance." Bennett revealed her role in October 2013, and audio forensics expert Ed Primeau confirmed it. Most countries started with a female voice only (the UK, France and the Netherlands started male). In June 2013 Apple announced a gender option adding a counterpart voice, and with iOS 11 (2017) it replaced the voices with new deep-learning ones built from hours of recordings of newly auditioned talent.
 Successors: Siri deep-learning voices (iOS 11) (Apple, 2017 (iOS 11))
 
 Ports:

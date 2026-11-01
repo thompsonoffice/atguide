@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Apple's April 2021 announcement said Siri would no longer default to a female voice; users pick a voice when setting up the device.
+Apple's April 2021 announcement said Siri would no longer default to a female voice; users pick a voice when setting up the device. Apple announced the change on March 31, 2021, saying Siri would no longer default to a female or male voice. Wikipedia notes earlier criticism of the default, such as The Conversation's argument that a soft female default voice reinforced women's roles as secondary. In February 2022 Apple added a fifth US option, Quinn, its first gender-neutral voice.
 Predecessors: Siri deep-learning voices (iOS 11) (Apple, 2017 (iOS 11))
 Successors: Siri Voice 5 (Quinn) (Apple, February 2022 (iOS 15.4 beta))
 
@@ -40,5 +40,6 @@ Source 1: https://arstechnica.com/gadgets/2021/04/apple-releases-ios-14-5-the-bi
 Source 2: https://9to5mac.com/2021/03/31/hands-on-ios-14-5-beta-6-changes-features-siri-battery-recalibration-tool-video/
 Source 3: https://www.macworld.com/article/331864/ios-14-5-features-airtags-siri-unlock-with-apple-watch-how-to-install.html
 Source 4: https://www.apple.com/newsroom/2021/04/ios-14-5-offers-unlock-iphone-with-apple-watch-diverse-siri-voices-and-more/
+Source 5: https://en.wikipedia.org/wiki/Siri
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

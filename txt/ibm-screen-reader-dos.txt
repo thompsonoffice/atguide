@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Followed by IBM Screen Reader/2 for OS/2.
+Followed by IBM Screen Reader/2 for OS/2. Jim Thatcher, an IBM mathematician and one of the first computer science PhDs (1963), built it with his former thesis adviser Jesse Wright, who was blind. They began work on audio access for the IBM PC in 1984, developing an IBM Raleigh prototype talking terminal called SAID (Synthetic Audio Interface Driver), and the research project was called PC SAID. IBM announced Screen Reader in 1986, and Thatcher's 1994 paper says the DOS product was released in January 1988 and upgraded twice. It was at first mainly for IBM's own blind staff, dozens of whom beta tested it. Its distinguishing features were a separate 18-key keypad and full programmability. Screen Reader/2 for OS/2, a complete redesign that Thatcher led, was the first screen reader for a PC graphical interface; it was programmed in the Profile Access Language (PAL) and also gave access to Windows and DOS programs running under OS/2.
 Successors: IBM Screen Reader/2 (IBM, About 1992)
 
 Ports:
@@ -35,5 +35,8 @@ Not documented
 Sources:
 Source 1: https://www.sigaccess.org/wp-content/uploads/2012/05/jimthatcher.pdf
 Source 2: https://ashton.codes/dai11y-19-01-2021/
+Source 3: https://afb.org/aw/5/2/14760
+Source 4: https://doi.org/10.1007/3-540-58476-5108
+Source 5: https://knowbility.org/blog/2021/a-brief-history-of-screen-readers
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,14 +1,14 @@
 Gnopernicus
 Company: GNOME Project
 Category: Screen Readers
-Released: Until GNOME 2.16
+Released: December 7, 2001 (first release) to 2006 (1.1.2, August 21, 2006)
 
 Overview:
 An earlier GNOME screen reader and magnifier developed by BAUM Engineering, using AT-SPI.
 
 Specs:
 Developer: GNOME Project
-Release years: Until GNOME 2.16
+Release years: December 7, 2001 (first release) to 2006 (1.1.2, August 21, 2006)
 Runs on: Unix-like (GNOME)
 Default speech: Not documented
 Price: Not documented
@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Bundled with GNOME until Orca replaced it in GNOME 2.16.
+Bundled with GNOME until Orca replaced it in GNOME 2.16. Development began in 2001, and the first release is dated December 7, 2001. Gnopernicus was a free, LGPL-licensed, one-size-fits-all program written in C that gave speech, braille and magnification through GNOME's AT-SPI accessibility layer. Users could customize voices, keyboard commands, braille display keys and magnification, and even edit the XML files that defined speech and braille output. It became the default screen reader in GNOME 2.4 on September 10, 2003. The last release, 1.1.2, came on August 21, 2006, and Orca then replaced it in GNOME.
 Successors: Orca (GNOME Project, 2006 to present)
 
 Ports:
@@ -34,5 +34,6 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Listofscreenreaders
+Source 2: https://en.wikipedia.org/wiki/Gnopernicus
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

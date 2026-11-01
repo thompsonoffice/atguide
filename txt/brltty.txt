@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Started in 1995 by Cambridge students Nikhil Nair and James Bowden; Nair wanted to use his CombiBraille. Version 0.22 beta was announced in December 1995 and 1.0 in July 1996. Speech support came in 1.0.1. Nicolas Pitre took over in 1998 (1.9.0), and Dave Mielke from 2001.
+Started in 1995 by Cambridge students Nikhil Nair and James Bowden; Nair wanted to use his CombiBraille. Version 0.22 beta was announced in December 1995 and 1.0 in July 1996. Speech support came in 1.0.1. Nicolas Pitre took over in 1998 (1.9.0), and Dave Mielke from 2001. BRLTTY runs as a background daemon that drives a refreshable braille display for the Linux and Unix text console. It can start at boot, so it reads login prompts and console messages, and it is suitable for system administration. Features include full screen review, cursor routing, cut and paste between virtual terminals, table-driven contracted braille (English, French and German provided), several braille codes, screen freezing, a preferences menu, basic speech and an API for other programs.
 
 Ports:
 Not applicable (software)
@@ -35,5 +35,6 @@ Not documented
 Sources:
 Source 1: https://brltty.app/pipermail/brltty/2015-December/013007.html
 Source 2: https://www.ibiblio.org/pub/historic-linux/ftp-archives/sunsite.unc.edu/Sep-29-1996/system/Access/brltty-1.0.2.README
+Source 3: https://brltty.app/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

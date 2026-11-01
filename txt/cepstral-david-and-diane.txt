@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Cepstral was founded in Pittsburgh in 2000 by Kevin Lenzo and Alan W Black, authors of Festival-lite. Engadget described David as a new Mac voice in March 2005, and Diane is in the Swift 4.0.1 voice list (2006).
+Cepstral was founded in Pittsburgh in 2000 by Kevin Lenzo and Alan W Black, authors of Festival-lite. Engadget described David as a new Mac voice in March 2005, and Diane is in the Swift 4.0.1 voice list (2006). Cepstral LLC was founded in June 2000 by Carnegie Mellon University scientists, including Kevin Lenzo and Alan W. Black, and is based in Pittsburgh, Pennsylvania. The company makes synthetic voices for telephony systems, mobile apps and desktop programs, and voices that work with the open-source Festival system. David and Diane are among its US English voices sold to individual users.
 
 Ports:
 Not applicable (software)
@@ -37,5 +37,6 @@ Source 1: https://www.macworld.com/article/185797/voicemac.html
 Source 2: https://en.wikipedia.org/wiki/cepstral(company)
 Source 3: https://www.engadget.com/2005-03-22-hate-fred-and-veronica-try-david-and-linda.html
 Source 4: http://jonhoyle.com/maccompanion/mirror/archives/march2006/software/cepstral.htm
+Source 5: https://en.wikipedia.org/wiki/Cepstral(company)
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
