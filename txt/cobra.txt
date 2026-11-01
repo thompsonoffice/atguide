@@ -1,14 +1,14 @@
 COBRA
 Company: BAUM Retec
 Category: Screen Readers
-Released: Not documented
+Released: November 2008 (version 8)
 
 Overview:
 BAUM Retec's commercial Windows screen reader, with MSAA and Java Access Bridge support.
 
 Specs:
 Developer: BAUM Retec
-Release years: Not documented
+Release years: November 2008 (version 8)
 Runs on: Windows
 Default speech: Not documented
 Price: Not documented
@@ -21,7 +21,7 @@ Not documented
 
 History:
 Not documented
-Predecessors: Blindows (BAUM Retec, Not documented)
+Predecessors: Blindows (BAUM Retec, 1997)
 
 Ports:
 Not applicable (software)
@@ -34,5 +34,6 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Listofscreenreaders
+Source 2: https://de.wikipedia.org/wiki/Cobra(Screenreader)
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

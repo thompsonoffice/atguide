@@ -1,6 +1,6 @@
 F.H. Papenmeier
 Type: Company profile
-Founded: Not documented
+Founded: 1956 (engineering office of Friedrich Horst Papenmeier, Schwerte); BRAILLEX completed 1975
 Products listed: 2
 
 History:
@@ -15,5 +15,6 @@ Not documented
 
 Sources:
 Source 1: https://nfb.org/sites/default/files/images/nfb/publications/fr/fr28/fr280109.htm
+Source 2: https://www.papenmeier.de/en/about-us/history/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,14 +1,14 @@
 Pocket Hal / Smart Hal
 Company: Dolphin Computer Access
 Category: Screen Readers
-Released: Mid-2000s (year not documented)
+Released: Pocket Hal: November 2005; Smart Hal by 2007
 
 Overview:
 Dolphin's screen readers for Windows Mobile Pocket PCs (Pocket Hal) and Smartphones (Smart Hal).
 
 Specs:
 Developer: Dolphin Computer Access
-Release years: Mid-2000s (year not documented)
+Release years: Pocket Hal: November 2005; Smart Hal by 2007
 Runs on: Windows Mobile
 Default speech: Not documented
 Price: Not documented
@@ -33,5 +33,7 @@ Not documented
 
 Sources:
 Source 1: https://afb.org/aw/8/4/14343
+Source 2: https://www.freelists.org/post/access-uk/Fw-UKVISE-FW-Dolphin-News-October-2005,1
+Source 3: https://afb.org/aw/8/5/14324
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

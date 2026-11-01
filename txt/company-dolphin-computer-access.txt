@@ -1,6 +1,6 @@
 Dolphin Computer Access
 Type: Company profile
-Founded: Not documented
+Founded: 1986 (incorporated October 21, 1986, Worcester, UK)
 Products listed: 6
 
 History:
@@ -8,11 +8,11 @@ A UK maker of the Hal screen reader (DOS, then Windows), Supernova, Pocket Hal a
 
 Products:
 Hal for Windows (Screen Readers, By 1997 (Hal 1.04 for Windows 95))
-Dolphin Supernova (Screen Readers, Version 8.01 in 2007 (earlier versions not documented))
+Dolphin Orpheus (TTS Voices, Version 1.01 released June 30, 1998)
+Dolphin Supernova (Screen Readers, 1998 to present)
+Pocket Hal / Smart Hal (Screen Readers, Pocket Hal: November 2005; Smart Hal by 2007)
 Dolphin Apollo (Speech Synthesizers, Not documented)
-Dolphin Orpheus (TTS Voices, Not documented)
 Hal for DOS (Screen Readers, DOS era (year not documented))
-Pocket Hal / Smart Hal (Screen Readers, Mid-2000s (year not documented))
 
 Operating System and Software Histories:
 Not documented
@@ -20,5 +20,7 @@ Not documented
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Listofscreenreaders
 Source 2: https://nfbcal.org/nfb-rd/1332.html
+Source 3: https://find-and-update.company-information.service.gov.uk/company/02065974
+Source 4: https://yourdolphin.com/About-Dolphin
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

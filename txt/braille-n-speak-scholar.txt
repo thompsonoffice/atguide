@@ -1,0 +1,42 @@
+Braille 'n Speak Scholar
+Company: Blazie Engineering
+Category: Notetakers
+Released: Spring 2000 (APH catalog) to 2004
+
+Overview:
+A student version of the Braille 'n Speak sold through APH, with seven-key braille input and speech output.
+
+Specs:
+Released: Spring 2000 (APH catalog) to 2004
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: DoubleTalk speech
+Battery: Not documented
+Display or braille cells: Not documented
+Price at launch: Not documented
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+APH listed it from spring 2000 until 2004 (APH catalog number 1-07309-01).
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://sites.aph.org/museum-virtual-exhibit/vex2/2AEEBF8E-D463-4207-AA5A-417408112058.htm
+Source 2: https://aphmuseum.org/record/braille-n-speak-scholar-3/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

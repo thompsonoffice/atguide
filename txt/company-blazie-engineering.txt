@@ -1,7 +1,7 @@
 Blazie Engineering
 Type: Company profile
-Founded: Not documented
-Products listed: 7
+Founded: 1986 (Deane Blazie, Forest Hill, Maryland)
+Products listed: 10
 
 History:
 Deane Blazie's company. It introduced the Braille 'n Speak at the 1987 NFB convention, followed by the Type 'n Speak and the Braille Lite line. AFB reported about 70,000 of its notetakers in use. Merged into Freedom Scientific in 2000.
@@ -9,11 +9,14 @@ Deane Blazie's company. It introduced the Braille 'n Speak at the 1987 NFB conve
 Products:
 Braille 'n Speak (original) (Notetakers, 1987 to 1990s)
 Braille 'n Speak Classic (Notetakers, Name later given to the original line)
+Braille Blazer (Embossers, 1990)
+Braille 'n Speak 640 (Notetakers, October 1991)
+Type 'n Speak (Notetakers, Late 1992)
 Braille Lite 18 (Notetakers, Summer 1993)
-Braille 'n Speak 2000 (Notetakers, 1997)
-Braille Lite 40 (Notetakers, After 1993 (year not documented))
-Type 'n Speak (Notetakers, Not documented)
-Type Lite (Notetakers, Not documented)
+Braille Lite 40 (Notetakers, Summer 1996)
+Braille 'n Speak 2000 (Notetakers, 1999 (APH catalog entry))
+Braille 'n Speak Scholar (Notetakers, Spring 2000 (APH catalog) to 2004)
+Type Lite (Notetakers, By March 2001 (date of user guide))
 
 Operating System and Software Histories:
 Braille 'n Speak firmware
@@ -21,5 +24,6 @@ Braille 'n Speak firmware
 Sources:
 Source 1: https://afb.org/aw/11/1/16078
 Source 2: https://www.duxburysystems.org/downloads/library/news/new62.htm
+Source 3: https://nfb.org/images/nfb/publications/bm/bm00/bm0005/bm000502.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

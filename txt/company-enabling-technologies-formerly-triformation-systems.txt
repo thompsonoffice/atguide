@@ -1,7 +1,7 @@
 Enabling Technologies (formerly Triformation Systems)
 Type: Company profile
-Founded: Not documented
-Products listed: 5
+Founded: Triformation Systems incorporated in Florida on January 14, 1974
+Products listed: 7
 
 History:
 A US embosser maker. Under the Triformation name it built the BD-3 (1971) and LED-120 (1974). Later embossers include the Juliet (1992), the Romeo Attaché (2004) and the Juliet 120.
@@ -10,8 +10,10 @@ Products:
 Triformation BD-3 (Embossers, 1971)
 Triformation LED-120 (Embossers, 1974)
 Enabling Technologies Juliet (Embossers, 1992)
+Juliet 120 (Embossers, 1992 (Juliet embosser museum record))
 Romeo Attaché / Attaché Pro (Embossers, 2004)
-Juliet 120 (Embossers, Not documented)
+Romeo Pro 50 (Embossers, Not documented)
+Romeo RB-25 (Romeo 25) (Embossers, In use by 2006 (introduction year not documented))
 
 Operating System and Software Histories:
 Not documented
@@ -19,5 +21,6 @@ Not documented
 Sources:
 Source 1: https://sites.aph.org/museum-virtual-exhibit/vex1/7D6044E7-F4E9-4189-A3F0-428547426285.htm
 Source 2: https://www.freelists.org/post/duxuser/DBT-105,19
+Source 3: https://www.commerceflorida.com/company/831608/triformation-systems-inc
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

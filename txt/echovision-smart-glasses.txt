@@ -1,0 +1,43 @@
+EchoVision smart glasses
+Company: AGIGA
+Category: Vision Wearables
+Released: Pioneer Edition shipped late October/November 2025
+
+Overview:
+AI smart glasses for blind and low-vision users: scene description, text reading, face recognition and calls to Aira and Be My Eyes.
+
+Specs:
+Released: Pioneer Edition shipped late October/November 2025
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Companion app: iPhone 8 or newer on iOS 16.6+, or Android 11+
+Default speech synthesizer: Not documented
+Battery: Pioneer: about 6 hours (30 with case); V1: about 9 hours
+Display or braille cells: No display; 13 MP centered wide-angle camera
+Price at launch: $599 (pre-order $449 with free lifetime subscription)
+
+Physical Description:
+Round matte-black frame; 135 mm hinge to hinge, 52 mm lens width, 138 mm temples.
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Bluetooth 5.3 + BLE, dual-band Wi-Fi 5, USB-C; 4-mic array, open-ear stereo speakers, two buttons and a touchpad.
+
+Operating System:
+Companion app: iPhone 8 or newer on iOS 16.6+, or Android 11+
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://agiga.ai/products/echovision-pioneer-edition
+Source 2: https://agiga.ai/pages/community
+Source 3: https://nfb.org/index.php/resources/publications-and-media/access-podcast/echo-vision-smart-glasses-accessible-televisions
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

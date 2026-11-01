@@ -12,7 +12,7 @@ Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
-Default speech synthesizer: Not documented
+Default speech synthesizer: DoubleTalk chip
 Battery: Not documented
 Display or braille cells: 18 braille cells
 Price at launch: Braille Lite 2000 (18 cells): $3,395 (2000)
@@ -26,7 +26,7 @@ Not documented
 History:
 Not documented
 Predecessors: Braille 'n Speak (original) (Blazie Engineering, 1987 to 1990s)
-Successors: Braille Lite 40 (Blazie Engineering, After 1993 (year not documented)); Braille Lite M20 / M40 (Freedom Scientific, 2002)
+Successors: Braille Lite 40 (Blazie Engineering, Summer 1996); Braille Lite M20 / M40 (Freedom Scientific, 2002)
 
 Ports:
 Not documented
@@ -41,5 +41,6 @@ Not documented
 Sources:
 Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
 Source 2: https://afb.org/aw/1/6/16145
+Source 3: http://linux-speakup.org/pipermail/speakup/2002-May/014709.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

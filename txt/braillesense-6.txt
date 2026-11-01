@@ -26,7 +26,7 @@ Not documented
 History:
 Firmware 2.0 (December 2023) upgraded it from Android 10 to Android 12. Later firmware includes 2.1, 2.5 and 3.0.
 Predecessors: BrailleSense Polaris (HIMS / Selvas BLV, 2017)
-Successors: BrailleSense 7 (HIMS / Selvas BLV, 2026)
+Successors: BrailleSense 7 (HIMS / Selvas BLV, Unveiled at CSUN, March 2026; shipping from mid/late 2026)
 
 Ports:
 Bluetooth 5.1

@@ -1,13 +1,13 @@
 ALVA BC640 / BC680
 Company: ALVA BV
 Category: Braille Displays
-Released: Not documented
+Released: About 2010
 
 Overview:
 Later ALVA 40- and 80-cell displays.
 
 Specs:
-Released: Not documented
+Released: About 2010
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
@@ -37,5 +37,6 @@ Not documented
 
 Sources:
 Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 2: https://imreverhoeven.wordpress.com/2010/04/02/alva-bc640-braille-displaynotetaker/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

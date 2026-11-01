@@ -1,0 +1,45 @@
+Romeo RB-25 (Romeo 25)
+Company: Enabling Technologies (formerly Triformation Systems)
+Category: Embossers
+Released: In use by 2006 (introduction year not documented)
+
+Overview:
+A rugged single-sided tractor-feed embosser at 25 characters per second.
+
+Specs:
+Released: In use by 2006 (introduction year not documented)
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 40-character line, 25 characters per second, about 85 pages per hour; 6- or 8-dot braille; graphics at 12.5 or 17 DPI
+Price at launch: Not documented
+
+Physical Description:
+22 x 14 x 9 inches, 32 lb.
+
+Features:
+Multi-copy up to 99 copies
+Dynamic Braille Scaling
+Paper width 1.5 to 13.25 in
+
+History:
+Not documented
+
+Ports:
+USB, parallel, serial.
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.yumpu.com/en/document/view/38159759/worlds-leading-manufacturer-of-braille-embossers-enabling-
+Source 2: https://cecitech.com/en/?product=romeo-25-braille-embosser
+Source 3: https://macosx.com/threads/romeo-rb25-braille-embosser.277528/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

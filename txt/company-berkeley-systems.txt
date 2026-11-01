@@ -1,6 +1,6 @@
 Berkeley Systems
 Type: Company profile
-Founded: Not documented
+Founded: 1987 (Wes Boyd and Joan Blades)
 Products listed: 2
 
 History:
@@ -15,5 +15,6 @@ outSPOKEN versions
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/OutSPOKEN
+Source 2: https://en.wikipedia.org/wiki/BerkeleySystems
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

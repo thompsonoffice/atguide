@@ -12,7 +12,7 @@ Processor: TI OMAP4460 dual-core Cortex-A9 at 1.2 GHz
 Memory (RAM): 2 GB
 Storage: 32 GB internal SD (spec page); SD card up to 32 GB
 Operating system: Android 4.4 with KeySoft
-Default speech synthesizer: Not documented
+Default speech synthesizer: Acapela (default); Android TTS engines such as Vocalizer and CereProc can be added
 Battery: 5,100 mAh, user-replaceable
 Display or braille cells: 18 or 32 cells
 Price at launch: Not documented
@@ -44,5 +44,7 @@ Not documented
 
 Sources:
 Source 1: https://www.humanware.com/microsite/bntouch/specs.php
+Source 2: https://www.humanware.com/wp-content/uploads/2024/10/EN-UG-BNTouch-Update-4.html
+Source 3: https://groups.io/g/braillenote/topic/cereprocvoicesandothertts/80723268
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

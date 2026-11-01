@@ -12,7 +12,7 @@ Processor: Intel XScale 416 MHz
 Memory (RAM): Not documented
 Storage: 128 MB flash (DiskOnChip)
 Operating system: Windows CE with KeySoft 6.2 at launch
-Default speech synthesizer: Not documented
+Default speech synthesizer: Keynote Gold (Eloquence was not offered on mPower)
 Battery: Not documented
 Display or braille cells: 18 or 32 cells
 Price at launch: Not documented
@@ -43,5 +43,6 @@ Not documented
 Sources:
 Source 1: https://afb.org/aw/7/1/14531
 Source 2: http://therangerstation.blogspot.com/2008/05/press-release-humanware-releases.html
+Source 3: https://www.freelists.org/post/braillenote/keynote-gold-speech-thoughts,10
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -11,7 +11,7 @@ Released: 2024 to present
 Processor: Raspberry Pi CM4, Broadcom BCM2711 at 1.5 GHz (Pro)
 Memory (RAM): 8 GB (Pro)
 Storage: 32 GB (Pro)
-Operating system: Not documented
+Operating system: Linux on Raspberry Pi CM4; custom Traditional mode plus a MATE desktop with the Orca screen reader
 Default speech synthesizer: Not documented
 Battery: 8,200 mAh, about 10 hours
 Display or braille cells: Not documented
@@ -33,12 +33,14 @@ Ports:
 USB-C, mini-HDMI, Wi-Fi, Bluetooth 5.0
 
 Operating System:
-Not documented
+Linux on Raspberry Pi CM4; custom Traditional mode plus a MATE desktop with the Orca screen reader
 
 System Requirements:
 Not documented
 
 Sources:
 Source 1: https://blazietech.com/btspeak-hardware
+Source 2: https://www.blazietech.com/btspeak-features
+Source 3: https://www.blazietech.com/btspeak-product-page
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

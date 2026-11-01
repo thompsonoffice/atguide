@@ -1,6 +1,6 @@
 RC Systems
 Type: Company profile
-Founded: Not documented
+Founded: Incorporated July 26, 1983 (Everett, Washington)
 Products listed: 2
 
 History:
@@ -8,12 +8,13 @@ Maker of the DoubleTalk PC (an 8-bit ISA card) and the DoubleTalk LT (RS-232, us
 
 Products:
 DoubleTalk LT (Speech Synthesizers, About 1991 (APH Museum))
-DoubleTalk PC (Speech Synthesizers, Not documented)
+DoubleTalk PC (Speech Synthesizers, 1992)
 
 Operating System and Software Histories:
 Not documented
 
 Sources:
 Source 1: https://lkml.iu.edu/9810.3/0735.html
+Source 2: https://opengovwa.com/corporation/600495622
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

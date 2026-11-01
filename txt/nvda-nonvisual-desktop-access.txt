@@ -10,7 +10,7 @@ Specs:
 Developer: NV Access
 Release years: 2006 (version 0.5 in 2007) to present
 Runs on: Windows 10 (22H2 or later) and 11, 64-bit; Server 2016 to 2025
-Default speech: Not documented in cited sources (SAPI originally)
+Default speech: eSpeak NG on Windows 7/8; Windows OneCore voices by default on Windows 10 and later (since NVDA 2019.3)
 Price: Free
 
 Physical Description:
@@ -39,5 +39,7 @@ Sources:
 Source 1: https://en.wikipedia.org/wiki/NonVisualDesktopAccess
 Source 2: https://download.nvaccess.org/documentation/en/userGuide.html
 Source 3: https://www.nvaccess.org/about-nv-access/
+Source 4: https://github.com/nvaccess/nvda/issues/8176
+Source 5: https://api.nvaccess.org/releases/2019.3/nvda2019.3changes.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

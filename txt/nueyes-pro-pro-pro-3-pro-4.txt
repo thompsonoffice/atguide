@@ -13,18 +13,18 @@ Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
-Battery: Not documented
-Display or braille cells: Not documented
-Price at launch: Not documented
+Battery: About 6 hours (powered from the tethered phone)
+Display or braille cells: Binocular 1080p OLED displays, 43-degree field of view; 12 MP camera
+Price at launch: Pro 4 LV bundle (glasses, Samsung phone, case): $3,895 at a US retailer
 
 Physical Description:
-Not documented
+102 g, tethered by USB-C.
 
 Features:
 Not documented
 
 History:
-NuEyes announced the Pro 3 on December 15, 2020 (see its entry). The Pro 4's release date is not documented here.
+NuEyes announced the Pro 3 on December 15, 2020 (see its entry). The Pro 4 is sold through eye-care professionals; a Pro 4 LV brochure was published in October 2024. Its exact release date is not documented.
 Predecessors: NuEyes Easy (NuEyes, 2016)
 
 Ports:
@@ -38,5 +38,8 @@ Not documented
 
 Sources:
 Source 1: https://www.nueyes.com
+Source 2: https://www.nueyes.com/pro4
+Source 3: https://nelowvision.com/product/nueyes-pro4-lv-low-vision-glasses/
+Source 4: https://nelowvision.com/wp-content/uploads/2024/10/NuEyes-Pro-4-Brochure.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,17 +1,21 @@
 ATGuide plain text edition
-Generated 2026-10-27 from ATGuide, https://thompsonoffice.github.io/atguide/
+Generated 2026-11-01 from ATGuide, https://thompsonoffice.github.io/atguide/
 
 This folder holds one plain text file for every entry in ATGuide: each device, braille display, notetaker, speech synthesizer, text-to-speech voice, screen reader, operating system or software version history, and company profile.
 There is one folder per company. Each folder starts with an About file for the company, then its version histories, then its products in alphabetical order.
 Each entry file has a header, then sections separated by blank lines in this order: Overview, Specs, Physical Description, Features, History, Ports, Operating System, System Requirements, Sources. Facts that could not be found in a source read Not documented.
 
-Totals: 78 companies, 311 devices, software and voices, 20 version histories, 410 files including this README.
+Totals: 80 companies, 319 devices, software and voices, 20 version histories, 420 files including this README.
 
 Index by company:
 
 Acapela Group (2 files):
 Acapela Group/About Acapela Group.txt
 Acapela Group/Acapela voices.txt
+
+AGIGA (2 files):
+AGIGA/About AGIGA.txt
+AGIGA/EchoVision smart glasses.txt
 
 Ai Squared (2 files):
 Ai Squared/About Ai Squared.txt
@@ -116,12 +120,15 @@ Berkeley Systems/outSPOKEN versions (version history).txt
 Berkeley Systems/outSPOKEN for Macintosh.txt
 Berkeley Systems/outSPOKEN for Windows.txt
 
-Blazie Engineering (9 files):
+Blazie Engineering (12 files):
 Blazie Engineering/About Blazie Engineering.txt
 Blazie Engineering/Braille 'n Speak firmware (version history).txt
 Blazie Engineering/Braille 'n Speak (original).txt
 Blazie Engineering/Braille 'n Speak 2000.txt
+Blazie Engineering/Braille 'n Speak 640.txt
 Blazie Engineering/Braille 'n Speak Classic.txt
+Blazie Engineering/Braille 'n Speak Scholar.txt
+Blazie Engineering/Braille Blazer.txt
 Blazie Engineering/Braille Lite 18.txt
 Blazie Engineering/Braille Lite 40.txt
 Blazie Engineering/Type 'n Speak.txt
@@ -198,11 +205,13 @@ Eloquent Technology, Inc. (ETI)/Eloquence Sandy.txt
 Eloquent Technology, Inc. (ETI)/Eloquence Shelley.txt
 Eloquent Technology, Inc. (ETI)/ETI-Eloquence (engine).txt
 
-Enabling Technologies (formerly Triformation Systems) (6 files):
+Enabling Technologies (formerly Triformation Systems) (8 files):
 Enabling Technologies (formerly Triformation Systems)/About Enabling Technologies (formerly Triformation Systems).txt
 Enabling Technologies (formerly Triformation Systems)/Enabling Technologies Juliet.txt
 Enabling Technologies (formerly Triformation Systems)/Juliet 120.txt
 Enabling Technologies (formerly Triformation Systems)/Romeo Attache - Attache Pro.txt
+Enabling Technologies (formerly Triformation Systems)/Romeo Pro 50.txt
+Enabling Technologies (formerly Triformation Systems)/Romeo RB-25 (Romeo 25).txt
 Enabling Technologies (formerly Triformation Systems)/Triformation BD-3.txt
 Enabling Technologies (formerly Triformation Systems)/Triformation LED-120.txt
 
@@ -210,8 +219,9 @@ Enhanced Vision (2 files):
 Enhanced Vision/About Enhanced Vision.txt
 Enhanced Vision/Merlin elite Pro.txt
 
-Envision (2 files):
+Envision (3 files):
 Envision/About Envision.txt
+Envision/Ally Solos Glasses.txt
 Envision/Envision Glasses.txt
 
 eSight (6 files):
@@ -404,6 +414,10 @@ Linux accessibility community/Sonar GNU-Linux.txt
 Linux accessibility community/Speakup.txt
 Linux accessibility community/Talking Arch.txt
 Linux accessibility community/Vinux.txt
+
+Meta (Ray-Ban Meta) (2 files):
+Meta (Ray-Ban Meta)/About Meta (Ray-Ban Meta).txt
+Meta (Ray-Ban Meta)/Ray-Ban Meta glasses (Be My Eyes).txt
 
 Microsoft (14 files):
 Microsoft/About Microsoft.txt

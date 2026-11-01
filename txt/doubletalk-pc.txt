@@ -1,13 +1,13 @@
 DoubleTalk PC
 Company: RC Systems
 Category: Speech Synthesizers
-Released: Not documented
+Released: 1992
 
 Overview:
 An internal 8-bit ISA speech card. It was the only synthesizer the first Speakup alpha supported (1998).
 
 Specs:
-Released: Not documented
+Released: 1992
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
@@ -37,5 +37,6 @@ Not documented
 
 Sources:
 Source 1: https://lkml.iu.edu/9810.3/0735.html
+Source 2: https://www.duxburysystems.org/downloads/library/news/new95.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

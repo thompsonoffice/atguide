@@ -1,6 +1,6 @@
 Nuance Communications
 Type: Company profile
-Founded: Not documented
+Founded: 1992 (as Visioneer; renamed ScanSoft 1999; merged with Nuance and renamed Nuance Communications in October 2005)
 Products listed: 5
 
 History:
@@ -20,5 +20,7 @@ Sources:
 Source 1: https://www.synfonicaspeech.com/about
 Source 2: http://truegryc.blogspot.com/2011/06/nuance-corporate-acquisition-history.html
 Source 3: https://afb.org/aw/8/1/14407
+Source 4: https://en.wikipedia.org/wiki/NuanceCommunications
+Source 5: https://www.sec.gov/Archives/edgar/data/1002517/000095013505005439/b56788a1exv99w1.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

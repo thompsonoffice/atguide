@@ -1,13 +1,13 @@
 Type Lite
 Company: Blazie Engineering
 Category: Notetakers
-Released: Not documented
+Released: By March 2001 (date of user guide)
 
 Overview:
 A notetaker from the Braille Lite family with a laptop-style Windows keyboard, a 40-cell braille display and an internal speech synthesizer.
 
 Specs:
-Released: Not documented
+Released: By March 2001 (date of user guide)
 Processor: Not documented
 Memory (RAM): 2 MB
 Storage: 12 MB flash plus CompactFlash
@@ -28,7 +28,7 @@ Internal speech synthesizer
 Date book, phone book and calculator
 
 History:
-Documented in a Freedom Scientific user guide (part 440001-001). The release year is not documented.
+Documented in a Freedom Scientific user guide (part 440001-001) dated March 2001.
 
 Ports:
 Round 8-pin serial port on the back; CompactFlash slot
@@ -42,5 +42,6 @@ Not documented
 Sources:
 Source 1: https://afb.org/aw/11/1/16078
 Source 2: https://www.yumpu.com/en/document/view/21055960/the-type-lite-user-guide-freedom-scientific/10
+Source 3: https://www.yumpu.com/en/document/view/21055960/the-type-lite-user-guide-freedom-scientific
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

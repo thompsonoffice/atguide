@@ -1,17 +1,17 @@
 Eloquence Glen
 Company: Eloquent Technology, Inc. (ETI)
 Category: TTS Voices
-Released: Not documented
+Released: 1995 (ETI-Eloquence introduced)
 
 Overview:
 An Eloquence voice preset (voice 4).
 
 Specs:
 Maker: Eloquent Technology, Inc. (ETI)
-First released: Not documented
+First released: 1995 (ETI-Eloquence introduced)
 Synthesis type: Formant
 Platforms: Wherever Eloquence runs
-Default on or shipped with: Not documented
+Default on or shipped with: Default JAWS voice
 Price: Not documented
 
 Physical Description:
@@ -34,5 +34,7 @@ Not documented
 
 Sources:
 Source 1: https://github.com/Mudb0y/eloquence
+Source 2: http://qcsalon.net/en/forum32/topic40905p74
+Source 3: https://www.thisisgain.com/post/how-to-configure-jaws-individual-voice-settings
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

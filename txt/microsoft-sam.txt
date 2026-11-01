@@ -9,7 +9,7 @@ The default English male voice of Windows 2000 and XP, used by Narrator.
 Specs:
 Maker: Microsoft
 First released: 2000 (Windows 2000) to Windows XP
-Synthesis type: Not documented
+Synthesis type: Concatenative (Microsoft Research Whistler engine with unit selection and LPC vocoder)
 Platforms: Windows 2000 and XP (SAPI 4 and 5)
 Default on or shipped with: Windows 2000 and XP; Narrator
 Price: Not documented
@@ -37,5 +37,6 @@ Not documented
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Microsofttext-to-speechvoices
 Source 2: https://learn.microsoft.com/en-us/archive/blogs/speech/speech-api-and-engine-availability
+Source 3: https://www.microsoft.com/en-us/research/project/whistler-text-to-speech-engine/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

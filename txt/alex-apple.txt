@@ -9,9 +9,9 @@ Apple's natural-sounding male voice with breath and pause modeling, beloved by V
 Specs:
 Maker: Apple
 First released: Mac OS X 10.5 Leopard (October 2007) onward
-Synthesis type: Not documented
+Synthesis type: Enhanced-quality concatenative voice with natural breathing (Leopard)
 Platforms: Mac OS X 10.5 and later
-Default on or shipped with: Mac OS X system voice (Lion); VoiceOver on Mac
+Default on or shipped with: Default system voice in Mac OS X 10.5 Leopard
 Price: Not documented
 Shipped with or used by: Mac OS X Speech Synthesis (MacinTalk in OS X); VoiceOver (macOS)
 

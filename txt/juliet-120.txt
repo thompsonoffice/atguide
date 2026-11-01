@@ -1,13 +1,13 @@
 Juliet 120
 Company: Enabling Technologies (formerly Triformation Systems)
 Category: Embossers
-Released: Not documented
+Released: 1992 (Juliet embosser museum record)
 
 Overview:
 A modern Juliet at 120 characters per second.
 
 Specs:
-Released: Not documented
+Released: 1992 (Juliet embosser museum record)
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
@@ -38,5 +38,6 @@ Not documented
 
 Sources:
 Source 1: https://www.insidevision.fr/pdfcat/FicheProduitBrailleImprimantesRomeo60Juliet12001.pdf
+Source 2: https://sites.aph.org/museum-virtual-exhibit/vex1/7D6044E7-F4E9-4189-A3F0-428547426285.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

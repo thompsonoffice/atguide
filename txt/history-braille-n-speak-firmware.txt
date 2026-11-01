@@ -19,10 +19,10 @@ Notes: Ran from 2 MB flash with 768 KB RAM.
 Devices and Software That Ran It:
 Braille 'n Speak (original) (Blazie Engineering, 1987 to 1990s)
 Braille 'n Speak Classic (Blazie Engineering, Name later given to the original line)
-Braille 'n Speak 2000 (Blazie Engineering, 1997)
-Type 'n Speak (Blazie Engineering, Not documented)
+Braille 'n Speak 2000 (Blazie Engineering, 1999 (APH catalog entry))
+Type 'n Speak (Blazie Engineering, Late 1992)
 Braille Lite 18 (Blazie Engineering, Summer 1993)
-Braille Lite 40 (Blazie Engineering, After 1993 (year not documented))
+Braille Lite 40 (Blazie Engineering, Summer 1996)
 Braille Lite M20 / M40 (Freedom Scientific, 2002)
 
 System Requirements:

@@ -12,7 +12,7 @@ Processor: Freescale i.MX31
 Memory (RAM): 256 MB SDRAM
 Storage: 8 GB
 Operating system: Windows CE 6 with KeySoft
-Default speech synthesizer: Not documented
+Default speech synthesizer: Eloquence or Keynote Gold
 Battery: Rechargeable, user-replaceable lithium-ion
 Display or braille cells: 18 cells
 Price at launch: Not documented
@@ -41,5 +41,6 @@ Not documented
 Sources:
 Source 1: http://www.nfbnet.org/pipermail/nfbcsnfbnet.org/2010-May/002031.html
 Source 2: https://veterans.networkofcare.org/philadelphia-pa/AssistiveDevices/ProductDetail?productId=114282
+Source 3: https://www.mail-archive.com/braillenote@list.humanware.com/msg80955.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,14 +1,14 @@
 Jieshuo (Commentary Screen Reader)
 Company: Weiliang Li (Jieshuo developer)
 Category: Screen Readers
-Released: Not documented (still active)
+Released: By 2019 (GitHub repository created July 2019); still active
 
 Overview:
 A feature-rich Chinese Android screen reader, formerly known as Commentary or TalkMan. Features include a timer, translation, media controls, object and text recognition, and light detection.
 
 Specs:
 Developer: Weiliang Li (Jieshuo developer)
-Release years: Not documented (still active)
+Release years: By 2019 (GitHub repository created July 2019); still active
 Runs on: Android
 Default speech: Not documented
 Price: Not documented
@@ -35,5 +35,6 @@ Sources:
 Source 1: https://accessibleandroid.com/glossary/jieshuo-2/
 Source 2: https://accessibleandroid.com/comparing-talkback-and-jieshuo-strengths-and-weaknesses-of-two-screen-readers/
 Source 3: https://github.com/nirenr/jieshuo/
+Source 4: https://pixeldash.pl/jeshuo/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

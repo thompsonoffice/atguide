@@ -7,7 +7,7 @@ History:
 A Chinese developer who makes the Jieshuo (Commentary, also called TalkMan) Android screen reader.
 
 Products:
-Jieshuo (Commentary Screen Reader) (Screen Readers, Not documented (still active))
+Jieshuo (Commentary Screen Reader) (Screen Readers, By 2019 (GitHub repository created July 2019); still active)
 
 Operating System and Software Histories:
 Not documented

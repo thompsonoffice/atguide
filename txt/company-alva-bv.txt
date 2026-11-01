@@ -1,6 +1,6 @@
 ALVA BV
 Type: Company profile
-Founded: Not documented
+Founded: February 1984 (Netherlands)
 Products listed: 4
 
 History:
@@ -8,14 +8,15 @@ A Dutch braille display maker that held a cursor-routing patent. Products includ
 
 Products:
 ALVA MPO 5500 (PDAs, 2003)
+ALVA Satellite 544 (Braille Displays, By 2003 (in use May 2003))
+ALVA BC640 / BC680 (Braille Displays, About 2010)
 ALVA ABT-3 series (Braille Displays, Not documented)
-ALVA BC640 / BC680 (Braille Displays, Not documented)
-ALVA Satellite 544 (Braille Displays, Not documented)
 
 Operating System and Software Histories:
 Not documented
 
 Sources:
 Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 2: https://nfb.org/patent-dispute
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

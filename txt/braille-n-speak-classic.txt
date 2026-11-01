@@ -9,10 +9,10 @@ Blazie later called the original Braille 'n Speak configuration the Braille 'n S
 Specs:
 Released: Name later given to the original line
 Processor: Not documented
-Memory (RAM): Not documented
+Memory (RAM): 180K (APH)
 Storage: 180K (45 pages of 4,096 characters)
 Operating system: Not documented
-Default speech synthesizer: Not documented
+Default speech synthesizer: Built-in Blazie speech (Votrax SSI-263 in early units, DoubleTalk chip later)
 Battery: Not documented
 Display or braille cells: Not documented
 Price at launch: Not documented
@@ -27,7 +27,7 @@ Speech output
 History:
 Blazie Technologies' history says the Classic stored 180K, organized as 45 pages of 4,096 characters.
 Predecessors: Braille 'n Speak (original) (Blazie Engineering, 1987 to 1990s)
-Successors: Braille 'n Speak 2000 (Blazie Engineering, 1997)
+Successors: Braille 'n Speak 2000 (Blazie Engineering, 1999 (APH catalog entry))
 
 Ports:
 Not documented
@@ -41,5 +41,8 @@ Not documented
 
 Sources:
 Source 1: https://blazietech.com
+Source 2: https://www.vogons.org/viewtopic.php?t=46333
+Source 3: http://linux-speakup.org/pipermail/speakup/2002-May/014709.html
+Source 4: https://sites.aph.org/museum-virtual-exhibit/vex2/2AEEBF8E-D463-4207-AA5A-417408112058.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

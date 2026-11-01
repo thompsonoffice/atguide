@@ -1,13 +1,13 @@
 Artic TransPort
 Company: Artic Technologies
 Category: Speech Synthesizers
-Released: Not documented
+Released: 1992 (announced Fall 1992)
 
 Overview:
 Artic's external portable synthesizer.
 
 Specs:
-Released: Not documented
+Released: 1992 (announced Fall 1992)
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
@@ -37,5 +37,6 @@ Not documented
 
 Sources:
 Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 2: http://cd.textfiles.com/nfbfiles/newsletters/VN0892.TXT
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

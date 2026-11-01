@@ -1,6 +1,6 @@
 Eurobraille
 Type: Company profile
-Founded: Not documented
+Founded: Predecessor MIW founded November 1980 (Ioan Montane); Eurobraille SA created July 2, 1990
 Products listed: 1
 
 History:
@@ -14,5 +14,6 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Listofscreenreaders
+Source 2: https://www.eurobraille.fr/notre-histoire/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

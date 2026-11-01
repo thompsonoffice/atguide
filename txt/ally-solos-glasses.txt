@@ -1,0 +1,45 @@
+Ally Solos Glasses
+Company: Envision
+Category: Vision Wearables
+Released: Pre-orders August 14, 2025; shipping from October 2025
+
+Overview:
+Lightweight Envision and Solos smart glasses running the Ally conversational AI assistant: read text, describe surroundings, recognize people and objects.
+
+Specs:
+Released: Pre-orders August 14, 2025; shipping from October 2025
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Ally app on iOS and Android
+Default speech synthesizer: Not documented
+Battery: Up to 15 to 16 hours, swappable USB-C stems; 15-minute quick charge gives about 3 hours
+Display or braille cells: No display; HD cameras, max 2048x1944
+Price at launch: $699 (launch pre-order tiers $399 to $599); includes 1 year of Ally Pro
+
+Physical Description:
+About 50 g; IP67; regular or large sizes.
+
+Features:
+Not documented
+
+History:
+Not documented
+Predecessors: Envision Glasses (Envision, November 2020)
+
+Ports:
+Bluetooth 5.2 + BLE; open-ear speakers and microphones.
+
+Operating System:
+Ally app on iOS and Android
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.letsenvision.com/blog/ally-solos-glasses
+Source 2: https://shop.letsenvision.com/products/ally-solos-glasses
+Source 3: https://www.theverge.com/news/759160/ally-solos-smart-glasses-ai-envision-low-vision
+Source 4: https://support.letsenvision.com/hc/en-us/articleattachments/40477988619153
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

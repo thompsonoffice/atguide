@@ -9,7 +9,7 @@ A US maker of the SynPhonix speech cards (1985 and 1987), the TransPort synthesi
 Products:
 SynPhonix 200 (Speech Synthesizers, 1985)
 SynPhonix 215 (Speech Synthesizers, 1987)
-Artic TransPort (Speech Synthesizers, Not documented)
+Artic TransPort (Speech Synthesizers, 1992 (announced Fall 1992))
 
 Operating System and Software Histories:
 Not documented

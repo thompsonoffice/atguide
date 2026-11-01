@@ -7,7 +7,7 @@ History:
 Samsung's own Android screen reader, Voice Assistant, was discontinued with One UI 3.0 (Android 11). Samsung then switched to its own build of Google TalkBack, distributed through the Galaxy Store.
 
 Products:
-Samsung Voice Assistant (Screen Readers, Until One UI 3.0 / Android 11 (start year not documented))
+Samsung Voice Assistant (Screen Readers, 2015 (Galaxy S6 / Note 5, Android 5.1.1) until One UI 3.1)
 
 Operating System and Software Histories:
 Not documented

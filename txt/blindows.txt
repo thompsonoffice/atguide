@@ -1,14 +1,14 @@
 Blindows
 Company: BAUM Retec
 Category: Screen Readers
-Released: Not documented
+Released: 1997
 
 Overview:
 A Windows screen reader from Audiodata, later BAUM Retec, replaced by COBRA.
 
 Specs:
 Developer: BAUM Retec
-Release years: Not documented
+Release years: 1997
 Runs on: Windows
 Default speech: Not documented
 Price: Not documented
@@ -21,7 +21,7 @@ Not documented
 
 History:
 Not documented
-Successors: COBRA (BAUM Retec, Not documented)
+Successors: COBRA (BAUM Retec, November 2008 (version 8))
 
 Ports:
 Not applicable (software)
@@ -34,5 +34,6 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Listofscreenreaders
+Source 2: https://www.welt.de/print-welt/article566363/Mit-Blindows-durch-das-Internet.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

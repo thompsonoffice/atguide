@@ -12,7 +12,7 @@ Processor: Not documented
 Memory (RAM): 200K nonvolatile memory (1988 review)
 Storage: Not documented
 Operating system: Not documented
-Default speech synthesizer: Built-in synthesizer (name not documented)
+Default speech synthesizer: Votrax SSI-263 speech chip in original units (later Blazie models moved to a DoubleTalk chip)
 Battery: Not documented
 Display or braille cells: Not documented
 Price at launch: $895
@@ -27,10 +27,10 @@ File storage in nonvolatile memory
 
 History:
 Deane Blazie's Blazie Engineering designed it as an affordable portable for braille readers. It led to the Braille 'n Speak Classic, the Braille 'n Speak 2000, the Type 'n Speak and the Braille Lite. AFB reported about 70,000 Blazie notetakers in use. The line passed to Freedom Scientific in 2000.
-Successors: Braille 'n Speak Classic (Blazie Engineering, Name later given to the original line); Braille 'n Speak 2000 (Blazie Engineering, 1997); Braille Lite 18 (Blazie Engineering, Summer 1993)
+Successors: Braille 'n Speak Classic (Blazie Engineering, Name later given to the original line); Braille 'n Speak 2000 (Blazie Engineering, 1999 (APH catalog entry)); Braille Lite 18 (Blazie Engineering, Summer 1993); Braille 'n Speak 640 (Blazie Engineering, October 1991)
 
 Ports:
-Serial port for a computer or printer (pinout not documented)
+Serial port for a computer or printer
 
 Operating System:
 Not documented
@@ -42,5 +42,7 @@ Not documented
 Sources:
 Source 1: https://www.duxburysystems.org/downloads/library/news/new62.htm
 Source 2: https://afb.org/aw/11/1/16078
+Source 3: https://www.vogons.org/viewtopic.php?t=46333
+Source 4: http://linux-speakup.org/pipermail/speakup/2002-May/014709.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

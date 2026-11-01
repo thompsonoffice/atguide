@@ -8,14 +8,14 @@ Founded in Ithaca, New York by Dr. Susan R. Hertz, who also taught linguistics a
 
 Products:
 ETI-Eloquence (engine) (TTS Voices, 1990s to present)
-Eloquence Bobby (TTS Voices, Not documented)
-Eloquence Glen (TTS Voices, Not documented)
-Eloquence Grandma (TTS Voices, Not documented)
-Eloquence Grandpa (TTS Voices, Not documented)
-Eloquence Reed (TTS Voices, Not documented)
-Eloquence Rocko (TTS Voices, Not documented)
-Eloquence Sandy (TTS Voices, Not documented)
-Eloquence Shelley (TTS Voices, Not documented)
+Eloquence Bobby (TTS Voices, 1995 (ETI-Eloquence introduced))
+Eloquence Glen (TTS Voices, 1995 (ETI-Eloquence introduced))
+Eloquence Grandma (TTS Voices, 1995 (ETI-Eloquence introduced))
+Eloquence Grandpa (TTS Voices, 1995 (ETI-Eloquence introduced))
+Eloquence Reed (TTS Voices, 1995 (ETI-Eloquence introduced))
+Eloquence Rocko (TTS Voices, 1995 (ETI-Eloquence introduced))
+Eloquence Sandy (TTS Voices, 1995 (ETI-Eloquence introduced))
+Eloquence Shelley (TTS Voices, 1995 (ETI-Eloquence introduced))
 
 Operating System and Software Histories:
 Not documented

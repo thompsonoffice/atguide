@@ -1,6 +1,6 @@
 Kurzweil Computer Products
 Type: Company profile
-Founded: Not documented
+Founded: 1974 (Ray Kurzweil)
 Products listed: 1
 
 History:
@@ -14,5 +14,6 @@ Not documented
 
 Sources:
 Source 1: https://www.computerhistory.org/collections/catalog/X236.83
+Source 2: https://www.kurzweiltech.com/kcp.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

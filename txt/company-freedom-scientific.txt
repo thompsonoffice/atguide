@@ -19,9 +19,9 @@ SARA scanning and reading appliance (Other, 2006)
 PAC Mate Omni (PDAs, Fall 2007)
 RUBY (Magnifiers, June/July 2009)
 RUBY HD (Magnifiers, January 2014)
+Focus 14 Blue (5th generation) (Braille Displays, December 15, 2017)
 TOPAZ OCR (Magnifiers, December 15, 2017)
 Focus 40 Blue (5th generation) (Braille Displays, 2019)
-Focus 14 Blue (5th generation) (Braille Displays, 5th generation (year not documented))
 
 Operating System and Software Histories:
 JAWS versions

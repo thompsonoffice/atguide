@@ -15,8 +15,8 @@ Microsoft Anna (TTS Voices, Windows Vista (2007) and Windows 7)
 Microsoft David (TTS Voices, Windows 8 (2012) to present)
 Microsoft Hazel (TTS Voices, Windows 8 to present)
 Microsoft Zira (TTS Voices, Windows 8 to present)
-Microsoft George (TTS Voices, Windows 10 / 11 (year not documented))
-Microsoft Mark (TTS Voices, Windows 10 / 11 (year not documented))
+Microsoft George (TTS Voices, 2015 (Windows 10 OneCore voice))
+Microsoft Mark (TTS Voices, 2015 (Windows 10))
 Microsoft Screen Reader (requested entry) (Screen Readers, Not documented)
 
 Operating System and Software Histories:

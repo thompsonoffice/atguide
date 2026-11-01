@@ -22,7 +22,7 @@ Not documented
 History:
 Dolphin's 1997 schedule included Hal 1.04 for Windows 95. Later versions supported Windows 95, 98, ME, 2000, NT and XP.
 Predecessors: Hal for DOS (Dolphin Computer Access, DOS era (year not documented))
-Successors: Dolphin Supernova (Dolphin Computer Access, Version 8.01 in 2007 (earlier versions not documented))
+Successors: Dolphin Supernova (Dolphin Computer Access, 1998 to present)
 
 Ports:
 Not applicable (software)

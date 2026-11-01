@@ -1,24 +1,24 @@
 BrailleSense 7
 Company: HIMS / Selvas BLV
 Category: BrailleSense
-Released: 2026
+Released: Unveiled at CSUN, March 2026; shipping from mid/late 2026
 
 Overview:
 The 2026 BrailleSense, on Android 15 with Gemini AI.
 
 Specs:
-Released: 2026
-Processor: Not documented
-Memory (RAM): Not documented
-Storage: Not documented
+Released: Unveiled at CSUN, March 2026; shipping from mid/late 2026
+Processor: Octa-core, up to 3.35 GHz
+Memory (RAM): 8 GB LPDDR5X
+Storage: 256 GB UFS 4.0 plus microSD
 Operating system: Android 15
 Default speech synthesizer: Not documented
-Battery: Not documented
-Display or braille cells: 20, 32 or 40 cells
-Price at launch: Not documented
+Battery: 4,600 mAh removable plus secondary battery
+Display or braille cells: 20, 32 or 40 braille cells; visual LCD
+Price at launch: $5,295 (20-cell), $5,995 (32-cell), $6,495 (40-cell)
 
 Physical Description:
-Not documented
+40-cell: 11.86 x 5.53 x 0.89 in, under 1.80 lb. 32-cell: 9.84 x 5.53 x 0.89 in, under 1.54 lb.
 
 Features:
 Not documented
@@ -28,7 +28,7 @@ Not documented
 Predecessors: BrailleSense 6 (HIMS / Selvas BLV, 2021)
 
 Ports:
-Not documented
+Dual USB-C, dual USB-A, HDMI, 4-pole 3.5 mm jack, microSD, Wi-Fi 5, Bluetooth 5.3, dual-band GPS, 20 MP camera.
 
 Operating System:
 Android 15
@@ -40,5 +40,8 @@ Not documented
 
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
+Source 2: https://selvasblv.com/product/braillesense-7/
+Source 3: https://selvasblv.com/price-list/
+Source 4: https://www.braillists.org/uncategorised/introducing-the-new-smart-braille-tablet-series-braillesense-7/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,43 @@
+Braille Blazer
+Company: Blazie Engineering
+Category: Embossers
+Released: 1990
+
+Overview:
+A portable single-sided braille embosser with built-in speech that could also act as a Braille 'n Speak-style speech synthesizer for screen readers.
+
+Specs:
+Released: 1990
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Built-in synthesizer (emulates a Braille 'n Speak)
+Battery: Not documented
+Display or braille cells: 34 cells per line, 27 lines per page; 15 characters per second
+Price at launch: About $1,700 (1990); $1,695 (1994)
+
+Physical Description:
+About 12 to 14 lb; 14.75 x 9.5 x 5 in (1994 NFB evaluation). Paper up to 8.5 in wide, tractor feed.
+
+Features:
+Not documented
+
+History:
+Invented by Deane Blazie and Tim Cranmer. Later sold by Freedom Scientific.
+
+Ports:
+Serial and parallel ports, earphone jack.
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.csmonitor.com/1990/0313/d1eka1.html
+Source 2: https://www.duxburysystems.org/downloads/library/history/00-nfb1994-tech-eval.pdf
+Source 3: https://afb.org/aw/3/6/14896
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

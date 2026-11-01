@@ -8,14 +8,14 @@ A thinner, lighter BrailleNote running Windows CE 6.
 
 Specs:
 Released: November 2009
-Processor: Freescale i.MX31 at 532 MHz
+Processor: Freescale i.MX31
 Memory (RAM): 256 MB SDRAM
 Storage: 8 GB flash
 Operating system: Windows CE 6 with KeySoft
-Default speech synthesizer: Not documented
+Default speech synthesizer: Eloquence (default), Keynote Gold optional
 Battery: Not documented
 Display or braille cells: 32 cells
-Price at launch: About $5,500
+Price at launch: €6,900 incl. VAT (France, KeySoft 9.3, 2013)
 
 Physical Description:
 Not documented
@@ -44,5 +44,7 @@ Not documented
 Sources:
 Source 1: https://en.wikipedia.org/wiki/BrailleNote
 Source 2: https://nfb.org/images/nfb/publications/bm/bm12/bm120604.htm
+Source 3: https://www.avh.asso.fr/implantations/certam/evaluations-de-produits/bloc-notes-braille-apex-bt-32-version-930
+Source 4: https://www.mail-archive.com/braillenote@list.humanware.com/msg80955.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

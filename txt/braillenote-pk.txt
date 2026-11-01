@@ -12,7 +12,7 @@ Processor: ARM (model not documented)
 Memory (RAM): 40 MB
 Storage: 16 MB flash
 Operating system: Windows CE with KeySoft
-Default speech synthesizer: Not documented
+Default speech synthesizer: Keynote Gold
 Battery: Not documented
 Display or braille cells: 18 cells
 Price at launch: $4,995 (2005)
@@ -43,5 +43,6 @@ Not documented
 Sources:
 Source 1: https://en.wikipedia.org/wiki/BrailleNote
 Source 2: https://afb.org/aw/6/1/14662
+Source 3: https://www.mail-archive.com/braillenote@list.pulsedata.com/msg23785.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,41 @@
+Romeo Pro 50
+Company: Enabling Technologies (formerly Triformation Systems)
+Category: Embossers
+Released: Not documented
+
+Overview:
+The faster sibling of the Romeo 25, at 50 characters per second with ET Speaks speech feedback and single-sheet tractors.
+
+Specs:
+Released: Not documented
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 40-character line, 50 characters per second, about 170 pages per hour
+Price at launch: Not documented
+
+Physical Description:
+22 x 14 x 9 inches, 32 lb.
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.yumpu.com/en/document/view/38159759/worlds-leading-manufacturer-of-braille-embossers-enabling-
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

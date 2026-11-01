@@ -62,7 +62,7 @@ Notes: Current release; Windows 11 ARM64 supported.
 
 Devices and Software That Ran It:
 NVDA (NonVisual Desktop Access) (NV Access, 2006 (version 0.5 in 2007) to present)
-BrailleNote Evolve (HumanWare, Announced November 2025, launched 2026)
+BrailleNote Evolve (HumanWare, Previewed late 2025; launched 2026)
 
 System Requirements:
 2006: Windows 2000 or later

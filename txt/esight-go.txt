@@ -1,24 +1,24 @@
 eSight Go
 Company: eSight
 Category: Vision Wearables
-Released: 2024
+Released: Announced January 3, 2023 (CES); commercial availability 2024
 
 Overview:
-A lightweight eSight.
+eSight's fifth-generation wearable: a lightweight glasses-style headset with a neck battery pack.
 
 Specs:
-Released: 2024
+Released: Announced January 3, 2023 (CES); commercial availability 2024
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: About 180 minutes
-Display or braille cells: 1920x1080, 45 degrees; 12 MP camera
-Price at launch: Not documented
+Display or braille cells: Dual full-HD 1920x1080 OLED screens, 45-degree field of view, up to 2,000 nits; 12 MP camera, up to 24x zoom
+Price at launch: $4,950 USD / $6,600 CAD (MSRP)
 
 Physical Description:
-170 g.
+170 g glasses-style device with a neck battery pack.
 
 Features:
 Not documented
@@ -28,7 +28,7 @@ Not documented
 Predecessors: eSight 4 (eSight, 2020)
 
 Ports:
-Not documented
+USB-C, Wi-Fi (2.4 GHz only), Bluetooth, remote control, integrated speakers.
 
 Operating System:
 Not documented
@@ -38,5 +38,10 @@ Not documented
 
 Sources:
 Source 1: https://esighteyewear.com
+Source 2: https://www.globenewswire.com/news-release/2023/01/03/2582388/0/en/esight-announces-newest-generation-of-assistive-device-for-the-legally-blind-esight-go.html
+Source 3: https://www.esighteyewear.com/esight-go-pricing/
+Source 4: https://www.esighteyewear.com/esight-go-landing-page/
+Source 5: https://www.esighteyewear.com/wp-content/uploads/2024/06/eSight-User-Manual-10.pdf
+Source 6: https://www.forbes.com/sites/gusalexiou/2024/01/26/what-gentexs-acquisition-of-esight-means-for-the-low-vision-eyewear-market/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

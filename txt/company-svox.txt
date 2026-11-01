@@ -1,6 +1,6 @@
 SVOX
 Type: Company profile
-Founded: Not documented
+Founded: 2000 (Zurich)
 Products listed: 1
 
 History:
@@ -14,5 +14,6 @@ Not documented
 
 Sources:
 Source 1: https://android-developers.googleblog.com/2009/09/introduction-to-text-to-speech-in.html
+Source 2: https://en.wikipedia.org/wiki/SVOX
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

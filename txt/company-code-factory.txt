@@ -1,6 +1,6 @@
 Code Factory
 Type: Company profile
-Founded: Not documented (first products 1999)
+Founded: October 29, 1998 (Terrassa, Barcelona)
 Products listed: 1
 
 History:
@@ -14,5 +14,6 @@ Mobile Speak versions
 
 Sources:
 Source 1: https://codefactoryglobal.com/company/
+Source 2: https://www.iberinform.es/empresa/1068973/code-factory
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

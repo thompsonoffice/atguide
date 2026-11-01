@@ -1,0 +1,43 @@
+Ray-Ban Meta glasses (Be My Eyes)
+Company: Meta (Ray-Ban Meta)
+Category: Vision Wearables
+Released: Be My Eyes integration November 13, 2024
+
+Overview:
+Mainstream smart glasses that became an assistive tool when Be My Eyes volunteer calls arrived by voice command ("Hey Meta, Be My Eyes").
+
+Specs:
+Released: Be My Eyes integration November 13, 2024
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: 2nd generation: about 8 hours plus 48 from case
+Display or braille cells: No display; 12 MP camera
+Price at launch: From $379 (2nd generation)
+
+Physical Description:
+Not documented
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.bemyeyes.com/news/be-my-eyes-is-rolling-out-on-ray-ban-meta-glasses-starting-today/
+Source 2: https://www.meta.com/blog/ray-ban-meta-glasses-collection-news-updates-connect-2024/
+Source 3: https://www.applevis.com/forum/assistive-technology/comparison-all-new-smart-glasses-blind
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

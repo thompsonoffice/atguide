@@ -1,18 +1,18 @@
 Braille 'n Speak 2000
 Company: Blazie Engineering
 Category: Notetakers
-Released: 1997
+Released: 1999 (APH catalog entry)
 
 Overview:
 A later Braille 'n Speak with much more memory and flash storage.
 
 Specs:
-Released: 1997
+Released: 1999 (APH catalog entry)
 Processor: Not documented
 Memory (RAM): 768 KB
 Storage: 2 MB flash
 Operating system: Not documented
-Default speech synthesizer: Not documented
+Default speech synthesizer: DoubleTalk chip (later Blazie models)
 Battery: Not documented
 Display or braille cells: Not documented
 Price at launch: Not documented
@@ -40,5 +40,7 @@ Not documented
 Sources:
 Source 1: https://www.freedomscientific.com
 Source 2: https://nfb.org/sites/nfb.org/files/images/nfb/publications/bm/bm97/bm970415.htm
+Source 3: https://sites.aph.org/museum-virtual-exhibit/vex2/2AEEBF8E-D463-4207-AA5A-417408112058.htm
+Source 4: http://linux-speakup.org/pipermail/speakup/2002-May/014709.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

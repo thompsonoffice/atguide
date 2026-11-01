@@ -28,7 +28,7 @@ Remembers the reading position
 
 History:
 Debuted in May 2003. Firmware 1.2 shipped in September 2004 (APH revision history).
-Successors: Book Port Plus (American Printing House for the Blind (APH), Not documented)
+Successors: Book Port Plus (American Printing House for the Blind (APH), March 10, 2010 (APH availability announcement))
 
 Ports:
 USB, headphone jack, flash memory card slot

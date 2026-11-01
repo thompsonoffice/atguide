@@ -9,7 +9,7 @@ An optional male voice, downloadable for Windows 2000 and XP.
 Specs:
 Maker: Microsoft
 First released: Windows 2000 / XP era
-Synthesis type: Not documented
+Synthesis type: Concatenative (Microsoft Research Whistler engine with unit selection and LPC vocoder)
 Platforms: Windows (SAPI 4 and 5)
 Default on or shipped with: None (optional download)
 Price: Not documented
@@ -34,5 +34,6 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Microsofttext-to-speechvoices
+Source 2: https://www.microsoft.com/en-us/research/project/whistler-text-to-speech-engine/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

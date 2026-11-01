@@ -9,12 +9,12 @@ A Louisville, Kentucky nonprofit that publishes accessible materials and product
 Products:
 Book Port (Book Readers, May 2003)
 APH Braille+ Mobile Manager (PDAs, May 2007 to 2012)
+Book Port Plus (Book Readers, March 10, 2010 (APH availability announcement))
 Refreshabraille 18 (Braille Displays, 2010)
 Braille Plus 18 (PDAs, 2012 to February 2015 (discontinued))
 Chameleon 20 (Braille Displays, 2020)
 Mantis Q40 (Braille Displays, Shipping 2020)
 Monarch (Braille Displays, 2024)
-Book Port Plus (Book Readers, Not documented)
 
 Operating System and Software Histories:
 Not documented

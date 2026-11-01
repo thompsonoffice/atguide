@@ -1,10 +1,10 @@
 HIMS / Selvas BLV
 Type: Company profile
-Founded: Not documented
+Founded: 1999 (Korea; after a teacher at a Korean school for the blind asked for a notetaker). North American arm renamed Selvas North America in May 2024.
 Products listed: 28
 
 History:
-A Korean maker of the Braille Hansone (2002), BrailleSense (2004), VoiceSense (2007), Braille EDGE, SmartBeetle, BookSense, Polaris, QBraille XL, BrailleSense 6 (2021), Braille eMotion (2024) and BrailleSense 7 (2026). GW Micro distributed its products in the US from about 2006 to 2010. In September 2014 Diotek (later Selvas AI) agreed to buy 87.8% of HIMS International. Its founding year is not documented in the sources found.
+A Korean maker of the Braille Hansone (2002), BrailleSense (2004), VoiceSense (2007), Braille EDGE, SmartBeetle, BookSense, Polaris, QBraille XL, BrailleSense 6 (2021), Braille eMotion (2024) and BrailleSense 7 (2026). GW Micro distributed its products in the US from about 2006 to 2010. In September 2014 Diotek (later Selvas AI) agreed to buy 87.8% of HIMS International. in the sources found. HIMS was founded in 1999 after a teacher at a Korean school for the blind asked it to build a notetaker for blind students.
 
 Products:
 Braille Hansone (BrailleSense, 2002)
@@ -34,7 +34,7 @@ BrailleSense 6 (BrailleSense, 2021)
 BrailleSense 6 Mini (BrailleSense, 2022)
 SensePlayer OCR (Book Readers, 2023)
 Braille eMotion (Braille Displays, 2024)
-BrailleSense 7 (BrailleSense, 2026)
+BrailleSense 7 (BrailleSense, Unveiled at CSUN, March 2026; shipping from mid/late 2026)
 
 Operating System and Software Histories:
 HIMS BrailleSense software
@@ -42,5 +42,7 @@ HIMS BrailleSense software
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
 Source 2: https://www.asiae.co.kr/article/2014092515034407342
+Source 3: http://selvashealthcare.com/en/business/
+Source 4: https://at-newswire.com/pressrelease/hims-inc-announces-rebranding-to-selvas-north-america-amid-trademark-confusion/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

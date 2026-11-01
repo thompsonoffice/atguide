@@ -74,7 +74,7 @@ Notes: Requires Android 9 or later.
 
 Devices and Software That Ran It:
 TalkBack (Google, October 2009 (Android 1.6 Donut) to present)
-Samsung Voice Assistant (Samsung, Until One UI 3.0 / Android 11 (start year not documented))
+Samsung Voice Assistant (Samsung, 2015 (Galaxy S6 / Note 5, Android 5.1.1) until One UI 3.1)
 
 System Requirements:
 TalkBack 17.1: Android 9 or later

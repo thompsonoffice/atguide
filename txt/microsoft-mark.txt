@@ -1,14 +1,14 @@
 Microsoft Mark
 Company: Microsoft
 Category: TTS Voices
-Released: Windows 10 / 11 (year not documented)
+Released: 2015 (Windows 10)
 
 Overview:
 An additional US English male voice listed for Narrator in Windows 10 and 11.
 
 Specs:
 Maker: Microsoft
-First released: Windows 10 / 11 (year not documented)
+First released: 2015 (Windows 10)
 Synthesis type: Not documented
 Platforms: Windows 10 and 11
 Default on or shipped with: Not documented
@@ -35,5 +35,7 @@ Not documented
 
 Sources:
 Source 1: https://support.microsoft.com/en-us/accessibility/windows/narrator/appendix-a-supported-languages-and-voices
+Source 2: https://en.wikipedia.org/wiki/Microsofttext-to-speechvoices
+Source 3: https://winaero.com/windows-10-features-new-text-to-speech-voices-for-narrator-and-cortana/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

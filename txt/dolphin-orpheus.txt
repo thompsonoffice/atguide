@@ -1,15 +1,15 @@
 Dolphin Orpheus
 Company: Dolphin Computer Access
 Category: TTS Voices
-Released: Not documented
+Released: Version 1.01 released June 30, 1998
 
 Overview:
-Dolphin's software speech synthesizer, used with its screen readers. Details are not documented in the sources found.
+Dolphin's software speech synthesizer, the successor to its Apollo hardware synthesizers, used with Hal and Supernova.
 
 Specs:
 Maker: Dolphin Computer Access
-First released: Not documented
-Synthesis type: Not documented
+First released: Version 1.01 released June 30, 1998
+Synthesis type: Parallel formant synthesis
 Platforms: Windows
 Default on or shipped with: Not documented
 Price: Not documented
@@ -34,5 +34,7 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Listofscreenreaders
+Source 2: https://www.scrigroup.com/limba/engleza/87/Orpheus-Speech-Synthesiser-Ver44875.php
+Source 3: https://github.com/rommix0/dolphin-apollo-ii-reborn
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

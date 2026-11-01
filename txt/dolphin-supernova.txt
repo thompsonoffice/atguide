@@ -1,14 +1,14 @@
 Dolphin Supernova
 Company: Dolphin Computer Access
 Category: Screen Readers
-Released: Version 8.01 in 2007 (earlier versions not documented)
+Released: 1998 to present
 
 Overview:
 Dolphin's combined magnifier and screen reader. Version 8.01 for Windows Vista was reported in 2007.
 
 Specs:
 Developer: Dolphin Computer Access
-Release years: Version 8.01 in 2007 (earlier versions not documented)
+Release years: 1998 to present
 Runs on: Windows
 Default speech: Not documented
 Price: Not documented
@@ -35,5 +35,6 @@ Not documented
 Sources:
 Source 1: http://therangerstation.blogspot.com/2007/07/
 Source 2: https://en.wikipedia.org/wiki/Listofscreenreaders
+Source 3: https://www.prweb.com/releases/dolphincomputeraccesscelebratetheir30thanniversarylaunchinganaccessibleiosreadingappforblindlowvisiondyslexicreaders/prweb14405612.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
