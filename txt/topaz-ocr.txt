@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+TOPAZ OCR is a large desktop video magnifier weighing about 46 pounds (21 kg). The guide recommends getting help to lift it, either by wrapping a forearm around the rear post from behind or by holding the repositioning grips from the front.
+A 24-inch touchscreen monitor sits on an adjustable arm and can be raised, lowered and angled. Below it, a camera looks down at an XY reading table 8.25 inches (21 cm) below. Two diffused lights, one on each side of the camera, light the table without glare. A separate OCR camera with its own light captures whole pages for reading.
+The low-friction reading table slides a full 16 inches from left to right and has a brake to lock it. The main power switch is near the reading light on the right side, and a green standby power button is on the right side of the control panel.
+The control panel has three dials: Color Select, Magnification and Brightness. The Find, Freeze Frame and Reference Line buttons sit in the centres of the dials; the Reference Line button doubles as the computer-view toggle. The red Focus Lock button is at the bottom left. You can disable the centre buttons to simplify the controls.
+The rear panel has connectors for the OCR camera's power and USB, which stay connected, plus AC power, monitor power, the control-panel jack and an HDMI monitor connector, which can also drive a TV or larger monitor. It also has a 15-pin VGA input, for using TOPAZ as your computer's display, and a USB port for the GEM software.
+
 Features:
 Not documented
 
 History:
-Not documented
+TOPAZ OCR added a scanning-and-reading camera and speech to Freedom Scientific's TOPAZ desktop magnifier, which first appeared in 2005. The 2018 user's guide explains that one tap on its 24-inch touchscreen switches it from video magnifier to reading machine. An on-screen button bar then captures and processes the page and reads it aloud. A full-page view shows the reading zones, so you can tap any zone to hear it. You can add pages, save documents and photos to an SD card, and zoom into captured pictures. In magnifier mode it keeps the TOPAZ features: autofocus, 16 magnification levels, colour modes, reading lines and masks. It can also serve as a computer monitor over VGA, or connect over USB to the optional GEM image-management software.
 Predecessors: TOPAZ (Freedom Scientific, December 2005)
 
 Ports:
@@ -40,5 +47,6 @@ Not documented
 
 Sources:
 Source 1: https://vispero.com
+Source 2: https://support.freedomscientific.com/content/documents/manuals/TOPAZ/TOPAZ-OCRUsers-Guide.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
