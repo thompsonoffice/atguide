@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+In its report on the summer 2010 blindness conventions, AccessWorld singled out this display as one of two products that drew attention for their low cost and high value. Perkins Products was selling the 80-cell refreshable braille display for $3,900, then a remarkably low price for 80 cells. It was made by Seika, connected by USB, and was supported by all the major Windows screen readers and by Apple's VoiceOver.
 
 Ports:
 USB
