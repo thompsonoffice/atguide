@@ -4,7 +4,7 @@ Category: TTS Voices
 Released: Version 1.01 released June 30, 1998
 
 Overview:
-Dolphin's software speech synthesizer, the successor to its Apollo hardware synthesizers, used with Hal and Supernova.
+Dolphin's software speech synthesizer, bundled for years with its SuperNova, HAL and Lunar Plus programs.
 
 Specs:
 Maker: Dolphin Computer Access
@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Later versions added sample-based (concatenative) voices alongside the formant voices. Dolphin transferred the Orpheus rights to Meridian One in August 2006, which added SAPI support, more languages and faster speech.
+Later versions added sample-based (concatenative) voices alongside the formant voices. Dolphin transferred the Orpheus rights to Meridian One in August 2006, which added SAPI support, more languages and faster speech. Orpheus 1 was a fully synthetic, formant-style engine with robotic-sounding but very clear speech and strong pronunciation; the default voice was Dave. Outside Dolphin's own products it worked only with programs supporting Dolphin's SAM interface. Orpheus 2 added SAPI 4 and 5 support, many more languages including Chinese, an exception dictionary, a Windows CE port, and recorded (sampled) voices alongside the synthetic ones, with one male and one female sampled voice per language plus synthetic Dave and Andy. Reviewer Veli-Pekka Tätilä found the synthetic voices understandable even near the top rate of 700. Orpheus development later passed to Meridian, which hosted its home page.
 
 Ports:
 Not applicable (software)

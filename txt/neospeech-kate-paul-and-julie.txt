@@ -1,14 +1,14 @@
 NeoSpeech Kate, Paul and Julie
 Company: NeoSpeech
 Category: TTS Voices
-Released: 2001 to 2002: Kate was released in September 2001 and Paul in May 2002 (Wikipedia, NeoSpeech). Julie's release date was not found.
+Released: September 2001 (Kate, as Voiceware VoiceText)
 
 Overview:
 NeoSpeech's US English voices.
 
 Specs:
 Maker: NeoSpeech
-First released: 2001 to 2002: Kate was released in September 2001 and Paul in May 2002 (Wikipedia, NeoSpeech). Julie's release date was not found.
+First released: September 2001 (Kate, as Voiceware VoiceText)
 Synthesis type: Unit selection synthesis (corpus-based concatenation of recorded speech; VoiceText engine, originally from Voiceware)
 Platforms: Windows (SAPI) and others
 Default on or shipped with: No single default. The BookSense uses Paul and Kate as its two reading voices.
@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-NeoSpeech later moved its TTS hosting to Amazon. NeoSpeech's Kate voice was released in September 2001 and Paul in May 2002.
+NeoSpeech later moved its TTS hosting to Amazon. NeoSpeech's Kate voice was released in September 2001 and Paul in May 2002. Kate was released in September 2001 as the first American English voice in VoiceText, from the Korean company Voiceware (founded 2000). In February 2002 Voiceware set up its US subsidiary NeoSpeech, founded by speech engineers Lin Chase and Yoon Kim, later based in Santa Clara, California. VoiceText uses unit selection synthesis, built from large databases of recorded speech. Stephen Hawking briefly used NeoSpeech in 2004 before returning to his DECtalk voice, and Adobe chose it for Captivate. ZoomText 9 offered NeoSpeech Paul and Kate as natural-sounding alternatives to its ViaVoice speech; reviewer Veli-Pekka Tätilä praised Paul's intonation but noted a lag before speech. Pentax bought Voiceware in January 2006, HOYA bought Pentax in 2007 to 2008, and after HOYA bought ReadSpeaker in 2017 it put NeoSpeech, Voiceware and VoiceText under the ReadSpeaker brand.
 
 Ports:
 Not applicable (software)
@@ -37,5 +37,6 @@ Source 1: https://www.speechtechmag.com/Articles/News/News-Feature/NeoSpeech-Tur
 Source 2: https://en.wikipedia.org/wiki/NeoSpeech
 Source 3: https://e-flt.nus.edu.sg/wp-content/uploads/docroot/v3n12006/revharashima.pdf
 Source 4: https://afb.org/aw/10/6/16088
+Source 5: https://www.webbie.org.uk/Veli-Pekka/reviewsofspeechsynths.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -27,7 +27,7 @@ Features:
 Not documented
 
 History:
-Its manual is copyrighted 1981, and The Henry Ford museum dates its unit (Model 100) to 1981.
+Its manual is copyrighted 1981, and The Henry Ford museum dates its unit (Model 100) to 1981. Antic magazine's review (volume 1, number 2) tested it on the Atari 400 and 800, which needed the Atari 850 interface and a cable (about $30 from the maker). It listed for $375 plus a speaker, since the unit needed an external 8-ohm speaker, from Votrax at 500 Stephenson Highway, Troy, Michigan. It spoke an unlimited vocabulary from plain English text at 300 baud and could output the phoneme codes it generated, so users could hand-tune pronunciation. The reviewer had used it for six months, but at a science fair most first-time listeners found Street Electronics' ECHO-GP ($369.95) clearly easier to understand. He also complained that the on/off switch was on the back and there was no power light.
 
 Ports:
 Serial
@@ -42,5 +42,6 @@ Sources:
 Source 1: https://en.wikipedia.org/wiki/Votrax
 Source 2: https://archive.org/stream/VotraxTypeNTalkManual/Votrax%20Type%20%27N%20Talk%20Manualdjvu.txt
 Source 3: https://www.thehenryford.org/collections/explore/artifact/388923?AssetId=THF156826
+Source 4: https://www.atarimagazines.com/v1n2/taritalkers.php
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
