@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Ted Henter and Bill Joyce founded Henter-Joyce in 1987 and developed JAWS, first as a DOS screen reader and later for Windows (AFB). On October 2, 1998, Henter-Joyce said JAWS for DOS 2.31 'brought the company to prominence' in 1988. The company announced it would become free to download on January 1, 1999, when sales, shipments and technical support would end, since most users had moved to Windows and JAWS for Windows. It still needed one of the hardware speech synthesizers it supported.
 Successors: JAWS for Windows (Freedom Scientific, January 1995 (1.0) to present (2026))
 
 Ports:
@@ -36,5 +36,7 @@ Not documented
 Sources:
 Source 1: https://en.wikipedia.org/wiki/FreedomScientific
 Source 2: https://ashton.codes/dai11y-19-01-2021/
+Source 3: https://afb.org/blindness-and-low-vision/using-technology/interviews-technology-pioneers/ted-henter
+Source 4: https://msa.maryland.gov/megafile/msa/speccol/sc5300/sc5339/000113/000000/000447/unrestricted/20040917e/4-art.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

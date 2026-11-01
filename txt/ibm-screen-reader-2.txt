@@ -11,7 +11,7 @@ Developer: IBM
 Release years: About 1992
 Runs on: OS/2
 Default speech: Not documented
-Price: Not documented
+Price: $600 ($500 upgrade) in 1992
 
 Physical Description:
 Not applicable (software)
@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Not documented
+IBM announced it on June 23, 1992 (Announcement Letter 292-363), with availability planned for September 8, 1992. It was $600, or $500 as an upgrade from Screen Reader 1.x. IBM called it the first OS/2 access product for blind users and the first to speak text from IBM's graphical user interface. It ran in all OS/2 2.0 sessions, followed the visual focus, read menus automatically, could emulate mouse point-and-click and named icons. It came with ready-made profiles and a full profiling language and compiler. It needed the IBM Screen Reader Keypad, which plugged into the mouse port on IBM PS systems or into a Screen Reader Adapter card on other computers, and a non-IBM speech synthesizer. Messages and documentation were translated into twelve languages, and installation instructions came in print, audio, online and braille.
 Predecessors: IBM Screen Reader (DOS) (IBM, 1986)
 
 Ports:

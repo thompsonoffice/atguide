@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Doug Geoffray began writing Vocal-Eyes in 1988 at Computer Aids Corporation (CAC). It was one of the first DOS screen readers for PCs, and it was nearly finished when CAC went out of business in November 1989. Geoffray and Dan Weirich then founded GW Micro in February 1990. Vocal-Eyes, the Sounding Board speech synthesizer and support for older CAC talking products were the company's main products in its early years. GW Micro's later Window-Eyes was deliberately kept similar to Vocal-Eyes, which Geoffray said had proved powerful yet easy to configure (AccessWorld, 2002).
 Successors: Window-Eyes (GW Micro, October 16, 1995 (1.0) to 9.5.3 (September 14, 2016))
 
 Ports:

@@ -20,7 +20,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Developed by MicroTalk, ASAP was sold by Raised Dot Computing from 1992 (RDC Newsletter, March–April 1992). Instead of needing to be set up for each program, it decided what to speak by watching how the application reacted to keystrokes, focusing automatically on light bars, soft cursors and pop-up windows. Its features included Instant Silence, Turbo Browse (skip a little text), Quick Review from the numeric keypad, Auto Read, a user-expandable pronunciation lexicon and column detection. It needed about 30K of memory and could load high. RDC also sold an 'ASAP Classic' package with a DoubleTalk PC synthesizer modified for better performance with ASAP.
 
 Ports:
 Not applicable (software)
@@ -34,5 +34,6 @@ Not documented
 Sources:
 Source 1: https://allinaccess.com/happ/
 Source 2: https://en.wikipedia.org/wiki/Listofscreenreaders
+Source 3: https://www.duxburysystems.org/downloads/library/news/new95.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
