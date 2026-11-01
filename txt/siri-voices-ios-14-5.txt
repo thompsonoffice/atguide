@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Apple's April 2021 announcement said Siri would no longer default to a female voice; users pick a voice when setting up the device.
 Predecessors: Siri deep-learning voices (iOS 11) (Apple, 2017 (iOS 11))
 Successors: Siri Voice 5 (Quinn) (Apple, February 2022 (iOS 15.4 beta))
 
@@ -39,5 +39,6 @@ Sources:
 Source 1: https://arstechnica.com/gadgets/2021/04/apple-releases-ios-14-5-the-biggest-update-since-ios-14-first-launched/
 Source 2: https://9to5mac.com/2021/03/31/hands-on-ios-14-5-beta-6-changes-features-siri-battery-recalibration-tool-video/
 Source 3: https://www.macworld.com/article/331864/ios-14-5-features-airtags-siri-unlock-with-apple-watch-how-to-install.html
+Source 4: https://www.apple.com/newsroom/2021/04/ios-14-5-offers-unlock-iphone-with-apple-watch-diverse-siri-voices-and-more/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

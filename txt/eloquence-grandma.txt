@@ -11,7 +11,7 @@ Maker: Eloquent Technology, Inc. (ETI)
 First released: 1995 (ETI-Eloquence introduced)
 Synthesis type: Formant
 Platforms: Wherever Eloquence runs
-Default on or shipped with: Not documented
+Default on or shipped with: Not a default (Reed is the default Eloquence voice in JAWS)
 Price: Not documented
 
 Physical Description:

@@ -9,7 +9,7 @@ Siri's first voices: Susan Bennett for US English (recorded in July 2005), Jon B
 Specs:
 Maker: Apple
 First released: October 14, 2011 (iPhone 4S)
-Synthesis type: Not documented
+Synthesis type: Unit selection (Apple says it moved Siri to deep-learning-based voices starting in iOS 10)
 Platforms: iOS 5 and later (iPhone 4S)
 Default on or shipped with: Siri
 Price: Not documented
@@ -36,5 +36,6 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Siri
+Source 2: https://machinelearning.apple.com/research/siri-voices
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

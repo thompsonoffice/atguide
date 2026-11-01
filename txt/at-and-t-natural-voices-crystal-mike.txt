@@ -11,7 +11,7 @@ Maker: AT&T Labs (Natural Voices)
 First released: Not documented
 Synthesis type: Concatenative
 Platforms: Windows (SAPI)
-Default on or shipped with: Not documented
+Default on or shipped with: Not a default in any OS; a commercial SAPI 5.1 engine
 Price: Not documented
 
 Physical Description:
@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Not documented
+AT&T Labs launched its Natural Voices Text-to-Speech Engine on July 31, 2001. It grew out of AT&T's unit-selection research (Beutnagel and colleagues, Eurospeech 1999), which picks and joins recorded units from a large speech corpus. It shipped about 20 voices across English variants, French, German, Italian and Spanish for Windows and Linux.
 
 Ports:
 Not applicable (software)
@@ -35,5 +35,8 @@ Not documented
 Sources:
 Source 1: https://jctnpedia.fandom.com/wiki/Text-to-SpeechDownloadablesList
 Source 2: https://www.engadget.com/2007-10-26-24-hours-of-leopard-alex-the-new-voice-of-mac-os-x.html
+Source 3: https://resna.stanford.edu/SIG-11/archive/FreedomBox.htm
+Source 4: https://www.isca-archive.org/eurospeech1999/beutnagel99eurospeech.pdf
+Source 5: https://en.wikipedia.org/wiki/Comparisonofspeechsynthesizers
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -11,7 +11,7 @@ Maker: Dolphin Computer Access
 First released: Version 1.01 released June 30, 1998
 Synthesis type: Parallel formant synthesis
 Platforms: Windows
-Default on or shipped with: Not documented
+Default on or shipped with: Bundled speech for Dolphin Hal and SuperNova
 Price: Not documented
 
 Physical Description:
@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Later versions added sample-based (concatenative) voices alongside the formant voices. Dolphin transferred the Orpheus rights to Meridian One in August 2006, which added SAPI support, more languages and faster speech.
 
 Ports:
 Not applicable (software)
@@ -36,5 +36,8 @@ Sources:
 Source 1: https://en.wikipedia.org/wiki/Listofscreenreaders
 Source 2: https://www.scrigroup.com/limba/engleza/87/Orpheus-Speech-Synthesiser-Ver44875.php
 Source 3: https://github.com/rommix0/dolphin-apollo-ii-reborn
+Source 4: https://speech.meridian-one.co.uk/orpheus.html
+Source 5: https://speech.meridian-one.co.uk/newsold.html
+Source 6: https://www.webbie.org.uk/Veli-Pekka/reviewsofspeechsynths.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

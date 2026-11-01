@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+RC Systems' manual says the card fits an 8- or 16-bit ISA slot and needs no IRQ, DMA or system memory. Its sibling, the DoubleTalk LT, is the external serial version.
 
 Ports:
 8-bit ISA
@@ -40,5 +40,7 @@ Not documented
 Sources:
 Source 1: https://lkml.iu.edu/9810.3/0735.html
 Source 2: https://www.duxburysystems.org/downloads/library/news/new95.htm
+Source 3: https://manualzilla.com/doc/5788162/doubletalk-pc-lt-user-s-manual
+Source 4: https://www.rcsys.com/dt.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

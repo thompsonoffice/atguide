@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+The LT plugs into a serial port on almost any PC or laptop and runs on a 9-volt battery or an AC adapter.
 
 Ports:
 RS-232
@@ -40,5 +40,7 @@ Not documented
 Sources:
 Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
 Source 2: https://aphmuseum.org/record/doubletalk-lt-speech-synthesizer/
+Source 3: https://www.rcsys.com/dt.htm
+Source 4: https://www.rcsys.com/Downloads/dtfacts.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

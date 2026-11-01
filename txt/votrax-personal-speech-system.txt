@@ -16,7 +16,7 @@ Default speech synthesizer: Not documented
 Battery: Not documented
 Display or braille cells: Not documented
 Speech synthesizers available: Not documented
-Price at launch: Not documented
+Price at launch: $449 (AbleData listing)
 Used price today (eBay): Not documented
 Voices: Votrax SC-01 phoneme voice
 
@@ -27,7 +27,7 @@ Features:
 Not documented
 
 History:
-Not documented
+AbleData described it as a text-to-speech unit using phonetic rules and exception tables, able to play music, with RS-232 and parallel connections.
 
 Ports:
 Not documented
@@ -40,5 +40,6 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Votrax
+Source 2: https://web.archive.org/web/20110606065104/www.abledata.com/abledata.cfm?pageid=113583&productid=94209&top=0&trail=0
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

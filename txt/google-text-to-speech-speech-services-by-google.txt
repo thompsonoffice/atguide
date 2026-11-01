@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Android Police noted the Play Store app could replace the weak default voices on phones such as the Galaxy Note 3. The app was later renamed Speech Services by Google (Speech Recognition and Synthesis), which passed 10 billion Play Store downloads in November 2021.
 Predecessors: SVOX Pico (Android) (SVOX, September 2009 (Android 1.6 Donut))
 
 Ports:
@@ -37,5 +37,7 @@ Not documented
 Sources:
 Source 1: https://en.wikipedia.org/wiki/GoogleText-to-Speech
 Source 2: https://www.androidpolice.com/2013/11/06/new-app-google-text-to-speech-arrives-in-the-play-store-paves-way-for-future-updates-fixes-awful-default-voices-on-note-3-and-others/
+Source 3: https://www.theverge.com/2013/11/7/5077034/google-brings-android-text-to-speech-to-google-play
+Source 4: https://9to5google.com/2021/11/09/speech-services-by-google-reaches-10-billion-play-store-downloads/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

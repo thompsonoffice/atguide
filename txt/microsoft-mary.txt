@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Distributed the same way as Microsoft Mike.
+Distributed the same way as Microsoft Mike. Mary is Microsoft's optional female voice for Windows 2000 and XP. Its SAPI 5 version was distributed as a Merge Module and installed by apps such as Microsoft Reader; the SAPI 4 version differs in pronunciation. Michael and Michelle, licensed from Lernout & Hauspie, came with Office XP, Office 2003 and Microsoft Reader as other optional voices.
 
 Ports:
 Not applicable (software)
@@ -35,5 +35,6 @@ Not documented
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Microsofttext-to-speechvoices
 Source 2: https://www.microsoft.com/en-us/research/project/whistler-text-to-speech-engine/
+Source 3: https://github.com/LouisGameDev/Microsoft-Sam-Mary-Mike-TruVoice-WSAPI4
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

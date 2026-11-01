@@ -9,7 +9,7 @@ A US English female Vocalizer/RealSpeak voice.
 Specs:
 Maker: Nuance Communications
 First released: By 2016 (updated in Vocalizer Expressive 2.2)
-Synthesis type: Not documented
+Synthesis type: Nuance Vocalizer: concatenates recorded speech units, with a multiform mode that alternates unit selection and statistical parametric generation
 Platforms: Nuance Vocalizer (enterprise and Expressive); JAWS 18 and later
 Default on or shipped with: Not documented
 Price: Not documented
@@ -35,5 +35,7 @@ Not documented
 Sources:
 Source 1: https://docs.nuance.com/nuance-vocalizer-for-enterprise/voc-dev/lang.html
 Source 2: https://saomaicenter.org/en/blog/whats-new-jaws-180
+Source 3: https://docs.nuance.com/speech-suite/voc-dev/primer.html
+Source 4: https://speech.zone/courses/speech-synthesis/module-1-introduction/current-technology/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

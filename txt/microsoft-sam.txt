@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-Released in SAPI 4 and SAPI 5 versions, which differ in pronunciation. Windows Vista and 7 replaced it with Microsoft Anna. The SAPI 5 version can still be installed on later Windows through the SAPI 5.1 SDK.
+Released in SAPI 4 and SAPI 5 versions, which differ in pronunciation. Windows Vista and 7 replaced it with Microsoft Anna. The SAPI 5 version can still be installed on later Windows through the SAPI 5.1 SDK. SAPI 4 versions of Sam, Mike and Mary (SAPI 4.0 dates from 1998) and SAPI 5 versions (SAPI 5.1 shipped with Windows XP) differ in speech patterns, pronunciation and some words. Sam's SAPI 5 version has a known 'soy/soi' glitch. Redistributable SAPI 4 versions were offered for Windows 9x but are no longer on Microsoft's site; programs such as Speakonia and TTSReader still run them on XP, Vista and later. Microsoft's 2006 Vista article had Sam say 'Anna will make me redundant'. Windows Vista and 7 shipped no male voice.
 Successors: Microsoft Anna (Microsoft, Windows Vista (2007) and Windows 7)
 
 Ports:
@@ -38,5 +38,7 @@ Sources:
 Source 1: https://en.wikipedia.org/wiki/Microsofttext-to-speechvoices
 Source 2: https://learn.microsoft.com/en-us/archive/blogs/speech/speech-api-and-engine-availability
 Source 3: https://www.microsoft.com/en-us/research/project/whistler-text-to-speech-engine/
+Source 4: https://learn.microsoft.com/en-us/archive/msdn-magazine/2006/january/exploring-speech-recognition-and-synthesis-apis-in-windows-vista
+Source 5: https://github.com/LouisGameDev/Microsoft-Sam-Mary-Mike-TruVoice-WSAPI4
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

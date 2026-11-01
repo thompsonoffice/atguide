@@ -11,7 +11,7 @@ Maker: Apple
 First released: Mac OS X (first version not documented)
 Synthesis type: Not documented
 Platforms: Mac OS X
-Default on or shipped with: Not documented
+Default on or shipped with: Not the system default (Alex is the default from Mac OS X 10.5)
 Price: Not documented
 Shipped with or used by: Mac OS X Speech Synthesis (MacinTalk in OS X)
 
@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-Not documented
+A user's guide to Mac OS X speech listed Vicki among the standard system voices alongside Alex, Fred and Bruce.
 
 Ports:
 Not applicable (software)
@@ -35,5 +35,8 @@ Not documented
 
 Sources:
 Source 1: https://www.wap.org/journal/lionspeak/
+Source 2: https://www.macworld.com/article/216121/how-to-change-the-mac-s-system-voice.html
+Source 3: https://www.engadget.com/2007-10-26-24-hours-of-leopard-alex-the-new-voice-of-mac-os-x.html
+Source 4: https://alvinalexander.com/mac-os-x/mac-osx-text-to-speech-default-system-voice/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

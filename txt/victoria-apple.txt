@@ -11,7 +11,7 @@ Maker: Apple
 First released: MacinTalk Pro (1993/1994) to Mac OS X
 Synthesis type: Concatenative (MacinTalk Pro)
 Platforms: System 7 to Mac OS X
-Default on or shipped with: Not documented
+Default on or shipped with: Not the system default (Alex is the default from Mac OS X 10.5)
 Price: Not documented
 Shipped with or used by: MacinTalk Pro
 
@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-Original MacinTalk Pro voice, still a default voice in Snow Leopard and Lion. Lion included a recreation of the 1984 introduction speech in Victoria's voice.
+Original MacinTalk Pro voice, still a default voice in Snow Leopard and Lion. Lion included a recreation of the 1984 introduction speech in Victoria's voice. Macworld called Victoria 'the female equivalent of Alex' and one of the six voices shown by default in Snow Leopard and Lion.
 
 Ports:
 Not applicable (software)
@@ -37,5 +37,6 @@ Sources:
 Source 1: https://www.cs.cmu.edu/Groups/AI/util/pubs/faqs/speech/mac.txt
 Source 2: https://www.macworld.com/article/216121/how-to-change-the-mac-s-system-voice.html
 Source 3: https://www.wap.org/journal/lionspeak/
+Source 4: https://www.engadget.com/2007-10-26-24-hours-of-leopard-alex-the-new-voice-of-mac-os-x.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

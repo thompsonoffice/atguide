@@ -11,7 +11,7 @@ Maker: Apple
 First released: MacinTalk 3 (1994)
 Synthesis type: MacinTalk 3
 Platforms: System 7 and later
-Default on or shipped with: Not documented
+Default on or shipped with: Not the system default (Alex is the default from Mac OS X 10.5)
 Price: Not documented
 Shipped with or used by: MacinTalk 3
 
@@ -35,5 +35,7 @@ Not documented
 
 Sources:
 Source 1: https://discmaster.textfiles.com/view/21387/Macformat17.cdr/Shareware%20City/Sound/Talking%20Eggs%201.0/Talking%20Eggs%20ReadMe
+Source 2: https://www.macworld.com/article/216121/how-to-change-the-mac-s-system-voice.html
+Source 3: https://www.engadget.com/2007-10-26-24-hours-of-leopard-alex-the-new-voice-of-mac-os-x.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

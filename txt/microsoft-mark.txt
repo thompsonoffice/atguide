@@ -11,7 +11,7 @@ Maker: Microsoft
 First released: 2015 (Windows 10)
 Synthesis type: Not documented
 Platforms: Windows 10 and 11
-Default on or shipped with: Not documented
+Default on or shipped with: Not a default; mobile voice added to the Windows 10 US English language pack (Windows Phone 8 and 10 Mobile voice)
 Price: Not documented
 Shipped with or used by: Microsoft Narrator
 
@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Mark and Zira are the Windows Phone 8, 8.1 and Windows 10 Mobile voices, made available on desktop Windows 10. Windows 11 reclassified them as 'legacy voices' after the Narrator natural voices arrived.
 
 Ports:
 Not applicable (software)

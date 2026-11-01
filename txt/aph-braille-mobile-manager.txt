@@ -27,7 +27,7 @@ The APH Braille+ Mobile Manager, made by LevelStar for APH, is a pocket-sized de
 The face looks like a telephone. At the bottom is a 12-key rubber telephone keypad with a nib on the 5. Above it are OK, Menu and Cancel (Cancel is also the power key). Higher up is a four-way navigation pad with a Select button, with Status and Help keys beside it, Program 1 and Program 2 keys at the sides, and a long Applications key between them.
 Flanking the rubber keys are nine blue plastic braille keys turned 90 degrees: six dot keys on one side and Shift, Space and Control on the other. To type braille you turn the unit a quarter turn clockwise, so the braille keys are farthest from you and Shift, Space and Control are nearest.
 The left side has the volume key, a speaker toggle and a Record button. At the top are a phone-style earpiece in the middle and small stereo speakers on each side. The top edge has line-in, headphone and headset jacks and a mini SD slot. The bottom edge has the keypad lock switch and the power/USB connector.
-It came with a 40 GB hard drive, a black nylon case with a belt loop, a wrist strap, earbuds, a USB cable, a charger and a quick-start guide in print and braille. An optional dock added a QWERTY keyboard and Ethernet.
+It came with a 40 GB hard drive and a black nylon case with a belt loop. An optional QWERTY docking station plugs into the connector on the bottom edge.
 
 Features:
 RSS, podcasts, newsstand, DAISY, email

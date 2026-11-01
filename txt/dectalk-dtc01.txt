@@ -27,7 +27,7 @@ Features:
 Not documented
 
 History:
-Not documented
+DEC announced the DTC01 in December 1983 and delivered the first units in February 1984. It connected over RS-232C and could also handle telephone touch tones. Dennis Klatt began looking for an industrial partner for his MIT work in 1981.
 
 Ports:
 RS-232
@@ -40,5 +40,6 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/DECtalk
+Source 2: https://www.inc.com/magazine/19840301/3858.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

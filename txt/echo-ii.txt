@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Street Electronics' Echo II is a slot card for the Apple II built on Texas Instruments' TMS5200/5220 LPC speech chip. Its Textalker software turned text into speech and its Speakeasy program worked with phonemes, with adjustable pitch and volume.
 
 Ports:
 Not documented
@@ -39,5 +39,7 @@ Not documented
 
 Sources:
 Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 2: https://www.duxburysystems.org/downloads/library/texas/apple/manuals/echo.htm
+Source 3: https://www.trs-80.org/echo-80-speech-synthesizer.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

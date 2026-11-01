@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Apple's Machine Learning Journal (August 6, 2017) says Siri voices have been based on deep learning since iOS 10. iOS 11 used on-device deep mixture density networks to guide hybrid unit selection, from a new US English voice talent recorded for over 20 hours. The system was presented at Interspeech 2017.
 Predecessors: Siri original voices (Apple, October 14, 2011 (iPhone 4S))
 Successors: Siri voices (iOS 14.5) (Apple, April 2021 (iOS 14.5))
 
@@ -37,5 +37,7 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Siri
+Source 2: https://machinelearning.apple.com/research/siri-voices
+Source 3: https://www.isca-archive.org/interspeech2017/capes17interspeech.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

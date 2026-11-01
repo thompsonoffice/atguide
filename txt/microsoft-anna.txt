@@ -9,7 +9,7 @@ A SAPI 5-only female voice designed to sound more natural than Sam. It was the d
 Specs:
 Maker: Microsoft
 First released: Windows Vista (2007) and Windows 7
-Synthesis type: Not documented
+Synthesis type: Concatenative: selects and splices segments from hours of recorded speech (Microsoft, 2006)
 Platforms: Windows Vista and 7 (SAPI 5.3)
 Default on or shipped with: Windows Vista and Windows 7
 Price: Not documented
@@ -36,5 +36,6 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Microsofttext-to-speechvoices
+Source 2: https://learn.microsoft.com/en-us/archive/msdn-magazine/2006/january/exploring-speech-recognition-and-synthesis-apis-in-windows-vista
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

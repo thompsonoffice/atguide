@@ -9,9 +9,9 @@ Commercial voices sold for $30 each, which Macworld recommended in 2007.
 Specs:
 Maker: Cepstral
 First released: Available by 2007
-Synthesis type: Not documented
+Synthesis type: Concatenative (Cepstral Swift engine; founders came from Festival/Flite)
 Platforms: Mac OS X, Windows, Linux
-Default on or shipped with: Not documented
+Default on or shipped with: Not a default; sold as add-on voices
 Price: $30 each
 
 Physical Description:
@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Cepstral was founded in Pittsburgh in 2000 by Kevin Lenzo and Alan W Black, authors of Festival-lite. Engadget described David as a new Mac voice in March 2005, and Diane is in the Swift 4.0.1 voice list (2006).
 
 Ports:
 Not applicable (software)
@@ -34,5 +34,8 @@ Not documented
 
 Sources:
 Source 1: https://www.macworld.com/article/185797/voicemac.html
+Source 2: https://en.wikipedia.org/wiki/cepstral(company)
+Source 3: https://www.engadget.com/2005-03-22-hate-fred-and-veronica-try-david-and-linda.html
+Source 4: http://jonhoyle.com/maccompanion/mirror/archives/march2006/software/cepstral.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

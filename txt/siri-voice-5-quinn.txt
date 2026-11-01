@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Not documented
+It appeared as 'Voice 5' in the iOS 15.4 beta in February 2022. Apple said it was recorded by a member of the LGBTQ+ community. iOS 15.4 shipped March 14, 2022.
 Predecessors: Siri voices (iOS 14.5) (Apple, April 2021 (iOS 14.5))
 
 Ports:
@@ -36,5 +36,7 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Siri
+Source 2: https://techcrunch.com/2022/02/24/siri-gains-a-new-gender-neutral-voice-option-in-latest-ios-update/
+Source 3: https://www.theverge.com/2022/2/23/22947150/ios-15-4-quinn-siri-voice-5-american
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

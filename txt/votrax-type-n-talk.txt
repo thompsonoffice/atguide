@@ -27,7 +27,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Its manual is copyrighted 1981, and The Henry Ford museum dates its unit (Model 100) to 1981.
 
 Ports:
 Serial
@@ -40,5 +40,7 @@ Not documented
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Votrax
+Source 2: https://archive.org/stream/VotraxTypeNTalkManual/Votrax%20Type%20%27N%20Talk%20Manualdjvu.txt
+Source 3: https://www.thehenryford.org/collections/explore/artifact/388923?AssetId=THF156826
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

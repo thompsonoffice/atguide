@@ -11,7 +11,7 @@ Maker: Digital Equipment Corporation (DEC)
 First released: 1984
 Synthesis type: Formant
 Platforms: DECtalk hardware and software
-Default on or shipped with: Not documented
+Default on or shipped with: Not a default (Perfect Paul is DECtalk's factory default)
 Price: Not documented
 Shipped with or used by: DECtalk DTC01
 
