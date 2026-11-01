@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The ClearView C is a modular desktop video magnifier. A monitor and camera box sit on a C-shaped arm that rises from the back of a sliding reading table. It ships fully assembled in one box, with a handle for lifting. The arm can be set to a Compact table setup or, by loosening a black knob under a cap at the top of the arm, to a wider Comfort setup with room for crafts or large documents.
+The front edge of the reading table has two wrist supports. The wireless Control Pad sits between them. Turned with the Optelec logo facing you, its top shows the basic controls. Rotated so that five rectangular buttons face you, it gives the advanced functions. It runs on batteries and is paired to the magnifier.
+On the basic side, the Zoom dial is in the centre of the pad. Turning it clockwise magnifies more. A white Mode button inside the dial steps through full colour and up to four high-contrast reading modes; holding it for four seconds turns off the lights. An orange round On/Off button sits next to the dial.
+Two sliders at the front of the table control how it moves. The left slider adds friction to, or locks, side-to-side movement, and the right slider does the same for forward-and-back movement. Slid to the outer edges, the table moves freely.
+The master power switch is on the left side of the camera box, behind the monitor. The connections are HDMI in and out, power in and out, and a camera connection for the optional speech module. The camera takes about 5 seconds to start after switching on.
+
 Features:
 Not documented
 
 History:
-Not documented
+Optelec U.S. introduced the ClearView C on September 3, 2014. It billed the ClearView C as the first video magnifier with a contemporary, sleek design built from high-quality materials, developed with end users. CEO Maarten Bosch said the goal was to eliminate the difficulties people had with desktop magnifiers and give a more natural reading experience. U.S. President Stephan Terwolbeck pointed to the emotional side of being diagnosed with low vision. The system is modular. Buyers choose a space-saving Compact or wide Comfort table, an HD or standard camera and a monitor size, and an optional speech module can read text aloud.
 
 Ports:
 Not documented
@@ -39,5 +46,7 @@ Not documented
 
 Sources:
 Source 1: https://vispero.com
+Source 2: https://www.prweb.com/releases/opteleclaunchestheclearviewcanewdesktopvideomagnifierfeaturingamodernandgroundbreakingdesign/prweb12137661.htm
+Source 3: https://www.ceciaa.com/media/file/file/c/l/clearview-c-notice-francais1.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

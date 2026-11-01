@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+Merlin elite Pro is a desktop video magnifier with a 24-inch LCD monitor above a camera and reading area. It stands 27.75 inches (70.5 cm) tall and measures 22.75 inches (57.8 cm) wide by 20 inches (50.8 cm) deep, and it weighs 40.1 pounds (18.2 kg).
+Carry it only by the recessed handles on its underside. Enhanced Vision warns against lifting it by the body, the camera housing or the monitor.
+The front panel, below the screen, has the Power button, speakers, a 3.5 mm headphone jack (which mutes the speakers), a Color Mode button, and a centre button that switches between CCTV and OCR modes, with a zoom wheel around it.
+A separate control console plugs into a USB port on the back. It has a large Zoom wheel around a Find button, up/down Brightness and Color Mode buttons, a Volume knob on the left side, and a Markers knob. A removable cover hides the advanced keys, such as Library and OCR navigation. With the cover on, the unit is in Basic mode; take the cover off and it switches straight to Advanced mode.
+It runs from a 19-volt external power supply that plugs in at the back, at a socket labelled 19VDC. A 2-in-1 USB hub is included so you can connect a USB stick or the optional microphone, which records spoken voice tags for saved files, alongside the console. The manual gives power use as about 30 watts when on and under 5 watts in standby.
+
 Features:
 Not documented
 
 History:
-Not documented
+Enhanced Vision's 2024 user manual describes the Merlin elite Pro as a fully integrated desktop magnifier that combines a CCTV with OCR. You can read by listening, or by viewing text in colour or in high-contrast positive or negative modes. Its 1080p full-HD camera magnifies from 2.4 to 41 times, or up to 73 times in extended range. It stores at least 1,000 full-page OCR scans, and it carries a three-year warranty. Its detachable console cover switches between a simpler Basic mode and an Advanced mode that adds saving, a document library, OCR zone identifiers and line-by-line navigation. The introduction year was not found in the manual or on Vispero's site.
 
 Ports:
 Not documented
@@ -39,5 +46,6 @@ Not documented
 
 Sources:
 Source 1: https://vispero.com
+Source 2: https://www.enhancedvision.com/downloads/product/merlin-elite-pro/usermanual-english.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
