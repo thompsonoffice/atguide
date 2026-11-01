@@ -9,7 +9,7 @@ A US English female voice, downloadable in Lion. Macworld called it close to, bu
 Specs:
 Maker: Apple
 First released: Mac OS X 10.7 Lion (2011) onward
-Synthesis type: Nuance RealSpeak/Vocalizer-style concatenative voice. Added in Mac OS X Lion (2011); 9to5Mac and MacRumors found the Lion voices identical to Nuance's RealSpeak voices.
+Synthesis type: Nuance (licensed by Apple)
 Platforms: Mac OS X 10.7 and later
 Default on or shipped with: Not the system default (Alex is the default from Mac OS X 10.5)
 Price: Not documented
@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-Added as a free download in Lion. Snow Leopard had no Samantha. Its relationship to Nuance voices is not confirmed in these sources.
+Added as a free download in Lion. Snow Leopard had no Samantha. Its relationship to Nuance voices is not confirmed in these sources. AppleInsider listed Samantha in March 2011 as one of three new high-quality US English voices for Lion, with Tom and Jill. In April 2012 9to5Mac, following a Reddit user, reported that the downloadable Samantha was the same voice as Siri's in the United States; Lion asked to confirm a 469 MB download when it was selected.
 
 Ports:
 Not applicable (software)
@@ -39,5 +39,6 @@ Source 2: https://www.wap.org/journal/lionspeak/
 Source 3: https://www.engadget.com/2007-10-26-24-hours-of-leopard-alex-the-new-voice-of-mac-os-x.html
 Source 4: https://9to5mac.com/2011/05/14/nuance-and-apple-partnership-is-all-but-confirmed-lion-uses-nuance-speech-technology/
 Source 5: https://appleinsider.com/articles/11/03/02/insidemacosx107liondozensofhighqualitynewmultilingualspeechvoices
+Source 6: https://9to5mac.com/2012/04/20/tip-bring-siris-voice-to-your-mac-with-samantha-downloadable-voice-for-lion/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
