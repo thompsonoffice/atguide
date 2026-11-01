@@ -21,6 +21,8 @@ Talking Arch (Accessible Linux, Not documented (last release reported in 2017))
 Operating System and Software Histories:
 Linux (on blindness devices)
 BRLTTY versions
+Fenrir versions
+Speakup versions
 
 Sources:
 Source 1: https://lkml.iu.edu/9810.3/0735.html

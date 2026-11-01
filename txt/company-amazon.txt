@@ -1,0 +1,18 @@
+Amazon
+Type: Company profile
+Founded: 1994
+Products listed: 1
+
+History:
+Makes Fire tablets and Fire OS, which include the VoiceView screen reader (launched in late 2015).
+
+Products:
+VoiceView (Amazon Fire tablets) (Screen Readers, September 2015 (Fire OS 5 'Bellini'))
+
+Operating System and Software Histories:
+VoiceView versions
+
+Sources:
+Source 1: https://www.aboutamazon.com/news/devices/improving-device-accessibility-for-customers-with-disabilities
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

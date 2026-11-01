@@ -28,6 +28,7 @@ Not applicable (software)
 
 Operating System:
 Linux / Unix with GNOME (AT-SPI)
+Operating system history: Orca versions
 
 System Requirements:
 Not documented

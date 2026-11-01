@@ -11,7 +11,7 @@ Orca (Screen Readers, 2006 to present)
 Gnopernicus (Screen Readers, Until GNOME 2.16)
 
 Operating System and Software Histories:
-Not documented
+Orca versions
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/Listofscreenreaders

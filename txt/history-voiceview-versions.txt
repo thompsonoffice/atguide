@@ -1,0 +1,35 @@
+VoiceView versions
+Company: Amazon
+Category: Operating system or software version history
+Versions listed: 3
+
+Overview:
+Amazon's Fire tablet screen reader, a full rewrite that replaced the TalkBack integration on earlier Fire tablets.
+
+Version History:
+
+Version 1: Before VoiceView
+Released: 2011 to 2015
+Notes: Fire tablets used an integration of Android TalkBack.
+
+Version 2: VoiceView 1 (Fire OS 5 'Bellini')
+Released: September 2015
+Notes: Linear and touch navigation, IVONA voices, a wide speed range, lower latency, simplified gestures, new earcons, a jog-wheel gesture, a tutorial, and braille through BrailleBack.
+
+Version 3: Braille update
+Released: September 2017
+Notes: Native Bluetooth braille input and output in contracted, uncontracted, UEB and computer braille, with chord commands; BAUM, HumanWare and Orbit Reader 20 displays.
+
+Devices and Software That Ran It:
+VoiceView (Amazon Fire tablets) (Amazon, September 2015 (Fire OS 5 'Bellini'))
+
+System Requirements:
+An Amazon Fire tablet running Fire OS 5 or later (Fire OS 5 is based on Android 5.1.1). Braille needs a 4th-generation or newer Fire tablet and a supported Bluetooth display.
+
+Sources:
+Source 1: https://blog.the-ebook-reader.com/2015/09/22/fire-os-5-adds-new-accessibility-features-to-fire-tablets/
+Source 2: https://www.aboutamazon.com/news/devices/improving-device-accessibility-for-customers-with-disabilities
+Source 3: https://www.aboutamazon.com/news/devices/introducing-new-accessibility-features-for-amazon-fire-tablets-and-fire-tv
+Source 4: https://www.lifewire.com/history-of-fire-os-4582380
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

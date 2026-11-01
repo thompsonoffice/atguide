@@ -1,0 +1,57 @@
+VoiceOver for macOS versions
+Company: Apple
+Category: Operating system or software version history
+Versions listed: 8
+
+Overview:
+VoiceOver on the Mac. Apple announced a 'Spoken Interface' in 2004, and VoiceOver shipped in Mac OS X 10.4 Tiger on April 29, 2005. AppleVis calls this the first fully functional screen reader built into an operating system, with no separate installation. Before it, the Mac depended on Berkeley Systems' outSPOKEN (1989), which never came to Mac OS X. System requirements are those of each macOS release; VoiceOver has no separate requirements or price.
+
+Version History:
+
+Version 1: Spoken Interface preview
+Released: 2004
+Notes: Apple announced it was working on a Spoken Interface.
+
+Version 2: VoiceOver 1 (Mac OS X 10.4 Tiger)
+Released: April 29, 2005
+Notes: First built-in Mac screen reader. Unlike Narrator, it offered a full command set to explore the interface, not just echo keyboard focus. Mac OS X 10.2 Jaguar's Universal Access had come first.
+
+Version 3: VoiceOver 2 (Mac OS X 10.5 Leopard)
+Released: October 2007
+Notes: A major upgrade: the Alex voice, braille display support, positional audio, Keyboard and NumPad Commanders, and object navigation.
+
+Version 4: Mac OS X 10.6 Snow Leopard
+Released: August 2009
+Notes: Trackpad gestures, the rotor, quick navigation, Auto Web Spots, better web and table navigation, the ability to label items, and customization.
+
+Version 5: Mac OS X 10.7 Lion
+Released: July 2011
+Notes: 23 built-in languages, downloadable higher-quality voices, and VoiceOver Activities (per-app or per-task settings).
+
+Version 6: macOS Catalina
+Released: 2019
+Notes: Voice Control (a general accessibility feature) arrived on the Mac alongside iOS 13.
+
+Version 7: macOS Ventura
+Released: 2022
+Notes: More than 20 additional VoiceOver languages and locales, and Text Checker for formatting errors.
+
+Version 8: Later versions
+Released: Not documented
+Notes: Version-by-version macOS VoiceOver changes after Ventura are not documented in the sources used.
+
+Devices and Software That Ran It:
+VoiceOver (macOS) (Apple, Mac OS X 10.4 Tiger (2005) to present)
+
+System Requirements:
+Any Mac that runs Mac OS X 10.4 Tiger or later; included free with the OS.
+
+Sources:
+Source 1: https://www.applevis.com/blog/voiceover-turns-10
+Source 2: https://web.archive.org/web/20061116183631/http:/www.apple.com/macosx/leopard/accessibility.html
+Source 3: https://web.archive.org/web/20091027153017/http:/www.apple.com/macosx/accessibility/
+Source 4: https://maccessibility.net/2009/08/28/mac-os-x-10-6-snow-leopard-with-voiceover
+Source 5: https://www.macstories.net/stories/a-timeline-of-ios-accessibility-it-started-with-36-seconds/
+Source 6: https://www.apple.com/newsroom/2022/05/apple-previews-innovative-accessibility-features/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

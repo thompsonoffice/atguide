@@ -27,6 +27,7 @@ Not applicable (software)
 
 Operating System:
 Android
+Operating system history: Commentary (Jieshuo) versions
 
 System Requirements:
 Not documented

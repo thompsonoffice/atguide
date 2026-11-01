@@ -1,0 +1,39 @@
+Speakup versions
+Company: Linux accessibility community
+Category: Operating system or software version history
+Versions listed: 4
+
+Overview:
+A screen review package built into the Linux kernel, written by Kirk Reiser and Andy Berdan. It speaks console output and offers review commands such as say word, say line and announce cursor position. It talks to hardware synthesizers, or to software speech through espeakup.
+
+Version History:
+
+Version 1: 0.01 alpha
+Released: October 29, 1998
+Notes: First alpha, as kernel patches for development kernels 2.1.123 and 2.1.125. It supported only the internal DoubleTalk synthesizer and lacked automatic cursor reading.
+
+Version 2: 2.2.x / 2.4.x / 2.6.x patches
+Released: 1999 to 2010
+Notes: Out-of-tree releases for the 2.2, 2.4 and 2.6 kernels from linux-speakup.org.
+
+Version 3: Staging (Linux 2.6.37)
+Released: Late 2010 / January 2011
+Notes: Merged into the kernel's staging tree.
+
+Version 4: Graduation (Linux 5.9)
+Released: 2020
+Notes: After 47 releases in staging, Samuel Thibault finished the TODO items; Speakup moved to drivers/accessibility/speakup (commit of July 29, 2020).
+
+Devices and Software That Ran It:
+Speakup (Linux accessibility community, October 29, 1998 to present)
+
+System Requirements:
+A Linux kernel with Speakup modules (in mainline since 2.6.37, in drivers/accessibility since 5.9), plus a hardware synthesizer (DoubleTalk, DECtalk, Apollo and others) or a software synth through espeakup.
+
+Sources:
+Source 1: https://lkml.iu.edu/9810.3/0735.html
+Source 2: http://linux-speakup.org/speakup.html
+Source 3: https://lwn.net/Articles/798258/
+Source 4: https://upd.dev/torvalds/linux/commit/2067fd92d75b6d9085a43caf050bca5d88c491b8
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

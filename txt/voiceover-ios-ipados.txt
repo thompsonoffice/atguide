@@ -28,6 +28,7 @@ Not applicable (software)
 Operating System:
 iOS 3 and later
 Operating system history: VoiceOver versions
+Operating system history: VoiceOver for iOS and iPadOS versions
 
 System Requirements:
 iPhone 3GS or later (first supported hardware)

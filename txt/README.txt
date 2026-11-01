@@ -5,7 +5,7 @@ This folder holds one plain text file for every entry in ATGuide: each device, b
 There is one folder per company. Each folder starts with an About file for the company, then its version histories, then its products in alphabetical order.
 Each entry file has a header, then sections separated by blank lines in this order: Overview, Specs, Physical Description, Features, History, Ports, Operating System, System Requirements, Sources. Facts that could not be found in a source read Not documented.
 
-Totals: 83 companies, 323 devices, software and voices, 20 version histories, 427 files including this README.
+Totals: 84 companies, 324 devices, software and voices, 28 version histories, 437 files including this README.
 
 Index by company:
 
@@ -40,6 +40,11 @@ ALVA BV/ALVA BC640 - BC680.txt
 ALVA BV/ALVA MPO 5500.txt
 ALVA BV/ALVA Satellite 544.txt
 
+Amazon (3 files):
+Amazon/About Amazon.txt
+Amazon/VoiceView versions (version history).txt
+Amazon/VoiceView (Amazon Fire tablets).txt
+
 American Printing House for the Blind (APH) (9 files):
 American Printing House for the Blind (APH)/About American Printing House for the Blind (APH).txt
 American Printing House for the Blind (APH)/APH Braille+ Mobile Manager.txt
@@ -51,10 +56,12 @@ American Printing House for the Blind (APH)/Mantis Q40.txt
 American Printing House for the Blind (APH)/Monarch.txt
 American Printing House for the Blind (APH)/Refreshabraille 18.txt
 
-Apple (44 files):
+Apple (46 files):
 Apple/About Apple.txt
 Apple/VoiceOver versions (version history).txt
 Apple/Siri voices (version history).txt
+Apple/VoiceOver for macOS versions (version history).txt
+Apple/VoiceOver for iOS and iPadOS versions (version history).txt
 Apple/Agnes (Apple).txt
 Apple/Albert (Apple).txt
 Apple/Alex (Apple).txt
@@ -274,8 +281,9 @@ Freedom Scientific/TOPAZ.txt
 Freedom Scientific/TOPAZ OCR.txt
 Freedom Scientific/ZoomText (Windows) - Fusion.txt
 
-GNOME Project (3 files):
+GNOME Project (4 files):
 GNOME Project/About GNOME Project.txt
+GNOME Project/Orca versions (version history).txt
 GNOME Project/Gnopernicus.txt
 GNOME Project/Orca.txt
 
@@ -409,10 +417,12 @@ LevelStar (2 files):
 LevelStar/About LevelStar.txt
 LevelStar/LevelStar Icon Mobile Manager.txt
 
-Linux accessibility community (13 files):
+Linux accessibility community (15 files):
 Linux accessibility community/About Linux accessibility community.txt
 Linux accessibility community/Linux (on blindness devices) (version history).txt
 Linux accessibility community/BRLTTY versions (version history).txt
+Linux accessibility community/Fenrir versions (version history).txt
+Linux accessibility community/Speakup versions (version history).txt
 Linux accessibility community/ADRIANE (Knoppix).txt
 Linux accessibility community/BRLTTY.txt
 Linux accessibility community/Emacspeak.txt
@@ -530,8 +540,9 @@ RC Systems/About RC Systems.txt
 RC Systems/DoubleTalk LT.txt
 RC Systems/DoubleTalk PC.txt
 
-Samsung (2 files):
+Samsung (3 files):
 Samsung/About Samsung.txt
+Samsung/Samsung Voice Assistant versions (version history).txt
 Samsung/Samsung Voice Assistant.txt
 
 Serotek (now Pneuma Solutions) (3 files):
@@ -593,8 +604,9 @@ Votrax/Votrax Personal Speech System.txt
 Votrax/Votrax SC-01 phoneme voice.txt
 Votrax/Votrax Type 'N Talk.txt
 
-Weiliang Li (Jieshuo developer) (2 files):
+Weiliang Li (Jieshuo developer) (3 files):
 Weiliang Li (Jieshuo developer)/About Weiliang Li (Jieshuo developer).txt
+Weiliang Li (Jieshuo developer)/Commentary (Jieshuo) versions (version history).txt
 Weiliang Li (Jieshuo developer)/Jieshuo (Commentary Screen Reader).txt
 
 Zendalona (2 files):

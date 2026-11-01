@@ -29,6 +29,7 @@ Not applicable (software)
 Operating System:
 Samsung Android (TouchWiz / One UI)
 Operating system history: TalkBack and Android screen-reader milestones
+Operating system history: Samsung Voice Assistant versions
 
 System Requirements:
 Not documented

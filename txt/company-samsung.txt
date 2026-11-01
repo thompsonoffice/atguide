@@ -10,7 +10,7 @@ Products:
 Samsung Voice Assistant (Screen Readers, 2015 (Galaxy S6 / Note 5, Android 5.1.1) until One UI 3.1)
 
 Operating System and Software Histories:
-Not documented
+Samsung Voice Assistant versions
 
 Sources:
 Source 1: https://accessibleandroid.com/opinion-why-samsung-google-talkback-separation-is-nothing-but-a-headache/

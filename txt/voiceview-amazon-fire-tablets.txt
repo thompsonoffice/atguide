@@ -1,0 +1,41 @@
+VoiceView (Amazon Fire tablets)
+Company: Amazon
+Category: Screen Readers
+Released: September 2015 (Fire OS 5 'Bellini')
+
+Overview:
+Amazon's own screen reader for Fire tablets, written from scratch to replace the Android TalkBack integration that earlier Fire tablets used.
+
+Specs:
+Developer: Amazon
+Release years: September 2015 (Fire OS 5 'Bellini')
+Runs on: Fire OS 5 and later (Fire tablets)
+Default speech: IVONA voices (Amazon)
+Price: Free, built into Fire tablets
+
+Physical Description:
+Not applicable (software)
+
+Features:
+Not documented
+
+History:
+Amazon said blind customers had called its TalkBack integration among the best on a tablet, but with a long list of requested fixes. Amazon chose a complete rewrite, and VoiceView shipped with Fire OS 5 'Bellini' in September 2015 using IVONA voices. Its features included linear and touch navigation, a wide range of speech rates, new earcons, simplified gestures, a jog-wheel gesture and a built-in tutorial. By 2017 tens of thousands of customers used it, and braille input and output (BAUM, HumanWare, Orbit Reader 20) came to 4th to 7th generation tablets that September.
+
+Ports:
+Not applicable (software)
+
+Operating System:
+Fire OS 5 and later (Fire tablets)
+Operating system history: VoiceView versions
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://blog.the-ebook-reader.com/2015/09/22/fire-os-5-adds-new-accessibility-features-to-fire-tablets/
+Source 2: https://www.aboutamazon.com/news/devices/improving-device-accessibility-for-customers-with-disabilities
+Source 3: https://www.aboutamazon.com/news/devices/introducing-new-accessibility-features-for-amazon-fire-tablets-and-fire-tv
+Source 4: https://www.lifewire.com/history-of-fire-os-4582380
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

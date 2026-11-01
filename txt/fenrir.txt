@@ -28,6 +28,7 @@ Not applicable (software)
 
 Operating System:
 Linux (vcsa, evdev and pty drivers); macOS, BSD and Windows through the pty driver
+Operating system history: Fenrir versions
 
 System Requirements:
 Python 3.3 or later

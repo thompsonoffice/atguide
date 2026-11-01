@@ -1,0 +1,51 @@
+Orca versions
+Company: GNOME Project
+Category: Operating system or software version history
+Versions listed: 7
+
+Overview:
+Orca is the GNOME desktop's free screen reader, written in Python. Marc Mulcahy, a blind programmer at Sun Microsystems, built the first prototype in May 2004. Sun's Accessibility Program Office, led by Willie Walker, carried it to v1.0 in GNOME 2.16 (September 2006), replacing Gnopernicus. After Oracle bought Sun, Walker was laid off (early 2010) and volunteers led by Joanmarie Diggs took over. Igalia hired Diggs on September 7, 2011. Orca follows GNOME's six-month release cycle.
+
+Version History:
+
+Version 1: Prototype
+Released: May 2004
+Notes: First prototype by Marc Mulcahy at Sun.
+
+Version 2: 0.x development releases
+Released: 2004 to 2006
+Notes: Early test releases, ending with v0.9.0.
+
+Version 3: 1.0.0
+Released: September 3, 2006
+Notes: First official release, in GNOME 2.16. It targeted the GNOME desktop, yelp, gedit, gnome-terminal, Evolution 2.8, gaim and OpenOffice 2.0.4/StarOffice, with updated guides, speech-engine fallback and Java/OpenOffice fixes. Shipped in Solaris, Ubuntu and Fedora.
+
+Version 4: 2.17.x
+Released: Late 2006 to early 2007
+Notes: Development series with 'significant usability improvements' over 1.0.
+
+Version 5: 1.0.1
+Released: January 28, 2007
+Notes: Translation-only release for GNOME 2.16.3.
+
+Version 6: Volunteer era
+Released: 2010 onward
+Notes: After Oracle's layoffs, led by Joanmarie Diggs; supported by Igalia from September 2011.
+
+Version 7: 48.1
+Released: May 1, 2025
+Notes: Stable release listed on Wikipedia; Orca now uses GNOME version numbers.
+
+Devices and Software That Ran It:
+Orca (GNOME Project, 2006 to present)
+
+System Requirements:
+Linux or another Unix-like OS with GNOME's AT-SPI accessibility stack, Python, and a speech engine through Speech Dispatcher (eSpeak NG by default on most distributions); BRLTTY for braille.
+
+Sources:
+Source 1: https://mail.gnome.org/archives/gnome-announce-list/2006-September/msg00008.html
+Source 2: https://lists.gnome.org/archives/gnome-announce-list/2007-January/msg00096.html
+Source 3: https://en.wikipedia.org/wiki/Orca(assistivetechnology)
+Source 4: https://lwn.net/Articles/373475/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

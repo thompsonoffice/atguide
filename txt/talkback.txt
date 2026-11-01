@@ -29,6 +29,7 @@ Operating System:
 Android 9 or later (TalkBack 17.1)
 Operating system history: TalkBack and Android screen-reader milestones
 Operating system history: Google speech engines on Android
+Operating system history: Samsung Voice Assistant versions
 
 System Requirements:
 TalkBack 17.1 (September 2026): Android 9 or later

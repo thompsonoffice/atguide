@@ -1,0 +1,36 @@
+Commentary (Jieshuo) versions
+Company: Weiliang Li (Jieshuo developer)
+Category: Operating system or software version history
+Versions listed: 3
+
+Overview:
+Jieshuo ('解说'), known in English as Commentary Screen Reader or CSR and earlier as TalkMan, is an Android screen reader by Chinese developer Weiliang Li. A Czech review says it began as a more capable TalkBack alternative for the developer's brother, who was unhappy with TalkBack. It spread beyond China in April (2019 per the GitHub record) when a Polish user, 'Nuno', translated it into English. Version-by-version release notes were not found in English sources.
+
+Version History:
+
+Version 1: Chinese releases
+Released: About 2017 to 2019
+Notes: Developed in China. The Czech review says development started 'two years' before its 2019 international release.
+
+Version 2: International / English release
+Released: 2019
+Notes: English translation by 'Nuno'; GitHub documentation repository created July 14, 2019.
+
+Version 3: Current feature set
+Released: Not dated
+Notes: Voice assistant with custom commands, OCR anywhere you touch, Commentary Camera for scenes and objects, CAPTCHA recognition, fast translation, virtual screen with object navigation, plugins, sound schemes, per-app gestures, granular editing and selection, list copying, article reading mode, and automatic pausing for braille keyboards. Many advanced features need the paid full version.
+
+Devices and Software That Ran It:
+Jieshuo (Commentary Screen Reader) (Weiliang Li (Jieshuo developer), By 2019 (GitHub repository created July 2019); still active)
+
+System Requirements:
+An ARM 32- or 64-bit Android device (x86 not guaranteed), Android 4.4.2 or later (some features need Android 8 or later), at least 1 GB RAM and 50 MB storage.
+
+Sources:
+Source 1: https://github.com/nirenr/jieshuo/
+Source 2: https://accessibleandroid.com/glossary/jieshuo-2/
+Source 3: https://aryaniraula.com.np/guide-for-jieshuo-commentary-screen-reader/
+Source 4: https://www.portal-pelion.cz/commentary-screen-reader-novy-impuls-v-pristupnosti-androidu-pro-nevidome/
+Source 5: https://blindhelp.net/software/jieshuo
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

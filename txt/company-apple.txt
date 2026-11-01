@@ -52,6 +52,8 @@ Vicki (Apple) (TTS Voices, Mac OS X (first version not documented))
 Operating System and Software Histories:
 VoiceOver versions
 Siri voices
+VoiceOver for macOS versions
+VoiceOver for iOS and iPadOS versions
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/VoiceOver

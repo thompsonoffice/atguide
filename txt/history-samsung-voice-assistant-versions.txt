@@ -1,0 +1,35 @@
+Samsung Voice Assistant versions
+Company: Samsung
+Category: Operating system or software version history
+Versions listed: 3
+
+Overview:
+Samsung's own Android screen reader for Galaxy phones. Reports say it was first called Galaxy TalkBack (Samsung's build of Google's reader) before being renamed Voice Assistant; the exact rename date is not documented in sources checked. Samsung co-developed the 'all-new TalkBack' with Google, and from One UI 3 (Android 11) TalkBack replaced Voice Assistant as the default on all Galaxy devices, keeping its multi-finger gestures and menu ideas.
+
+Version History:
+
+Version 1: Galaxy TalkBack / Voice Assistant
+Released: About 2015 (Galaxy S6 era, per device entry)
+Notes: Samsung-specific screen reader with multi-finger gestures and a quick menu.
+
+Version 2: One UI 3.0 (Android 11)
+Released: Late 2020
+Notes: Voice Assistant removed and replaced by Google TalkBack.
+
+Version 3: TalkBack 9.1 (co-developed)
+Released: February 23, 2021
+Notes: Google and Samsung released the all-new TalkBack: a dozen multi-finger gestures, reading controls, more than 25 voice commands, a customizable menu, and Arabic and Spanish braille keyboards.
+
+Devices and Software That Ran It:
+Samsung Voice Assistant (Samsung, 2015 (Galaxy S6 / Note 5, Android 5.1.1) until One UI 3.1)
+TalkBack (Google, October 2009 (Android 1.6 Donut) to present)
+
+System Requirements:
+Samsung Galaxy phones and tablets running TouchWiz or One UI up to One UI 2.x (Android 10).
+
+Sources:
+Source 1: https://blog.google/products-and-platforms/platforms/android/all-new-talkback/
+Source 2: https://www.androidpolice.com/2020/09/14/heres-the-changelog-for-samsungs-first-one-ui-3-0-beta-based-on-android-11/
+Source 3: https://www.samsung.com/us/sustainability/accessibility/mobile/voice-assistant/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

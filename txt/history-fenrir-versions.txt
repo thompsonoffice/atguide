@@ -1,0 +1,47 @@
+Fenrir versions
+Company: Linux accessibility community
+Category: Operating system or software version history
+Versions listed: 6
+
+Overview:
+A Python 3 user-space screen reader for the Linux console (TTY), by Chrys with Storm Dragon and others. Because it runs in user space, it does not need to be compiled into the kernel like Speakup. The GitHub repository was created on July 4, 2016. Development later moved to the Stormux git server.
+
+Version History:
+
+Version 1: 0.1a0
+Released: October 5, 2016
+Notes: Early alpha uploaded with its history. It needed python-espeak, python-evdev and uinput; braille was not implemented yet.
+
+Version 2: 1.0
+Released: February 7, 2017
+Notes: First stable release, announced by Storm Dragon.
+
+Version 3: 1.9
+Released: Not documented
+Notes: Recommended for production. Speech and sound icons, clipboard history (10 entries), desktop, laptop and PTY layouts, learn mode, spell check and definable windows.
+
+Version 4: 1.9.2
+Released: July 16 (year not documented)
+Notes: Import from the X clipboard, barrier mode for dialog-style windows, better highlight tracking and attribute sound icons.
+
+Version 5: 1.9.6
+Released: February 15 (year not documented)
+Notes: Menu-style macros and a settings menu; reworked Speech Dispatcher driver (voice and language swapped).
+
+Version 6: 1.9.7
+Released: May 17 (year not documented)
+Notes: Device-detection fix, gstreamer driver no longer experimental, Russian translation, real Unicode in VCSA and faster pty backends.
+
+Devices and Software That Ran It:
+Fenrir (Linux accessibility community, Repository July 2016; 1.0 released February 7, 2017)
+
+System Requirements:
+Linux (vcsa, evdev and pty drivers); macOS, BSD and Windows through the pty driver. Python 3.3 or later, python-evdev, pyudev, the uinput kernel module, access to /dev/vcsa and /dev/input, and eSpeak or Speech Dispatcher; sox for sound icons.
+
+Sources:
+Source 1: https://git.stormux.org/storm/fenrir/commit/ee7eb3a9c6688081e55b20b42fa087b2cab8ac38
+Source 2: https://lists.gnome.org/archives/orca-list/2017-February/msg00079.html
+Source 3: https://github.com/chrys87/fenrir
+Source 4: https://github.com/chrys87/fenrir/releases
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

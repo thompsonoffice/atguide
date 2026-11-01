@@ -1,0 +1,98 @@
+VoiceOver for iOS and iPadOS versions
+Company: Apple
+Category: Operating system or software version history
+Versions listed: 18
+
+Overview:
+VoiceOver for iPhone was announced in 36 seconds of the WWDC keynote on June 8, 2009 and shipped on the iPhone 3GS on June 19, 2009. Older iPhones could not run iPhone OS 3 accessibly, so blind users needed a 3GS or the third-generation iPod touch (fall 2009). Before that, the 2008 iPod nano had a 'VoiceOver' made of audio files that iTunes generated. The iPad (2010) was the first Apple product accessible from day one.
+
+Version History:
+
+Version 1: iPod nano 'VoiceOver'
+Released: Spring 2008
+Notes: Spoken menus built from text-to-speech audio files that iTunes generated; iTunes on the Mac became VoiceOver accessible at the same time.
+
+Version 2: iPhone OS 3 (iPhone 3GS)
+Released: June 19, 2009
+Notes: Touch to hear what's under your finger, double-tap to activate, the rotor (two-finger twist), and three-finger scrolling. Shipped with Zoom, White on Black and Mono Audio.
+
+Version 3: iPad / iPhone OS 3.2
+Released: Spring 2010
+Notes: iBooks readable with VoiceOver, the two-finger scrub gesture, and Touch Typing.
+
+Version 4: iOS 4
+Released: Fall 2010
+Notes: Bluetooth keyboards, Bluetooth braille displays, Touch Typing on iPhone, and a web rotor in Safari.
+
+Version 5: iOS 5
+Released: Fall 2011
+Notes: VoiceOver usable during setup (triple-click Home starts it), enhanced voices, the Item Chooser, web keyboard shortcuts, custom labels, rotor customization, and face detection in Camera.
+
+Version 6: iOS 6
+Released: Fall 2012
+Notes: VoiceOver Actions (flick up or down) and Maps' Pause to Follow and points-of-interest rotor. Last iOS for the iPhone 3GS.
+
+Version 7: iOS 7
+Released: Fall 2013
+Notes: VoiceOver Handwriting, Switch Control, and Accessibility moved near the top of Settings.
+
+Version 8: iOS 8
+Released: Fall 2014
+Notes: Braille Screen Input, Direct Touch Typing, the Alex voice from macOS, and Speak Screen.
+
+Version 9: iOS 9
+Released: Fall 2015
+Notes: 3D Touch Peek and Pop, Split View gestures, and text-selection rotor changes.
+
+Version 10: iOS 10
+Released: Fall 2016
+Notes: Pronunciation editor, audio routing, and basic image descriptions in Photos.
+
+Version 11: iOS 11
+Released: Fall 2017
+Notes: Drag and drop, iPhone X gestures, multi-app moving, and Type to Siri.
+
+Version 12: iOS 12
+Released: Fall 2018
+Notes: Fixes for many iOS 11 braille and VoiceOver bugs.
+
+Version 13: iOS 13
+Released: Fall 2019
+Notes: Continued braille improvements; Voice Control.
+
+Version 14: iOS 14
+Released: Fall 2020
+Notes: Screen Recognition, which uses on-device machine learning to label unlabeled buttons and controls, plus image descriptions and text recognition.
+
+Version 15: iOS 15
+Released: Fall 2021
+Notes: Richer image descriptions and Live Text in VoiceOver.
+
+Version 16: iOS 16
+Released: Fall 2022
+Notes: Magnifier Detection Mode with Door Detection, People Detection and Image Descriptions; 20+ new languages.
+
+Version 17: iOS 17
+Released: Fall 2023
+Notes: Point and Speak in Magnifier, which reads labels on physical buttons using LiDAR; Personal Voice and Live Speech.
+
+Version 18: iOS 18
+Released: Fall 2024
+Notes: Configurable voices, rotor and audio ducking, new tutorials, haptics, and live-region announcements.
+
+Devices and Software That Ran It:
+VoiceOver (iOS / iPadOS) (Apple, iPhone 3GS (2009) to present)
+
+System Requirements:
+iPhone 3GS or later, or third-generation iPod touch or later, on iPhone OS 3 or later; each later iOS version follows Apple's hardware support list. iOS 6 was the last version for the iPhone 3GS.
+
+Sources:
+Source 1: https://www.macstories.net/stories/a-timeline-of-ios-accessibility-it-started-with-36-seconds/
+Source 2: https://www.applevis.com/blog/voiceover-turns-10
+Source 3: https://www.perkins.org/resource/ios-14-screen-recognition/
+Source 4: https://support.apple.com/en-us/111799
+Source 5: https://www.apple.com/newsroom/2022/05/apple-previews-innovative-accessibility-features/
+Source 6: https://www.apple.com/newsroom/2023/05/apple-previews-live-speech-personal-voice-and-more-new-accessibility-features/
+Source 7: https://www.afb.org/blog/entry/ios-18-accessibility-features
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

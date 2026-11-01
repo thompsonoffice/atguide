@@ -30,6 +30,7 @@ Not applicable (software)
 Operating System:
 Mac OS X 10.4 and later
 Operating system history: VoiceOver versions
+Operating system history: VoiceOver for macOS versions
 
 System Requirements:
 Included with Mac OS X 10.4 and later

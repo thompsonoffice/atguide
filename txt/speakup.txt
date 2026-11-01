@@ -27,6 +27,7 @@ Not applicable (software)
 
 Operating System:
 Linux (kernel)
+Operating system history: Speakup versions
 
 System Requirements:
 1998 alpha: Linux kernels 2.1.123 or 2.1.125 and a DoubleTalk synthesizer

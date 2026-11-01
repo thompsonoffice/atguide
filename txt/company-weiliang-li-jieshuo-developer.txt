@@ -10,7 +10,7 @@ Products:
 Jieshuo (Commentary Screen Reader) (Screen Readers, By 2019 (GitHub repository created July 2019); still active)
 
 Operating System and Software Histories:
-Not documented
+Commentary (Jieshuo) versions
 
 Sources:
 Source 1: https://accessibleandroid.com/glossary/jieshuo-2/
