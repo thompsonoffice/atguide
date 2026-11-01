@@ -1,0 +1,50 @@
+Fora V22
+Company: Fora Care
+Category: Miscellaneous
+Released: On the US market by 2012 (AccessWorld review)
+
+Overview:
+A slim talking glucose meter with a round screen and built-in rechargeable battery.
+
+Specs:
+Released: On the US market by 2012 (AccessWorld review)
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Built-in rechargeable (charges over mini-USB)
+Display or braille cells: Not documented
+Speech synthesizers available: Not documented
+Price at launch: $80 (AccessWorld, 2012)
+Used price today (eBay): Not documented
+
+Physical Description:
+Not documented
+
+Detailed Description:
+The Fora V22 is the slimmest of the talking meters AccessWorld tested in 2012: 3.75 by 2.00 by 0.44 inches and 1.76 ounces.
+Its 1.2 by 1.6 inch screen is circular. The buttons sit below it in a ring. The slightly recessed power button is in the center, Repeat and Settings are to its right, and the up and down buttons are to its left. The labels are printed, not raised.
+A strip-eject slider with raised bumps is to the left of the display. The speaker is directly below the power button.
+It has a built-in rechargeable battery. A recessed LED on the right of the front glows red while charging and green when full. On the bottom panel are a 3.5 mm headphone jack on the right and a mini-USB port under a rubber flap with raised lightning-bolt and USB symbols. A lanyard slot is in the corner.
+AccessWorld found most buttons nearly flush and hard to feel, though usable with practice. It stores 450 readings with spoken averages.
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/13/2/15850
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -5,7 +5,7 @@ This folder holds one plain text file for every entry in ATGuide: each device, b
 There is one folder per company. Each folder starts with an About file for the company, then its version histories, then its products in alphabetical order.
 Each entry file has a header, then sections separated by blank lines in this order: Overview, Specs, Physical Description, Features, History, Ports, Operating System, System Requirements, Sources. Facts that could not be found in a source read Not documented.
 
-Totals: 84 companies, 325 devices, software and voices, 28 version histories, 438 files including this README.
+Totals: 90 companies, 333 devices, software and voices, 28 version histories, 452 files including this README.
 
 Index by company:
 
@@ -131,6 +131,10 @@ Berkeley Systems/outSPOKEN versions (version history).txt
 Berkeley Systems/outSPOKEN for Macintosh.txt
 Berkeley Systems/outSPOKEN for Windows.txt
 
+BioSense Medical Devices (2 files):
+BioSense Medical Devices/About BioSense Medical Devices.txt
+BioSense Medical Devices/Solo V2.txt
+
 Blazie Engineering (12 files):
 Blazie Engineering/About Blazie Engineering.txt
 Blazie Engineering/Braille 'n Speak firmware (version history).txt
@@ -159,6 +163,10 @@ Braillo/Braillo 440 SF.txt
 Bristol Braille Technology (2 files):
 Bristol Braille Technology/About Bristol Braille Technology.txt
 Bristol Braille Technology/Canute 360.txt
+
+Caretec (2 files):
+Caretec/About Caretec.txt
+Caretec/Colorino.txt
 
 Carnegie Mellon University (2 files):
 Carnegie Mellon University/About Carnegie Mellon University.txt
@@ -235,6 +243,10 @@ Envision/About Envision.txt
 Envision/Ally Solos Glasses.txt
 Envision/Envision Glasses.txt
 
+Eone (2 files):
+Eone/About Eone.txt
+Eone/Bradley tactile watch.txt
+
 eSight (6 files):
 eSight/About eSight.txt
 eSight/eSight (1st generation).txt
@@ -260,6 +272,11 @@ F.H. Papenmeier (3 files):
 F.H. Papenmeier/About F.H. Papenmeier.txt
 F.H. Papenmeier/BRAILLEX.txt
 F.H. Papenmeier/Papenmeier ELBA.txt
+
+Fora Care (3 files):
+Fora Care/About Fora Care.txt
+Fora Care/Fora V20.txt
+Fora Care/Fora V22.txt
 
 Freedom Scientific (18 files):
 Freedom Scientific/About Freedom Scientific.txt
@@ -501,9 +518,10 @@ Optelec/Optelec ClearView C.txt
 Optelec/Optelec Compact+.txt
 Optelec/Optelec Traveller HD.txt
 
-Orbit Research (7 files):
+Orbit Research (8 files):
 Orbit Research/About Orbit Research.txt
 Orbit Research/Graphiti.txt
+Orbit Research/iBill Talking Banknote Identifier.txt
 Orbit Research/Orbit Reader 20.txt
 Orbit Research/Orbit Reader 40.txt
 Orbit Research/Orbit Reader Q40.txt
@@ -521,6 +539,10 @@ Perkins School for the Blind - Perkins Products/About Perkins School for the Bli
 Perkins School for the Blind - Perkins Products/Perkins 80-cell display (Seika).txt
 Perkins School for the Blind - Perkins Products/Perkins Brailler.txt
 Perkins School for the Blind - Perkins Products/SMART Brailler.txt
+
+Prodigy Diabetes Care (2 files):
+Prodigy Diabetes Care/About Prodigy Diabetes Care.txt
+Prodigy Diabetes Care/Prodigy Voice.txt
 
 Prudence Interactive (2 files):
 Prudence Interactive/About Prudence Interactive.txt
@@ -540,6 +562,10 @@ RC Systems (3 files):
 RC Systems/About RC Systems.txt
 RC Systems/DoubleTalk LT.txt
 RC Systems/DoubleTalk PC.txt
+
+RNIB (Royal National Institute of Blind People) (2 files):
+RNIB (Royal National Institute of Blind People)/About RNIB (Royal National Institute of Blind People).txt
+RNIB (Royal National Institute of Blind People)/PENfriend 3 audio labeller.txt
 
 Samsung (3 files):
 Samsung/About Samsung.txt

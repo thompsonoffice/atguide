@@ -1,0 +1,51 @@
+Prodigy Voice
+Company: Prodigy Diabetes Care
+Category: Miscellaneous
+Released: 2007 (since updated)
+
+Overview:
+A fully talking blood glucose meter, rated the most accessible of four talking meters by AFB Tech.
+
+Specs:
+Released: 2007 (since updated)
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 1.2 × 1.5 in monochrome display, 0.63 in characters, 83.6% contrast
+Speech synthesizers available: Not documented
+Price at launch: $40 (AccessWorld, 2012)
+Used price today (eBay): Not documented
+
+Physical Description:
+Not documented
+
+Detailed Description:
+The Prodigy Voice is a blood glucose meter that speaks every step: setup, testing, results, memory, settings, warnings and errors. AccessWorld measured it at 2.2 by 4.0 by 0.8 inches and 2.4 ounces.
+On the front is a 1.2 by 1.5 inch black-on-gray display. Three control buttons sit below it and two direction buttons to its right. The largest is the round power button on the right, with a raised M; it also opens Memory Recall. The middle button is a triangle with a raised S for Settings. The left one has a raised left arrow and repeats the last spoken message. The up and down buttons have raised arrows.
+The speaker is below the control buttons. A 3.5 mm headphone jack near the bottom of the right side gives private listening, and below it a mini-USB port sends results to Prodigy's software. A lanyard slot is on the bottom left.
+Strips need no coding and use capillary action, so a 0.6 microliter sample is drawn in. A tactile notch shows where to insert the strip. The meter speaks results in 6 or 7 seconds and warns 'Not enough blood' to help avoid false lows.
+It stores 450 readings with spoken 7-, 14-, 21-, 28-, 60- and 90-day averages, and in 2012 it cost about $40. AFB Tech found its buttons among the easiest to tell apart by touch and its display the highest-contrast of the meters tested.
+
+Features:
+Not documented
+
+History:
+AccessWorld says it first came on the market in 2007. AFB's 2012 update found 13 talking meters but only four that spoke every feature, and rated the Prodigy Voice best overall.
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/13/2/15850
+Source 2: https://prodigymeter.com/prodigy-voice/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

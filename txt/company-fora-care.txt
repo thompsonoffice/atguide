@@ -1,0 +1,19 @@
+Fora Care
+Type: Company profile
+Founded: Not stated in the sources used; Newbury Park, California (US office)
+Products listed: 2
+
+History:
+Maker of the Fora V20 and V22 talking blood glucose meters, both reviewed by AccessWorld as having comprehensive speech output.
+
+Products:
+Fora V20 (Miscellaneous, On the US market by 2012 (AccessWorld review))
+Fora V22 (Miscellaneous, On the US market by 2012 (AccessWorld review))
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/13/2/15850
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,19 @@
+RNIB (Royal National Institute of Blind People)
+Type: Company profile
+Founded: 1868
+Products listed: 1
+
+History:
+The UK's leading sight-loss charity. It sells daily-living products, including the PENfriend audio labeller, which RNIB says is exclusively available from it in the UK.
+
+Products:
+PENfriend 3 audio labeller (Miscellaneous, Current product (RNIB DL128))
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://www.rnib.org.uk/living-with-sight-loss/independent-living/labelling/
+Source 2: https://shop.rnib.org.uk/products/rnib-penfriend-3-audio-labeller
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

@@ -1,0 +1,18 @@
+Caretec
+Type: Company profile
+Founded: Not stated on its product pages (Austrian maker based in Graz)
+Products listed: 1
+
+History:
+An Austrian maker of daily-living aids for blind people, including the Colorino talking color and light detector and the Color Star color identifiers.
+
+Products:
+Colorino (Miscellaneous, Current product (Caretec SKU 14000))
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://www.caretec.at/product/colorino-color-and-light-detector/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

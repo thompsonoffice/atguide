@@ -1,0 +1,19 @@
+Prodigy Diabetes Care
+Type: Company profile
+Founded: Not stated in the sources used; Charlotte, North Carolina
+Products listed: 1
+
+History:
+Maker of the Prodigy Voice talking blood glucose meter, first sold in 2007, which AFB Tech rated the most accessible of four fully talking meters in 2012.
+
+Products:
+Prodigy Voice (Miscellaneous, 2007 (since updated))
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/13/2/15850
+Source 2: https://prodigymeter.com/prodigy-voice/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

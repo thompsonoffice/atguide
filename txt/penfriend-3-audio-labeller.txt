@@ -1,0 +1,51 @@
+PENfriend 3 audio labeller
+Company: RNIB (Royal National Institute of Blind People)
+Category: Miscellaneous
+Released: Current product (RNIB DL128)
+
+Overview:
+A pen-shaped recorder that plays your own voice labels when touched to a coded sticker.
+
+Specs:
+Released: Current product (RNIB DL128)
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: 16 GB internal (about 250 hours), SD card up to 32 GB
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Speech synthesizers available: Not documented
+Price at launch: £114 inc. VAT (RNIB shop)
+Used price today (eBay): Not documented
+
+Physical Description:
+Not documented
+
+Detailed Description:
+The PENfriend 3 is a talking pen for labelling things around the home. You stick a coded label on an item, touch the pen tip to it and record a message. Touch the label again later and the pen plays your recording back.
+It is a slim black pen, 15 cm long, 2.5 cm wide and 2 cm deep, with a 1 cm tip. It weighs 54 grams without its lanyard and has four tactile yellow buttons.
+Each label holds up to an hour of audio, and labels can be re-recorded. The 16 GB internal memory holds about 250 hours of recordings, and an SD card adds up to 32 GB. Recordings can be backed up and restored with a computer.
+In the box are 21 rectangular tactile labels, 84 small round orange and yellow labels, a key fob with four recording spots and a lanyard. RNIB suggests uses such as freezer food with use-by dates and cooking instructions, clothing colors and washing care, medicines, paperwork and seed packets.
+It doubles as an MP3 music player and talking-book player. RNIB lists it at £114 including VAT, and eligible buyers can get VAT relief.
+
+Features:
+Not documented
+
+History:
+RNIB sells it exclusively in the UK. It is made with TouchSpot Audio Limited and also plays MP3 music and talking books.
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://shop.rnib.org.uk/products/rnib-penfriend-3-audio-labeller
+Source 2: https://www.rnib.org.uk/living-with-sight-loss/independent-living/labelling/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

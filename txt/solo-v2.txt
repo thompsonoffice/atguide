@@ -1,0 +1,50 @@
+Solo V2
+Company: BioSense Medical Devices
+Category: Miscellaneous
+Released: On the US market by 2012 (AccessWorld review)
+
+Overview:
+A low-cost talking blood glucose meter with very large display characters.
+
+Specs:
+Released: On the US market by 2012 (AccessWorld review)
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: 1.5 × 1.9 in display with 1-inch characters
+Speech synthesizers available: Not documented
+Price at launch: $17 (AccessWorld, 2012)
+Used price today (eBay): Not documented
+
+Physical Description:
+Not documented
+
+Detailed Description:
+The Solo V2 from BioSense Medical Devices was the cheapest fully talking meter in AccessWorld's 2012 review, at $17. It measures 3.92 by 2.16 by 0.71 inches and weighs 2.2 ounces.
+Below its 1.5 by 1.9 inch display are two joined buttons: Power and Memory on the left, Repeat on the right. Their icons are not tactile, and AccessWorld found them hard to tell apart. The speaker is beneath them.
+On the top of the right side are up and down buttons with raised arrows and, below them, a small round Settings button. These need considerable force to press. A mini-USB data port is at the bottom of the right side. There is no headphone jack.
+It holds 500 readings, more than the other meters tested, and has an alarm setting. It does not speak the time of past readings, though the screen shows it.
+For people with low vision, its 1-inch characters were the largest of any meter tested, with a 73.9% contrast ratio.
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/13/2/15850
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

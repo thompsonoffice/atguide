@@ -1,0 +1,50 @@
+Fora V20
+Company: Fora Care
+Category: Miscellaneous
+Released: On the US market by 2012 (AccessWorld review)
+
+Overview:
+A talking blood glucose meter with a strip-eject slider and full speech output.
+
+Specs:
+Released: On the US market by 2012 (AccessWorld review)
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Speech synthesizers available: Not documented
+Price at launch: $70 (AccessWorld, 2012)
+Used price today (eBay): Not documented
+
+Physical Description:
+Not documented
+
+Detailed Description:
+The Fora V20 is a talking blood glucose meter from Fora Care. AccessWorld measured it at 3.69 by 2.25 by 0.78 inches and 2.08 ounces.
+A 1.2 by 1.5 inch black-on-gray display sits above three buttons. The right-most is Power and Memory Recall, with a raised circle around an M. The middle is Settings, with a raised square around an S. The left repeats the last spoken message and has a raised left-pointing arrow. Up and down buttons with raised arrows are to the right of the display.
+A strip-eject slider on the top right side pushes used strips out, so you never touch them. The speaker is below the Repeat and Settings buttons.
+A 3.5 mm headphone jack is on the bottom left side, with a rubber-covered data port marked PC in raised letters below it. A lanyard slot is on the bottom right.
+It stores 450 readings and speaks 7- to 90-day averages, with a language setting. AccessWorld found its buttons among the easiest to tell apart, but its PC software and electronic manual were not screen-reader accessible.
+
+Features:
+Not documented
+
+History:
+Not documented
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/13/2/15850
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

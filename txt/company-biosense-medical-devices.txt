@@ -1,0 +1,18 @@
+BioSense Medical Devices
+Type: Company profile
+Founded: Not stated in the sources used; Duluth, Georgia
+Products listed: 1
+
+History:
+Maker of the Solo V2 talking blood glucose meter ($17 in AccessWorld's 2012 review).
+
+Products:
+Solo V2 (Miscellaneous, On the US market by 2012 (AccessWorld review))
+
+Operating System and Software Histories:
+Not documented
+
+Sources:
+Source 1: https://afb.org/aw/13/2/15850
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

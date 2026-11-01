@@ -1,0 +1,51 @@
+Colorino
+Company: Caretec
+Category: Miscellaneous
+Released: Current product (Caretec SKU 14000)
+
+Overview:
+A talking color identifier and light detector that recognizes over 150 color shades.
+
+Specs:
+Released: Current product (Caretec SKU 14000)
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: 2 × 1.5 V AAA batteries (the maker's Q&A warns that 1.2 V rechargeables may only beep)
+Display or braille cells: None; speech output in natural language, 3 volume levels
+Speech synthesizers available: Not documented
+Price at launch: Not documented
+Used price today (eBay): Not documented
+
+Physical Description:
+Not documented
+
+Detailed Description:
+The Colorino is a handheld talking color identifier from the Austrian company Caretec. You hold its tip against clothing, a wall or any surface and it speaks the color in plain language. It recognizes over 150 shades.
+It is a small bar about 110 mm long, 52 mm wide and 25 mm thick, and weighs 84 grams with its batteries. The body is black, red and yellow.
+It works with just two keys. A built-in loudspeaker has three volume levels, and a 3.5 mm headphone jack lets you hear results privately.
+It also detects light, sounding a tone whose pitch shows how bright a light source is, so you can tell whether a lamp is on or find a window. Caretec says it can tell natural from artificial light and measure contrast and brightness.
+It runs on two 1.5 V AAA batteries. In the box are the device, batteries, a textile case and printed instructions. Caretec's Q&A notes that 1.2 V rechargeable cells may make it only beep without speaking.
+
+Features:
+Not documented
+
+History:
+Caretec markets the Colorino as already in daily use by many people around the world. It sits below Caretec's Color Star and Color Star Pro, which name more than 1,700 shades.
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.caretec.at/product/colorino-color-and-light-detector/
+Source 2: https://shop.rnib.org.uk/products/colorino-talking-colour-identifier-and-light-detector
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

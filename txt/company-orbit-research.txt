@@ -1,7 +1,7 @@
 Orbit Research
 Type: Company profile
 Founded: 1998
-Products listed: 6
+Products listed: 7
 
 History:
 Founded by Venkatesh Chari. Makes low-cost braille: the Orbit Reader 20 (for APH, 2017), Orbit Reader 40, the Graphiti tactile graphics display (2016), the Orbit Speak (2022), the Slate multiline displays (2022) and the Orbit Reader Q40 (2025).
@@ -13,6 +13,7 @@ Orbit Reader 40 (Braille Displays, Announced March 11, 2020 (CSUN))
 Orbit Slate 340 / 520 (Braille Displays, 2022)
 Orbit Speak (Notetakers, March 2022)
 Orbit Reader Q40 (Braille Displays, 2025)
+iBill Talking Banknote Identifier (Miscellaneous, Current product; given free by the US Bureau of Engraving and Printing (BEP) through its U.S. Currency Reader Program)
 
 Operating System and Software Histories:
 Not documented

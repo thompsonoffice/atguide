@@ -1,0 +1,51 @@
+Bradley tactile watch
+Company: Eone
+Category: Miscellaneous
+Released: Kickstarter mid-2013; first batch planned for November 2013
+
+Overview:
+A titanium watch read by touch, with ball bearings for the hours and minutes.
+
+Specs:
+Released: Kickstarter mid-2013; first batch planned for November 2013
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Quartz (Ronda movement)
+Display or braille cells: Tactile dial; no crystal
+Speech synthesizers available: Not documented
+Price at launch: No verified launch price; the 2013 Kickstarter is cited in the Boston Globe and SJX
+Used price today (eBay): Not documented
+
+Physical Description:
+Not documented
+
+Detailed Description:
+The Bradley is a wristwatch you read by touch. It looks like an ordinary modern watch: a 40 mm titanium case with a Ronda quartz movement inside.
+There is no crystal over the dial, so your fingers can reach it. Raised markers around the face show the hours. The 12 o'clock marker is a triangle, and the 3, 6 and 9 markers are elongated so you can find the quarters.
+Time is shown by two small ball bearings instead of hands. One rolls in a track on the face for the minutes, and the other runs around the outside edge of the case for the hours. The movement drives them with magnets.
+If the bearings are knocked out of place you can nudge them freely, and a few shakes snap them back to the correct time. You set the time with the crown.
+Eone designed it with blind testers, who did not want a watch that drew attention to their disability. It is named after Navy veteran and Paralympic gold medalist Bradley Snyder, and SJX reported that most buyers are sighted people who like checking the time discreetly.
+
+Features:
+Not documented
+
+History:
+Named for Paralympic swimmer Bradley Snyder, who lost his sight to an IED in Afghanistan. Founder Hyungsoo Kim designed it so blind wearers would not wear something that called attention to their disability. By 2014 SJX reported that only 1 to 2% of buyers were blind.
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.bostonglobe.com/business/2013/07/11/watch-for-blind-kickstarter/0dt8VUnqc0hZ3z3gxUXROP/story.html
+Source 2: https://watchesbysjx.com/2014/04/introducing-the-eone-bradley-a-tactile-way-to-tell-the-time.html
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

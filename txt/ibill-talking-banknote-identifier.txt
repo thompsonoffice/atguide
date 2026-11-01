@@ -1,0 +1,55 @@
+iBill Talking Banknote Identifier
+Company: Orbit Research
+Category: Miscellaneous
+Released: Current product; given free by the US Bureau of Engraving and Printing (BEP) through its U.S. Currency Reader Program
+
+Overview:
+A key-fob-sized reader that names US banknotes by voice, tones or vibration.
+
+Specs:
+Released: Current product; given free by the US Bureau of Engraving and Printing (BEP) through its U.S. Currency Reader Program
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: Not documented
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: One AAA battery, typically lasting about a year
+Display or braille cells: None; speech, tone or vibration output
+Speech synthesizers available: Not documented
+Price at launch: $99 (Orbit Research product brief); free through the BEP program
+Used price today (eBay): Rarely resold, since eligible US users get one free from the BEP
+
+Physical Description:
+Not documented
+
+Detailed Description:
+The iBill is a small currency reader from Orbit Research. Orbit describes it as an ultra-slim key-fob design, 3.0 × 1.6 × 0.7 inches, that clips to a key ring or lanyard.
+To use it, you slide a bill into the slot and press the button on the side. It announces the denomination in a clear female voice, or for privacy as a pattern of tones or vibrations. The vibration mode also serves people who are deaf-blind.
+It has just two buttons and a case of engineering-grade polycarbonate. Orbit says most bills are identified in under a second, with better than 99.9% accuracy, in any orientation. Torn or badly defaced bills are reported as unidentifiable rather than guessed.
+It runs on a single user-replaceable AAA battery, which Orbit says lasts over a year with typical use. It can be updated to recognize new banknote designs. Orbit sells it with large-print and audio manuals.
+Under the BEP's U.S. Currency Reader Program, eligible blind or visually impaired US citizens and legal residents get one iBill free, with lost or broken units replaced through a toll-free line.
+
+Features:
+Identifies $1, $2, $5, $10, $20, $50 and $100 bills
+Voice, tone or vibration modes
+Reads bills in any orientation
+Flags bills it cannot identify instead of guessing
+Two buttons
+
+History:
+Orbit Research sells the iBill for $99. The BEP gives one free to any blind or visually impaired US citizen or legal resident through its U.S. Currency Reader Program. Large-print, braille and CD instructions are included.
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.orbitresearch.com/wp-content/uploads/2017/04/Ibill-Txt.txt
+Source 2: https://www.bep.gov/services/currency-accessibility/us-currency-reader-program/us-currency-reader-program-faqs/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/
