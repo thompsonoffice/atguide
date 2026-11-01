@@ -15,12 +15,16 @@ Operating system: Not documented
 Default speech synthesizer: Built-in Blazie speech (Votrax SSI-263 in early units, DoubleTalk chip later)
 Battery: Not documented
 Display or braille cells: Not documented
-Speech synthesizers available: Not documented
-Price at launch: Not documented
-Used price today (eBay): Not documented
+Speech synthesizers available: Built-in Blazie speech only
+Price at launch: $895 (1987 original)
+Used price today (eBay): No current eBay listings or eBay sold prices for complete units were found. Blind Bargains has posted eBay finds of a likely-working Braille 'n Speak for $59.97 and units starting at $50 (dates not given).
 
 Physical Description:
 Not documented
+
+Detailed Description:
+'Braille 'n Speak Classic' is the name later given to the original 1987 Braille 'n Speak after larger-memory models arrived. Blazie Technologies' 2025 retrospective says it had 180K of storage in 45 pages of 4,096 characters each, plus a help file of no more than one page.
+Physically it is the original Braille 'n Speak: a flat box about the size of a videocassette, with six braille dot keys and a space bar laid out like a Perkins braillewriter, and speech output instead of a braille display. See the Braille 'n Speak entry for its full description.
 
 Features:
 Braille keyboard
@@ -46,5 +50,7 @@ Source 1: https://blazietech.com
 Source 2: https://www.vogons.org/viewtopic.php?t=46333
 Source 3: http://linux-speakup.org/pipermail/speakup/2002-May/014709.html
 Source 4: https://sites.aph.org/museum-virtual-exhibit/vex2/2AEEBF8E-D463-4207-AA5A-417408112058.htm
+Source 5: https://www.blazietech.com/post/from-braille-n-speak-to-bt-speak-a-personal-reflection
+Source 6: https://www.blindbargains.com/ebay.php?num=6
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

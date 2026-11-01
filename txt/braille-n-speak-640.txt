@@ -15,18 +15,23 @@ Operating system: Not documented
 Default speech synthesizer: Built-in Blazie speech
 Battery: Built-in rechargeable
 Display or braille cells: Not documented
-Speech synthesizers available: Not documented
+Speech synthesizers available: Built-in Blazie speech only
 Price at launch: Not documented
-Used price today (eBay): Not documented
+Used price today (eBay): No current eBay listings or eBay sold prices for complete units were found. Blind Bargains has posted eBay finds of a likely-working Braille 'n Speak for $59.97 and units starting at $50 (dates not given).
 
 Physical Description:
 About 4.1 x 4.1 x 0.9 inches (APH museum unit); sand-colored plastic case with seven braille keys.
+
+Detailed Description:
+The Braille 'n Speak 640 is the 1991 successor to the original Braille 'n Speak, named for its 640K of file memory. Blazie introduced it in October 1991. It could run third-party programs written by outside developers.
+The APH museum unit measures about 4.1 x 4.1 x 0.9 in and has a sand-colored plastic case with seven braille keys (six dot keys and a space bar) in Perkins order. Like every Braille 'n Speak it has no braille display; it speaks.
+Like the original it combined a notetaker, Grade 2 braille-to-print translator, clock, calendar, phone book and calculator. It could also connect to a computer as a terminal or speech synthesizer. The exact port layout is not documented in the sources found.
 
 Features:
 Not documented
 
 History:
-Introduced in October 1991. APH added it to its catalog in 1996 (not available on quota).
+Blazie Engineering introduced it in October 1991, with more storage and room for added features, including third-party programs written by outside developers. Owners of older units could get hardware upgrades. One owner reported upgrading an original unit into a '640 with super flash, and double speed'.
 Predecessors: Braille 'n Speak (original) (Blazie Engineering, 1987 to 1990s)
 Successors: Braille 'n Speak 2000 (Blazie Engineering, 1999 (APH catalog entry))
 
@@ -42,5 +47,6 @@ Not documented
 Sources:
 Source 1: https://www.blazietech.com/post/from-braille-n-speak-to-bt-speak-a-personal-reflection
 Source 2: https://sites.aph.org/museum-virtual-exhibit/vex2/2AEEBF8E-D463-4207-AA5A-417408112058.htm
+Source 3: https://www.blindbargains.com/ebay.php?num=6
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

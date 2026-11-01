@@ -13,24 +13,31 @@ Memory (RAM): 768 KB
 Storage: 2 MB flash
 Operating system: Not documented
 Default speech synthesizer: DoubleTalk chip (later Blazie models)
-Battery: Not documented
+Battery: Internal rechargeable; 20 to 24 hours of use, 2 to 4 hours to fully charge (manual)
 Display or braille cells: Not documented
-Speech synthesizers available: Not documented
+Speech synthesizers available: Built-in DoubleTalk-based Blazie speech; it can also serve as an external speech synthesizer for a PC screen reader
 Price at launch: Not documented
-Used price today (eBay): Not documented
+Used price today (eBay): No current eBay listings or eBay sold prices for complete units were found. Blind Bargains has posted eBay finds of a likely-working Braille 'n Speak for $59.97 and units starting at $50 (dates not given).
 
 Physical Description:
 Under 1 lb (Freedom Scientific manual).
+
+Detailed Description:
+The Braille 'n Speak 2000 is the late-1990s Braille 'n Speak: a pocket talking notetaker with a braille keyboard and no braille display. It holds 768 KB of RAM (over 2,700 braille pages, per THE Journal) plus 2 MB of flash memory. It works as a word processor, Grade 2 braille-to-print translator, clock, calendar, address book and calculator, and as a speech synthesizer for a computer.
+According to its manual it is about the size of a videocassette, a flat rectangle under one pound; THE Journal described it as a two-pound product. Rubber feet on the bottom keep it from sliding while you type. You use it with the space bar nearest you, the same way you would sit at a braillewriter.
+The keyboard is the standard seven-key Perkins layout: dots 1, 2 and 3 under the left hand, dots 4, 5 and 6 under the right, and a space bar in the middle front. Commands are chords typed while holding the space bar.
+From the front right corner, slide your finger toward the back: about halfway along the right side is a rocker on/off switch (rock it away from you to turn on, toward you to turn off), with an earphone jack just behind it. On the left side is an indented rectangular opening with two identical round DIN serial ports separated by two small vertical bars, and the AC adapter jack is just behind that opening. The serial ports connect to a computer, modem, printer, another Braille 'n Speak, a Braille Lite or a portable disk drive.
+It runs 20 to 24 hours on its built-in battery and recharges fully in 2 to 4 hours. It warns you when the battery is low and has a Battery Use Timer. It supported 15 languages, two at a time, and owners could install their own software upgrades. Its color is not documented in the sources found.
 
 Features:
 Not documented
 
 History:
-The NFB's Braille Monitor (April 1997) reported the recent release of the Braille 'n Speak 2000, a stand-alone word processor with voice output.
+THE Journal (March 1997) described the Braille 'n Speak 2000 as a stand-alone word processor with voice output, a speech synthesizer and a braille-to-print translator. It had 20% more RAM than the previous model, enough for over 2,700 braille pages or 780 typed pages. It came in 15 languages, could hold two at once and switch between them with one command, and could read IBM-compatible disks. Other improvements were new connectors, longer-lasting batteries and owner-installable software upgrades.
 Predecessors: Braille 'n Speak Classic (Blazie Engineering, Name later given to the original line)
 
 Ports:
-Not documented
+Two identical round DIN serial ports in a recessed rectangular opening on the left side, with the AC adapter and charger jack behind them; earphone jack on the right side behind the power switch (also usable for an external speaker or tape recorder). An optional portable disk drive connects by serial.
 
 Operating System:
 Not documented
@@ -44,5 +51,8 @@ Source 1: https://www.freedomscientific.com
 Source 2: https://nfb.org/sites/nfb.org/files/images/nfb/publications/bm/bm97/bm970415.htm
 Source 3: https://sites.aph.org/museum-virtual-exhibit/vex2/2AEEBF8E-D463-4207-AA5A-417408112058.htm
 Source 4: http://linux-speakup.org/pipermail/speakup/2002-May/014709.html
+Source 5: https://support.freedomscientific.com/Content/Documents/Manuals/Legacy/BrailleNSpeakDocs/BrailleNSpeakUserMan.txt
+Source 6: https://thejournal.com/articles/1997/03/01/word-processing-unit-aids-visually-impaired.aspx
+Source 7: https://www.blindbargains.com/ebay.php?num=6
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
