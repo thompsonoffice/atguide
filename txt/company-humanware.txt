@@ -1,7 +1,7 @@
 HumanWare
 Type: Company profile
 Founded: 2005 (as HumanWare Group)
-Products listed: 23
+Products listed: 24
 
 History:
 Originally the US distributor for Pulse Data. Pulse Data bought it in 2001, and the 2005 merger with VisuAide created the HumanWare Group (Longueuil, Quebec, and Christchurch). Product lines: BrailleNote, Victor Reader, Brailliant, explorē and Connect magnifiers, the DeafBlind Communicator and, with APH, the Mantis, Chameleon and Monarch.
@@ -25,7 +25,8 @@ Connect 12 (Magnifiers, 2nd generation 2017; current tablet on Android 12)
 explorē 8 (Magnifiers, Announced August 2017)
 Victor Reader Trek (Book Readers, 2017)
 BrailleNote Touch Plus (Notetakers, 2019)
-Brailliant BI 40X (Braille Displays, Shipping since mid-February 2021)
+Brailliant BI 20X (Braille Displays, 2021 (reviewed June 2021))
+Brailliant BI 40X (Braille Displays, On sale by April 2021 (Helen Keller Services review))
 Victor Reader Stream (3rd generation) (Book Readers, 2023 to present)
 BrailleNote Evolve (Notetakers, Previewed late 2025; launched 2026)
 HumanWare Companion (software) (Other, Current version 4.2.9)

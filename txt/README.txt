@@ -5,7 +5,7 @@ This folder holds one plain text file for every entry in ATGuide: each device, b
 There is one folder per company. Each folder starts with an About file for the company, then its version histories, then its products in alphabetical order.
 Each entry file has a header, then sections separated by blank lines in this order: Overview, Specs, Physical Description, Features, History, Ports, Operating System, System Requirements, Sources. Facts that could not be found in a source read Not documented.
 
-Totals: 101 companies, 346 devices, software and voices, 28 version histories, 476 files including this README.
+Totals: 101 companies, 347 devices, software and voices, 28 version histories, 477 files including this README.
 
 Index by company:
 
@@ -381,7 +381,7 @@ HIMS - Selvas BLV/SyncBraille.txt
 HIMS - Selvas BLV/VoiceSense.txt
 HIMS - Selvas BLV/VoiceSense QWERTY.txt
 
-HumanWare (26 files):
+HumanWare (27 files):
 HumanWare/About HumanWare.txt
 HumanWare/KeySoft (version history).txt
 HumanWare/Victor Reader Stream firmware (version history).txt
@@ -393,6 +393,7 @@ HumanWare/BrailleNote mPower QT.txt
 HumanWare/BrailleNote Touch.txt
 HumanWare/BrailleNote Touch Plus.txt
 HumanWare/Brailliant 20 - 40.txt
+HumanWare/Brailliant BI 20X.txt
 HumanWare/Brailliant BI 40X.txt
 HumanWare/ClassMate Reader.txt
 HumanWare/Connect 12.txt

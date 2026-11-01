@@ -1,0 +1,50 @@
+Brailliant BI 20X
+Company: HumanWare
+Category: Braille Displays
+Released: 2021 (reviewed June 2021)
+
+Overview:
+A 20-cell braille display and notetaker from HumanWare with an eight-dot Perkins-style keyboard, the smaller sibling of the BI 40X.
+
+Specs:
+Released: 2021 (reviewed June 2021)
+Processor: Not documented
+Memory (RAM): Not documented
+Storage: 16 GB, SD card, USB-A
+Operating system: Not documented
+Default speech synthesizer: Not documented
+Battery: Not documented
+Display or braille cells: Not documented
+Speech synthesizers available: Not documented
+Price at launch: $1,895 (2021); $2,199 (January 2023)
+Used price today (eBay): Not documented
+
+Physical Description:
+Not documented
+
+Detailed Description:
+The Brailliant BI 20X is a small, flat braille display about 7.2 inches long, 3.3 inches deep and 0.8 inch thick, weighing just under a pound. It comes in a snug nylon case with a lanyard that closes with a magnet and leaves the ports uncovered.
+Hold it with the spacebars toward you. On the top, nearest you, are two spacebars. Behind them are the 20 braille cells, each with a cursor routing key behind it. Behind those is the eight-dot Perkins-style keyboard.
+The front edge has five buttons, left to right: the Previous key, the Left thumb key (about twice as long), a round Home key in the middle that takes you back a menu, the Right thumb key and the Next key. The two long thumb keys pan the braille display.
+On the left edge, front to back, are a USB-A port for thumb drives, the power button (hold for several seconds to switch on or off, tap to sleep or wake) and a USB-C port for charging and computers. The right edge has a mono speaker, two volume buttons and a 3.5 mm headphone jack.
+Along the back edge is a full-size SD card reader. Underneath are a braille serial number, rubber feet, and a removable battery held by two screws.
+
+Features:
+Not documented
+
+History:
+Scott Davert reviewed it for Helen Keller Services in June 2021, after the BI 40X. It runs the same software, with an editor, PDF reading (plain text, slow to open) and Exam Mode added by firmware 1.1.1. Unlike the 40X, it has an SD card reader and a removable battery. It lacks the 40X's C keys, stereo speakers and microphone, and has half the internal memory. It uses Bluetooth 4.2 and 2.4 GHz-only Wi-Fi, against Bluetooth 5 on the 40X, and he found its Bluetooth reliable to about 20 feet versus 30 for the 40X. Price: $1,895 at review, $2,199 by January 2023.
+
+Ports:
+Not documented
+
+Operating System:
+Not documented
+
+System Requirements:
+Not documented
+
+Sources:
+Source 1: https://www.helenkeller.org/a-review-of-the-brailliant-bi-20x/
+
+From ATGuide, https://thompsonoffice.github.io/atguide/

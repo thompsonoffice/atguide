@@ -13,8 +13,8 @@ Memory (RAM): Not documented
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
-Battery: Not documented
-Display or braille cells: 60 x 40 pins
+Battery: User-replaceable rechargeable
+Display or braille cells: 60 × 40 pins (2,400), four pin heights, touch-sensitive
 Speech synthesizers available: Not documented
 Price at launch: Not documented
 Used price today (eBay): Not documented
@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+Graphiti is a tactile graphics display from Orbit Research: a flat panel of 2,400 pins, 60 across and 40 down, each able to rise to one of four heights to form pictures you read by touch. The panel's surface is touch-sensitive, so you can also draw on it with a finger, and a slight vibration confirms many actions.
+Set it on a table with the keypad closest to you. The pin panel takes up the far part of the top; the keypad is in front of it, and a single status light at the left of the keypad shows red for power and green when ready.
+The keypad has the six braille keys in a row just below the display, dots 3, 2 and 1 on the left and 4, 5 and 6 on the right. Below them, in the middle, is a navigation pad with Up, Down, Left and Right arrows around a Select button. Nearest you is a row of three keys: a wide Space bar in the middle, Dot 7 to its left and Dot 8 to its right.
+On the front edge is a full-size SD card slot. On the left edge, front to back, the manual lists the on/off button, HDMI, standard USB host, micro-USB, a main power slider switch (slide it away from you to turn on) and the power jack. A note in the same manual says the power button and jack are on the right edge on some units.
+Small tactile dots under the sockets identify them: one dot for power, two for micro-USB, three for standard USB and four for HDMI. The battery is rechargeable and user-replaceable.
+
 Features:
 Not documented
 
 History:
-APH and Orbit Research announced it on August 2, 2016 as the world's first affordable refreshable tactile graphics display, built on Orbit's Tactuator technology. Each of its 2,400 pins, in a 60 by 40 array, can rise to different heights to represent topographic maps and shades of gray or color, and can blink individually. It connects by USB-C to computers, tablets, phones or the Orion TI-84 Plus talking graphing calculator, and has an HDMI port that makes it appear as a monitor. It also has a cursor pad, an SD card slot for standalone use, and a touch interface where tracing a shape with a fingertip raises the pins along the path.
+APH and Orbit Research announced it on August 2, 2016 as the world's first affordable refreshable tactile graphics display, built on Orbit's Tactuator technology. Each of its 2,400 pins, in a 60 by 40 array, can rise to different heights to represent topographic maps and shades of gray or color, and can blink individually. It connects by USB-C to computers, tablets, phones or the Orion TI-84 Plus talking graphing calculator, and has an HDMI port that makes it appear as a monitor. It also has a cursor pad, an SD card slot for standalone use, and a touch interface where tracing a shape with a fingertip raises the pins along the path. Orbit Research's user manual (version 1.0, October 25, 2021, with revisions back to October 2017) calls it a prototype. It can be used on its own, reading images and PDFs (first page only) from an SD card or USB drive, or connected to a PC, an HDMI source or the Orion TI-84 Plus calculator. You can draw on it by touch and save drawings as BMP files. It zooms up to 32x, rotates and inverts images, and offers several monochrome and grayscale processing variants.
 
 Ports:
 Not documented
@@ -40,5 +47,6 @@ Not documented
 Sources:
 Source 1: https://www.orbitresearch.com
 Source 2: https://sites.aph.org/pr/aph-and-orbit-research-announce-the-worlds-first-affordable-refreshable-tactile-graphics-display/
+Source 3: https://manualzz.com/doc/73535418/orbit-research-graphiti-user-manual
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
