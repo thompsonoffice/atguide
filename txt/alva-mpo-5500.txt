@@ -22,6 +22,13 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The ALVA MPO 5500 combines a GSM mobile phone with a braille and speech organiser. It measures 240 × 109 × 47 mm (9.8 × 4.3 × 1.9 in), weighs about 800 g (1 lb 9 oz), runs Windows CE .NET 4.1, has 64 MB of RAM and a built-in tri-band antenna.
+All the keys are on top. Twenty braille cells sit centred on the upper half, each with a touch-cursor button above it, and the ON/OFF switch sits above the middle of that row of buttons. A Scroll Left key and a Scroll Right key sit just below each end of the braille line.
+The 8-dot braille keyboard sits below the cells. Dot 7 doubles as Backspace and dot 8 as New Line. Along the edge nearest you are three keys: a Programs key, the space bar in the middle and a Menu key.
+In the upper left corner is a round four-way Cursor Pad with two triangular keys beside it: a ribbed Cancel key and a smooth OK key. The upper right corner mirrors it with a round Audio Pad (Stop Speech, Mute Speech, Volume Up and Volume Down) and triangular Disconnect (ribbed) and Connect (smooth) keys. A setting swaps the two sides for left-handed users.
+All the connectors are on the back. On the right, from right to left: the power jack, a stereo headset jack marked with one line, a phone headset jack marked with two lines, and a USB port marked with three lines. On the left is the SIM slot, with a small eject button. A 7.2 V 1800 mAh lithium-ion battery gives over 8 hours of use and charges in about 3 hours. It has a microphone and speaker, and syncs with Outlook through ActiveSync.
+
 Features:
 Not documented
 
@@ -40,5 +47,6 @@ Not documented
 
 Sources:
 Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 2: https://manualzz.com/doc/60139306/alva-mpo-5500-user-manual
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
