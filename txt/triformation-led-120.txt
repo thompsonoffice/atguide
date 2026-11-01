@@ -24,10 +24,10 @@ Not documented
 
 Detailed Description:
 The Triformation LED-120 was a full-page braille embosser, the full-sheet successor to the company's BD-3 tape embosser. APH says it became available in June 1974 at $9,000, much more than the BD-3, and was far more popular.
-A 1979 University of Iowa braille printer report cited it, alongside SAGEM's TEM/REM 8 BR, as representing the state of the art. It ran at 120 characters per second, against 15 for the SAGEM.
-Its electronics were 'random' logic with some LSI chips, and it used a mechanical control system rather than a microprocessor.
-It took the ASCII character set and mapped 64 characters directly to the 64 six-dot braille signs. That mapping matched Grade 1 English Braille only for letters, so separate translation software was needed for proper Grade 1 or Grade 2 braille. It also supported an 8-dot cell.
-No source found in this research gives the LED-120's physical size, weight or control layout, so those details are not included.
+In 'A Braille Printer', Andrew W. Appel and Douglas W. Jones of the University of Illinois Medical Computing Laboratory cited it, alongside SAGEM's TEM/REM 8 BR, as representative of the state of the art. They give its speed as 120 characters per second, against 15 for the SAGEM.
+The paper says its electronics were 'random' logic with some LSI chips, and that it used a mechanical control system rather than a built-in microcomputer.
+It took the ASCII character set and mapped 64 characters directly to the 64 six-dot braille signs, including space. That mapping matched Grade 1 English Braille only for letters, so typical computer output was hard to read and separate translation programs were needed for standard Grade 1 or Grade 2 braille.
+No source found in this research gives the LED-120's physical size, weight or control layout. The APH museum record covers only the BD-3, and the Appel and Jones paper discusses only its speed and logic, so those details are not included.
 
 Features:
 Not documented
