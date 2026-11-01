@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+The NFB's 2026 Braille Technology Timeline calls BrailleSense 7 a significant generational leap for the line. Selvas BLV unveiled it in 2026 in 20-, 32- and 40-cell models running Android 15. Features include touch-sensitive braille cells, built-in Google Gemini AI, more braille-first apps, a user-replaceable battery, and an included QWERTY keyboard case with a second battery.
 Predecessors: BrailleSense 6 (HIMS / Selvas BLV, 2021)
 
 Ports:
@@ -52,5 +52,6 @@ Source 1: https://www.himsintl.com/en/company/prdhistory.php
 Source 2: https://selvasblv.com/product/braillesense-7/
 Source 3: https://selvasblv.com/price-list/
 Source 4: https://www.braillists.org/uncategorised/introducing-the-new-smart-braille-tablet-series-braillesense-7/
+Source 5: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

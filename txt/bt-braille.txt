@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Blazie Technologies launched the BT Speak in 2024 as a modern, Linux-based revival of the Braille 'n Speak. In March 2026 it demonstrated the BT Braille, which the NFB's 2026 timeline describes as a modern take on the Braille Lite, the 1993 Blazie Engineering notetaker that added a refreshable braille display to the Braille 'n Speak.
 Predecessors: BT Speak / BT Speak Pro (Blazie Technologies, 2024 to present)
 
 Ports:
@@ -40,5 +40,6 @@ Not documented
 
 Sources:
 Source 1: https://blazietech.com
+Source 2: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

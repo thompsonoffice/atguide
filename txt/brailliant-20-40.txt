@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+HumanWare launched the Brailliant 20 and 40 in 2004. The NFB's 2026 Braille Technology Timeline calls them the first refreshable braille displays with Bluetooth wireless connectivity. The timeline also notes that BAUM made OEM versions of HumanWare's Brailliant and BrailleConnect displays in the 2000s, a partnership that ended in 2011. HumanWare has kept the Brailliant name for later displays, and its latest model adds notetaker, book-reading and audio functions.
 Successors: Brailliant BI 40X (HumanWare, On sale by April 2021 (Helen Keller Services review))
 
 Ports:

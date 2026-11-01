@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+HIMS released the original BrailleSense in 2004 and enhanced it as the BrailleSense Plus in 2008, adding the speech-only VoiceSense model the same year. The BrailleSense line offered refreshable braille, speech, a braille keyboard, an LCD, MP3 and DAISY playback, and external monitor support. GW Micro of Fort Wayne, Indiana, was the exclusive US distributor from about 2006 until late 2010, when HIMS opened its own US office in Austin, Texas.
 Predecessors: BrailleSense (Classic) (HIMS / Selvas BLV, 2004)
 Successors: BrailleSense U2 (Perkins-keyboard edition) (HIMS / Selvas BLV, July 2012)
 
@@ -50,5 +50,6 @@ Not documented
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
 Source 2: https://nfb.org/images/nfb/publications/bm/bm09/bm0902/bm090211.htm
+Source 3: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

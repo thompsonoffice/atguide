@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+ALVA released the Mobile Phone Organizer in 2003. The NFB's 2026 Braille Technology Timeline calls it the first and only hybrid of a cell phone and a notetaker. It had a 20-cell braille display, a braille keyboard and a speech synthesizer. ALVA, the Dutch display maker, also held the cursor-routing patent (filed in the Netherlands in 1987, granted in the US in 1991).
 
 Ports:
 Not documented

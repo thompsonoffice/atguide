@@ -33,7 +33,7 @@ Features:
 Not documented
 
 History:
-Not documented
+HumanWare previewed the BrailleNote Evolve in 2025. It moves the BrailleNote from Android to Windows 11 Pro, with an Intel Core Ultra 5 processor, 32 GB of RAM, up to 512 GB of SSD storage, KeySoft integrated with NVDA, a six-month JAWS trial, Microsoft Office 365 with HumanWare add-ins, Thunderbolt and HDMI ports, and NFC. The first models are 20- and 32-cell units with Perkins-style keyboards; QWERTY and 40-cell models are to follow.
 Predecessors: BrailleNote Touch Plus (HumanWare, 2019)
 
 Ports:
@@ -52,5 +52,6 @@ Source 1: https://store.humanware.com/hus/braillenote-evolve-32.html
 Source 2: https://www.humanware.com/braillenote-evolve/
 Source 3: https://www.humanware.com/wp-content/uploads/2026/06/Technical-Specs-BrailleNote-evolve.pdf
 Source 4: https://doubletaponair.com/humanware-previews-braillenote-evolve-a-windows-powered-note-taker-for-2026/
+Source 5: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

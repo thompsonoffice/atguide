@@ -36,7 +36,7 @@ KNFB Reader included
 GPS, accelerometer, gyroscope, compass
 
 History:
-Not documented
+The BrailleNote line began in 2000 with Pulse Data's Windows CE-based Classic, followed by the mPower series (2005) and the Apex (2009). The BrailleNote Touch (2016) moved the line to Android, and the BrailleNote Touch Plus followed in 2019. In 2025 HumanWare previewed the Evolve, which moves the line again, to Windows 11.
 Predecessors: BrailleNote Apex BT32 (HumanWare, November 2009)
 Successors: BrailleNote Touch Plus (HumanWare, 2019)
 
@@ -60,5 +60,6 @@ Source 5: https://www.second-sense.org/2018/10/braille-notetakers/
 Source 6: https://afb.org/aw/17/8/15305
 Source 7: https://www.humanware.com/microsite/bntouch/faq.php
 Source 8: https://www.braillists.org/wp-content/uploads/bod24.pdf
+Source 9: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
