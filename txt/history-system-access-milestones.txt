@@ -10,15 +10,15 @@ Version History:
 
 Version 1: FreedomBox
 Released: Not documented
-Notes: Serotek's earlier product, which grew into System Access.
+Notes: Serotek's FreedomBox was a simplified, speech-driven portal for the web, email and other services; AccessWorld reviewed it as a system for 'the liberty to use a computer'. It evolved into System Access in 2005.
 
 Version 2: System Access
-Released: December 2005
-Notes: Windows screen reader release.
+Released: 2005
+Notes: Full screen reader access to Word, Excel, Outlook Express, Internet Explorer and PowerPoint text.
 
 Version 3: System Access to Go
-Released: Not documented
-Notes: Runs from a web browser on any Windows PC with no installation; offered free through the Accessibility Is a Right (AIR) foundation.
+Released: 2007 (free from February 2008)
+Notes: Launched in 2007 as a web-based screen reader that needs no install. From 2008 it was free through the AIR Foundation (Accessibility Is a Right). It ran from a website on any compatible PC: web, email, forms, PDF and operating-system tasks.
 
 Version 4: Pneuma Solutions
 Released: 2020
@@ -28,10 +28,16 @@ Devices and Software That Ran It:
 System Access (Serotek (now Pneuma Solutions), December 2005)
 
 System Requirements:
-Windows (version requirements not documented)
+System Access to Go (2008): Windows XP or Vista, an Internet connection, a sound card and a recent Internet Explorer.
+Other versions: Not documented.
 
 Sources:
 Source 1: https://pneumasolutions.com/about/
 Source 2: https://afb.org/aw/7/3/14499
+Source 3: https://afb.org/aw/7/3/14499
+Source 4: https://www.bbc.co.uk/blogs/access20/2007/06/satogoonthego.shtml
+Source 5: https://pneumasolutions.com/serotek-releases-the-worlds-first-web-based-access-technology-tool-for-the-blind/
+Source 6: https://blindaccessjournal.com/2008/02/why-not-enjoy-a-little-fresh-air/
+Source 7: https://www.vomitcomet.org/2008/02/07/system-access-to-go/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

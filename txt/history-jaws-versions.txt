@@ -22,7 +22,7 @@ Notes: Windows 95 support.
 
 Version 4: 4.0
 Released: September 14, 2001
-Notes: Not documented
+Notes: Many user interface changes; an optional tutor and access-key help.
 
 Version 5: 4.5
 Released: August 30, 2002
@@ -34,11 +34,11 @@ Notes: On PAC Mate.
 
 Version 7: 5.0
 Released: October 9, 2003
-Notes: Not documented
+Notes: Big improvements to Internet support; Speech and Sounds Manager to indicate fonts, controls and web elements by voice or sound.
 
 Version 8: 6.0
 Released: March 3, 2005
-Notes: Internet licensing.
+Notes: Internet licensing; separate user settings; a demo of FSReader, Freedom Scientific's DAISY reader, for training material.
 
 Version 9: 7.0
 Released: October 14, 2005
@@ -54,15 +54,15 @@ Notes: RealSpeak Solo voices; Windows Vista; dropped Windows 98 and ME.
 
 Version 12: 9.0
 Released: November 19, 2007
-Notes: Not documented
+Notes: HTML composition support (for example, writing HTML email); new Adjust JAWS Options dialog.
 
 Version 13: 10.0
 Released: November 3, 2008
-Notes: JAWS Tandem remote support.
+Notes: JAWS Tandem for remote access to another computer running JAWS; support for iTunes 8 and the iTunes Store.
 
 Version 14: 11.0
 Released: October 23, 2009
-Notes: Research It; shipped on DVD.
+Notes: Research It (definitions, weather, sports scores); shipped on DVD with the full FSReader 2.0.
 
 Version 15: 12.0
 Released: October 21, 2010
@@ -70,15 +70,15 @@ Notes: Settings Center, virtual ribbon, ARIA improvements.
 
 Version 16: 13.0
 Released: October 24, 2011
-Notes: Built-in OCR.
+Notes: Built-in OCR for on-screen graphics; Quick Settings replaced Adjust JAWS Options.
 
 Version 17: 14.0
 Released: October 22, 2012
 Notes: Windows 8 support; Flexible Web.
 
 Version 18: JAWS 15
-Released: Not documented
-Notes: Last version for Windows XP.
+Released: November 2014 (per AT Observatory; Freedom Scientific's own date list was not checked)
+Notes: Touch cursor navigation and Windows 8 touch support, FSReader 3, Speech History and braille improvements. Last version for Windows XP.
 
 Version 19: JAWS 17
 Released: Not documented
@@ -143,5 +143,7 @@ Source 5: https://www.liquisearch.com/jawsscreenreader/releasehistory
 Source 6: https://en.wikipedia.org/wiki/JAWS(screenreader)
 Source 7: https://blog.freedomscientific.com/2024-year-end-review/
 Source 8: https://support.freedomscientific.com/Downloads/JAWS/JAWS-System-Requirements
+Source 9: http://www.liquisearch.com/jawsscreenreader/releasehistory
+Source 10: https://www.tecnoaccesible.net/en/content/jaws-15
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

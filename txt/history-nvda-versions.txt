@@ -1,10 +1,10 @@
 NVDA versions
 Company: NV Access
 Category: Operating system or software version history
-Versions listed: 13
+Versions listed: 15
 
 Overview:
-NVDA release history.
+NVDA release history. Michael Curran began NVDA in April 2006 and invited James Teh, who had just finished his IT degree; the two had met as children at a music camp for the blind. They founded the non-profit NV Access in early 2007. NVDA has been translated into more than 55 languages and used in more than 175 countries.
 
 Version History:
 
@@ -40,23 +40,31 @@ Version 8: 2015 releases
 Released: 2015
 Notes: MathML through MathPlayer; Windows 10 and Edge.
 
-Version 9: 2019.3
-Released: February 10, 2020
-Notes: Moved to Python 3 and rewrote the speech system.
+Version 9: 2017.3
+Released: 2017
+Notes: Last version to support Windows XP and Vista.
 
-Version 10: 2024.1
+Version 10: 2019.3
+Released: February 10, 2020
+Notes: Released February 2020. Moved NVDA from Python 2 to Python 3 (breaking older add-ons), rewrote the speech framework, added Screen Curtain and Focus Highlight, 64-bit Java VM support and braille improvements.
+
+Version 11: 2024.1
 Released: 2024
 Notes: Minimum Windows 8.1; dropped Windows 7 and 8; built with Python 3.11.
 
-Version 11: 2026.1
+Version 12: 2025.1
+Released: 2025
+Notes: Built-in Remote Access, so one NVDA computer can control another (replacing the NVDA Remote add-on). Last line to support Windows 8.1 and 32-bit Windows.
+
+Version 13: 2026.1
 Released: 2026
 Notes: Minimum Windows 10 (1507); dropped Windows 8.1, Windows 10 on ARM and 32-bit Windows; 64-bit SAPI5 voices.
 
-Version 12: 2026.2
+Version 14: 2026.2
 Released: August 31, 2026
 Notes: Requires 64-bit Windows 10 or 11.
 
-Version 13: 2026.3
+Version 15: 2026.3
 Released: October 26, 2026
 Notes: Current release; Windows 11 ARM64 supported.
 
@@ -65,10 +73,9 @@ NVDA (NonVisual Desktop Access) (NV Access, 2006 (version 0.5 in 2007) to presen
 BrailleNote Evolve (HumanWare, Previewed late 2025; launched 2026)
 
 System Requirements:
-2006: Windows 2000 or later
-2024.1: Windows 8.1 or later
-2026.1 and later: 64-bit Windows 10 or 11
-2026: 64-bit Windows 10 (22H2) or 11, or Server 2016 to 2025; 500 MB storage; 4 GB RAM recommended
+NVDA 2025.x: Windows 8.1, 10 or 11, 32- or 64-bit; about 500 MB storage.
+NVDA 2026.1 and later: 64-bit Windows 10 or 11 only (Windows 10 22H2 or 11 recommended); no Windows 8.1, 32-bit Windows or Windows 10 on ARM; 500 MB storage; 4 GB RAM recommended.
+NVDA 2017.3 was the last version for Windows XP and Vista.
 
 Sources:
 Source 1: https://en.wikipedia.org/wiki/NonVisualDesktopAccess
@@ -77,5 +84,11 @@ Source 3: https://www.nvaccess.org/post/nvda-2019-3-released/
 Source 4: https://download.nvaccess.org/releases/2024.1/documentation/changes.html
 Source 5: https://download.nvaccess.org/releases/2026.1/documentation/en/changes.html
 Source 6: https://www.nvaccess.org/post/nvda-2026-3/
+Source 7: https://www.nvaccess.org/about-nv-access/
+Source 8: https://www.nvaccess.org/post/nvda-2019-3-released/
+Source 9: https://download.nvaccess.org/releases/2019.3/nvda2019.3changes.html
+Source 10: https://www.nvdacn.com/index.php/nvda-archive.html
+Source 11: https://api.nvaccess.org/releases/2025.1/documentation/en/userGuide.html
+Source 12: https://download.nvaccess.org/releases/2026.1/documentation/userGuide.html
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
