@@ -1,14 +1,14 @@
 Vicki (Apple)
 Company: Apple
 Category: TTS Voices
-Released: 2003: added in Mac OS X 10.3 Panther (released October 24, 2003) and made the default voice. Vicki is an enhanced Victoria built from much larger diphone samples, almost 20 times its size (AppleInsider; Wikipedia, PlainTalk).
+Released: Mac OS X 10.3 Panther (2003)
 
 Overview:
 A US English female voice listed among Lion's English voices.
 
 Specs:
 Maker: Apple
-First released: 2003: added in Mac OS X 10.3 Panther (released October 24, 2003) and made the default voice. Vicki is an enhanced Victoria built from much larger diphone samples, almost 20 times its size (AppleInsider; Wikipedia, PlainTalk).
+First released: Mac OS X 10.3 Panther (2003)
 Synthesis type: Apple does not describe the technique. AppleInsider says Vicki was added in Mac OS X Panther (2003), before Alex (10.5) and the Nuance voices of Lion.
 Platforms: Mac OS X
 Default on or shipped with: Not the system default (Alex is the default from Mac OS X 10.5)
@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-A user's guide to Mac OS X speech listed Vicki among the standard system voices alongside Alex, Fred and Bruce.
+A user's guide to Mac OS X speech listed Vicki among the standard system voices alongside Alex, Fred and Bruce. Vicki came from Mac OS X 10.3 (Panther, 2003): Apple greatly improved the Victoria voice and shipped the result as Vicki, keeping Victoria. Its higher-quality diphone samples made it almost 20 times larger. iOS 16 (2022) added Vicki to VoiceOver in U.S. English.
 
 Ports:
 Not applicable (software)
@@ -41,5 +41,7 @@ Source 4: https://alvinalexander.com/mac-os-x/mac-osx-text-to-speech-default-sys
 Source 5: https://appleinsider.com/articles/11/03/02/insidemacosx107liondozensofhighqualitynewmultilingualspeechvoices
 Source 6: https://en.wikipedia.org/wiki/MacInTalk
 Source 7: https://forums.appleinsider.com/discussion/31630/panther-and-vicki
+Source 8: https://en.wikipedia.org/wiki/PlainTalk
+Source 9: https://www.applevis.com/podcasts/sneak-peek-additional-us-voices-coming-voiceover-ios-16
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

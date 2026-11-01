@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Part of the ETI-Eloquence voice set. Code Factory's Android version still lists it.
+Part of the ETI-Eloquence voice set. Code Factory's Android version still lists it. Eloquence, the default speech in JAWS, came to Apple devices with iOS 16 (public release September 12, 2022), in both U.S. and U.K. English, as one of eight voices: Eddy, Flo, Grandma, Grandpa, Reed, Rocko, Sandy and Shelley. AppleVis noted that many users like Eloquence for its fast response and predictable, comparatively robotic sound, which can be easier to follow at high rates. iOS 17 added per-voice settings for Eloquence: rate multiplier, head size, pitch, pitch range, breathiness and roughness, plus a higher sampling rate, phrase prediction, an abbreviation dictionary and a community pronunciation dictionary.
 
 Ports:
 Not applicable (software)
@@ -37,5 +37,9 @@ Source 1: https://github.com/Mudb0y/eloquence
 Source 2: https://play.google.com/store/apps/details?hl=enUS&id=com.codefactoryglobal.eloquencetts
 Source 3: http://qcsalon.net/en/forum32/topic40905p74
 Source 4: https://www.thisisgain.com/post/how-to-configure-jaws-individual-voice-settings
+Source 5: https://www.applevis.com/podcasts/sneak-peek-additional-us-voices-coming-voiceover-ios-16
+Source 6: https://www.applevis.com/podcasts/sneak-peek-additional-non-us-english-voices-coming-voiceover-ios-16
+Source 7: https://www.applevis.com/blog/whats-new-ios-16-accessibility-blind-deafblind-users
+Source 8: https://www.applevis.com/blog/whats-new-ios-17-accessibility-blind-deaf-blind-users
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

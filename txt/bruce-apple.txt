@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-Original MacinTalk Pro voice. Macworld described Bruce and Katy as 'more robotic' than Alex.
+Original MacinTalk Pro voice. Macworld described Bruce and Katy as 'more robotic' than Alex. A Mac voice that reached iPhone and iPad with iOS 16 (2022), when it was added to VoiceOver's U.S. English voices.
 
 Ports:
 Not applicable (software)
@@ -37,5 +37,6 @@ Sources:
 Source 1: https://www.cs.cmu.edu/Groups/AI/util/pubs/faqs/speech/mac.txt
 Source 2: https://www.macworld.com/article/216121/how-to-change-the-mac-s-system-voice.html
 Source 3: https://www.engadget.com/2007-10-26-24-hours-of-leopard-alex-the-new-voice-of-mac-os-x.html
+Source 4: https://www.applevis.com/podcasts/sneak-peek-additional-us-voices-coming-voiceover-ios-16
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

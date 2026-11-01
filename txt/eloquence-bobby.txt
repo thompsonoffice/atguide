@@ -21,7 +21,7 @@ Features:
 Not documented
 
 History:
-Part of the ETI-Eloquence voice set.
+Part of the ETI-Eloquence voice set. Bobby was not among the eight Eloquence voices Apple added in iOS 16 (Eddy, Flo, Grandma, Grandpa, Reed, Rocko, Sandy and Shelley).
 
 Ports:
 Not applicable (software)
@@ -36,5 +36,6 @@ Sources:
 Source 1: https://github.com/Mudb0y/eloquence
 Source 2: http://qcsalon.net/en/forum32/topic40905p74
 Source 3: https://www.thisisgain.com/post/how-to-configure-jaws-individual-voice-settings
+Source 4: https://www.applevis.com/podcasts/sneak-peek-additional-us-voices-coming-voiceover-ios-16
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

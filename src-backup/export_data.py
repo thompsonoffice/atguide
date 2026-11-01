@@ -24,7 +24,7 @@ out = dict(
     companies=[drop(dict(id=c["id"], name=c["n"], founded=c.get("f"), history=c.get("h"), sources=c.get("src", [])))
                for c in D["CO"]],
     devices=[drop(dict(id=d["id"], name=d["n"], company=d["co"], category=d["cat"], year=d.get("yr", 0),
-                       released=d.get("y"), overview=d.get("o"), physical=d.get("ph"), features=d.get("f", []),
+                       released=d.get("y"), overview=d.get("o"), physical=("\n\n".join(list(d.get("desc") or [])+([d["ph"]] if d.get("ph") else [])) or None), features=d.get("f", []),
                        history=d.get("h"), ports=d.get("io"),
                        specs={SK.get(k, {"syns":"Speech synthesizers available","used":"Used price today (eBay)"}.get(k,k)): v for k, v in (d.get("s") or {}).items()},
                        requirements=d.get("req", []), predecessors=d.get("pre", []), successors=d.get("suc", []),

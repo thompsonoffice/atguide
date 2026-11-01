@@ -22,7 +22,7 @@ Features:
 Not documented
 
 History:
-Added in the 1994 MacinTalk voice set.
+Added in the 1994 MacinTalk voice set. MacinTalk 3 (with MacinTalk Pro, which needed a 68040 and at least 1 MB of RAM; MacinTalk 3 needed a 33 MHz 68030) brought a large set of voices: the adults Ralph, Fred and Kathy, the children Princess and Junior, and novelty voices such as Whisper, Zarvox, Trinoids, the singing Cellos (to Grieg's 'In the Hall of the Mountain King'), Good News, Bad News, Pipe Organ, the hoarse Albert, Bells, Boing and Bubbles. Each voice spoke its own test phrase in the Speech control panel. The voices remain in macOS. macOS Ventura renamed some of them, Princess becoming Superstar. macOS Sonoma changed every test phrase to 'Hello, my name is…', and macOS Tahoe brought back the original phrases. iOS 16 (2022) brought the novelty voices to iPhone and iPad: Albert, Bad News, Bahh, Bells, Boing, Bubbles, Cellos, Good News, Jester, Organ, Superstar, Trinoids, Whisper, Wobble and Zarvox.
 
 Ports:
 Not applicable (software)
@@ -37,5 +37,7 @@ Sources:
 Source 1: https://discmaster.textfiles.com/view/21387/Macformat17.cdr/Shareware%20City/Sound/Talking%20Eggs%201.0/Talking%20Eggs%20ReadMe
 Source 2: https://www.macworld.com/article/216121/how-to-change-the-mac-s-system-voice.html
 Source 3: https://www.engadget.com/2007-10-26-24-hours-of-leopard-alex-the-new-voice-of-mac-os-x.html
+Source 4: https://en.wikipedia.org/wiki/PlainTalk
+Source 5: https://www.applevis.com/podcasts/sneak-peek-additional-non-us-english-voices-coming-voiceover-ios-16
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
