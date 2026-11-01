@@ -13,6 +13,7 @@ Operating System and Software Histories:
 Not documented
 
 Sources:
-Source 1: https://nfb.org/images/nfb/publications/fr/fr45/2/fr450210.htm
+Source 1: https://www.freelists.org/post/jfw/jaws-61,13
+Source 2: http://cd.textfiles.com/nfbfiles/newsletters/VN0892.TXT
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
