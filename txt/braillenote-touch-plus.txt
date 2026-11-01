@@ -8,15 +8,15 @@ An updated Touch with a much faster processor and newer Android.
 
 Specs:
 Released: 2019
-Processor: Qualcomm Snapdragon 820, quad-core Kryo 2.2 GHz
+Processor: Qualcomm Snapdragon 820, quad-core Kryo 2.2 GHz, 64-bit
 Memory (RAM): 4 GB LPDDR4
-Storage: 64 GB flash
-Operating system: Android 8.1 Oreo with KeySoft
+Storage: 64 GB
+Operating system: Android 8.1 Oreo
 Default speech synthesizer: Acapela (default, up to four voices); Android TTS engines such as Vocalizer and CereProc can be added
 Battery: Not documented
 Display or braille cells: 18 or 32 cells
-Speech synthesizers available: Not documented
-Price at launch: Not documented
+Speech synthesizers available: Android text-to-speech engines
+Price at launch: 32 cells $5,695; 18 cells $4,195
 Used price today (eBay): Not documented
 
 Physical Description:
@@ -35,7 +35,7 @@ Ports:
 USB-C (USB 3.0 speed), HDMI with audio, Wi-Fi a/b/g/n/ac 2x2, Bluetooth 4.2
 
 Operating System:
-Android 8.1 Oreo with KeySoft
+Android 8.1 Oreo
 Operating system history: KeySoft
 Operating system history: Android (on blindness devices)
 
@@ -48,5 +48,7 @@ Source 2: https://www.perkins.org/resource/braillenote-touch-plus-update/
 Source 3: https://www.applevis.com/forum/assistive-technology/braille-note-touch-plus-finally-get-update-after-three-whole-years-what
 Source 4: https://www.humanware.com/wp-content/uploads/2024/10/EN-UG-BNTouch-Update-4.html
 Source 5: https://groups.io/g/braillenote/topic/cereprocvoicesandothertts/80723268
+Source 6: https://www.visionaid.co.uk/braillenote-touch-32-plus
+Source 7: https://afb.org/aw/20/7/16711
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

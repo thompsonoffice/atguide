@@ -8,26 +8,33 @@ The first print-to-speech reading machine for the blind.
 
 Specs:
 Released: Unveiled January 13, 1976
-Processor: Not documented
+Processor: Built-in minicomputer (model not documented in sources used); about 250,000 instructions per second
 Memory (RAM): 64 KB
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Votrax (first generation)
 Battery: Not documented
 Display or braille cells: Not documented
-Speech synthesizers available: Not documented
-Price at launch: $30,000 to $50,000
-Used price today (eBay): Not documented
+Speech synthesizers available: Kurzweil's own built-in text-to-speech; read at about 200 words per minute
+Price at launch: $30,000 to $50,000; NFB's six preproduction units cost $50,000 each
+Used price today (eBay): No used or eBay listing surfaced in this research pass (eBay blocks direct page checks).
 Voices: Votrax SC-01 phoneme voice
 
 Physical Description:
 Processing unit 21 x 21.75 x 31.25 in.
 
+Detailed Description:
+The original Kurzweil Reading Machine is a large, stand-alone machine about the size of a small dishwasher. Its scanner section alone, held by the Computer History Museum, is about 19 inches wide, 12 inches high and 20 inches long.
+On top is a glass plate. You place a book, magazine or typed page face down on the glass, as on a photocopier, and close a cover over it.
+Inside, a CCD optical scanner driven by the built-in minicomputer finds the first line of print, scans it, then moves to the next line and continues to the end of the page. The machine handles most common typefaces but not handwriting, decorative type or poor printing.
+The user controls it from a separate keypad. At NFB's suggestion the keys had no braille labels, and a Nominator key let you press any key to hear what it did. The keypad also controlled reading by word, line or spelling.
+The speech came from its own text-to-speech system, a robotic but understandable voice reading about 200 words per minute. The 1976 press release said only basic familiarity with its 'accent' was needed.
+
 Features:
 Not documented
 
 History:
-Not documented
+Ray Kurzweil built the KRM by combining three inventions: omni-font OCR, the CCD flatbed scanner and text-to-speech. The idea came after a blind man on a plane told him that print was his only real barrier. The prototype was finished in late 1975 and announced with the NFB on January 13, 1976; Walter Cronkite used it to read his sign-off on CBS. NFB scientists asked for no braille labels and for a 'Nominator' key that announces what other keys do. A federal contract placed units at Perkins and in the Boston schools.
 Successors: K-NFB Reader (K-NFB Reading Technology, 2005)
 
 Ports:
@@ -42,5 +49,10 @@ Not documented
 Sources:
 Source 1: https://www.computerhistory.org/collections/catalog/X236.83
 Source 2: https://en.wikipedia.org/wiki/Votrax
+Source 3: https://www.kurzweiltech.com/kcp.html
+Source 4: https://www.afb.org/aw/5/5/14692
+Source 5: https://nfb.org/sites/default/files/images/nfb/publications/bm/bm06/bm0607/bm060703.htm
+Source 6: https://www.computerhistory.org/collections/catalog/102692759
+Source 7: https://mirrors.meulie.net/bitsavers.org/pdf/federalScrewWorks/VotraxTalkingPoints/VotraxTalkingPointsVol2No9.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

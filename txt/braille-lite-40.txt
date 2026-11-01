@@ -15,9 +15,9 @@ Operating system: Not documented
 Default speech synthesizer: DoubleTalk chip
 Battery: Not documented
 Display or braille cells: 40 braille cells
-Speech synthesizers available: Not documented
+Speech synthesizers available: Internal DoubleTalk speech chip (Blazie)
 Price at launch: Braille Lite 40 2000: $5,495 (2000)
-Used price today (eBay): Not documented
+Used price today (eBay): No used or eBay listing surfaced in this research pass (eBay blocks direct page checks).
 
 Physical Description:
 Not documented

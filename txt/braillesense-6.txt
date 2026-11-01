@@ -8,15 +8,15 @@ The Android 10 successor to the Polaris.
 
 Specs:
 Released: 2021
-Processor: Not documented
-Memory (RAM): 6 GB
-Storage: 64 GB (some sources list 128 GB)
+Processor: Octa-core: 4 × 2.0 GHz Cortex-A73 plus 4 × 2.0 GHz Cortex-A53
+Memory (RAM): 6 GB LPDDR4X
+Storage: 128 GB
 Operating system: Android 10, upgradable to Android 12
 Default speech synthesizer: Not documented
 Battery: Not documented
 Display or braille cells: 32 cells
-Speech synthesizers available: Not documented
-Price at launch: Not documented
+Speech synthesizers available: BrailleSense Vocalizer Expressive voices plus any Android TTS engine from Google Play (for example Eloquence)
+Price at launch: $4,995 (current list)
 Used price today (eBay): Not documented
 
 Physical Description:
@@ -44,5 +44,8 @@ Not documented
 Sources:
 Source 1: https://www.himsintl.com/en/company/prdhistory.php
 Source 2: https://sastltd.zohodesk.eu/portal/en/kb/articles/braillesense-6-upgrade-android-from-10-0-to-12-0
+Source 3: https://selvasblv.com/download/bs6/BrailleSense6UserManualEnglishV1.0210528.pdf
+Source 4: https://selvasblv.com/product/braillesense-6/
+Source 5: https://www.braillists.org/wp-content/uploads/bod24.pdf
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

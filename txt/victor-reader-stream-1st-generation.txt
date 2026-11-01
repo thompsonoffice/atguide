@@ -15,8 +15,8 @@ Operating system: Not documented
 Default speech synthesizer: Nuance Vocalizer
 Battery: About 15 hours of playback
 Display or braille cells: Not documented
-Speech synthesizers available: Not documented
-Price at launch: Not documented
+Speech synthesizers available: Nuance Vocalizer text-to-speech
+Price at launch: $329 (2007)
 Used price today (eBay): Not documented
 Voices: Nuance Vocalizer / RealSpeak (engine)
 
@@ -46,5 +46,7 @@ Not documented
 Sources:
 Source 1: https://www.humanware.com/microsite/stream/index.html
 Source 2: http://nfbnet.org/pipermail/nfbcsnfbnet.org/2009-March/000628.html
+Source 3: https://afb.org/aw/9/1/14279
+Source 4: https://afb.org/aw/9/5/14232
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

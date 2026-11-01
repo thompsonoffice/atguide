@@ -15,7 +15,7 @@ Operating system: Windows CE with KeySoft
 Default speech synthesizer: Keynote Gold
 Battery: Not documented
 Display or braille cells: Not documented
-Speech synthesizers available: Not documented
+Speech synthesizers available: Eloquence (software, with English, Spanish and French voices on the Apex; five selectable Eloquence voices) plus optional KeyNote Gold; chosen in Options > Review Voice
 Price at launch: Not documented
 Used price today (eBay): Not documented
 
@@ -43,5 +43,8 @@ Not documented
 Sources:
 Source 1: https://afb.org/aw/7/1/14531
 Source 2: https://www.freelists.org/post/braillenote/keynote-gold-speech-thoughts,10
+Source 3: https://www.freelists.org/post/braillenote/notetakers-and-Eloquence-speech,11
+Source 4: https://www.mail-archive.com/braillenote@list.pulsedata.com/msg24751.html
+Source 5: https://www.avh.asso.fr/implantations/certam/evaluations-de-produits/bloc-notes-braille-apex-bt-32-version-930
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

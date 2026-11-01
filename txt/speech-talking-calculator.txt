@@ -8,25 +8,32 @@ A talking calculator with a 24-word vocabulary.
 
 Specs:
 Released: 1976
-Processor: TMC1007 calculator chip and S14001A speech chip
-Memory (RAM): Not documented
+Processor: Texas Instruments TMC1007NL (based on the TMS1000 4-bit microcontroller) for calculation; Telesensory S14001A custom speech processor
+Memory (RAM): Not documented (24-word vocabulary held in a TSI-programmed ROM)
 Storage: 4 KB ROM
 Operating system: Not documented
 Default speech synthesizer: Not documented
-Battery: Not documented
+Battery: 4 × AA rechargeable (4.8 V)
 Display or braille cells: Not documented
-Speech synthesizers available: Not documented
-Price at launch: $395
-Used price today (eBay): Not documented
+Speech synthesizers available: Built-in TSI speech chip with a fixed 24-word vocabulary (S14001A plus speech ROM)
+Price at launch: US$395 (1976); APH Student Speech+ $455 (1978)
+Used price today (eBay): No used or eBay listing surfaced in this research pass (eBay blocks direct page checks).
 
 Physical Description:
 180 x 115 x 35 mm; 4 AA batteries.
+
+Detailed Description:
+The Speech+ is a handheld calculator about the size of a thick paperback: 18 cm long, 11.5 cm wide and 3.5 cm thick (about 7 × 4½ × 1½ inches). It has a small loudspeaker and runs on four rechargeable AA batteries.
+Near the top is an 8-digit red LED number display. On the top right is a round knob: you pull it out to turn the calculator on, and then turn it to set the volume. When it powers up it says 'clear'.
+The number keys use a touch-tone telephone layout, with 1, 2 and 3 across the top and 7, 8 and 9 near the bottom. That is the reverse of most calculators, chosen because blind users already knew phone keypads. Function keys cover the four operations, percent, square root, memory and change sign; the change-sign key says 'times minus'.
+Below the equals key is a key with a loudspeaker symbol that speaks the number on the display. Next to it, a slide switch silences the spoken keys, so experienced users can work quietly and still press the speaker key to hear the answer. Pressing a new key cuts off the word being spoken, so fast typing gives a quick staccato of words.
+Its operating instructions came on an audio cassette tape instead of paper. The APH Student version looks the same but is blue plastic with black function keys, has large high-contrast key labels for low-vision students, and came with a battery charger.
 
 Features:
 Not documented
 
 History:
-Not documented
+Telesensory Systems' Speech+ (model S1A) was the first commercial handheld talking calculator. It went on sale in 1976 at US$395, was distributed through the American Foundation for the Blind, and was covered by Popular Electronics in May 1976. TSI built a custom speech processor to replace about 50 separate chips. APH and TSI made a blue 'APH Student Speech+' (S1D), introduced in 1978 at $455 and discontinued by 1982.
 
 Ports:
 Not documented
@@ -39,5 +46,9 @@ Not documented
 
 Sources:
 Source 1: https://www.vintagecalculators.com/html/speech-.html
+Source 2: http://www.vintagecalculators.com/html/speech-.html
+Source 3: https://interfacemuseum.com/exhibits/tsi-speech-plus/
+Source 4: http://www.vintagecalculators.com/html/calculatorsfortheblind.html
+Source 5: https://sites.aph.org/museum-virtual-exhibit/vex3/955E229A-FC96-4E21-ACFE-954356102956.htm
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

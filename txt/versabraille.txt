@@ -9,24 +9,31 @@ A paperless-braille device that stored braille on C-60 cassettes, an ancestor of
 Specs:
 Released: December 1979
 Processor: Not documented
-Memory (RAM): Not documented
-Storage: C-60 audio cassette
+Memory (RAM): Not documented (pages of 1,000 braille cells; about 400 pages per C-60 cassette)
+Storage: C-60 audio cassette tape
 Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: Not documented
-Display or braille cells: 20 cells
-Speech synthesizers available: Not documented
-Price at launch: Not documented
-Used price today (eBay): Not documented
+Display or braille cells: 20-cell refreshable braille display
+Speech synthesizers available: None (braille and recorded audio only)
+Price at launch: $5,250 (early 1980s quote); $6,700 (1982 Braille Research Newsletter)
+Used price today (eBay): No used or eBay listing surfaced in this research pass (eBay blocks direct page checks).
 
 Physical Description:
 4.625 x 13.5 x 9.75 in.
+
+Detailed Description:
+The VersaBraille is a portable, battery-powered box about 13½ inches wide, 9¾ inches deep and 4⅝ inches tall, about the size of a large briefcase-style tape recorder. It came with a separate battery charger and power supply.
+On top is a braille keyboard of six dot keys plus a space bar, one key for each dot of the braille cell, for typing braille directly.
+The output is a 20-cell refreshable braille display, where small pins rise to form braille that changes as you move through the text.
+Built into the unit is a standard audio cassette drive. You insert a high-quality C-60 tape, and the VersaBraille formats it into electronic pages. Braille is written to the tape instead of paper, and audio can also be recorded on it.
+The shipping carton included two Maxell C-60 tapes, an earphone, an external microphone, a head-cleaning tape, a 'Master Overlay' tape, an I/O cable for connecting to a computer, and print and braille owner's manuals in two volumes.
 
 Features:
 Not documented
 
 History:
-Not documented
+Telesensory Systems introduced VersaBraille in December 1979. The APH Museum says it was the first refreshable braille device designed in the United States, inspired by Oleg Tretiakoff's Elinfa Digicassette (France, 1975–1977). A donor called it 'the first piece of computer equipment for the blind'. It stored braille on C-60 cassettes formatted into pages of 1,000 cells (about 400 pages per tape), with editing, search and an audio-recording mode. A later model added a computer interface. A Texas rehabilitation agency paid $2,500 of one $5,250 unit.
 Successors: VersaBraille II+ (Telesensory Systems (TSI), 1987)
 
 Ports:
@@ -40,5 +47,10 @@ Not documented
 
 Sources:
 Source 1: https://afb.org/aw/6/4/14611
+Source 2: https://sites.aph.org/museum-virtual-exhibit/vex2/A8918B72-511E-44D5-841D-383803736892.htm
+Source 3: https://www.duxburysystems.org/downloads/library/texas/apple/cnthesis/versabr.htm
+Source 4: https://www.duxburysystems.org/downloads/library/history/holladaytsi.htm
+Source 5: https://www.duxburysystems.org/downloads/library/history/198206xx%20Gill%20J%20M%20Clark%20L%20L%20and%20Foulke%20E%20-%20Braille%20Research%20Newsletter%20n13.pdf
+Source 6: https://aphmuseum.org/record/the-versabraille-system/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

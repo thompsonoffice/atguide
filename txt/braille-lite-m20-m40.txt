@@ -9,18 +9,25 @@ The Millennium update of the Braille Lite, sold by Freedom Scientific.
 Specs:
 Released: 2002
 Processor: Not documented
-Memory (RAM): 2 MB
-Storage: 12 MB flash
+Memory (RAM): About 2 MB
+Storage: 12 MB flash plus a CompactFlash port
 Operating system: Not documented
 Default speech synthesizer: DoubleTalk chip
 Battery: Lithium-ion; about 4-hour charge, about 30 hours of use
 Display or braille cells: 20 or 40 cells
-Speech synthesizers available: Not documented
+Speech synthesizers available: Internal speech synthesizer (Blazie/Freedom Scientific; DoubleTalk-based per earlier entry)
 Price at launch: Not documented
-Used price today (eBay): Not documented
+Used price today (eBay): No used or eBay listing surfaced in this research pass (eBay blocks direct page checks).
 
 Physical Description:
 Not documented
+
+Detailed Description:
+The Braille Lite M20 and M40 are flat, rectangular notetakers. The M20 is the shorter model with a 20-cell display, and the M40 is wider to hold a 40-cell display. Exact dimensions and weight are not documented in the sources used.
+The top surface has an eight-dot Perkins-style braille keyboard: six main dot keys plus dots 7 and 8, with a space bar between the hands. Almost every command is a 'chord', meaning the space bar pressed together with dot keys.
+Below the keyboard is the refreshable braille display. Above each braille cell is a small cursor routing button that puts the cursor at that cell when pressed. The M40 also has raised locator dots above every fifth cell to help you find your place.
+Advance bars let you move through a file one display-length at a time: press the right end to go forward and the left end to go back. The M20 has one advance bar; the M40 has two, one at each end, so you never have to lift your reading hands far. A Reverse Advance setting swaps the bar directions.
+The Millennium models added programmable Whiz Wheels, a CompactFlash card slot and a built-in modem. An Italian product database notes the 56K modem for e-mail and the side-mounted wheels for moving through documents. Speech comes from an internal synthesizer through a built-in speaker or headphones.
 
 Features:
 Programmable Whiz Wheels
@@ -29,7 +36,7 @@ CompactFlash slot
 Locator dots on the M40
 
 History:
-Not documented
+The Braille Lite M Series ('Millennium') was the last generation of Braille Lite notetakers. Freedom Scientific's manual describes a redesign with about 2 MB RAM, 12 MB flash, a CompactFlash port, a modem and programmable Whiz Wheels. The M20 has 20 cells and the M40 has 40. It supports Grade 1, Grade 2, Computer Braille and all 256 ASCII characters.
 Predecessors: Braille Lite 40 (Blazie Engineering, Summer 1996)
 
 Ports:
@@ -46,5 +53,6 @@ Sources:
 Source 1: https://www.freedomscientific.com
 Source 2: https://www.freedomscientific.com/Content/Documents/Manuals/Legacy/BrailleLiteMDocs/BrailleLitePart440013-001RevE.pdf
 Source 3: http://linux-speakup.org/pipermail/speakup/2002-May/014709.html
+Source 4: https://portale.siva.it/en-GB/databases/products/detail/id-14670
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

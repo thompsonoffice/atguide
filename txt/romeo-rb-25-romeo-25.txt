@@ -9,18 +9,25 @@ A rugged single-sided tractor-feed embosser at 25 characters per second.
 Specs:
 Released: In use by 2006 (introduction year not documented)
 Processor: Not documented
-Memory (RAM): Not documented
+Memory (RAM): 18,000-character text buffer
 Storage: Not documented
 Operating system: Not documented
 Default speech synthesizer: Not documented
 Battery: Not documented
 Display or braille cells: 40-character line, 25 characters per second, about 85 pages per hour; 6- or 8-dot braille; graphics at 12.5 or 17 DPI
-Speech synthesizers available: Not documented
-Price at launch: Not documented
-Used price today (eBay): Not documented
+Speech synthesizers available: None built in (some units have an optional 'ET Speaks' serial speech-feedback port)
+Price at launch: Romeo 25 list price not found; the related Romeo Pro 50 was $2,995 and the Romeo Attaché $2,295 on an Enabling Technologies price list
+Used price today (eBay): eBay: Enabling Technologies Romeo RB-25 listed used at US$100 or best offer plus $26 shipping (Santa Ana, CA; seen October 2026)
 
 Physical Description:
 22 x 14 x 9 inches, 32 lb.
+
+Detailed Description:
+The Romeo 25 is a medium-sized, boxy braille embosser built into a plastic carrying case with a handle, so it can be picked up and carried like a heavy suitcase. It is about 21¼ inches wide, 13¼ inches deep and 8¼ inches tall with its lid on (6 inches without it). At 32 lb (14.5 kg) it is portable but heavy.
+Paper is continuous-form, tractor-feed braille paper with sprocket holes along both edges. It runs through sprocket wheels that pull it past the print head. The paper width adjusts from 1.5 to 13.25 inches (up to 11.5 inches for braille, per a dealer), the page length from 3 to 14 inches, and it takes paper from light 20-lb computer paper up to heavy 100-lb braille paper.
+Inside, an impact print head hammers the dots up from underneath the paper, moving in both directions across the page. The dots are 0.020 inch high and 0.090 inch apart, and lines are 0.4 inch apart for 6-dot braille. It is loud while working, averaging 75 decibels, about as loud as a vacuum cleaner.
+On the back are the computer connections: a Centronics parallel port and a 9-pin serial port, and on newer units a USB port. Some units have a third serial port for 'ET Speaks', Enabling Technologies' speech feedback that announces menu settings. The embosser runs on household AC power with a fuse; there is no battery.
+A control panel with buttons lets you step through its 16 menus to change braille size, graphics resolution, number of copies and other settings. It also connects directly to braille notetakers. The rated mean time between failures is 50 million characters, and the print head lasts about 100 million characters.
 
 Features:
 Multi-copy up to 99 copies
@@ -28,7 +35,7 @@ Dynamic Braille Scaling
 Paper width 1.5 to 13.25 in
 
 History:
-Not documented
+Enabling Technologies' Romeo 25 (model RB-25) is a rugged, transportable single-sided impact embosser for students, home and office. It embosses a 40-cell Library of Congress line at 25 characters per second. Features include Dynamic Braille Scaling (Library of Congress, California sign, Jumbo, relaxed spacing and Japanese 'petite' braille), normal and high-resolution graphics, 6- or 8-dot braille, sideways printing, multiple strikes, impact control for plain paper, 16 setup menus, and Multi-Copy of up to 99 copies. It meets ENERGY STAR guidelines by entering low-power mode after three minutes. Its sibling, the Romeo Pro 50, embosses at 50 cps.
 
 Ports:
 USB, parallel, serial.
@@ -43,5 +50,9 @@ Sources:
 Source 1: https://www.yumpu.com/en/document/view/38159759/worlds-leading-manufacturer-of-braille-embossers-enabling-
 Source 2: https://cecitech.com/en/?product=romeo-25-braille-embosser
 Source 3: https://macosx.com/threads/romeo-rb25-braille-embosser.277528/
+Source 4: https://www.yumpu.com/en/document/view/6157847/romeo-25-romeo-pro-50-enabling-technologies
+Source 5: https://veterans.networkofcare.org/Riverside/AssistiveDevices/ProductDetail?productId=87366
+Source 6: https://www.yumpu.com/en/document/view/9450828/prices-and-ordering-information-enabling-technologies
+Source 7: https://www.ebay.com.au/itm/188871407318
 
 From ATGuide, https://thompsonoffice.github.io/atguide/

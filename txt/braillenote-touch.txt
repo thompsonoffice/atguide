@@ -15,8 +15,8 @@ Operating system: Android 4.4 with KeySoft
 Default speech synthesizer: Acapela (default); Android TTS engines such as Vocalizer and CereProc can be added
 Battery: 5,100 mAh, user-replaceable
 Display or braille cells: 18 or 32 cells
-Speech synthesizers available: Not documented
-Price at launch: Not documented
+Speech synthesizers available: Android text-to-speech engines (KeySoft on Android)
+Price at launch: 18 cells $3,995; 32 cells $5,495 (2016)
 Used price today (eBay): Not documented
 
 Physical Description:
@@ -48,5 +48,7 @@ Sources:
 Source 1: https://www.humanware.com/microsite/bntouch/specs.php
 Source 2: https://www.humanware.com/wp-content/uploads/2024/10/EN-UG-BNTouch-Update-4.html
 Source 3: https://groups.io/g/braillenote/topic/cereprocvoicesandothertts/80723268
+Source 4: https://blindbargains.com/bargains.php?m=14995
+Source 5: https://www.second-sense.org/2018/10/braille-notetakers/
 
 From ATGuide, https://thompsonoffice.github.io/atguide/
