@@ -1,13 +1,13 @@
 Juliet 120
 Company: Enabling Technologies (formerly Triformation Systems)
 Category: Embossers
-Released: 1992 (Juliet embosser museum record)
+Released: Introduction year not found. The Juliet 120 is a later model developed jointly with Index Braille, so the original Juliet's 1992 date does not apply to it.
 
 Overview:
 A modern Juliet at 120 characters per second.
 
 Specs:
-Released: 1992 (Juliet embosser museum record)
+Released: Introduction year not found. The Juliet 120 is a later model developed jointly with Index Braille, so the original Juliet's 1992 date does not apply to it.
 Processor: Not documented
 Memory (RAM): Not documented
 Storage: Not documented
@@ -22,11 +22,18 @@ Used price today (eBay): Not documented
 Physical Description:
 Not documented
 
+Detailed Description:
+The Juliet 120 is a desktop braille embosser about 52 cm (20.5 inches) wide, 26 cm (10.2 inches) deep and 13 cm (5.1 inches) high, and it weighs 7.6 kg (about 16.8 pounds), according to InsideVision's product sheet.
+Its control panel keys are labeled in both braille and print. They are backlit, with indicator lights, and the embosser speaks its settings in a high-quality Acapela voice.
+A motorized paper drive feeds continuous fan-fold paper. It takes paper from 120 to 180 g/m², the weight of typical braille paper, and can emboss on both sides or one side, including magazine-style layouts.
+It connects by USB, wired Ethernet, Wi-Fi or Bluetooth, and can print straight from a USB stick. A web app lets you manage it and print from a browser. The product sheet does not say where each connector sits on the case.
+InsideVision lists its noise at 80 dB(A), or 60 dB(A) with the optional sound-reducing cover, which cost €1,395 extra. The embosser stores up to 10 user profiles.
+
 Features:
 Not documented
 
 History:
-Not documented
+French dealer InsideVision describes the Romeo 60 and Juliet 120 as a pair of embossers born of a collaboration between Enabling Technologies in the US and Index Braille in Europe. It priced the Juliet 120 at €3,789 and the Romeo 60 at €3,499. The Juliet embosses double-sided at 120 characters per second, has a built-in Liblouis braille translator, and accepts print jobs from phones, tablets, USB sticks and Windows, Mac or Linux computers.
 Predecessors: Enabling Technologies Juliet (Enabling Technologies (formerly Triformation Systems), 1992)
 
 Ports:

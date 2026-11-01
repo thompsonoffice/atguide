@@ -26,7 +26,7 @@ Features:
 Not documented
 
 History:
-Not documented
+Braillo, which introduced the world's first double-sided production embosser (the Braillo 270) in January 1980, expanded its line in 1986 with the Braillo 200. Braillo describes it as a compact double-sided embosser known for its reliability and consistent braille quality.
 Predecessors: Braillo 270 (Braillo, January 1980)
 
 Ports:
